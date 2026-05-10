@@ -4641,11 +4641,11 @@
   },
   {
     "char": "復",
-    "yum": "부",
+    "yum": "복",
     "meaning": "돌아올복,다시부",
     "level": "4",
     "image": "assets/hanja/4/復.webp",
-    "hun": "돌아올복,다시"
+    "hun": "돌아올"
   },
   {
     "char": "副",
@@ -4729,11 +4729,11 @@
   },
   {
     "char": "寺",
-    "yum": "시",
+    "yum": "사",
     "meaning": "절사,내관시",
     "level": "4",
     "image": "assets/hanja/4/寺.webp",
-    "hun": "절사,내관"
+    "hun": "절"
   },
   {
     "char": "師",
@@ -4761,11 +4761,11 @@
   },
   {
     "char": "殺",
-    "yum": "쇄",
+    "yum": "살",
     "meaning": "죽일살,빠를쇄",
     "level": "4",
     "image": "assets/hanja/4/殺.webp",
-    "hun": "죽일살,빠를"
+    "hun": "죽일"
   },
   {
     "char": "常",
@@ -4793,11 +4793,11 @@
   },
   {
     "char": "狀",
-    "yum": "장",
+    "yum": "상",
     "meaning": "형상상,문서장",
     "level": "4",
     "image": "assets/hanja/4/狀.webp",
-    "hun": "형상상,문서"
+    "hun": "형상"
   },
   {
     "char": "設",
@@ -5785,11 +5785,11 @@
   },
   {
     "char": "布",
-    "yum": "보",
+    "yum": "포",
     "meaning": "펼포,보시보",
     "level": "4",
     "image": "assets/hanja/4/布.webp",
-    "hun": "펼포,보시"
+    "hun": "펼"
   },
   {
     "char": "砲",
@@ -6073,11 +6073,11 @@
   },
   {
     "char": "降",
-    "yum": "항",
+    "yum": "강",
     "meaning": "내릴강,항복할항",
     "level": "4",
     "image": "assets/hanja/4/降.webp",
-    "hun": "내릴강,항복할"
+    "hun": "내릴"
   },
   {
     "char": "居",
@@ -6169,11 +6169,11 @@
   },
   {
     "char": "更",
-    "yum": "경",
+    "yum": "갱",
     "meaning": "다시갱,고칠경",
     "level": "4",
     "image": "assets/hanja/4/更.webp",
-    "hun": "다시갱,고칠"
+    "hun": "다시"
   },
   {
     "char": "鏡",
@@ -6945,11 +6945,11 @@
   },
   {
     "char": "易",
-    "yum": "이",
+    "yum": "역",
     "meaning": "바꿀역,쉬울이",
     "level": "4",
     "image": "assets/hanja/4/易.webp",
-    "hun": "바꿀역,쉬울"
+    "hun": "바꿀"
   },
   {
     "char": "延",
@@ -7545,11 +7545,11 @@
   },
   {
     "char": "差",
-    "yum": "치",
+    "yum": "차",
     "meaning": "다를차,어긋날치",
     "level": "4",
     "image": "assets/hanja/4/差.webp",
-    "hun": "다를차,어긋날"
+    "hun": "다를"
   },
   {
     "char": "讚",
