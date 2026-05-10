@@ -1766,11 +1766,11 @@
   {
     "char": "樂",
     "yum": "락",
-    "meaning": "즐길 락",
+    "meaning": "즐길락,노래악,좋아할요",
     "level": "6",
     "image": "assets/hanja/6/樂.webp",
     "hun": "즐길",
-    "label": "즐길 - 락"
+    "label": "즐길 - 락 / 노래 - 악 / 좋아할 - 요"
   },
   {
     "char": "弱",
@@ -2153,11 +2153,11 @@
   {
     "char": "度",
     "yum": "도",
-    "meaning": "법도 도",
+    "meaning": "법도,헤아릴탁",
     "level": "6",
     "image": "assets/hanja/6/度.webp",
-    "hun": "법도",
-    "label": "법도 - 도"
+    "hun": "법",
+    "label": "법 - 도 / 헤아릴 - 탁"
   },
   {
     "char": "頭",
