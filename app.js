@@ -1,4 +1,4 @@
-// quiz-for-kids — 탭 라우팅 + 한자 퀴즈 로직.
+// quiz-for-kids — 탭 라우팅 + 한자 무한 퀴즈.
 
 // ── 탭 라우팅 ──
 function activateTab(name) {
@@ -16,19 +16,22 @@ document.querySelectorAll('.tab-item').forEach(btn => {
   btn.addEventListener('click', () => activateTab(btn.dataset.tab));
 });
 
-// ── 한자 퀴즈 ──
+// ── 한자 무한 퀴즈 ──
 const Hanja = (() => {
-  const QUESTIONS_PER_ROUND = 10;
-  const stage = document.getElementById('hanja-stage');
-  const progressEl = document.getElementById('hanja-progress');
-  const scoreEl = document.getElementById('hanja-score');
+  const FADE_MS = 300;
+  const NEXT_DELAY_CORRECT = 600;
+  const NEXT_DELAY_WRONG = 1200;
 
-  let allItems = [];          // hanja.json 전체
-  let currentLevel = '7';     // 7 | 6 | 5 | all
-  let queue = [];             // 이번 라운드 출제 순서
-  let index = 0;              // 현재 문제 인덱스
-  let score = 0;
-  let locked = false;         // 클릭 후 다음으로 넘어가는 동안 잠금
+  const stage = document.getElementById('hanja-stage');
+  const correctEl = document.getElementById('hanja-correct');
+  const attemptsEl = document.getElementById('hanja-attempts');
+
+  let allItems = [];
+  let currentLevel = '7';
+  let lastChar = null;       // 직전 문제 한자 (연속 출제 방지)
+  let correctCount = 0;
+  let attemptsCount = 0;
+  let locked = false;
 
   function shuffle(arr) {
     const a = arr.slice();
@@ -45,8 +48,16 @@ const Hanja = (() => {
       : allItems.filter(it => it.level === level);
   }
 
+  function pickQuestion() {
+    const pool = poolForLevel(currentLevel);
+    if (pool.length === 0) return null;
+    const candidates = pool.length > 1
+      ? pool.filter(it => it.char !== lastChar)
+      : pool;
+    return candidates[Math.floor(Math.random() * candidates.length)];
+  }
+
   function buildChoices(correct) {
-    // 같은 레벨에서 오답 2개. 부족하면 전체 풀에서 보충.
     const samePool = allItems.filter(it => it.level === correct.level && it.char !== correct.char);
     const fallbackPool = allItems.filter(it => it.char !== correct.char);
     const pickFrom = samePool.length >= 2 ? samePool : fallbackPool;
@@ -54,19 +65,19 @@ const Hanja = (() => {
     return shuffle([correct, ...wrongs]);
   }
 
-  function updateStatus() {
-    const total = queue.length;
-    const human = Math.min(index + 1, total);
-    progressEl.textContent = total > 0 ? `${human} / ${total}` : '0 / 0';
-    scoreEl.textContent = String(score);
+  function updateScore() {
+    correctEl.textContent = String(correctCount);
+    attemptsEl.textContent = String(attemptsCount);
   }
 
   function renderQuestion() {
-    if (index >= queue.length) {
-      renderResult();
+    const q = pickQuestion();
+    if (!q) {
+      stage.classList.remove('fading');
+      stage.innerHTML = `<div class="hanja-empty">이 급수에 등록된 한자가 아직 없어요.</div>`;
       return;
     }
-    const q = queue[index];
+    lastChar = q.char;
     const choices = buildChoices(q);
     locked = false;
 
@@ -91,13 +102,15 @@ const Hanja = (() => {
       btn.innerHTML = `
         <span class="hanja-choice-label">${labels[i]}</span>
         <span class="hanja-choice-text">${c.yum} / ${c.meaning}</span>
+        <span class="hanja-choice-mark" aria-hidden="true">✓</span>
       `;
       btn.addEventListener('click', () => onChoiceClick(btn, c, q, choicesEl));
       choicesEl.appendChild(btn);
     });
     stage.appendChild(choicesEl);
 
-    updateStatus();
+    // fade-in
+    requestAnimationFrame(() => stage.classList.remove('fading'));
   }
 
   function onChoiceClick(btn, picked, correct, choicesEl) {
@@ -108,70 +121,56 @@ const Hanja = (() => {
     allBtns.forEach(b => { b.disabled = true; });
 
     const isCorrect = picked.char === correct.char;
+    attemptsCount += 1;
+
     if (isCorrect) {
       btn.classList.add('correct');
-      score += 1;
-      scoreEl.textContent = String(score);
-      setTimeout(advance, 800);
+      allBtns.forEach(b => { if (b !== btn) b.classList.add('dim'); });
+      correctCount += 1;
+      updateScore();
+      scheduleAdvance(NEXT_DELAY_CORRECT);
     } else {
       btn.classList.add('wrong');
       allBtns.forEach(b => {
         if (b.dataset.char === correct.char) b.classList.add('correct');
         else if (b !== btn) b.classList.add('dim');
       });
-      setTimeout(advance, 1500);
+      updateScore();
+      scheduleAdvance(NEXT_DELAY_WRONG);
     }
   }
 
-  function advance() {
-    index += 1;
-    renderQuestion();
+  function scheduleAdvance(delay) {
+    setTimeout(() => {
+      stage.classList.add('fading');
+      setTimeout(renderQuestion, FADE_MS);
+    }, delay);
   }
 
-  function renderResult() {
-    const total = queue.length;
-    stage.innerHTML = `
-      <div class="hanja-result">
-        <div class="hanja-result-title">잘 했어요!</div>
-        <div class="hanja-result-score">
-          ${score}<span class="hanja-result-total"> / ${total}</span>
-        </div>
-        <button class="hanja-restart-btn" type="button" id="hanja-restart">다시 시작</button>
-      </div>
-    `;
-    document.getElementById('hanja-restart').addEventListener('click', startRound);
-    progressEl.textContent = `${total} / ${total}`;
-  }
-
-  function startRound() {
-    const pool = poolForLevel(currentLevel);
-    if (pool.length === 0) {
-      stage.innerHTML = `<div class="hanja-empty">이 급수에 등록된 한자가 아직 없어요.</div>`;
-      queue = [];
-      index = 0;
-      score = 0;
-      updateStatus();
-      return;
-    }
-    score = 0;
-    index = 0;
-    queue = shuffle(pool).slice(0, Math.min(QUESTIONS_PER_ROUND, pool.length));
-    renderQuestion();
+  function restart() {
+    lastChar = null;
+    correctCount = 0;
+    attemptsCount = 0;
+    updateScore();
+    stage.classList.add('fading');
+    setTimeout(renderQuestion, FADE_MS);
   }
 
   function bindLevelChips() {
     document.querySelectorAll('.hanja-chip').forEach(chip => {
       chip.addEventListener('click', () => {
+        if (chip.classList.contains('active')) return;
         document.querySelectorAll('.hanja-chip').forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
         currentLevel = chip.dataset.level;
-        startRound();
+        restart();
       });
     });
   }
 
   async function init() {
     bindLevelChips();
+    updateScore();
     try {
       const res = await fetch('data/hanja.json', { cache: 'no-cache' });
       allItems = await res.json();
@@ -179,7 +178,7 @@ const Hanja = (() => {
       stage.innerHTML = `<div class="hanja-empty">한자 데이터를 불러오지 못했어요.<br><small>${e.message}</small></div>`;
       return;
     }
-    startRound();
+    renderQuestion();
   }
 
   return { init };
