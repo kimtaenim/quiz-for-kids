@@ -87,14 +87,18 @@ button { font-family: inherit; }
   margin: 0 auto;
 }
 
-/* 상태 바 */
+/* 상태 바 — 모든 viewport에서 한 줄 강제 (좁으면 가로 스크롤) */
 .hanja-status-bar {
   display: flex;
   align-items: center;
   gap: 10px;
   padding: 10px 4px 14px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
 }
+.hanja-status-bar::-webkit-scrollbar { display: none; }
 .hanja-score {
   display: inline-flex;
   align-items: center;
@@ -102,6 +106,7 @@ button { font-family: inherit; }
   font-size: 17px;
   font-weight: 800;
   white-space: nowrap;
+  flex-shrink: 0;
 }
 .hanja-score > * { white-space: nowrap; }
 .score-correct { color: var(--correct); }
@@ -133,6 +138,7 @@ button { font-family: inherit; }
   gap: 6px;
   margin-left: auto;
   flex-wrap: nowrap;
+  flex-shrink: 0;
 }
 .hanja-chip {
   padding: 5px 11px;
