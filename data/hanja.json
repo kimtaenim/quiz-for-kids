@@ -1,0 +1,8 @@
+[
+  { "char": "山", "yum": "산", "meaning": "산 산", "level": "7", "image": "assets/hanja/7/01_san.png" },
+  { "char": "木", "yum": "목", "meaning": "나무 목", "level": "7", "image": "assets/hanja/7/02_mok.png" },
+  { "char": "親", "yum": "친", "meaning": "친할 친", "level": "6", "image": "assets/hanja/6/03_chin.png" },
+  { "char": "春", "yum": "춘", "meaning": "봄 춘", "level": "6", "image": "assets/hanja/6/04_chun.png" },
+  { "char": "自", "yum": "자", "meaning": "스스로 자", "level": "5", "image": "assets/hanja/5/05_ja.png" },
+  { "char": "客", "yum": "객", "meaning": "손 객", "level": "5", "image": "assets/hanja/5/06_gaek.png" }
+]

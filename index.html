@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>퀴즈 for kids</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <div class="logo">퀴즈 for kids</div>
+  </header>
+
+  <nav class="tab-bar" role="tablist">
+    <button class="tab-item active" data-tab="multiplication" role="tab" aria-selected="true">구구단</button>
+    <button class="tab-item" data-tab="hanja" role="tab" aria-selected="false">한자</button>
+  </nav>
+
+  <main class="view-area">
+
+    <!-- ── 구구단 탭 ── -->
+    <section class="view multiplication-view active" id="view-multiplication">
+      <div class="mult-signature">
+        <small>구. 구. 단. 퀴. 즈.</small>
+      </div>
+
+      <h1 class="mult-quiz">
+        <span id="mult-quiz-text"></span>
+      </h1>
+
+      <div class="mult-image-container" id="mult-delay1">
+        <img src="assets/multiplication/multiplication.jpeg" alt="아이콘" id="mult-hint">
+      </div>
+
+      <div class="mult-description">
+        <button id="mult-next-btn" type="button">완 전 잘 해 요 !!</button>
+      </div>
+
+      <div class="mult-answers" id="mult-delay2">
+        <h2><span id="mult-answer"></span></h2>
+      </div>
+
+      <div class="mult-credit">
+        <h5>( images from ideogram.ai )</h5>
+      </div>
+    </section>
+
+    <!-- ── 한자 탭 ── -->
+    <section class="view hanja-view" id="view-hanja">
+
+      <div class="hanja-status-bar">
+        <div class="hanja-progress">
+          <span id="hanja-progress">0 / 0</span>
+        </div>
+        <div class="hanja-score">
+          <span class="hanja-star">★</span>
+          <span id="hanja-score">0</span>
+        </div>
+        <div class="hanja-level-chips" role="tablist" aria-label="급수 선택">
+          <button class="hanja-chip active" data-level="7" type="button">7급</button>
+          <button class="hanja-chip" data-level="6" type="button">6급</button>
+          <button class="hanja-chip" data-level="5" type="button">5급</button>
+          <button class="hanja-chip" data-level="all" type="button">전체</button>
+        </div>
+      </div>
+
+      <div class="hanja-stage" id="hanja-stage">
+        <!-- 동적 -->
+      </div>
+
+    </section>
+
+  </main>
+
+  <script src="multiplication.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
