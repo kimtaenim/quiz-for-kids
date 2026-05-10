@@ -108,6 +108,9 @@ const Hanja = (() => {
       btn.type = 'button';
       btn.className = 'hanja-choice';
       btn.dataset.char = c.char;
+      // 명시적 reset: 어떤 잔존 inline 스타일도 차단
+      btn.style.borderColor = '';
+      btn.style.background = '';
       btn.innerHTML = `
         <span class="hanja-choice-label">${labels[i]}</span>
         <span class="hanja-choice-text">${c.hun} - ${c.yum}</span>

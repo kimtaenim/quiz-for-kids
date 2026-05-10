@@ -231,7 +231,11 @@ button { font-family: inherit; }
   transition: background 0.2s, border-color 0.2s, opacity 0.2s, color 0.2s;
 }
 .hanja-choice:focus { outline: none; }
-.hanja-choice:focus-visible { outline: 2px solid var(--accent-coral); outline-offset: 2px; }
+.hanja-choice:focus-visible { outline: 2px solid #999; outline-offset: 2px; }
+/* iOS Safari: tap highlight 회색 */
+.hanja-choice { -webkit-tap-highlight-color: transparent; }
+.hanja-chip { -webkit-tap-highlight-color: transparent; }
+.hanja-restart { -webkit-tap-highlight-color: transparent; }
 @media (hover: hover) and (pointer: fine) {
   .hanja-choice:hover:not(:disabled) {
     border-color: var(--accent-coral);
