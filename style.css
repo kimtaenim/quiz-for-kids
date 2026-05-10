@@ -3,7 +3,7 @@
   --header-bg: #B8F0E0;
   --accent-coral: #FFB3B3;
   --correct: #00C9A7;
-  --wrong: #E53935;
+  --wrong: #C0C0C0;
   --bg: #FFFFFF;
   --text-dark: #1A2744;
   --text-sub: #6C757D;
@@ -282,12 +282,26 @@ button { font-family: inherit; }
 
 .hanja-choice.wrong {
   border-color: var(--wrong);
-  background: #FFEBEE;
-  color: #C62828;
+  background: #f4f4f4;
+  color: #999;
 }
 .hanja-choice.wrong .hanja-choice-label {
   background: var(--wrong);
   color: white;
+}
+/* 오답 클릭 시 정답 button 강조 (사용자에게 정답 보여줌) — 코랄핑크 빨강 */
+.hanja-choice.correct-reveal {
+  border-color: #FF6B6B;
+  background: #FFE5E5;
+  color: #C62828;
+}
+.hanja-choice.correct-reveal .hanja-choice-label {
+  background: #FF6B6B;
+  color: white;
+}
+.hanja-choice.correct-reveal .hanja-choice-mark {
+  opacity: 1;
+  color: #FF6B6B;
 }
 .hanja-choice.dim { opacity: 0.35; }
 

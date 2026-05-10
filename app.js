@@ -76,7 +76,7 @@ const Hanja = (() => {
       document.activeElement.blur();
     }
     stage.querySelectorAll('.hanja-choice').forEach(b => {
-      b.classList.remove('correct', 'wrong', 'dim');
+      b.classList.remove('correct', 'correct-reveal', 'wrong', 'dim');
       b.disabled = false;
     });
 
@@ -143,7 +143,7 @@ const Hanja = (() => {
     } else {
       btn.classList.add('wrong');
       allBtns.forEach(b => {
-        if (b.dataset.char === correct.char) b.classList.add('correct');
+        if (b.dataset.char === correct.char) b.classList.add('correct-reveal');
         else if (b !== btn) b.classList.add('dim');
       });
       wrongCount += 1;
