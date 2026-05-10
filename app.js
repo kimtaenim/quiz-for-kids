@@ -71,6 +71,15 @@ const Hanja = (() => {
   }
 
   function renderQuestion() {
+    // 방어: 직전 문제의 정답 강조 / focus 잔상 제거
+    if (document.activeElement && typeof document.activeElement.blur === 'function') {
+      document.activeElement.blur();
+    }
+    stage.querySelectorAll('.hanja-choice').forEach(b => {
+      b.classList.remove('correct', 'wrong', 'dim');
+      b.disabled = false;
+    });
+
     const q = pickQuestion();
     if (!q) {
       stage.classList.remove('fading');

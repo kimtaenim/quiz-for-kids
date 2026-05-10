@@ -226,6 +226,8 @@ button { font-family: inherit; }
   font-family: inherit;
   transition: background 0.2s, border-color 0.2s, opacity 0.2s, color 0.2s;
 }
+.hanja-choice:focus { outline: none; }
+.hanja-choice:focus-visible { outline: 2px solid var(--accent-coral); outline-offset: 2px; }
 .hanja-choice:hover:not(:disabled) {
   border-color: var(--accent-coral);
   background: #fffafa;
