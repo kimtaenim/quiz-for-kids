@@ -1,14 +1,14 @@
 /* ── 변수 & 베이스 ── */
 :root {
-  --main-pink: #F8B7CD;
-  --main-lime: #B8E994;
-  --correct: #A8E6CF;
-  --accent: #FF8FB1;
-  --bg: #FFF5F8;
-  --border: #F8D7E2;
-  --text-dark: #2D3047;
+  --header-bg: #B8F0E0;
+  --accent-coral: #FFB3B3;
+  --correct: #00C9A7;
+  --wrong: #C0C0C0;
+  --bg: #FFFFFF;
+  --text-dark: #1A2744;
   --text-sub: #6C757D;
-  --dim: #E8E8E8;
+  --border: #D8F0E5;
+  --chip-bg: #F0FBF7;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -29,7 +29,7 @@ button { font-family: inherit; }
 
 /* ── 공통 헤더 / 탭바 ── */
 .app-header {
-  background: var(--main-pink);
+  background: var(--header-bg);
   padding: 10px 20px;
   display: flex;
   align-items: center;
@@ -43,7 +43,7 @@ button { font-family: inherit; }
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.55);
+  background: rgba(255, 255, 255, 0.6);
 }
 
 .tab-bar {
@@ -67,7 +67,7 @@ button { font-family: inherit; }
 .tab-item:hover { color: var(--text-dark); }
 .tab-item.active {
   color: var(--text-dark);
-  border-bottom-color: var(--main-pink);
+  border-bottom-color: var(--accent-coral);
 }
 
 /* ── 본문 영역 ── */
@@ -76,7 +76,7 @@ button { font-family: inherit; }
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
 }
-.view { display: none; padding: 20px 16px 80px; }
+.view { display: none; padding: 16px 16px 80px; }
 .view.active { display: block; }
 
 /* ──────────────────────────── */
@@ -91,24 +91,20 @@ button { font-family: inherit; }
 .hanja-status-bar {
   display: flex;
   align-items: center;
-  gap: 14px;
-  padding: 12px 4px 18px;
+  gap: 10px;
+  padding: 10px 4px 14px;
   flex-wrap: wrap;
 }
 .hanja-score {
   display: inline-flex;
-  align-items: baseline;
-  gap: 4px;
-  font-size: 18px;
+  align-items: center;
+  gap: 12px;
+  font-size: 17px;
   font-weight: 800;
-  color: var(--text-dark);
 }
-.hanja-score-sep {
-  color: var(--text-sub);
-  font-weight: 700;
-  margin: 0 2px;
-}
-#hanja-attempts { color: var(--text-sub); font-weight: 700; }
+.score-correct { color: var(--correct); }
+.score-wrong { color: #999; }
+
 .hanja-level-chips {
   display: flex;
   gap: 6px;
@@ -116,20 +112,20 @@ button { font-family: inherit; }
   flex-wrap: wrap;
 }
 .hanja-chip {
-  padding: 6px 12px;
-  background: white;
+  padding: 5px 11px;
+  background: var(--chip-bg);
   border: 2px solid var(--border);
   border-radius: 999px;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 700;
   color: var(--text-sub);
   cursor: pointer;
   transition: background 0.15s, border-color 0.15s, color 0.15s;
 }
-.hanja-chip:hover { border-color: var(--main-pink); color: var(--text-dark); }
+.hanja-chip:hover { border-color: var(--accent-coral); color: var(--text-dark); }
 .hanja-chip.active {
-  background: var(--main-pink);
-  border-color: var(--main-pink);
+  background: var(--accent-coral);
+  border-color: var(--accent-coral);
   color: var(--text-dark);
 }
 
@@ -141,12 +137,12 @@ button { font-family: inherit; }
 .hanja-stage.fading { opacity: 0; }
 
 .hanja-image-wrap {
-  width: 70vw;
-  max-width: 480px;
+  width: 200px;
+  max-width: 200px;
   aspect-ratio: 1 / 1;
-  margin: 0 auto 20px;
+  margin: 0 auto 18px;
   background: white;
-  border-radius: 18px;
+  border-radius: 16px;
   border: 2px solid var(--border);
   overflow: hidden;
   display: flex;
@@ -163,19 +159,19 @@ button { font-family: inherit; }
 .hanja-choices {
   display: flex;
   flex-direction: column;
-  gap: 12px;
-  max-width: 480px;
+  gap: 8px;
+  max-width: 320px;
   margin: 0 auto;
 }
 .hanja-choice {
   display: flex;
   align-items: center;
-  gap: 14px;
-  padding: 16px 18px;
+  gap: 10px;
+  padding: 10px 14px;
   background: white;
-  border: 3px solid var(--border);
-  border-radius: 14px;
-  font-size: 20px;
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  font-size: 14px;
   font-weight: 700;
   color: var(--text-dark);
   cursor: pointer;
@@ -184,8 +180,8 @@ button { font-family: inherit; }
   transition: background 0.2s, border-color 0.2s, opacity 0.2s, color 0.2s;
 }
 .hanja-choice:hover:not(:disabled) {
-  border-color: var(--main-pink);
-  background: #fff8fb;
+  border-color: var(--accent-coral);
+  background: #fffafa;
 }
 .hanja-choice:disabled { cursor: default; }
 
@@ -193,46 +189,46 @@ button { font-family: inherit; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
+  width: 22px;
+  height: 22px;
   border-radius: 50%;
-  background: var(--main-pink);
+  background: var(--accent-coral);
   color: white;
-  font-size: 18px;
+  font-size: 13px;
   font-weight: 900;
   flex-shrink: 0;
   transition: background 0.2s;
 }
-.hanja-choice-text { font-size: 19px; flex: 1; }
+.hanja-choice-text { font-size: 15px; flex: 1; }
 .hanja-choice-mark {
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 900;
-  color: var(--text-dark);
+  color: white;
   opacity: 0;
   transition: opacity 0.2s;
-  width: 22px;
+  width: 18px;
   text-align: center;
 }
 
 .hanja-choice.correct {
   border-color: var(--correct);
   background: var(--correct);
-  color: var(--text-dark);
+  color: white;
 }
 .hanja-choice.correct .hanja-choice-label {
   background: white;
-  color: var(--text-dark);
+  color: var(--correct);
 }
 .hanja-choice.correct .hanja-choice-mark { opacity: 1; }
 
 .hanja-choice.wrong {
-  border-color: var(--dim);
+  border-color: var(--wrong);
   background: #f4f4f4;
   color: #aaa;
 }
 .hanja-choice.wrong .hanja-choice-label {
-  background: var(--dim);
-  color: #888;
+  background: var(--wrong);
+  color: white;
 }
 .hanja-choice.dim { opacity: 0.35; }
 
@@ -312,7 +308,6 @@ button { font-family: inherit; }
   margin-top: 24px;
 }
 
-/* fade-in (원본은 35s/30s — 같은 의도로 답을 천천히 보여주기) */
 .multiplication-view #mult-delay1 {
   animation: mult-fadein 35s;
 }
@@ -329,9 +324,8 @@ button { font-family: inherit; }
   body { font-size: 17px; }
   .app-header { padding: 8px 16px; min-height: 40px; }
   .tab-item { font-size: 16px; padding: 12px 10px; }
-  .view { padding: 16px 12px 80px; }
-  .hanja-image-wrap { width: 80vw; }
-  .hanja-choice { padding: 14px 16px; font-size: 18px; }
+  .view { padding: 12px 12px 80px; }
+  .hanja-image-wrap { width: 200px; }
   .multiplication-view .mult-quiz { font-size: 32px; }
   .multiplication-view .mult-answers h2 { font-size: 30px; }
 }

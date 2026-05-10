@@ -24,13 +24,13 @@ const Hanja = (() => {
 
   const stage = document.getElementById('hanja-stage');
   const correctEl = document.getElementById('hanja-correct');
-  const attemptsEl = document.getElementById('hanja-attempts');
+  const wrongEl = document.getElementById('hanja-wrong');
 
   let allItems = [];
   let currentLevel = '7';
   let lastChar = null;       // 직전 문제 한자 (연속 출제 방지)
   let correctCount = 0;
-  let attemptsCount = 0;
+  let wrongCount = 0;
   let locked = false;
 
   function shuffle(arr) {
@@ -67,7 +67,7 @@ const Hanja = (() => {
 
   function updateScore() {
     correctEl.textContent = String(correctCount);
-    attemptsEl.textContent = String(attemptsCount);
+    wrongEl.textContent = String(wrongCount);
   }
 
   function renderQuestion() {
@@ -121,7 +121,6 @@ const Hanja = (() => {
     allBtns.forEach(b => { b.disabled = true; });
 
     const isCorrect = picked.char === correct.char;
-    attemptsCount += 1;
 
     if (isCorrect) {
       btn.classList.add('correct');
@@ -135,6 +134,7 @@ const Hanja = (() => {
         if (b.dataset.char === correct.char) b.classList.add('correct');
         else if (b !== btn) b.classList.add('dim');
       });
+      wrongCount += 1;
       updateScore();
       scheduleAdvance(NEXT_DELAY_WRONG);
     }
@@ -150,7 +150,7 @@ const Hanja = (() => {
   function restart() {
     lastChar = null;
     correctCount = 0;
-    attemptsCount = 0;
+    wrongCount = 0;
     updateScore();
     stage.classList.add('fading');
     setTimeout(renderQuestion, FADE_MS);
