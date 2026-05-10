@@ -101,7 +101,9 @@ button { font-family: inherit; }
   gap: 12px;
   font-size: 17px;
   font-weight: 800;
+  white-space: nowrap;
 }
+.hanja-score > * { white-space: nowrap; }
 .score-correct { color: var(--correct); }
 .score-wrong { color: #999; }
 
@@ -116,6 +118,7 @@ button { font-family: inherit; }
   color: var(--text-mid, #555);
   cursor: pointer;
   transition: border-color .15s, color .15s, background .15s;
+  white-space: nowrap;
 }
 .hanja-restart:hover {
   border-color: var(--accent-coral);
@@ -129,7 +132,7 @@ button { font-family: inherit; }
   display: flex;
   gap: 6px;
   margin-left: auto;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 .hanja-chip {
   padding: 5px 11px;
@@ -141,6 +144,24 @@ button { font-family: inherit; }
   color: var(--text-sub);
   cursor: pointer;
   transition: background 0.15s, border-color 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+/* 모바일에서도 한 줄 유지 */
+.hanja-status-bar { flex-wrap: nowrap; }
+@media (max-width: 600px) {
+  .hanja-status-bar { gap: 6px; padding: 8px 4px 12px; }
+  .hanja-score { gap: 6px; font-size: 14px; }
+  .hanja-restart { margin-left: 4px; padding: 3px 7px; font-size: 11px; }
+  .hanja-level-chips { gap: 3px; }
+  .hanja-chip { padding: 4px 7px; font-size: 11px; border-width: 1.5px; }
+}
+@media (max-width: 380px) {
+  .hanja-chip { padding: 3px 6px; font-size: 10px; }
+  .hanja-restart { font-size: 10px; padding: 3px 6px; }
+  /* 매우 좁은 화면(<380px)은 가로 스크롤 허용해서 한 줄 유지 */
+  .hanja-status-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  .hanja-status-bar::-webkit-scrollbar { display: none; }
 }
 .hanja-chip:hover { border-color: var(--accent-coral); color: var(--text-dark); }
 .hanja-chip.active {
@@ -157,8 +178,8 @@ button { font-family: inherit; }
 .hanja-stage.fading { opacity: 0; }
 
 .hanja-image-wrap {
-  width: 200px;
-  max-width: 200px;
+  width: 250px;
+  max-width: 250px;
   aspect-ratio: 1 / 1;
   margin: 0 auto 18px;
   background: white;
@@ -345,7 +366,7 @@ button { font-family: inherit; }
   .app-header { padding: 8px 16px; min-height: 40px; }
   .tab-item { font-size: 16px; padding: 12px 10px; }
   .view { padding: 12px 12px 80px; }
-  .hanja-image-wrap { width: 200px; }
+  .hanja-image-wrap { width: 250px; }
   .multiplication-view .mult-quiz { font-size: 32px; }
   .multiplication-view .mult-answers h2 { font-size: 30px; }
 }
