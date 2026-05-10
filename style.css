@@ -125,9 +125,11 @@ button { font-family: inherit; }
   transition: border-color .15s, color .15s, background .15s;
   white-space: nowrap;
 }
-.hanja-restart:hover {
-  border-color: var(--accent-coral);
-  color: var(--text-dark, #222);
+@media (hover: hover) and (pointer: fine) {
+  .hanja-restart:hover {
+    border-color: var(--accent-coral);
+    color: var(--text-dark, #222);
+  }
 }
 .hanja-restart:active {
   background: rgba(0,0,0,0.04);
@@ -169,7 +171,9 @@ button { font-family: inherit; }
   .hanja-status-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
   .hanja-status-bar::-webkit-scrollbar { display: none; }
 }
-.hanja-chip:hover { border-color: var(--accent-coral); color: var(--text-dark); }
+@media (hover: hover) and (pointer: fine) {
+  .hanja-chip:hover { border-color: var(--accent-coral); color: var(--text-dark); }
+}
 .hanja-chip.active {
   background: var(--accent-coral);
   border-color: var(--accent-coral);
@@ -228,9 +232,11 @@ button { font-family: inherit; }
 }
 .hanja-choice:focus { outline: none; }
 .hanja-choice:focus-visible { outline: 2px solid var(--accent-coral); outline-offset: 2px; }
-.hanja-choice:hover:not(:disabled) {
-  border-color: var(--accent-coral);
-  background: #fffafa;
+@media (hover: hover) and (pointer: fine) {
+  .hanja-choice:hover:not(:disabled) {
+    border-color: var(--accent-coral);
+    background: #fffafa;
+  }
 }
 .hanja-choice:disabled { cursor: default; }
 
