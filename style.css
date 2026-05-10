@@ -3,7 +3,7 @@
   --header-bg: #B8F0E0;
   --accent-coral: #FFB3B3;
   --correct: #00C9A7;
-  --wrong: #C0C0C0;
+  --wrong: #E53935;
   --bg: #FFFFFF;
   --text-dark: #1A2744;
   --text-sub: #6C757D;
@@ -282,8 +282,8 @@ button { font-family: inherit; }
 
 .hanja-choice.wrong {
   border-color: var(--wrong);
-  background: #f4f4f4;
-  color: #aaa;
+  background: #FFEBEE;
+  color: #C62828;
 }
 .hanja-choice.wrong .hanja-choice-label {
   background: var(--wrong);
