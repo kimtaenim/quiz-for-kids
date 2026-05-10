@@ -1,8 +1,8002 @@
 [
-  { "char": "山", "yum": "산", "meaning": "산 산", "level": "7", "image": "assets/hanja/7/01_san.webp" },
-  { "char": "木", "yum": "목", "meaning": "나무 목", "level": "7", "image": "assets/hanja/7/02_mok.webp" },
-  { "char": "親", "yum": "친", "meaning": "친할 친", "level": "6", "image": "assets/hanja/6/03_chin.webp" },
-  { "char": "春", "yum": "춘", "meaning": "봄 춘", "level": "6", "image": "assets/hanja/6/04_chun.webp" },
-  { "char": "自", "yum": "자", "meaning": "스스로 자", "level": "5", "image": "assets/hanja/5/05_ja.webp" },
-  { "char": "客", "yum": "객", "meaning": "손 객", "level": "5", "image": "assets/hanja/5/06_gaek.webp" }
+  {
+    "char": "敎",
+    "yum": "교",
+    "meaning": "가르칠 교",
+    "level": "8",
+    "image": "assets/hanja/8/敎.webp",
+    "hun": "가르칠"
+  },
+  {
+    "char": "校",
+    "yum": "교",
+    "meaning": "학교 교",
+    "level": "8",
+    "image": "assets/hanja/8/校.webp",
+    "hun": "학교"
+  },
+  {
+    "char": "九",
+    "yum": "구",
+    "meaning": "아홉 구",
+    "level": "8",
+    "image": "assets/hanja/8/九.webp",
+    "hun": "아홉"
+  },
+  {
+    "char": "國",
+    "yum": "국",
+    "meaning": "나라 국",
+    "level": "8",
+    "image": "assets/hanja/8/國.webp",
+    "hun": "나라"
+  },
+  {
+    "char": "軍",
+    "yum": "군",
+    "meaning": "군사 군",
+    "level": "8",
+    "image": "assets/hanja/8/軍.webp",
+    "hun": "군사"
+  },
+  {
+    "char": "金",
+    "yum": "금",
+    "meaning": "쇠 금",
+    "level": "8",
+    "image": "assets/hanja/8/金.webp",
+    "hun": "쇠"
+  },
+  {
+    "char": "南",
+    "yum": "남",
+    "meaning": "남녘 남",
+    "level": "8",
+    "image": "assets/hanja/8/南.webp",
+    "hun": "남녘"
+  },
+  {
+    "char": "女",
+    "yum": "녀",
+    "meaning": "여자 녀",
+    "level": "8",
+    "image": "assets/hanja/8/女.webp",
+    "hun": "여자"
+  },
+  {
+    "char": "年",
+    "yum": "년",
+    "meaning": "해 년",
+    "level": "8",
+    "image": "assets/hanja/8/年.webp",
+    "hun": "해"
+  },
+  {
+    "char": "大",
+    "yum": "대",
+    "meaning": "큰 대",
+    "level": "8",
+    "image": "assets/hanja/8/大.webp",
+    "hun": "큰"
+  },
+  {
+    "char": "東",
+    "yum": "동",
+    "meaning": "동녘 동",
+    "level": "8",
+    "image": "assets/hanja/8/東.webp",
+    "hun": "동녘"
+  },
+  {
+    "char": "六",
+    "yum": "륙",
+    "meaning": "여섯 륙",
+    "level": "8",
+    "image": "assets/hanja/8/六.webp",
+    "hun": "여섯"
+  },
+  {
+    "char": "萬",
+    "yum": "만",
+    "meaning": "일만 만",
+    "level": "8",
+    "image": "assets/hanja/8/萬.webp",
+    "hun": "일만"
+  },
+  {
+    "char": "母",
+    "yum": "모",
+    "meaning": "어미 모",
+    "level": "8",
+    "image": "assets/hanja/8/母.webp",
+    "hun": "어미"
+  },
+  {
+    "char": "木",
+    "yum": "목",
+    "meaning": "나무 목",
+    "level": "8",
+    "image": "assets/hanja/8/木.webp",
+    "hun": "나무"
+  },
+  {
+    "char": "門",
+    "yum": "문",
+    "meaning": "문 문",
+    "level": "8",
+    "image": "assets/hanja/8/門.webp",
+    "hun": "문"
+  },
+  {
+    "char": "民",
+    "yum": "민",
+    "meaning": "백성 민",
+    "level": "8",
+    "image": "assets/hanja/8/民.webp",
+    "hun": "백성"
+  },
+  {
+    "char": "白",
+    "yum": "백",
+    "meaning": "흰 백",
+    "level": "8",
+    "image": "assets/hanja/8/白.webp",
+    "hun": "흰"
+  },
+  {
+    "char": "父",
+    "yum": "부",
+    "meaning": "아비 부",
+    "level": "8",
+    "image": "assets/hanja/8/父.webp",
+    "hun": "아비"
+  },
+  {
+    "char": "北",
+    "yum": "북",
+    "meaning": "북녘 북",
+    "level": "8",
+    "image": "assets/hanja/8/北.webp",
+    "hun": "북녘"
+  },
+  {
+    "char": "四",
+    "yum": "사",
+    "meaning": "넉 사",
+    "level": "8",
+    "image": "assets/hanja/8/四.webp",
+    "hun": "넉"
+  },
+  {
+    "char": "山",
+    "yum": "산",
+    "meaning": "뫼 산",
+    "level": "8",
+    "image": "assets/hanja/8/山.webp",
+    "hun": "뫼"
+  },
+  {
+    "char": "三",
+    "yum": "삼",
+    "meaning": "석 삼",
+    "level": "8",
+    "image": "assets/hanja/8/三.webp",
+    "hun": "석"
+  },
+  {
+    "char": "生",
+    "yum": "생",
+    "meaning": "날 생",
+    "level": "8",
+    "image": "assets/hanja/8/生.webp",
+    "hun": "날"
+  },
+  {
+    "char": "西",
+    "yum": "서",
+    "meaning": "서녘 서",
+    "level": "8",
+    "image": "assets/hanja/8/西.webp",
+    "hun": "서녘"
+  },
+  {
+    "char": "先",
+    "yum": "선",
+    "meaning": "먼저 선",
+    "level": "8",
+    "image": "assets/hanja/8/先.webp",
+    "hun": "먼저"
+  },
+  {
+    "char": "小",
+    "yum": "소",
+    "meaning": "작을 소",
+    "level": "8",
+    "image": "assets/hanja/8/小.webp",
+    "hun": "작을"
+  },
+  {
+    "char": "水",
+    "yum": "수",
+    "meaning": "물 수",
+    "level": "8",
+    "image": "assets/hanja/8/水.webp",
+    "hun": "물"
+  },
+  {
+    "char": "室",
+    "yum": "실",
+    "meaning": "집 실",
+    "level": "8",
+    "image": "assets/hanja/8/室.webp",
+    "hun": "집"
+  },
+  {
+    "char": "十",
+    "yum": "십",
+    "meaning": "열 십",
+    "level": "8",
+    "image": "assets/hanja/8/十.webp",
+    "hun": "열"
+  },
+  {
+    "char": "五",
+    "yum": "오",
+    "meaning": "다섯 오",
+    "level": "8",
+    "image": "assets/hanja/8/五.webp",
+    "hun": "다섯"
+  },
+  {
+    "char": "王",
+    "yum": "왕",
+    "meaning": "임금 왕",
+    "level": "8",
+    "image": "assets/hanja/8/王.webp",
+    "hun": "임금"
+  },
+  {
+    "char": "外",
+    "yum": "외",
+    "meaning": "바깥 외",
+    "level": "8",
+    "image": "assets/hanja/8/外.webp",
+    "hun": "바깥"
+  },
+  {
+    "char": "月",
+    "yum": "월",
+    "meaning": "달 월",
+    "level": "8",
+    "image": "assets/hanja/8/月.webp",
+    "hun": "달"
+  },
+  {
+    "char": "二",
+    "yum": "이",
+    "meaning": "두 이",
+    "level": "8",
+    "image": "assets/hanja/8/二.webp",
+    "hun": "두"
+  },
+  {
+    "char": "人",
+    "yum": "인",
+    "meaning": "사람 인",
+    "level": "8",
+    "image": "assets/hanja/8/人.webp",
+    "hun": "사람"
+  },
+  {
+    "char": "一",
+    "yum": "일",
+    "meaning": "한 일",
+    "level": "8",
+    "image": "assets/hanja/8/一.webp",
+    "hun": "한"
+  },
+  {
+    "char": "日",
+    "yum": "일",
+    "meaning": "해 일",
+    "level": "8",
+    "image": "assets/hanja/8/日.webp",
+    "hun": "해"
+  },
+  {
+    "char": "長",
+    "yum": "장",
+    "meaning": "길 장",
+    "level": "8",
+    "image": "assets/hanja/8/長.webp",
+    "hun": "길"
+  },
+  {
+    "char": "弟",
+    "yum": "제",
+    "meaning": "아우 제",
+    "level": "8",
+    "image": "assets/hanja/8/弟.webp",
+    "hun": "아우"
+  },
+  {
+    "char": "中",
+    "yum": "중",
+    "meaning": "가운데 중",
+    "level": "8",
+    "image": "assets/hanja/8/中.webp",
+    "hun": "가운데"
+  },
+  {
+    "char": "靑",
+    "yum": "청",
+    "meaning": "푸를 청",
+    "level": "8",
+    "image": "assets/hanja/8/靑.webp",
+    "hun": "푸를"
+  },
+  {
+    "char": "寸",
+    "yum": "촌",
+    "meaning": "마디 촌",
+    "level": "8",
+    "image": "assets/hanja/8/寸.webp",
+    "hun": "마디"
+  },
+  {
+    "char": "七",
+    "yum": "칠",
+    "meaning": "일곱 칠",
+    "level": "8",
+    "image": "assets/hanja/8/七.webp",
+    "hun": "일곱"
+  },
+  {
+    "char": "土",
+    "yum": "토",
+    "meaning": "흙 토",
+    "level": "8",
+    "image": "assets/hanja/8/土.webp",
+    "hun": "흙"
+  },
+  {
+    "char": "八",
+    "yum": "팔",
+    "meaning": "여덟 팔",
+    "level": "8",
+    "image": "assets/hanja/8/八.webp",
+    "hun": "여덟"
+  },
+  {
+    "char": "學",
+    "yum": "학",
+    "meaning": "배울 학",
+    "level": "8",
+    "image": "assets/hanja/8/學.webp",
+    "hun": "배울"
+  },
+  {
+    "char": "韓",
+    "yum": "한",
+    "meaning": "나라이름 한",
+    "level": "8",
+    "image": "assets/hanja/8/韓.webp",
+    "hun": "나라이름"
+  },
+  {
+    "char": "兄",
+    "yum": "형",
+    "meaning": "형 형",
+    "level": "8",
+    "image": "assets/hanja/8/兄.webp",
+    "hun": "형"
+  },
+  {
+    "char": "火",
+    "yum": "화",
+    "meaning": "불 화",
+    "level": "8",
+    "image": "assets/hanja/8/火.webp",
+    "hun": "불"
+  },
+  {
+    "char": "家",
+    "yum": "가",
+    "meaning": "집 가",
+    "level": "7",
+    "image": "assets/hanja/7/家.webp",
+    "hun": "집"
+  },
+  {
+    "char": "間",
+    "yum": "간",
+    "meaning": "사이 간",
+    "level": "7",
+    "image": "assets/hanja/7/間.webp",
+    "hun": "사이"
+  },
+  {
+    "char": "江",
+    "yum": "강",
+    "meaning": "강 강",
+    "level": "7",
+    "image": "assets/hanja/7/江.webp",
+    "hun": "강"
+  },
+  {
+    "char": "工",
+    "yum": "공",
+    "meaning": "장인 공",
+    "level": "7",
+    "image": "assets/hanja/7/工.webp",
+    "hun": "장인"
+  },
+  {
+    "char": "空",
+    "yum": "공",
+    "meaning": "빌 공",
+    "level": "7",
+    "image": "assets/hanja/7/空.webp",
+    "hun": "빌"
+  },
+  {
+    "char": "氣",
+    "yum": "기",
+    "meaning": "기운 기",
+    "level": "7",
+    "image": "assets/hanja/7/氣.webp",
+    "hun": "기운"
+  },
+  {
+    "char": "記",
+    "yum": "기",
+    "meaning": "기록할 기",
+    "level": "7",
+    "image": "assets/hanja/7/記.webp",
+    "hun": "기록할"
+  },
+  {
+    "char": "男",
+    "yum": "남",
+    "meaning": "사내 남",
+    "level": "7",
+    "image": "assets/hanja/7/男.webp",
+    "hun": "사내"
+  },
+  {
+    "char": "內",
+    "yum": "내",
+    "meaning": "안 내",
+    "level": "7",
+    "image": "assets/hanja/7/內.webp",
+    "hun": "안"
+  },
+  {
+    "char": "農",
+    "yum": "농",
+    "meaning": "농사 농",
+    "level": "7",
+    "image": "assets/hanja/7/農.webp",
+    "hun": "농사"
+  },
+  {
+    "char": "答",
+    "yum": "답",
+    "meaning": "답할 답",
+    "level": "7",
+    "image": "assets/hanja/7/答.webp",
+    "hun": "답할"
+  },
+  {
+    "char": "道",
+    "yum": "도",
+    "meaning": "길 도",
+    "level": "7",
+    "image": "assets/hanja/7/道.webp",
+    "hun": "길"
+  },
+  {
+    "char": "動",
+    "yum": "동",
+    "meaning": "움직일 동",
+    "level": "7",
+    "image": "assets/hanja/7/動.webp",
+    "hun": "움직일"
+  },
+  {
+    "char": "力",
+    "yum": "력",
+    "meaning": "힘 력",
+    "level": "7",
+    "image": "assets/hanja/7/力.webp",
+    "hun": "힘"
+  },
+  {
+    "char": "立",
+    "yum": "립",
+    "meaning": "설 립",
+    "level": "7",
+    "image": "assets/hanja/7/立.webp",
+    "hun": "설"
+  },
+  {
+    "char": "每",
+    "yum": "매",
+    "meaning": "매양 매",
+    "level": "7",
+    "image": "assets/hanja/7/每.webp",
+    "hun": "매양"
+  },
+  {
+    "char": "名",
+    "yum": "명",
+    "meaning": "이름 명",
+    "level": "7",
+    "image": "assets/hanja/7/名.webp",
+    "hun": "이름"
+  },
+  {
+    "char": "物",
+    "yum": "물",
+    "meaning": "물건 물",
+    "level": "7",
+    "image": "assets/hanja/7/物.webp",
+    "hun": "물건"
+  },
+  {
+    "char": "方",
+    "yum": "방",
+    "meaning": "모 방",
+    "level": "7",
+    "image": "assets/hanja/7/方.webp",
+    "hun": "모"
+  },
+  {
+    "char": "不",
+    "yum": "불",
+    "meaning": "아닐 불",
+    "level": "7",
+    "image": "assets/hanja/7/不.webp",
+    "hun": "아닐"
+  },
+  {
+    "char": "事",
+    "yum": "사",
+    "meaning": "일 사",
+    "level": "7",
+    "image": "assets/hanja/7/事.webp",
+    "hun": "일"
+  },
+  {
+    "char": "上",
+    "yum": "상",
+    "meaning": "위 상",
+    "level": "7",
+    "image": "assets/hanja/7/上.webp",
+    "hun": "위"
+  },
+  {
+    "char": "姓",
+    "yum": "성",
+    "meaning": "성씨 성",
+    "level": "7",
+    "image": "assets/hanja/7/姓.webp",
+    "hun": "성씨"
+  },
+  {
+    "char": "世",
+    "yum": "세",
+    "meaning": "누리 세",
+    "level": "7",
+    "image": "assets/hanja/7/世.webp",
+    "hun": "누리"
+  },
+  {
+    "char": "手",
+    "yum": "수",
+    "meaning": "손 수",
+    "level": "7",
+    "image": "assets/hanja/7/手.webp",
+    "hun": "손"
+  },
+  {
+    "char": "市",
+    "yum": "시",
+    "meaning": "저자 시",
+    "level": "7",
+    "image": "assets/hanja/7/市.webp",
+    "hun": "저자"
+  },
+  {
+    "char": "時",
+    "yum": "시",
+    "meaning": "때 시",
+    "level": "7",
+    "image": "assets/hanja/7/時.webp",
+    "hun": "때"
+  },
+  {
+    "char": "食",
+    "yum": "식",
+    "meaning": "밥 식",
+    "level": "7",
+    "image": "assets/hanja/7/食.webp",
+    "hun": "밥"
+  },
+  {
+    "char": "安",
+    "yum": "안",
+    "meaning": "편안할 안",
+    "level": "7",
+    "image": "assets/hanja/7/安.webp",
+    "hun": "편안할"
+  },
+  {
+    "char": "午",
+    "yum": "오",
+    "meaning": "낮 오",
+    "level": "7",
+    "image": "assets/hanja/7/午.webp",
+    "hun": "낮"
+  },
+  {
+    "char": "右",
+    "yum": "우",
+    "meaning": "오른 우",
+    "level": "7",
+    "image": "assets/hanja/7/右.webp",
+    "hun": "오른"
+  },
+  {
+    "char": "子",
+    "yum": "자",
+    "meaning": "아들 자",
+    "level": "7",
+    "image": "assets/hanja/7/子.webp",
+    "hun": "아들"
+  },
+  {
+    "char": "自",
+    "yum": "자",
+    "meaning": "스스로 자",
+    "level": "7",
+    "image": "assets/hanja/7/自.webp",
+    "hun": "스스로"
+  },
+  {
+    "char": "場",
+    "yum": "장",
+    "meaning": "마당 장",
+    "level": "7",
+    "image": "assets/hanja/7/場.webp",
+    "hun": "마당"
+  },
+  {
+    "char": "全",
+    "yum": "전",
+    "meaning": "온전할 전",
+    "level": "7",
+    "image": "assets/hanja/7/全.webp",
+    "hun": "온전할"
+  },
+  {
+    "char": "前",
+    "yum": "전",
+    "meaning": "앞 전",
+    "level": "7",
+    "image": "assets/hanja/7/前.webp",
+    "hun": "앞"
+  },
+  {
+    "char": "電",
+    "yum": "전",
+    "meaning": "번개 전",
+    "level": "7",
+    "image": "assets/hanja/7/電.webp",
+    "hun": "번개"
+  },
+  {
+    "char": "正",
+    "yum": "정",
+    "meaning": "바를 정",
+    "level": "7",
+    "image": "assets/hanja/7/正.webp",
+    "hun": "바를"
+  },
+  {
+    "char": "足",
+    "yum": "족",
+    "meaning": "발 족",
+    "level": "7",
+    "image": "assets/hanja/7/足.webp",
+    "hun": "발"
+  },
+  {
+    "char": "左",
+    "yum": "좌",
+    "meaning": "왼 좌",
+    "level": "7",
+    "image": "assets/hanja/7/左.webp",
+    "hun": "왼"
+  },
+  {
+    "char": "直",
+    "yum": "직",
+    "meaning": "곧을 직",
+    "level": "7",
+    "image": "assets/hanja/7/直.webp",
+    "hun": "곧을"
+  },
+  {
+    "char": "車",
+    "yum": "차",
+    "meaning": "수레 차",
+    "level": "7",
+    "image": "assets/hanja/7/車.webp",
+    "hun": "수레"
+  },
+  {
+    "char": "平",
+    "yum": "평",
+    "meaning": "평평할 평",
+    "level": "7",
+    "image": "assets/hanja/7/平.webp",
+    "hun": "평평할"
+  },
+  {
+    "char": "下",
+    "yum": "하",
+    "meaning": "아래 하",
+    "level": "7",
+    "image": "assets/hanja/7/下.webp",
+    "hun": "아래"
+  },
+  {
+    "char": "漢",
+    "yum": "한",
+    "meaning": "한수 한",
+    "level": "7",
+    "image": "assets/hanja/7/漢.webp",
+    "hun": "한수"
+  },
+  {
+    "char": "海",
+    "yum": "해",
+    "meaning": "바다 해",
+    "level": "7",
+    "image": "assets/hanja/7/海.webp",
+    "hun": "바다"
+  },
+  {
+    "char": "話",
+    "yum": "화",
+    "meaning": "말씀 화",
+    "level": "7",
+    "image": "assets/hanja/7/話.webp",
+    "hun": "말씀"
+  },
+  {
+    "char": "活",
+    "yum": "활",
+    "meaning": "살 활",
+    "level": "7",
+    "image": "assets/hanja/7/活.webp",
+    "hun": "살"
+  },
+  {
+    "char": "孝",
+    "yum": "효",
+    "meaning": "효도 효",
+    "level": "7",
+    "image": "assets/hanja/7/孝.webp",
+    "hun": "효도"
+  },
+  {
+    "char": "後",
+    "yum": "후",
+    "meaning": "뒤 후",
+    "level": "7",
+    "image": "assets/hanja/7/後.webp",
+    "hun": "뒤"
+  },
+  {
+    "char": "歌",
+    "yum": "가",
+    "meaning": "노래 가",
+    "level": "7",
+    "image": "assets/hanja/7/歌.webp",
+    "hun": "노래"
+  },
+  {
+    "char": "口",
+    "yum": "구",
+    "meaning": "입 구",
+    "level": "7",
+    "image": "assets/hanja/7/口.webp",
+    "hun": "입"
+  },
+  {
+    "char": "旗",
+    "yum": "기",
+    "meaning": "기 기",
+    "level": "7",
+    "image": "assets/hanja/7/旗.webp",
+    "hun": "기"
+  },
+  {
+    "char": "冬",
+    "yum": "동",
+    "meaning": "겨울 동",
+    "level": "7",
+    "image": "assets/hanja/7/冬.webp",
+    "hun": "겨울"
+  },
+  {
+    "char": "同",
+    "yum": "동",
+    "meaning": "한가지 동",
+    "level": "7",
+    "image": "assets/hanja/7/同.webp",
+    "hun": "한가지"
+  },
+  {
+    "char": "洞",
+    "yum": "동",
+    "meaning": "마을 동",
+    "level": "7",
+    "image": "assets/hanja/7/洞.webp",
+    "hun": "마을"
+  },
+  {
+    "char": "登",
+    "yum": "등",
+    "meaning": "오를 등",
+    "level": "7",
+    "image": "assets/hanja/7/登.webp",
+    "hun": "오를"
+  },
+  {
+    "char": "來",
+    "yum": "래",
+    "meaning": "올 래",
+    "level": "7",
+    "image": "assets/hanja/7/來.webp",
+    "hun": "올"
+  },
+  {
+    "char": "老",
+    "yum": "로",
+    "meaning": "늙을 로",
+    "level": "7",
+    "image": "assets/hanja/7/老.webp",
+    "hun": "늙을"
+  },
+  {
+    "char": "里",
+    "yum": "리",
+    "meaning": "마을 리",
+    "level": "7",
+    "image": "assets/hanja/7/里.webp",
+    "hun": "마을"
+  },
+  {
+    "char": "林",
+    "yum": "림",
+    "meaning": "수풀 림",
+    "level": "7",
+    "image": "assets/hanja/7/林.webp",
+    "hun": "수풀"
+  },
+  {
+    "char": "面",
+    "yum": "면",
+    "meaning": "낯 면",
+    "level": "7",
+    "image": "assets/hanja/7/面.webp",
+    "hun": "낯"
+  },
+  {
+    "char": "命",
+    "yum": "명",
+    "meaning": "목숨 명",
+    "level": "7",
+    "image": "assets/hanja/7/命.webp",
+    "hun": "목숨"
+  },
+  {
+    "char": "問",
+    "yum": "문",
+    "meaning": "물을 문",
+    "level": "7",
+    "image": "assets/hanja/7/問.webp",
+    "hun": "물을"
+  },
+  {
+    "char": "文",
+    "yum": "문",
+    "meaning": "글월 문",
+    "level": "7",
+    "image": "assets/hanja/7/文.webp",
+    "hun": "글월"
+  },
+  {
+    "char": "百",
+    "yum": "백",
+    "meaning": "일백 백",
+    "level": "7",
+    "image": "assets/hanja/7/百.webp",
+    "hun": "일백"
+  },
+  {
+    "char": "夫",
+    "yum": "부",
+    "meaning": "남편 부",
+    "level": "7",
+    "image": "assets/hanja/7/夫.webp",
+    "hun": "남편"
+  },
+  {
+    "char": "算",
+    "yum": "산",
+    "meaning": "셈 산",
+    "level": "7",
+    "image": "assets/hanja/7/算.webp",
+    "hun": "셈"
+  },
+  {
+    "char": "色",
+    "yum": "색",
+    "meaning": "빛 색",
+    "level": "7",
+    "image": "assets/hanja/7/色.webp",
+    "hun": "빛"
+  },
+  {
+    "char": "夕",
+    "yum": "석",
+    "meaning": "저녁 석",
+    "level": "7",
+    "image": "assets/hanja/7/夕.webp",
+    "hun": "저녁"
+  },
+  {
+    "char": "少",
+    "yum": "소",
+    "meaning": "적을 소",
+    "level": "7",
+    "image": "assets/hanja/7/少.webp",
+    "hun": "적을"
+  },
+  {
+    "char": "所",
+    "yum": "소",
+    "meaning": "바 소",
+    "level": "7",
+    "image": "assets/hanja/7/所.webp",
+    "hun": "바"
+  },
+  {
+    "char": "數",
+    "yum": "수",
+    "meaning": "셈 수",
+    "level": "7",
+    "image": "assets/hanja/7/數.webp",
+    "hun": "셈"
+  },
+  {
+    "char": "植",
+    "yum": "식",
+    "meaning": "심을 식",
+    "level": "7",
+    "image": "assets/hanja/7/植.webp",
+    "hun": "심을"
+  },
+  {
+    "char": "心",
+    "yum": "심",
+    "meaning": "마음 심",
+    "level": "7",
+    "image": "assets/hanja/7/心.webp",
+    "hun": "마음"
+  },
+  {
+    "char": "語",
+    "yum": "어",
+    "meaning": "말씀 어",
+    "level": "7",
+    "image": "assets/hanja/7/語.webp",
+    "hun": "말씀"
+  },
+  {
+    "char": "然",
+    "yum": "연",
+    "meaning": "그러할 연",
+    "level": "7",
+    "image": "assets/hanja/7/然.webp",
+    "hun": "그러할"
+  },
+  {
+    "char": "有",
+    "yum": "유",
+    "meaning": "있을 유",
+    "level": "7",
+    "image": "assets/hanja/7/有.webp",
+    "hun": "있을"
+  },
+  {
+    "char": "育",
+    "yum": "육",
+    "meaning": "기를 육",
+    "level": "7",
+    "image": "assets/hanja/7/育.webp",
+    "hun": "기를"
+  },
+  {
+    "char": "邑",
+    "yum": "읍",
+    "meaning": "고을 읍",
+    "level": "7",
+    "image": "assets/hanja/7/邑.webp",
+    "hun": "고을"
+  },
+  {
+    "char": "入",
+    "yum": "입",
+    "meaning": "들 입",
+    "level": "7",
+    "image": "assets/hanja/7/入.webp",
+    "hun": "들"
+  },
+  {
+    "char": "字",
+    "yum": "자",
+    "meaning": "글자 자",
+    "level": "7",
+    "image": "assets/hanja/7/字.webp",
+    "hun": "글자"
+  },
+  {
+    "char": "祖",
+    "yum": "조",
+    "meaning": "할아버지 조",
+    "level": "7",
+    "image": "assets/hanja/7/祖.webp",
+    "hun": "할아버지"
+  },
+  {
+    "char": "主",
+    "yum": "주",
+    "meaning": "주인 주",
+    "level": "7",
+    "image": "assets/hanja/7/主.webp",
+    "hun": "주인"
+  },
+  {
+    "char": "住",
+    "yum": "주",
+    "meaning": "살 주",
+    "level": "7",
+    "image": "assets/hanja/7/住.webp",
+    "hun": "살"
+  },
+  {
+    "char": "重",
+    "yum": "중",
+    "meaning": "무거울 중",
+    "level": "7",
+    "image": "assets/hanja/7/重.webp",
+    "hun": "무거울"
+  },
+  {
+    "char": "地",
+    "yum": "지",
+    "meaning": "땅 지",
+    "level": "7",
+    "image": "assets/hanja/7/地.webp",
+    "hun": "땅"
+  },
+  {
+    "char": "紙",
+    "yum": "지",
+    "meaning": "종이 지",
+    "level": "7",
+    "image": "assets/hanja/7/紙.webp",
+    "hun": "종이"
+  },
+  {
+    "char": "千",
+    "yum": "천",
+    "meaning": "일천 천",
+    "level": "7",
+    "image": "assets/hanja/7/千.webp",
+    "hun": "일천"
+  },
+  {
+    "char": "天",
+    "yum": "천",
+    "meaning": "하늘 천",
+    "level": "7",
+    "image": "assets/hanja/7/天.webp",
+    "hun": "하늘"
+  },
+  {
+    "char": "川",
+    "yum": "천",
+    "meaning": "내 천",
+    "level": "7",
+    "image": "assets/hanja/7/川.webp",
+    "hun": "내"
+  },
+  {
+    "char": "草",
+    "yum": "초",
+    "meaning": "풀 초",
+    "level": "7",
+    "image": "assets/hanja/7/草.webp",
+    "hun": "풀"
+  },
+  {
+    "char": "村",
+    "yum": "촌",
+    "meaning": "마을 촌",
+    "level": "7",
+    "image": "assets/hanja/7/村.webp",
+    "hun": "마을"
+  },
+  {
+    "char": "秋",
+    "yum": "추",
+    "meaning": "가을 추",
+    "level": "7",
+    "image": "assets/hanja/7/秋.webp",
+    "hun": "가을"
+  },
+  {
+    "char": "春",
+    "yum": "춘",
+    "meaning": "봄 춘",
+    "level": "7",
+    "image": "assets/hanja/7/春.webp",
+    "hun": "봄"
+  },
+  {
+    "char": "出",
+    "yum": "출",
+    "meaning": "날 출",
+    "level": "7",
+    "image": "assets/hanja/7/出.webp",
+    "hun": "날"
+  },
+  {
+    "char": "便",
+    "yum": "편",
+    "meaning": "편할 편",
+    "level": "7",
+    "image": "assets/hanja/7/便.webp",
+    "hun": "편할"
+  },
+  {
+    "char": "夏",
+    "yum": "하",
+    "meaning": "여름 하",
+    "level": "7",
+    "image": "assets/hanja/7/夏.webp",
+    "hun": "여름"
+  },
+  {
+    "char": "花",
+    "yum": "화",
+    "meaning": "꽃 화",
+    "level": "7",
+    "image": "assets/hanja/7/花.webp",
+    "hun": "꽃"
+  },
+  {
+    "char": "休",
+    "yum": "휴",
+    "meaning": "쉴 휴",
+    "level": "7",
+    "image": "assets/hanja/7/休.webp",
+    "hun": "쉴"
+  },
+  {
+    "char": "各",
+    "yum": "각",
+    "meaning": "각각 각",
+    "level": "6",
+    "image": "assets/hanja/6/各.webp",
+    "hun": "각각"
+  },
+  {
+    "char": "角",
+    "yum": "각",
+    "meaning": "뿔 각",
+    "level": "6",
+    "image": "assets/hanja/6/角.webp",
+    "hun": "뿔"
+  },
+  {
+    "char": "界",
+    "yum": "계",
+    "meaning": "지경 계",
+    "level": "6",
+    "image": "assets/hanja/6/界.webp",
+    "hun": "지경"
+  },
+  {
+    "char": "計",
+    "yum": "계",
+    "meaning": "셀 계",
+    "level": "6",
+    "image": "assets/hanja/6/計.webp",
+    "hun": "셀"
+  },
+  {
+    "char": "高",
+    "yum": "고",
+    "meaning": "높을 고",
+    "level": "6",
+    "image": "assets/hanja/6/高.webp",
+    "hun": "높을"
+  },
+  {
+    "char": "公",
+    "yum": "공",
+    "meaning": "공평할 공",
+    "level": "6",
+    "image": "assets/hanja/6/公.webp",
+    "hun": "공평할"
+  },
+  {
+    "char": "共",
+    "yum": "공",
+    "meaning": "함께 공",
+    "level": "6",
+    "image": "assets/hanja/6/共.webp",
+    "hun": "함께"
+  },
+  {
+    "char": "功",
+    "yum": "공",
+    "meaning": "공적 공",
+    "level": "6",
+    "image": "assets/hanja/6/功.webp",
+    "hun": "공적"
+  },
+  {
+    "char": "果",
+    "yum": "과",
+    "meaning": "열매 과",
+    "level": "6",
+    "image": "assets/hanja/6/果.webp",
+    "hun": "열매"
+  },
+  {
+    "char": "科",
+    "yum": "과",
+    "meaning": "과목 과",
+    "level": "6",
+    "image": "assets/hanja/6/科.webp",
+    "hun": "과목"
+  },
+  {
+    "char": "光",
+    "yum": "광",
+    "meaning": "빛 광",
+    "level": "6",
+    "image": "assets/hanja/6/光.webp",
+    "hun": "빛"
+  },
+  {
+    "char": "球",
+    "yum": "구",
+    "meaning": "공 구",
+    "level": "6",
+    "image": "assets/hanja/6/球.webp",
+    "hun": "공"
+  },
+  {
+    "char": "今",
+    "yum": "금",
+    "meaning": "이제 금",
+    "level": "6",
+    "image": "assets/hanja/6/今.webp",
+    "hun": "이제"
+  },
+  {
+    "char": "急",
+    "yum": "급",
+    "meaning": "급할 급",
+    "level": "6",
+    "image": "assets/hanja/6/急.webp",
+    "hun": "급할"
+  },
+  {
+    "char": "短",
+    "yum": "단",
+    "meaning": "짧을 단",
+    "level": "6",
+    "image": "assets/hanja/6/短.webp",
+    "hun": "짧을"
+  },
+  {
+    "char": "堂",
+    "yum": "당",
+    "meaning": "집 당",
+    "level": "6",
+    "image": "assets/hanja/6/堂.webp",
+    "hun": "집"
+  },
+  {
+    "char": "代",
+    "yum": "대",
+    "meaning": "세대 대",
+    "level": "6",
+    "image": "assets/hanja/6/代.webp",
+    "hun": "세대"
+  },
+  {
+    "char": "對",
+    "yum": "대",
+    "meaning": "대할 대",
+    "level": "6",
+    "image": "assets/hanja/6/對.webp",
+    "hun": "대할"
+  },
+  {
+    "char": "圖",
+    "yum": "도",
+    "meaning": "그림 도",
+    "level": "6",
+    "image": "assets/hanja/6/圖.webp",
+    "hun": "그림"
+  },
+  {
+    "char": "讀",
+    "yum": "독",
+    "meaning": "읽을 독",
+    "level": "6",
+    "image": "assets/hanja/6/讀.webp",
+    "hun": "읽을"
+  },
+  {
+    "char": "童",
+    "yum": "동",
+    "meaning": "아이 동",
+    "level": "6",
+    "image": "assets/hanja/6/童.webp",
+    "hun": "아이"
+  },
+  {
+    "char": "等",
+    "yum": "등",
+    "meaning": "무리 등",
+    "level": "6",
+    "image": "assets/hanja/6/等.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "利",
+    "yum": "리",
+    "meaning": "이로울 리",
+    "level": "6",
+    "image": "assets/hanja/6/利.webp",
+    "hun": "이로울"
+  },
+  {
+    "char": "理",
+    "yum": "리",
+    "meaning": "다스릴 리",
+    "level": "6",
+    "image": "assets/hanja/6/理.webp",
+    "hun": "다스릴"
+  },
+  {
+    "char": "明",
+    "yum": "명",
+    "meaning": "밝을 명",
+    "level": "6",
+    "image": "assets/hanja/6/明.webp",
+    "hun": "밝을"
+  },
+  {
+    "char": "聞",
+    "yum": "문",
+    "meaning": "들을 문",
+    "level": "6",
+    "image": "assets/hanja/6/聞.webp",
+    "hun": "들을"
+  },
+  {
+    "char": "半",
+    "yum": "반",
+    "meaning": "반 반",
+    "level": "6",
+    "image": "assets/hanja/6/半.webp",
+    "hun": "반"
+  },
+  {
+    "char": "反",
+    "yum": "반",
+    "meaning": "돌이킬 반",
+    "level": "6",
+    "image": "assets/hanja/6/反.webp",
+    "hun": "돌이킬"
+  },
+  {
+    "char": "班",
+    "yum": "반",
+    "meaning": "나눌 반",
+    "level": "6",
+    "image": "assets/hanja/6/班.webp",
+    "hun": "나눌"
+  },
+  {
+    "char": "發",
+    "yum": "발",
+    "meaning": "필 발",
+    "level": "6",
+    "image": "assets/hanja/6/發.webp",
+    "hun": "필"
+  },
+  {
+    "char": "放",
+    "yum": "방",
+    "meaning": "놓을 방",
+    "level": "6",
+    "image": "assets/hanja/6/放.webp",
+    "hun": "놓을"
+  },
+  {
+    "char": "部",
+    "yum": "부",
+    "meaning": "떼 부",
+    "level": "6",
+    "image": "assets/hanja/6/部.webp",
+    "hun": "떼"
+  },
+  {
+    "char": "分",
+    "yum": "분",
+    "meaning": "나눌 분",
+    "level": "6",
+    "image": "assets/hanja/6/分.webp",
+    "hun": "나눌"
+  },
+  {
+    "char": "社",
+    "yum": "사",
+    "meaning": "모일 사",
+    "level": "6",
+    "image": "assets/hanja/6/社.webp",
+    "hun": "모일"
+  },
+  {
+    "char": "書",
+    "yum": "서",
+    "meaning": "글 서",
+    "level": "6",
+    "image": "assets/hanja/6/書.webp",
+    "hun": "글"
+  },
+  {
+    "char": "線",
+    "yum": "선",
+    "meaning": "줄 선",
+    "level": "6",
+    "image": "assets/hanja/6/線.webp",
+    "hun": "줄"
+  },
+  {
+    "char": "雪",
+    "yum": "설",
+    "meaning": "눈 설",
+    "level": "6",
+    "image": "assets/hanja/6/雪.webp",
+    "hun": "눈"
+  },
+  {
+    "char": "成",
+    "yum": "성",
+    "meaning": "이룰 성",
+    "level": "6",
+    "image": "assets/hanja/6/成.webp",
+    "hun": "이룰"
+  },
+  {
+    "char": "省",
+    "yum": "성",
+    "meaning": "살필 성",
+    "level": "6",
+    "image": "assets/hanja/6/省.webp",
+    "hun": "살필"
+  },
+  {
+    "char": "消",
+    "yum": "소",
+    "meaning": "사라질 소",
+    "level": "6",
+    "image": "assets/hanja/6/消.webp",
+    "hun": "사라질"
+  },
+  {
+    "char": "術",
+    "yum": "술",
+    "meaning": "재주 술",
+    "level": "6",
+    "image": "assets/hanja/6/術.webp",
+    "hun": "재주"
+  },
+  {
+    "char": "始",
+    "yum": "시",
+    "meaning": "비로소 시",
+    "level": "6",
+    "image": "assets/hanja/6/始.webp",
+    "hun": "비로소"
+  },
+  {
+    "char": "信",
+    "yum": "신",
+    "meaning": "믿을 신",
+    "level": "6",
+    "image": "assets/hanja/6/信.webp",
+    "hun": "믿을"
+  },
+  {
+    "char": "新",
+    "yum": "신",
+    "meaning": "새 신",
+    "level": "6",
+    "image": "assets/hanja/6/新.webp",
+    "hun": "새"
+  },
+  {
+    "char": "神",
+    "yum": "신",
+    "meaning": "귀신 신",
+    "level": "6",
+    "image": "assets/hanja/6/神.webp",
+    "hun": "귀신"
+  },
+  {
+    "char": "身",
+    "yum": "신",
+    "meaning": "몸 신",
+    "level": "6",
+    "image": "assets/hanja/6/身.webp",
+    "hun": "몸"
+  },
+  {
+    "char": "樂",
+    "yum": "락",
+    "meaning": "즐길 락",
+    "level": "6",
+    "image": "assets/hanja/6/樂.webp",
+    "hun": "즐길"
+  },
+  {
+    "char": "弱",
+    "yum": "약",
+    "meaning": "약할 약",
+    "level": "6",
+    "image": "assets/hanja/6/弱.webp",
+    "hun": "약할"
+  },
+  {
+    "char": "藥",
+    "yum": "약",
+    "meaning": "약 약",
+    "level": "6",
+    "image": "assets/hanja/6/藥.webp",
+    "hun": "약"
+  },
+  {
+    "char": "業",
+    "yum": "업",
+    "meaning": "일 업",
+    "level": "6",
+    "image": "assets/hanja/6/業.webp",
+    "hun": "일"
+  },
+  {
+    "char": "勇",
+    "yum": "용",
+    "meaning": "날랠 용",
+    "level": "6",
+    "image": "assets/hanja/6/勇.webp",
+    "hun": "날랠"
+  },
+  {
+    "char": "用",
+    "yum": "용",
+    "meaning": "쓸 용",
+    "level": "6",
+    "image": "assets/hanja/6/用.webp",
+    "hun": "쓸"
+  },
+  {
+    "char": "運",
+    "yum": "운",
+    "meaning": "옮길 운",
+    "level": "6",
+    "image": "assets/hanja/6/運.webp",
+    "hun": "옮길"
+  },
+  {
+    "char": "音",
+    "yum": "음",
+    "meaning": "소리 음",
+    "level": "6",
+    "image": "assets/hanja/6/音.webp",
+    "hun": "소리"
+  },
+  {
+    "char": "飮",
+    "yum": "음",
+    "meaning": "마실 음",
+    "level": "6",
+    "image": "assets/hanja/6/飮.webp",
+    "hun": "마실"
+  },
+  {
+    "char": "意",
+    "yum": "의",
+    "meaning": "뜻 의",
+    "level": "6",
+    "image": "assets/hanja/6/意.webp",
+    "hun": "뜻"
+  },
+  {
+    "char": "作",
+    "yum": "작",
+    "meaning": "지을 작",
+    "level": "6",
+    "image": "assets/hanja/6/作.webp",
+    "hun": "지을"
+  },
+  {
+    "char": "昨",
+    "yum": "작",
+    "meaning": "어제 작",
+    "level": "6",
+    "image": "assets/hanja/6/昨.webp",
+    "hun": "어제"
+  },
+  {
+    "char": "才",
+    "yum": "재",
+    "meaning": "재주 재",
+    "level": "6",
+    "image": "assets/hanja/6/才.webp",
+    "hun": "재주"
+  },
+  {
+    "char": "戰",
+    "yum": "전",
+    "meaning": "싸울 전",
+    "level": "6",
+    "image": "assets/hanja/6/戰.webp",
+    "hun": "싸울"
+  },
+  {
+    "char": "庭",
+    "yum": "정",
+    "meaning": "뜰 정",
+    "level": "6",
+    "image": "assets/hanja/6/庭.webp",
+    "hun": "뜰"
+  },
+  {
+    "char": "第",
+    "yum": "제",
+    "meaning": "차례 제",
+    "level": "6",
+    "image": "assets/hanja/6/第.webp",
+    "hun": "차례"
+  },
+  {
+    "char": "題",
+    "yum": "제",
+    "meaning": "제목 제",
+    "level": "6",
+    "image": "assets/hanja/6/題.webp",
+    "hun": "제목"
+  },
+  {
+    "char": "注",
+    "yum": "주",
+    "meaning": "부을 주",
+    "level": "6",
+    "image": "assets/hanja/6/注.webp",
+    "hun": "부을"
+  },
+  {
+    "char": "集",
+    "yum": "집",
+    "meaning": "모을 집",
+    "level": "6",
+    "image": "assets/hanja/6/集.webp",
+    "hun": "모을"
+  },
+  {
+    "char": "窓",
+    "yum": "창",
+    "meaning": "창문 창",
+    "level": "6",
+    "image": "assets/hanja/6/窓.webp",
+    "hun": "창문"
+  },
+  {
+    "char": "淸",
+    "yum": "청",
+    "meaning": "맑을 청",
+    "level": "6",
+    "image": "assets/hanja/6/淸.webp",
+    "hun": "맑을"
+  },
+  {
+    "char": "體",
+    "yum": "체",
+    "meaning": "몸 체",
+    "level": "6",
+    "image": "assets/hanja/6/體.webp",
+    "hun": "몸"
+  },
+  {
+    "char": "表",
+    "yum": "표",
+    "meaning": "겉 표",
+    "level": "6",
+    "image": "assets/hanja/6/表.webp",
+    "hun": "겉"
+  },
+  {
+    "char": "風",
+    "yum": "풍",
+    "meaning": "바람 풍",
+    "level": "6",
+    "image": "assets/hanja/6/風.webp",
+    "hun": "바람"
+  },
+  {
+    "char": "幸",
+    "yum": "행",
+    "meaning": "다행 행",
+    "level": "6",
+    "image": "assets/hanja/6/幸.webp",
+    "hun": "다행"
+  },
+  {
+    "char": "現",
+    "yum": "현",
+    "meaning": "나타날 현",
+    "level": "6",
+    "image": "assets/hanja/6/現.webp",
+    "hun": "나타날"
+  },
+  {
+    "char": "形",
+    "yum": "형",
+    "meaning": "모양 형",
+    "level": "6",
+    "image": "assets/hanja/6/形.webp",
+    "hun": "모양"
+  },
+  {
+    "char": "和",
+    "yum": "화",
+    "meaning": "화할 화",
+    "level": "6",
+    "image": "assets/hanja/6/和.webp",
+    "hun": "화할"
+  },
+  {
+    "char": "會",
+    "yum": "회",
+    "meaning": "모일 회",
+    "level": "6",
+    "image": "assets/hanja/6/會.webp",
+    "hun": "모일"
+  },
+  {
+    "char": "感",
+    "yum": "감",
+    "meaning": "느낄 감",
+    "level": "6",
+    "image": "assets/hanja/6/感.webp",
+    "hun": "느낄"
+  },
+  {
+    "char": "強",
+    "yum": "강",
+    "meaning": "강할 강",
+    "level": "6",
+    "image": "assets/hanja/6/強.webp",
+    "hun": "강할"
+  },
+  {
+    "char": "開",
+    "yum": "개",
+    "meaning": "열 개",
+    "level": "6",
+    "image": "assets/hanja/6/開.webp",
+    "hun": "열"
+  },
+  {
+    "char": "京",
+    "yum": "경",
+    "meaning": "서울 경",
+    "level": "6",
+    "image": "assets/hanja/6/京.webp",
+    "hun": "서울"
+  },
+  {
+    "char": "古",
+    "yum": "고",
+    "meaning": "예 고",
+    "level": "6",
+    "image": "assets/hanja/6/古.webp",
+    "hun": "예"
+  },
+  {
+    "char": "苦",
+    "yum": "고",
+    "meaning": "쓸 고",
+    "level": "6",
+    "image": "assets/hanja/6/苦.webp",
+    "hun": "쓸"
+  },
+  {
+    "char": "交",
+    "yum": "교",
+    "meaning": "사귈 교",
+    "level": "6",
+    "image": "assets/hanja/6/交.webp",
+    "hun": "사귈"
+  },
+  {
+    "char": "區",
+    "yum": "구",
+    "meaning": "구분할 구",
+    "level": "6",
+    "image": "assets/hanja/6/區.webp",
+    "hun": "구분할"
+  },
+  {
+    "char": "郡",
+    "yum": "군",
+    "meaning": "고을 군",
+    "level": "6",
+    "image": "assets/hanja/6/郡.webp",
+    "hun": "고을"
+  },
+  {
+    "char": "根",
+    "yum": "근",
+    "meaning": "뿌리 근",
+    "level": "6",
+    "image": "assets/hanja/6/根.webp",
+    "hun": "뿌리"
+  },
+  {
+    "char": "近",
+    "yum": "근",
+    "meaning": "가까울 근",
+    "level": "6",
+    "image": "assets/hanja/6/近.webp",
+    "hun": "가까울"
+  },
+  {
+    "char": "級",
+    "yum": "급",
+    "meaning": "등급 급",
+    "level": "6",
+    "image": "assets/hanja/6/級.webp",
+    "hun": "등급"
+  },
+  {
+    "char": "多",
+    "yum": "다",
+    "meaning": "많을 다",
+    "level": "6",
+    "image": "assets/hanja/6/多.webp",
+    "hun": "많을"
+  },
+  {
+    "char": "待",
+    "yum": "대",
+    "meaning": "기다릴 대",
+    "level": "6",
+    "image": "assets/hanja/6/待.webp",
+    "hun": "기다릴"
+  },
+  {
+    "char": "度",
+    "yum": "도",
+    "meaning": "법도 도",
+    "level": "6",
+    "image": "assets/hanja/6/度.webp",
+    "hun": "법도"
+  },
+  {
+    "char": "頭",
+    "yum": "두",
+    "meaning": "머리 두",
+    "level": "6",
+    "image": "assets/hanja/6/頭.webp",
+    "hun": "머리"
+  },
+  {
+    "char": "例",
+    "yum": "례",
+    "meaning": "법식 례",
+    "level": "6",
+    "image": "assets/hanja/6/例.webp",
+    "hun": "법식"
+  },
+  {
+    "char": "禮",
+    "yum": "례",
+    "meaning": "예도 례",
+    "level": "6",
+    "image": "assets/hanja/6/禮.webp",
+    "hun": "예도"
+  },
+  {
+    "char": "路",
+    "yum": "로",
+    "meaning": "길 로",
+    "level": "6",
+    "image": "assets/hanja/6/路.webp",
+    "hun": "길"
+  },
+  {
+    "char": "綠",
+    "yum": "록",
+    "meaning": "푸를 록",
+    "level": "6",
+    "image": "assets/hanja/6/綠.webp",
+    "hun": "푸를"
+  },
+  {
+    "char": "李",
+    "yum": "리",
+    "meaning": "오얏 리",
+    "level": "6",
+    "image": "assets/hanja/6/李.webp",
+    "hun": "오얏"
+  },
+  {
+    "char": "目",
+    "yum": "목",
+    "meaning": "눈 목",
+    "level": "6",
+    "image": "assets/hanja/6/目.webp",
+    "hun": "눈"
+  },
+  {
+    "char": "米",
+    "yum": "미",
+    "meaning": "쌀 미",
+    "level": "6",
+    "image": "assets/hanja/6/米.webp",
+    "hun": "쌀"
+  },
+  {
+    "char": "美",
+    "yum": "미",
+    "meaning": "아름다울 미",
+    "level": "6",
+    "image": "assets/hanja/6/美.webp",
+    "hun": "아름다울"
+  },
+  {
+    "char": "朴",
+    "yum": "박",
+    "meaning": "순박할 박",
+    "level": "6",
+    "image": "assets/hanja/6/朴.webp",
+    "hun": "순박할"
+  },
+  {
+    "char": "番",
+    "yum": "번",
+    "meaning": "차례 번",
+    "level": "6",
+    "image": "assets/hanja/6/番.webp",
+    "hun": "차례"
+  },
+  {
+    "char": "別",
+    "yum": "별",
+    "meaning": "다를 별",
+    "level": "6",
+    "image": "assets/hanja/6/別.webp",
+    "hun": "다를"
+  },
+  {
+    "char": "病",
+    "yum": "병",
+    "meaning": "병 병",
+    "level": "6",
+    "image": "assets/hanja/6/病.webp",
+    "hun": "병"
+  },
+  {
+    "char": "服",
+    "yum": "복",
+    "meaning": "옷 복",
+    "level": "6",
+    "image": "assets/hanja/6/服.webp",
+    "hun": "옷"
+  },
+  {
+    "char": "本",
+    "yum": "본",
+    "meaning": "근본 본",
+    "level": "6",
+    "image": "assets/hanja/6/本.webp",
+    "hun": "근본"
+  },
+  {
+    "char": "使",
+    "yum": "사",
+    "meaning": "부릴 사",
+    "level": "6",
+    "image": "assets/hanja/6/使.webp",
+    "hun": "부릴"
+  },
+  {
+    "char": "死",
+    "yum": "사",
+    "meaning": "죽을 사",
+    "level": "6",
+    "image": "assets/hanja/6/死.webp",
+    "hun": "죽을"
+  },
+  {
+    "char": "席",
+    "yum": "석",
+    "meaning": "자리 석",
+    "level": "6",
+    "image": "assets/hanja/6/席.webp",
+    "hun": "자리"
+  },
+  {
+    "char": "石",
+    "yum": "석",
+    "meaning": "돌 석",
+    "level": "6",
+    "image": "assets/hanja/6/石.webp",
+    "hun": "돌"
+  },
+  {
+    "char": "速",
+    "yum": "속",
+    "meaning": "빠를 속",
+    "level": "6",
+    "image": "assets/hanja/6/速.webp",
+    "hun": "빠를"
+  },
+  {
+    "char": "孫",
+    "yum": "손",
+    "meaning": "손자 손",
+    "level": "6",
+    "image": "assets/hanja/6/孫.webp",
+    "hun": "손자"
+  },
+  {
+    "char": "樹",
+    "yum": "수",
+    "meaning": "나무 수",
+    "level": "6",
+    "image": "assets/hanja/6/樹.webp",
+    "hun": "나무"
+  },
+  {
+    "char": "習",
+    "yum": "습",
+    "meaning": "익힐 습",
+    "level": "6",
+    "image": "assets/hanja/6/習.webp",
+    "hun": "익힐"
+  },
+  {
+    "char": "勝",
+    "yum": "승",
+    "meaning": "이길 승",
+    "level": "6",
+    "image": "assets/hanja/6/勝.webp",
+    "hun": "이길"
+  },
+  {
+    "char": "式",
+    "yum": "식",
+    "meaning": "법식 식",
+    "level": "6",
+    "image": "assets/hanja/6/式.webp",
+    "hun": "법식"
+  },
+  {
+    "char": "失",
+    "yum": "실",
+    "meaning": "잃을 실",
+    "level": "6",
+    "image": "assets/hanja/6/失.webp",
+    "hun": "잃을"
+  },
+  {
+    "char": "愛",
+    "yum": "애",
+    "meaning": "사랑 애",
+    "level": "6",
+    "image": "assets/hanja/6/愛.webp",
+    "hun": "사랑"
+  },
+  {
+    "char": "夜",
+    "yum": "야",
+    "meaning": "밤 야",
+    "level": "6",
+    "image": "assets/hanja/6/夜.webp",
+    "hun": "밤"
+  },
+  {
+    "char": "野",
+    "yum": "야",
+    "meaning": "들 야",
+    "level": "6",
+    "image": "assets/hanja/6/野.webp",
+    "hun": "들"
+  },
+  {
+    "char": "洋",
+    "yum": "양",
+    "meaning": "큰바다 양",
+    "level": "6",
+    "image": "assets/hanja/6/洋.webp",
+    "hun": "큰바다"
+  },
+  {
+    "char": "陽",
+    "yum": "양",
+    "meaning": "볕 양",
+    "level": "6",
+    "image": "assets/hanja/6/陽.webp",
+    "hun": "볕"
+  },
+  {
+    "char": "言",
+    "yum": "언",
+    "meaning": "말씀 언",
+    "level": "6",
+    "image": "assets/hanja/6/言.webp",
+    "hun": "말씀"
+  },
+  {
+    "char": "永",
+    "yum": "영",
+    "meaning": "길 영",
+    "level": "6",
+    "image": "assets/hanja/6/永.webp",
+    "hun": "길"
+  },
+  {
+    "char": "英",
+    "yum": "영",
+    "meaning": "꽃부리 영",
+    "level": "6",
+    "image": "assets/hanja/6/英.webp",
+    "hun": "꽃부리"
+  },
+  {
+    "char": "溫",
+    "yum": "온",
+    "meaning": "따뜻할 온",
+    "level": "6",
+    "image": "assets/hanja/6/溫.webp",
+    "hun": "따뜻할"
+  },
+  {
+    "char": "園",
+    "yum": "원",
+    "meaning": "동산 원",
+    "level": "6",
+    "image": "assets/hanja/6/園.webp",
+    "hun": "동산"
+  },
+  {
+    "char": "遠",
+    "yum": "원",
+    "meaning": "멀 원",
+    "level": "6",
+    "image": "assets/hanja/6/遠.webp",
+    "hun": "멀"
+  },
+  {
+    "char": "油",
+    "yum": "유",
+    "meaning": "기름 유",
+    "level": "6",
+    "image": "assets/hanja/6/油.webp",
+    "hun": "기름"
+  },
+  {
+    "char": "由",
+    "yum": "유",
+    "meaning": "말미암을 유",
+    "level": "6",
+    "image": "assets/hanja/6/由.webp",
+    "hun": "말미암을"
+  },
+  {
+    "char": "銀",
+    "yum": "은",
+    "meaning": "은 은",
+    "level": "6",
+    "image": "assets/hanja/6/銀.webp",
+    "hun": "은"
+  },
+  {
+    "char": "衣",
+    "yum": "의",
+    "meaning": "옷 의",
+    "level": "6",
+    "image": "assets/hanja/6/衣.webp",
+    "hun": "옷"
+  },
+  {
+    "char": "醫",
+    "yum": "의",
+    "meaning": "의원 의",
+    "level": "6",
+    "image": "assets/hanja/6/醫.webp",
+    "hun": "의원"
+  },
+  {
+    "char": "者",
+    "yum": "자",
+    "meaning": "놈 자",
+    "level": "6",
+    "image": "assets/hanja/6/者.webp",
+    "hun": "놈"
+  },
+  {
+    "char": "章",
+    "yum": "장",
+    "meaning": "글 장",
+    "level": "6",
+    "image": "assets/hanja/6/章.webp",
+    "hun": "글"
+  },
+  {
+    "char": "在",
+    "yum": "재",
+    "meaning": "있을 재",
+    "level": "6",
+    "image": "assets/hanja/6/在.webp",
+    "hun": "있을"
+  },
+  {
+    "char": "定",
+    "yum": "정",
+    "meaning": "정할 정",
+    "level": "6",
+    "image": "assets/hanja/6/定.webp",
+    "hun": "정할"
+  },
+  {
+    "char": "朝",
+    "yum": "조",
+    "meaning": "아침 조",
+    "level": "6",
+    "image": "assets/hanja/6/朝.webp",
+    "hun": "아침"
+  },
+  {
+    "char": "族",
+    "yum": "족",
+    "meaning": "겨레 족",
+    "level": "6",
+    "image": "assets/hanja/6/族.webp",
+    "hun": "겨레"
+  },
+  {
+    "char": "晝",
+    "yum": "주",
+    "meaning": "낮 주",
+    "level": "6",
+    "image": "assets/hanja/6/晝.webp",
+    "hun": "낮"
+  },
+  {
+    "char": "親",
+    "yum": "친",
+    "meaning": "친할 친",
+    "level": "6",
+    "image": "assets/hanja/6/親.webp",
+    "hun": "친할"
+  },
+  {
+    "char": "太",
+    "yum": "태",
+    "meaning": "클 태",
+    "level": "6",
+    "image": "assets/hanja/6/太.webp",
+    "hun": "클"
+  },
+  {
+    "char": "通",
+    "yum": "통",
+    "meaning": "통할 통",
+    "level": "6",
+    "image": "assets/hanja/6/通.webp",
+    "hun": "통할"
+  },
+  {
+    "char": "特",
+    "yum": "특",
+    "meaning": "특별할 특",
+    "level": "6",
+    "image": "assets/hanja/6/特.webp",
+    "hun": "특별할"
+  },
+  {
+    "char": "合",
+    "yum": "합",
+    "meaning": "합할 합",
+    "level": "6",
+    "image": "assets/hanja/6/合.webp",
+    "hun": "합할"
+  },
+  {
+    "char": "行",
+    "yum": "행",
+    "meaning": "다닐 행",
+    "level": "6",
+    "image": "assets/hanja/6/行.webp",
+    "hun": "다닐"
+  },
+  {
+    "char": "向",
+    "yum": "향",
+    "meaning": "향할 향",
+    "level": "6",
+    "image": "assets/hanja/6/向.webp",
+    "hun": "향할"
+  },
+  {
+    "char": "號",
+    "yum": "호",
+    "meaning": "부르짖을 호",
+    "level": "6",
+    "image": "assets/hanja/6/號.webp",
+    "hun": "부르짖을"
+  },
+  {
+    "char": "畫",
+    "yum": "화",
+    "meaning": "그림 화",
+    "level": "6",
+    "image": "assets/hanja/6/畫.webp",
+    "hun": "그림"
+  },
+  {
+    "char": "黃",
+    "yum": "황",
+    "meaning": "누를 황",
+    "level": "6",
+    "image": "assets/hanja/6/黃.webp",
+    "hun": "누를"
+  },
+  {
+    "char": "訓",
+    "yum": "훈",
+    "meaning": "가르칠 훈",
+    "level": "6",
+    "image": "assets/hanja/6/訓.webp",
+    "hun": "가르칠"
+  },
+  {
+    "char": "價",
+    "yum": "가",
+    "meaning": "값가",
+    "level": "5",
+    "image": "assets/hanja/5/價.webp",
+    "hun": "값"
+  },
+  {
+    "char": "客",
+    "yum": "객",
+    "meaning": "손객",
+    "level": "5",
+    "image": "assets/hanja/5/客.webp",
+    "hun": "손"
+  },
+  {
+    "char": "格",
+    "yum": "격",
+    "meaning": "격식격",
+    "level": "5",
+    "image": "assets/hanja/5/格.webp",
+    "hun": "격식"
+  },
+  {
+    "char": "見",
+    "yum": "견",
+    "meaning": "볼견",
+    "level": "5",
+    "image": "assets/hanja/5/見.webp",
+    "hun": "볼"
+  },
+  {
+    "char": "決",
+    "yum": "결",
+    "meaning": "결단할결",
+    "level": "5",
+    "image": "assets/hanja/5/決.webp",
+    "hun": "결단할"
+  },
+  {
+    "char": "結",
+    "yum": "결",
+    "meaning": "맺을결",
+    "level": "5",
+    "image": "assets/hanja/5/結.webp",
+    "hun": "맺을"
+  },
+  {
+    "char": "敬",
+    "yum": "경",
+    "meaning": "공경할경",
+    "level": "5",
+    "image": "assets/hanja/5/敬.webp",
+    "hun": "공경할"
+  },
+  {
+    "char": "告",
+    "yum": "고",
+    "meaning": "고할고",
+    "level": "5",
+    "image": "assets/hanja/5/告.webp",
+    "hun": "고할"
+  },
+  {
+    "char": "課",
+    "yum": "과",
+    "meaning": "과정과",
+    "level": "5",
+    "image": "assets/hanja/5/課.webp",
+    "hun": "과정"
+  },
+  {
+    "char": "過",
+    "yum": "과",
+    "meaning": "지날과",
+    "level": "5",
+    "image": "assets/hanja/5/過.webp",
+    "hun": "지날"
+  },
+  {
+    "char": "觀",
+    "yum": "관",
+    "meaning": "볼관",
+    "level": "5",
+    "image": "assets/hanja/5/觀.webp",
+    "hun": "볼"
+  },
+  {
+    "char": "關",
+    "yum": "관",
+    "meaning": "관계할관",
+    "level": "5",
+    "image": "assets/hanja/5/關.webp",
+    "hun": "관계할"
+  },
+  {
+    "char": "廣",
+    "yum": "광",
+    "meaning": "넓을광",
+    "level": "5",
+    "image": "assets/hanja/5/廣.webp",
+    "hun": "넓을"
+  },
+  {
+    "char": "具",
+    "yum": "구",
+    "meaning": "갖출구",
+    "level": "5",
+    "image": "assets/hanja/5/具.webp",
+    "hun": "갖출"
+  },
+  {
+    "char": "舊",
+    "yum": "구",
+    "meaning": "예구",
+    "level": "5",
+    "image": "assets/hanja/5/舊.webp",
+    "hun": "예"
+  },
+  {
+    "char": "局",
+    "yum": "국",
+    "meaning": "판국",
+    "level": "5",
+    "image": "assets/hanja/5/局.webp",
+    "hun": "판"
+  },
+  {
+    "char": "基",
+    "yum": "기",
+    "meaning": "터기",
+    "level": "5",
+    "image": "assets/hanja/5/基.webp",
+    "hun": "터"
+  },
+  {
+    "char": "己",
+    "yum": "기",
+    "meaning": "몸기",
+    "level": "5",
+    "image": "assets/hanja/5/己.webp",
+    "hun": "몸"
+  },
+  {
+    "char": "念",
+    "yum": "념",
+    "meaning": "생각념",
+    "level": "5",
+    "image": "assets/hanja/5/念.webp",
+    "hun": "생각"
+  },
+  {
+    "char": "能",
+    "yum": "능",
+    "meaning": "능할능",
+    "level": "5",
+    "image": "assets/hanja/5/能.webp",
+    "hun": "능할"
+  },
+  {
+    "char": "團",
+    "yum": "단",
+    "meaning": "둥글단",
+    "level": "5",
+    "image": "assets/hanja/5/團.webp",
+    "hun": "둥글"
+  },
+  {
+    "char": "當",
+    "yum": "당",
+    "meaning": "마땅당",
+    "level": "5",
+    "image": "assets/hanja/5/當.webp",
+    "hun": "마땅"
+  },
+  {
+    "char": "宅",
+    "yum": "댁",
+    "meaning": "집댁",
+    "level": "5",
+    "image": "assets/hanja/5/宅.webp",
+    "hun": "집"
+  },
+  {
+    "char": "德",
+    "yum": "덕",
+    "meaning": "덕덕",
+    "level": "5",
+    "image": "assets/hanja/5/德.webp",
+    "hun": "덕"
+  },
+  {
+    "char": "到",
+    "yum": "도",
+    "meaning": "이를도",
+    "level": "5",
+    "image": "assets/hanja/5/到.webp",
+    "hun": "이를"
+  },
+  {
+    "char": "獨",
+    "yum": "독",
+    "meaning": "홀로독",
+    "level": "5",
+    "image": "assets/hanja/5/獨.webp",
+    "hun": "홀로"
+  },
+  {
+    "char": "朗",
+    "yum": "랑",
+    "meaning": "밝을랑",
+    "level": "5",
+    "image": "assets/hanja/5/朗.webp",
+    "hun": "밝을"
+  },
+  {
+    "char": "良",
+    "yum": "량",
+    "meaning": "어질량",
+    "level": "5",
+    "image": "assets/hanja/5/良.webp",
+    "hun": "어질"
+  },
+  {
+    "char": "旅",
+    "yum": "려",
+    "meaning": "나그네려",
+    "level": "5",
+    "image": "assets/hanja/5/旅.webp",
+    "hun": "나그네"
+  },
+  {
+    "char": "歷",
+    "yum": "력",
+    "meaning": "지낼력",
+    "level": "5",
+    "image": "assets/hanja/5/歷.webp",
+    "hun": "지낼"
+  },
+  {
+    "char": "練",
+    "yum": "련",
+    "meaning": "익힐련",
+    "level": "5",
+    "image": "assets/hanja/5/練.webp",
+    "hun": "익힐"
+  },
+  {
+    "char": "勞",
+    "yum": "로",
+    "meaning": "일할로",
+    "level": "5",
+    "image": "assets/hanja/5/勞.webp",
+    "hun": "일할"
+  },
+  {
+    "char": "流",
+    "yum": "류",
+    "meaning": "흐를류",
+    "level": "5",
+    "image": "assets/hanja/5/流.webp",
+    "hun": "흐를"
+  },
+  {
+    "char": "類",
+    "yum": "류",
+    "meaning": "무리류",
+    "level": "5",
+    "image": "assets/hanja/5/類.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "陸",
+    "yum": "륙",
+    "meaning": "뭍륙",
+    "level": "5",
+    "image": "assets/hanja/5/陸.webp",
+    "hun": "뭍"
+  },
+  {
+    "char": "望",
+    "yum": "망",
+    "meaning": "바랄망",
+    "level": "5",
+    "image": "assets/hanja/5/望.webp",
+    "hun": "바랄"
+  },
+  {
+    "char": "法",
+    "yum": "법",
+    "meaning": "법법",
+    "level": "5",
+    "image": "assets/hanja/5/法.webp",
+    "hun": "법"
+  },
+  {
+    "char": "變",
+    "yum": "변",
+    "meaning": "변할변",
+    "level": "5",
+    "image": "assets/hanja/5/變.webp",
+    "hun": "변할"
+  },
+  {
+    "char": "兵",
+    "yum": "병",
+    "meaning": "병사병",
+    "level": "5",
+    "image": "assets/hanja/5/兵.webp",
+    "hun": "병사"
+  },
+  {
+    "char": "福",
+    "yum": "복",
+    "meaning": "복복",
+    "level": "5",
+    "image": "assets/hanja/5/福.webp",
+    "hun": "복"
+  },
+  {
+    "char": "奉",
+    "yum": "봉",
+    "meaning": "받들봉",
+    "level": "5",
+    "image": "assets/hanja/5/奉.webp",
+    "hun": "받들"
+  },
+  {
+    "char": "仕",
+    "yum": "사",
+    "meaning": "섬길사",
+    "level": "5",
+    "image": "assets/hanja/5/仕.webp",
+    "hun": "섬길"
+  },
+  {
+    "char": "史",
+    "yum": "사",
+    "meaning": "역사사",
+    "level": "5",
+    "image": "assets/hanja/5/史.webp",
+    "hun": "역사"
+  },
+  {
+    "char": "士",
+    "yum": "사",
+    "meaning": "선비사",
+    "level": "5",
+    "image": "assets/hanja/5/士.webp",
+    "hun": "선비"
+  },
+  {
+    "char": "産",
+    "yum": "산",
+    "meaning": "낳을산",
+    "level": "5",
+    "image": "assets/hanja/5/産.webp",
+    "hun": "낳을"
+  },
+  {
+    "char": "商",
+    "yum": "상",
+    "meaning": "장사상",
+    "level": "5",
+    "image": "assets/hanja/5/商.webp",
+    "hun": "장사"
+  },
+  {
+    "char": "相",
+    "yum": "상",
+    "meaning": "서로상",
+    "level": "5",
+    "image": "assets/hanja/5/相.webp",
+    "hun": "서로"
+  },
+  {
+    "char": "仙",
+    "yum": "선",
+    "meaning": "신선선",
+    "level": "5",
+    "image": "assets/hanja/5/仙.webp",
+    "hun": "신선"
+  },
+  {
+    "char": "鮮",
+    "yum": "선",
+    "meaning": "고울선",
+    "level": "5",
+    "image": "assets/hanja/5/鮮.webp",
+    "hun": "고울"
+  },
+  {
+    "char": "說",
+    "yum": "설",
+    "meaning": "말씀설",
+    "level": "5",
+    "image": "assets/hanja/5/說.webp",
+    "hun": "말씀"
+  },
+  {
+    "char": "性",
+    "yum": "성",
+    "meaning": "성품성",
+    "level": "5",
+    "image": "assets/hanja/5/性.webp",
+    "hun": "성품"
+  },
+  {
+    "char": "歲",
+    "yum": "세",
+    "meaning": "해세",
+    "level": "5",
+    "image": "assets/hanja/5/歲.webp",
+    "hun": "해"
+  },
+  {
+    "char": "洗",
+    "yum": "세",
+    "meaning": "씻을세",
+    "level": "5",
+    "image": "assets/hanja/5/洗.webp",
+    "hun": "씻을"
+  },
+  {
+    "char": "束",
+    "yum": "속",
+    "meaning": "묶을속",
+    "level": "5",
+    "image": "assets/hanja/5/束.webp",
+    "hun": "묶을"
+  },
+  {
+    "char": "首",
+    "yum": "수",
+    "meaning": "머리수",
+    "level": "5",
+    "image": "assets/hanja/5/首.webp",
+    "hun": "머리"
+  },
+  {
+    "char": "宿",
+    "yum": "숙",
+    "meaning": "잘숙",
+    "level": "5",
+    "image": "assets/hanja/5/宿.webp",
+    "hun": "잘"
+  },
+  {
+    "char": "順",
+    "yum": "순",
+    "meaning": "순할순",
+    "level": "5",
+    "image": "assets/hanja/5/順.webp",
+    "hun": "순할"
+  },
+  {
+    "char": "識",
+    "yum": "식",
+    "meaning": "알식",
+    "level": "5",
+    "image": "assets/hanja/5/識.webp",
+    "hun": "알"
+  },
+  {
+    "char": "臣",
+    "yum": "신",
+    "meaning": "신하신",
+    "level": "5",
+    "image": "assets/hanja/5/臣.webp",
+    "hun": "신하"
+  },
+  {
+    "char": "實",
+    "yum": "실",
+    "meaning": "열매실",
+    "level": "5",
+    "image": "assets/hanja/5/實.webp",
+    "hun": "열매"
+  },
+  {
+    "char": "兒",
+    "yum": "아",
+    "meaning": "아이아",
+    "level": "5",
+    "image": "assets/hanja/5/兒.webp",
+    "hun": "아이"
+  },
+  {
+    "char": "惡",
+    "yum": "악",
+    "meaning": "악할악",
+    "level": "5",
+    "image": "assets/hanja/5/惡.webp",
+    "hun": "악할"
+  },
+  {
+    "char": "約",
+    "yum": "약",
+    "meaning": "맺을약",
+    "level": "5",
+    "image": "assets/hanja/5/約.webp",
+    "hun": "맺을"
+  },
+  {
+    "char": "養",
+    "yum": "양",
+    "meaning": "기를양",
+    "level": "5",
+    "image": "assets/hanja/5/養.webp",
+    "hun": "기를"
+  },
+  {
+    "char": "要",
+    "yum": "요",
+    "meaning": "요긴할요",
+    "level": "5",
+    "image": "assets/hanja/5/要.webp",
+    "hun": "요긴할"
+  },
+  {
+    "char": "友",
+    "yum": "우",
+    "meaning": "벗우",
+    "level": "5",
+    "image": "assets/hanja/5/友.webp",
+    "hun": "벗"
+  },
+  {
+    "char": "雨",
+    "yum": "우",
+    "meaning": "비우",
+    "level": "5",
+    "image": "assets/hanja/5/雨.webp",
+    "hun": "비"
+  },
+  {
+    "char": "雲",
+    "yum": "운",
+    "meaning": "구름운",
+    "level": "5",
+    "image": "assets/hanja/5/雲.webp",
+    "hun": "구름"
+  },
+  {
+    "char": "元",
+    "yum": "원",
+    "meaning": "으뜸원",
+    "level": "5",
+    "image": "assets/hanja/5/元.webp",
+    "hun": "으뜸"
+  },
+  {
+    "char": "偉",
+    "yum": "위",
+    "meaning": "클위",
+    "level": "5",
+    "image": "assets/hanja/5/偉.webp",
+    "hun": "클"
+  },
+  {
+    "char": "以",
+    "yum": "이",
+    "meaning": "써이",
+    "level": "5",
+    "image": "assets/hanja/5/以.webp",
+    "hun": "써"
+  },
+  {
+    "char": "任",
+    "yum": "임",
+    "meaning": "맡길임",
+    "level": "5",
+    "image": "assets/hanja/5/任.webp",
+    "hun": "맡길"
+  },
+  {
+    "char": "材",
+    "yum": "재",
+    "meaning": "재목재",
+    "level": "5",
+    "image": "assets/hanja/5/材.webp",
+    "hun": "재목"
+  },
+  {
+    "char": "財",
+    "yum": "재",
+    "meaning": "재물재",
+    "level": "5",
+    "image": "assets/hanja/5/財.webp",
+    "hun": "재물"
+  },
+  {
+    "char": "的",
+    "yum": "적",
+    "meaning": "과녁적",
+    "level": "5",
+    "image": "assets/hanja/5/的.webp",
+    "hun": "과녁"
+  },
+  {
+    "char": "傳",
+    "yum": "전",
+    "meaning": "전할전",
+    "level": "5",
+    "image": "assets/hanja/5/傳.webp",
+    "hun": "전할"
+  },
+  {
+    "char": "典",
+    "yum": "전",
+    "meaning": "법전",
+    "level": "5",
+    "image": "assets/hanja/5/典.webp",
+    "hun": "법"
+  },
+  {
+    "char": "展",
+    "yum": "전",
+    "meaning": "펼전",
+    "level": "5",
+    "image": "assets/hanja/5/展.webp",
+    "hun": "펼"
+  },
+  {
+    "char": "切",
+    "yum": "절",
+    "meaning": "끊을절",
+    "level": "5",
+    "image": "assets/hanja/5/切.webp",
+    "hun": "끊을"
+  },
+  {
+    "char": "節",
+    "yum": "절",
+    "meaning": "마디절",
+    "level": "5",
+    "image": "assets/hanja/5/節.webp",
+    "hun": "마디"
+  },
+  {
+    "char": "店",
+    "yum": "점",
+    "meaning": "가게점",
+    "level": "5",
+    "image": "assets/hanja/5/店.webp",
+    "hun": "가게"
+  },
+  {
+    "char": "情",
+    "yum": "정",
+    "meaning": "뜻정",
+    "level": "5",
+    "image": "assets/hanja/5/情.webp",
+    "hun": "뜻"
+  },
+  {
+    "char": "調",
+    "yum": "조",
+    "meaning": "고를조",
+    "level": "5",
+    "image": "assets/hanja/5/調.webp",
+    "hun": "고를"
+  },
+  {
+    "char": "卒",
+    "yum": "졸",
+    "meaning": "마칠졸",
+    "level": "5",
+    "image": "assets/hanja/5/卒.webp",
+    "hun": "마칠"
+  },
+  {
+    "char": "種",
+    "yum": "종",
+    "meaning": "씨종",
+    "level": "5",
+    "image": "assets/hanja/5/種.webp",
+    "hun": "씨"
+  },
+  {
+    "char": "州",
+    "yum": "주",
+    "meaning": "고을주",
+    "level": "5",
+    "image": "assets/hanja/5/州.webp",
+    "hun": "고을"
+  },
+  {
+    "char": "週",
+    "yum": "주",
+    "meaning": "돌주",
+    "level": "5",
+    "image": "assets/hanja/5/週.webp",
+    "hun": "돌"
+  },
+  {
+    "char": "知",
+    "yum": "지",
+    "meaning": "알지",
+    "level": "5",
+    "image": "assets/hanja/5/知.webp",
+    "hun": "알"
+  },
+  {
+    "char": "質",
+    "yum": "질",
+    "meaning": "바탕질",
+    "level": "5",
+    "image": "assets/hanja/5/質.webp",
+    "hun": "바탕"
+  },
+  {
+    "char": "着",
+    "yum": "착",
+    "meaning": "붙을착",
+    "level": "5",
+    "image": "assets/hanja/5/着.webp",
+    "hun": "붙을"
+  },
+  {
+    "char": "參",
+    "yum": "참",
+    "meaning": "참여할참",
+    "level": "5",
+    "image": "assets/hanja/5/參.webp",
+    "hun": "참여할"
+  },
+  {
+    "char": "責",
+    "yum": "책",
+    "meaning": "꾸짖을책",
+    "level": "5",
+    "image": "assets/hanja/5/責.webp",
+    "hun": "꾸짖을"
+  },
+  {
+    "char": "充",
+    "yum": "충",
+    "meaning": "채울충",
+    "level": "5",
+    "image": "assets/hanja/5/充.webp",
+    "hun": "채울"
+  },
+  {
+    "char": "品",
+    "yum": "품",
+    "meaning": "물건품",
+    "level": "5",
+    "image": "assets/hanja/5/品.webp",
+    "hun": "물건"
+  },
+  {
+    "char": "必",
+    "yum": "필",
+    "meaning": "반드시필",
+    "level": "5",
+    "image": "assets/hanja/5/必.webp",
+    "hun": "반드시"
+  },
+  {
+    "char": "筆",
+    "yum": "필",
+    "meaning": "붓필",
+    "level": "5",
+    "image": "assets/hanja/5/筆.webp",
+    "hun": "붓"
+  },
+  {
+    "char": "害",
+    "yum": "해",
+    "meaning": "해할해",
+    "level": "5",
+    "image": "assets/hanja/5/害.webp",
+    "hun": "해할"
+  },
+  {
+    "char": "化",
+    "yum": "화",
+    "meaning": "될화",
+    "level": "5",
+    "image": "assets/hanja/5/化.webp",
+    "hun": "될"
+  },
+  {
+    "char": "效",
+    "yum": "효",
+    "meaning": "본받을효",
+    "level": "5",
+    "image": "assets/hanja/5/效.webp",
+    "hun": "본받을"
+  },
+  {
+    "char": "凶",
+    "yum": "흉",
+    "meaning": "흉할흉",
+    "level": "5",
+    "image": "assets/hanja/5/凶.webp",
+    "hun": "흉할"
+  },
+  {
+    "char": "加",
+    "yum": "가",
+    "meaning": "더할가",
+    "level": "5",
+    "image": "assets/hanja/5/加.webp",
+    "hun": "더할"
+  },
+  {
+    "char": "可",
+    "yum": "가",
+    "meaning": "옳을가",
+    "level": "5",
+    "image": "assets/hanja/5/可.webp",
+    "hun": "옳을"
+  },
+  {
+    "char": "改",
+    "yum": "개",
+    "meaning": "고칠개",
+    "level": "5",
+    "image": "assets/hanja/5/改.webp",
+    "hun": "고칠"
+  },
+  {
+    "char": "去",
+    "yum": "거",
+    "meaning": "갈거",
+    "level": "5",
+    "image": "assets/hanja/5/去.webp",
+    "hun": "갈"
+  },
+  {
+    "char": "擧",
+    "yum": "거",
+    "meaning": "들거",
+    "level": "5",
+    "image": "assets/hanja/5/擧.webp",
+    "hun": "들"
+  },
+  {
+    "char": "件",
+    "yum": "건",
+    "meaning": "물건건",
+    "level": "5",
+    "image": "assets/hanja/5/件.webp",
+    "hun": "물건"
+  },
+  {
+    "char": "健",
+    "yum": "건",
+    "meaning": "굳셀건",
+    "level": "5",
+    "image": "assets/hanja/5/健.webp",
+    "hun": "굳셀"
+  },
+  {
+    "char": "建",
+    "yum": "건",
+    "meaning": "세울건",
+    "level": "5",
+    "image": "assets/hanja/5/建.webp",
+    "hun": "세울"
+  },
+  {
+    "char": "景",
+    "yum": "경",
+    "meaning": "볕경",
+    "level": "5",
+    "image": "assets/hanja/5/景.webp",
+    "hun": "볕"
+  },
+  {
+    "char": "競",
+    "yum": "경",
+    "meaning": "다툴경",
+    "level": "5",
+    "image": "assets/hanja/5/競.webp",
+    "hun": "다툴"
+  },
+  {
+    "char": "輕",
+    "yum": "경",
+    "meaning": "가벼울경",
+    "level": "5",
+    "image": "assets/hanja/5/輕.webp",
+    "hun": "가벼울"
+  },
+  {
+    "char": "固",
+    "yum": "고",
+    "meaning": "굳을고",
+    "level": "5",
+    "image": "assets/hanja/5/固.webp",
+    "hun": "굳을"
+  },
+  {
+    "char": "考",
+    "yum": "고",
+    "meaning": "생각고",
+    "level": "5",
+    "image": "assets/hanja/5/考.webp",
+    "hun": "생각"
+  },
+  {
+    "char": "曲",
+    "yum": "곡",
+    "meaning": "굽을곡",
+    "level": "5",
+    "image": "assets/hanja/5/曲.webp",
+    "hun": "굽을"
+  },
+  {
+    "char": "橋",
+    "yum": "교",
+    "meaning": "다리교",
+    "level": "5",
+    "image": "assets/hanja/5/橋.webp",
+    "hun": "다리"
+  },
+  {
+    "char": "救",
+    "yum": "구",
+    "meaning": "구원할구",
+    "level": "5",
+    "image": "assets/hanja/5/救.webp",
+    "hun": "구원할"
+  },
+  {
+    "char": "貴",
+    "yum": "귀",
+    "meaning": "귀할귀",
+    "level": "5",
+    "image": "assets/hanja/5/貴.webp",
+    "hun": "귀할"
+  },
+  {
+    "char": "規",
+    "yum": "규",
+    "meaning": "법규",
+    "level": "5",
+    "image": "assets/hanja/5/規.webp",
+    "hun": "법"
+  },
+  {
+    "char": "給",
+    "yum": "급",
+    "meaning": "줄급",
+    "level": "5",
+    "image": "assets/hanja/5/給.webp",
+    "hun": "줄"
+  },
+  {
+    "char": "技",
+    "yum": "기",
+    "meaning": "재주기",
+    "level": "5",
+    "image": "assets/hanja/5/技.webp",
+    "hun": "재주"
+  },
+  {
+    "char": "期",
+    "yum": "기",
+    "meaning": "기약할기",
+    "level": "5",
+    "image": "assets/hanja/5/期.webp",
+    "hun": "기약할"
+  },
+  {
+    "char": "汽",
+    "yum": "기",
+    "meaning": "김기",
+    "level": "5",
+    "image": "assets/hanja/5/汽.webp",
+    "hun": "김"
+  },
+  {
+    "char": "吉",
+    "yum": "길",
+    "meaning": "길할길",
+    "level": "5",
+    "image": "assets/hanja/5/吉.webp",
+    "hun": "길할"
+  },
+  {
+    "char": "壇",
+    "yum": "단",
+    "meaning": "단단",
+    "level": "5",
+    "image": "assets/hanja/5/壇.webp",
+    "hun": "단"
+  },
+  {
+    "char": "談",
+    "yum": "담",
+    "meaning": "말씀담",
+    "level": "5",
+    "image": "assets/hanja/5/談.webp",
+    "hun": "말씀"
+  },
+  {
+    "char": "島",
+    "yum": "도",
+    "meaning": "섬도",
+    "level": "5",
+    "image": "assets/hanja/5/島.webp",
+    "hun": "섬"
+  },
+  {
+    "char": "都",
+    "yum": "도",
+    "meaning": "도읍도",
+    "level": "5",
+    "image": "assets/hanja/5/都.webp",
+    "hun": "도읍"
+  },
+  {
+    "char": "落",
+    "yum": "락",
+    "meaning": "떨어질락",
+    "level": "5",
+    "image": "assets/hanja/5/落.webp",
+    "hun": "떨어질"
+  },
+  {
+    "char": "冷",
+    "yum": "랭",
+    "meaning": "찰랭",
+    "level": "5",
+    "image": "assets/hanja/5/冷.webp",
+    "hun": "찰"
+  },
+  {
+    "char": "量",
+    "yum": "량",
+    "meaning": "헤아릴량",
+    "level": "5",
+    "image": "assets/hanja/5/量.webp",
+    "hun": "헤아릴"
+  },
+  {
+    "char": "令",
+    "yum": "령",
+    "meaning": "좋을령",
+    "level": "5",
+    "image": "assets/hanja/5/令.webp",
+    "hun": "좋을"
+  },
+  {
+    "char": "領",
+    "yum": "령",
+    "meaning": "거느릴령",
+    "level": "5",
+    "image": "assets/hanja/5/領.webp",
+    "hun": "거느릴"
+  },
+  {
+    "char": "料",
+    "yum": "료",
+    "meaning": "재료료",
+    "level": "5",
+    "image": "assets/hanja/5/料.webp",
+    "hun": "재료"
+  },
+  {
+    "char": "馬",
+    "yum": "마",
+    "meaning": "말마",
+    "level": "5",
+    "image": "assets/hanja/5/馬.webp",
+    "hun": "말"
+  },
+  {
+    "char": "末",
+    "yum": "말",
+    "meaning": "끝말",
+    "level": "5",
+    "image": "assets/hanja/5/末.webp",
+    "hun": "끝"
+  },
+  {
+    "char": "亡",
+    "yum": "망",
+    "meaning": "망할망",
+    "level": "5",
+    "image": "assets/hanja/5/亡.webp",
+    "hun": "망할"
+  },
+  {
+    "char": "買",
+    "yum": "매",
+    "meaning": "살매",
+    "level": "5",
+    "image": "assets/hanja/5/買.webp",
+    "hun": "살"
+  },
+  {
+    "char": "賣",
+    "yum": "매",
+    "meaning": "팔매",
+    "level": "5",
+    "image": "assets/hanja/5/賣.webp",
+    "hun": "팔"
+  },
+  {
+    "char": "無",
+    "yum": "무",
+    "meaning": "없을무",
+    "level": "5",
+    "image": "assets/hanja/5/無.webp",
+    "hun": "없을"
+  },
+  {
+    "char": "倍",
+    "yum": "배",
+    "meaning": "곱배",
+    "level": "5",
+    "image": "assets/hanja/5/倍.webp",
+    "hun": "곱"
+  },
+  {
+    "char": "比",
+    "yum": "비",
+    "meaning": "견줄비",
+    "level": "5",
+    "image": "assets/hanja/5/比.webp",
+    "hun": "견줄"
+  },
+  {
+    "char": "費",
+    "yum": "비",
+    "meaning": "쓸비",
+    "level": "5",
+    "image": "assets/hanja/5/費.webp",
+    "hun": "쓸"
+  },
+  {
+    "char": "鼻",
+    "yum": "비",
+    "meaning": "코비",
+    "level": "5",
+    "image": "assets/hanja/5/鼻.webp",
+    "hun": "코"
+  },
+  {
+    "char": "氷",
+    "yum": "빙",
+    "meaning": "얼음빙",
+    "level": "5",
+    "image": "assets/hanja/5/氷.webp",
+    "hun": "얼음"
+  },
+  {
+    "char": "寫",
+    "yum": "사",
+    "meaning": "베낄사",
+    "level": "5",
+    "image": "assets/hanja/5/寫.webp",
+    "hun": "베낄"
+  },
+  {
+    "char": "思",
+    "yum": "사",
+    "meaning": "생각사",
+    "level": "5",
+    "image": "assets/hanja/5/思.webp",
+    "hun": "생각"
+  },
+  {
+    "char": "査",
+    "yum": "사",
+    "meaning": "조사할사",
+    "level": "5",
+    "image": "assets/hanja/5/査.webp",
+    "hun": "조사할"
+  },
+  {
+    "char": "賞",
+    "yum": "상",
+    "meaning": "상줄상",
+    "level": "5",
+    "image": "assets/hanja/5/賞.webp",
+    "hun": "상줄"
+  },
+  {
+    "char": "序",
+    "yum": "서",
+    "meaning": "차례서",
+    "level": "5",
+    "image": "assets/hanja/5/序.webp",
+    "hun": "차례"
+  },
+  {
+    "char": "善",
+    "yum": "선",
+    "meaning": "착할선",
+    "level": "5",
+    "image": "assets/hanja/5/善.webp",
+    "hun": "착할"
+  },
+  {
+    "char": "船",
+    "yum": "선",
+    "meaning": "배선",
+    "level": "5",
+    "image": "assets/hanja/5/船.webp",
+    "hun": "배"
+  },
+  {
+    "char": "選",
+    "yum": "선",
+    "meaning": "가릴선",
+    "level": "5",
+    "image": "assets/hanja/5/選.webp",
+    "hun": "가릴"
+  },
+  {
+    "char": "示",
+    "yum": "시",
+    "meaning": "보일시",
+    "level": "5",
+    "image": "assets/hanja/5/示.webp",
+    "hun": "보일"
+  },
+  {
+    "char": "案",
+    "yum": "안",
+    "meaning": "책상안",
+    "level": "5",
+    "image": "assets/hanja/5/案.webp",
+    "hun": "책상"
+  },
+  {
+    "char": "漁",
+    "yum": "어",
+    "meaning": "고기잡을어",
+    "level": "5",
+    "image": "assets/hanja/5/漁.webp",
+    "hun": "고기잡을"
+  },
+  {
+    "char": "魚",
+    "yum": "어",
+    "meaning": "물고기어",
+    "level": "5",
+    "image": "assets/hanja/5/魚.webp",
+    "hun": "물고기"
+  },
+  {
+    "char": "億",
+    "yum": "억",
+    "meaning": "억억",
+    "level": "5",
+    "image": "assets/hanja/5/億.webp",
+    "hun": "억"
+  },
+  {
+    "char": "熱",
+    "yum": "열",
+    "meaning": "더울열",
+    "level": "5",
+    "image": "assets/hanja/5/熱.webp",
+    "hun": "더울"
+  },
+  {
+    "char": "葉",
+    "yum": "엽",
+    "meaning": "잎엽",
+    "level": "5",
+    "image": "assets/hanja/5/葉.webp",
+    "hun": "잎"
+  },
+  {
+    "char": "屋",
+    "yum": "옥",
+    "meaning": "집옥",
+    "level": "5",
+    "image": "assets/hanja/5/屋.webp",
+    "hun": "집"
+  },
+  {
+    "char": "完",
+    "yum": "완",
+    "meaning": "완전할완",
+    "level": "5",
+    "image": "assets/hanja/5/完.webp",
+    "hun": "완전할"
+  },
+  {
+    "char": "曜",
+    "yum": "요",
+    "meaning": "빛날요",
+    "level": "5",
+    "image": "assets/hanja/5/曜.webp",
+    "hun": "빛날"
+  },
+  {
+    "char": "浴",
+    "yum": "욕",
+    "meaning": "목욕할욕",
+    "level": "5",
+    "image": "assets/hanja/5/浴.webp",
+    "hun": "목욕할"
+  },
+  {
+    "char": "牛",
+    "yum": "우",
+    "meaning": "소우",
+    "level": "5",
+    "image": "assets/hanja/5/牛.webp",
+    "hun": "소"
+  },
+  {
+    "char": "雄",
+    "yum": "웅",
+    "meaning": "수컷웅",
+    "level": "5",
+    "image": "assets/hanja/5/雄.webp",
+    "hun": "수컷"
+  },
+  {
+    "char": "原",
+    "yum": "원",
+    "meaning": "근원원",
+    "level": "5",
+    "image": "assets/hanja/5/原.webp",
+    "hun": "근원"
+  },
+  {
+    "char": "院",
+    "yum": "원",
+    "meaning": "집원",
+    "level": "5",
+    "image": "assets/hanja/5/院.webp",
+    "hun": "집"
+  },
+  {
+    "char": "願",
+    "yum": "원",
+    "meaning": "원할원",
+    "level": "5",
+    "image": "assets/hanja/5/願.webp",
+    "hun": "원할"
+  },
+  {
+    "char": "位",
+    "yum": "위",
+    "meaning": "자리위",
+    "level": "5",
+    "image": "assets/hanja/5/位.webp",
+    "hun": "자리"
+  },
+  {
+    "char": "耳",
+    "yum": "이",
+    "meaning": "귀이",
+    "level": "5",
+    "image": "assets/hanja/5/耳.webp",
+    "hun": "귀"
+  },
+  {
+    "char": "因",
+    "yum": "인",
+    "meaning": "인할인",
+    "level": "5",
+    "image": "assets/hanja/5/因.webp",
+    "hun": "인할"
+  },
+  {
+    "char": "再",
+    "yum": "재",
+    "meaning": "다시재",
+    "level": "5",
+    "image": "assets/hanja/5/再.webp",
+    "hun": "다시"
+  },
+  {
+    "char": "災",
+    "yum": "재",
+    "meaning": "재앙재",
+    "level": "5",
+    "image": "assets/hanja/5/災.webp",
+    "hun": "재앙"
+  },
+  {
+    "char": "爭",
+    "yum": "쟁",
+    "meaning": "다툴쟁",
+    "level": "5",
+    "image": "assets/hanja/5/爭.webp",
+    "hun": "다툴"
+  },
+  {
+    "char": "貯",
+    "yum": "저",
+    "meaning": "쌓을저",
+    "level": "5",
+    "image": "assets/hanja/5/貯.webp",
+    "hun": "쌓을"
+  },
+  {
+    "char": "赤",
+    "yum": "적",
+    "meaning": "붉을적",
+    "level": "5",
+    "image": "assets/hanja/5/赤.webp",
+    "hun": "붉을"
+  },
+  {
+    "char": "停",
+    "yum": "정",
+    "meaning": "머물정",
+    "level": "5",
+    "image": "assets/hanja/5/停.webp",
+    "hun": "머물"
+  },
+  {
+    "char": "操",
+    "yum": "조",
+    "meaning": "잡을조",
+    "level": "5",
+    "image": "assets/hanja/5/操.webp",
+    "hun": "잡을"
+  },
+  {
+    "char": "終",
+    "yum": "종",
+    "meaning": "마칠종",
+    "level": "5",
+    "image": "assets/hanja/5/終.webp",
+    "hun": "마칠"
+  },
+  {
+    "char": "罪",
+    "yum": "죄",
+    "meaning": "허물죄",
+    "level": "5",
+    "image": "assets/hanja/5/罪.webp",
+    "hun": "허물"
+  },
+  {
+    "char": "止",
+    "yum": "지",
+    "meaning": "그칠지",
+    "level": "5",
+    "image": "assets/hanja/5/止.webp",
+    "hun": "그칠"
+  },
+  {
+    "char": "唱",
+    "yum": "창",
+    "meaning": "부를창",
+    "level": "5",
+    "image": "assets/hanja/5/唱.webp",
+    "hun": "부를"
+  },
+  {
+    "char": "鐵",
+    "yum": "철",
+    "meaning": "쇠철",
+    "level": "5",
+    "image": "assets/hanja/5/鐵.webp",
+    "hun": "쇠"
+  },
+  {
+    "char": "初",
+    "yum": "초",
+    "meaning": "처음초",
+    "level": "5",
+    "image": "assets/hanja/5/初.webp",
+    "hun": "처음"
+  },
+  {
+    "char": "最",
+    "yum": "최",
+    "meaning": "가장최",
+    "level": "5",
+    "image": "assets/hanja/5/最.webp",
+    "hun": "가장"
+  },
+  {
+    "char": "祝",
+    "yum": "축",
+    "meaning": "빌축",
+    "level": "5",
+    "image": "assets/hanja/5/祝.webp",
+    "hun": "빌"
+  },
+  {
+    "char": "致",
+    "yum": "치",
+    "meaning": "이를치",
+    "level": "5",
+    "image": "assets/hanja/5/致.webp",
+    "hun": "이를"
+  },
+  {
+    "char": "則",
+    "yum": "즉",
+    "meaning": "법칙즉",
+    "level": "5",
+    "image": "assets/hanja/5/則.webp",
+    "hun": "법칙"
+  },
+  {
+    "char": "他",
+    "yum": "타",
+    "meaning": "남타",
+    "level": "5",
+    "image": "assets/hanja/5/他.webp",
+    "hun": "남"
+  },
+  {
+    "char": "打",
+    "yum": "타",
+    "meaning": "칠타",
+    "level": "5",
+    "image": "assets/hanja/5/打.webp",
+    "hun": "칠"
+  },
+  {
+    "char": "卓",
+    "yum": "탁",
+    "meaning": "높을탁",
+    "level": "5",
+    "image": "assets/hanja/5/卓.webp",
+    "hun": "높을"
+  },
+  {
+    "char": "炭",
+    "yum": "탄",
+    "meaning": "숯탄",
+    "level": "5",
+    "image": "assets/hanja/5/炭.webp",
+    "hun": "숯"
+  },
+  {
+    "char": "板",
+    "yum": "판",
+    "meaning": "널판",
+    "level": "5",
+    "image": "assets/hanja/5/板.webp",
+    "hun": "널"
+  },
+  {
+    "char": "敗",
+    "yum": "패",
+    "meaning": "질패",
+    "level": "5",
+    "image": "assets/hanja/5/敗.webp",
+    "hun": "질"
+  },
+  {
+    "char": "河",
+    "yum": "하",
+    "meaning": "물하",
+    "level": "5",
+    "image": "assets/hanja/5/河.webp",
+    "hun": "물"
+  },
+  {
+    "char": "寒",
+    "yum": "한",
+    "meaning": "찰한",
+    "level": "5",
+    "image": "assets/hanja/5/寒.webp",
+    "hun": "찰"
+  },
+  {
+    "char": "許",
+    "yum": "허",
+    "meaning": "허락할허",
+    "level": "5",
+    "image": "assets/hanja/5/許.webp",
+    "hun": "허락할"
+  },
+  {
+    "char": "湖",
+    "yum": "호",
+    "meaning": "호수호",
+    "level": "5",
+    "image": "assets/hanja/5/湖.webp",
+    "hun": "호수"
+  },
+  {
+    "char": "患",
+    "yum": "환",
+    "meaning": "근심환",
+    "level": "5",
+    "image": "assets/hanja/5/患.webp",
+    "hun": "근심"
+  },
+  {
+    "char": "黑",
+    "yum": "흑",
+    "meaning": "검을흑",
+    "level": "5",
+    "image": "assets/hanja/5/黑.webp",
+    "hun": "검을"
+  },
+  {
+    "char": "假",
+    "yum": "짓",
+    "meaning": "거짓/빌릴가",
+    "level": "4",
+    "image": "assets/hanja/4/假.webp",
+    "hun": "거"
+  },
+  {
+    "char": "街",
+    "yum": "가",
+    "meaning": "거리가",
+    "level": "4",
+    "image": "assets/hanja/4/街.webp",
+    "hun": "거리"
+  },
+  {
+    "char": "減",
+    "yum": "감",
+    "meaning": "덜감",
+    "level": "4",
+    "image": "assets/hanja/4/減.webp",
+    "hun": "덜"
+  },
+  {
+    "char": "監",
+    "yum": "감",
+    "meaning": "볼감",
+    "level": "4",
+    "image": "assets/hanja/4/監.webp",
+    "hun": "볼"
+  },
+  {
+    "char": "康",
+    "yum": "강",
+    "meaning": "편안할강",
+    "level": "4",
+    "image": "assets/hanja/4/康.webp",
+    "hun": "편안할"
+  },
+  {
+    "char": "講",
+    "yum": "강",
+    "meaning": "외울강",
+    "level": "4",
+    "image": "assets/hanja/4/講.webp",
+    "hun": "외울"
+  },
+  {
+    "char": "個",
+    "yum": "개",
+    "meaning": "낱개",
+    "level": "4",
+    "image": "assets/hanja/4/個.webp",
+    "hun": "낱"
+  },
+  {
+    "char": "檢",
+    "yum": "검",
+    "meaning": "검사할검",
+    "level": "4",
+    "image": "assets/hanja/4/檢.webp",
+    "hun": "검사할"
+  },
+  {
+    "char": "潔",
+    "yum": "결",
+    "meaning": "깨끗할결",
+    "level": "4",
+    "image": "assets/hanja/4/潔.webp",
+    "hun": "깨끗할"
+  },
+  {
+    "char": "缺",
+    "yum": "결",
+    "meaning": "이지러질결",
+    "level": "4",
+    "image": "assets/hanja/4/缺.webp",
+    "hun": "이지러질"
+  },
+  {
+    "char": "境",
+    "yum": "경",
+    "meaning": "지경경",
+    "level": "4",
+    "image": "assets/hanja/4/境.webp",
+    "hun": "지경"
+  },
+  {
+    "char": "慶",
+    "yum": "경",
+    "meaning": "경사경",
+    "level": "4",
+    "image": "assets/hanja/4/慶.webp",
+    "hun": "경사"
+  },
+  {
+    "char": "經",
+    "yum": "글",
+    "meaning": "글/지날경",
+    "level": "4",
+    "image": "assets/hanja/4/經.webp",
+    "hun": "글"
+  },
+  {
+    "char": "警",
+    "yum": "경",
+    "meaning": "경계할경",
+    "level": "4",
+    "image": "assets/hanja/4/警.webp",
+    "hun": "경계할"
+  },
+  {
+    "char": "係",
+    "yum": "계",
+    "meaning": "맬계",
+    "level": "4",
+    "image": "assets/hanja/4/係.webp",
+    "hun": "맬"
+  },
+  {
+    "char": "故",
+    "yum": "고",
+    "meaning": "예고",
+    "level": "4",
+    "image": "assets/hanja/4/故.webp",
+    "hun": "예"
+  },
+  {
+    "char": "官",
+    "yum": "관",
+    "meaning": "벼슬관",
+    "level": "4",
+    "image": "assets/hanja/4/官.webp",
+    "hun": "벼슬"
+  },
+  {
+    "char": "句",
+    "yum": "구",
+    "meaning": "글귀구/귀",
+    "level": "4",
+    "image": "assets/hanja/4/句.webp",
+    "hun": "글귀"
+  },
+  {
+    "char": "求",
+    "yum": "구",
+    "meaning": "구할구",
+    "level": "4",
+    "image": "assets/hanja/4/求.webp",
+    "hun": "구할"
+  },
+  {
+    "char": "究",
+    "yum": "구",
+    "meaning": "연구할구",
+    "level": "4",
+    "image": "assets/hanja/4/究.webp",
+    "hun": "연구할"
+  },
+  {
+    "char": "宮",
+    "yum": "궁",
+    "meaning": "집궁",
+    "level": "4",
+    "image": "assets/hanja/4/宮.webp",
+    "hun": "집"
+  },
+  {
+    "char": "權",
+    "yum": "권",
+    "meaning": "권리권",
+    "level": "4",
+    "image": "assets/hanja/4/權.webp",
+    "hun": "권리"
+  },
+  {
+    "char": "極",
+    "yum": "극",
+    "meaning": "다할극",
+    "level": "4",
+    "image": "assets/hanja/4/極.webp",
+    "hun": "다할"
+  },
+  {
+    "char": "禁",
+    "yum": "금",
+    "meaning": "금할금",
+    "level": "4",
+    "image": "assets/hanja/4/禁.webp",
+    "hun": "금할"
+  },
+  {
+    "char": "器",
+    "yum": "기",
+    "meaning": "그릇기",
+    "level": "4",
+    "image": "assets/hanja/4/器.webp",
+    "hun": "그릇"
+  },
+  {
+    "char": "起",
+    "yum": "기",
+    "meaning": "일어날기",
+    "level": "4",
+    "image": "assets/hanja/4/起.webp",
+    "hun": "일어날"
+  },
+  {
+    "char": "暖",
+    "yum": "난",
+    "meaning": "따뜻할난",
+    "level": "4",
+    "image": "assets/hanja/4/暖.webp",
+    "hun": "따뜻할"
+  },
+  {
+    "char": "難",
+    "yum": "난",
+    "meaning": "어려울난",
+    "level": "4",
+    "image": "assets/hanja/4/難.webp",
+    "hun": "어려울"
+  },
+  {
+    "char": "努",
+    "yum": "노",
+    "meaning": "힘쓸노",
+    "level": "4",
+    "image": "assets/hanja/4/努.webp",
+    "hun": "힘쓸"
+  },
+  {
+    "char": "怒",
+    "yum": "노",
+    "meaning": "성낼노",
+    "level": "4",
+    "image": "assets/hanja/4/怒.webp",
+    "hun": "성낼"
+  },
+  {
+    "char": "單",
+    "yum": "단",
+    "meaning": "홑단",
+    "level": "4",
+    "image": "assets/hanja/4/單.webp",
+    "hun": "홑"
+  },
+  {
+    "char": "斷",
+    "yum": "단",
+    "meaning": "끊을단",
+    "level": "4",
+    "image": "assets/hanja/4/斷.webp",
+    "hun": "끊을"
+  },
+  {
+    "char": "檀",
+    "yum": "단",
+    "meaning": "박달나무단",
+    "level": "4",
+    "image": "assets/hanja/4/檀.webp",
+    "hun": "박달나무"
+  },
+  {
+    "char": "端",
+    "yum": "단",
+    "meaning": "끝단",
+    "level": "4",
+    "image": "assets/hanja/4/端.webp",
+    "hun": "끝"
+  },
+  {
+    "char": "達",
+    "yum": "달",
+    "meaning": "통달할달",
+    "level": "4",
+    "image": "assets/hanja/4/達.webp",
+    "hun": "통달할"
+  },
+  {
+    "char": "擔",
+    "yum": "담",
+    "meaning": "멜담",
+    "level": "4",
+    "image": "assets/hanja/4/擔.webp",
+    "hun": "멜"
+  },
+  {
+    "char": "黨",
+    "yum": "당",
+    "meaning": "무리당",
+    "level": "4",
+    "image": "assets/hanja/4/黨.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "帶",
+    "yum": "대",
+    "meaning": "띠대",
+    "level": "4",
+    "image": "assets/hanja/4/帶.webp",
+    "hun": "띠"
+  },
+  {
+    "char": "隊",
+    "yum": "대",
+    "meaning": "무리대",
+    "level": "4",
+    "image": "assets/hanja/4/隊.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "導",
+    "yum": "도",
+    "meaning": "인도할도",
+    "level": "4",
+    "image": "assets/hanja/4/導.webp",
+    "hun": "인도할"
+  },
+  {
+    "char": "毒",
+    "yum": "독",
+    "meaning": "독독",
+    "level": "4",
+    "image": "assets/hanja/4/毒.webp",
+    "hun": "독"
+  },
+  {
+    "char": "督",
+    "yum": "독",
+    "meaning": "감독할독",
+    "level": "4",
+    "image": "assets/hanja/4/督.webp",
+    "hun": "감독할"
+  },
+  {
+    "char": "銅",
+    "yum": "동",
+    "meaning": "구리동",
+    "level": "4",
+    "image": "assets/hanja/4/銅.webp",
+    "hun": "구리"
+  },
+  {
+    "char": "斗",
+    "yum": "두",
+    "meaning": "말두",
+    "level": "4",
+    "image": "assets/hanja/4/斗.webp",
+    "hun": "말"
+  },
+  {
+    "char": "豆",
+    "yum": "두",
+    "meaning": "콩두",
+    "level": "4",
+    "image": "assets/hanja/4/豆.webp",
+    "hun": "콩"
+  },
+  {
+    "char": "得",
+    "yum": "득",
+    "meaning": "얻을득",
+    "level": "4",
+    "image": "assets/hanja/4/得.webp",
+    "hun": "얻을"
+  },
+  {
+    "char": "燈",
+    "yum": "등",
+    "meaning": "등잔등",
+    "level": "4",
+    "image": "assets/hanja/4/燈.webp",
+    "hun": "등잔"
+  },
+  {
+    "char": "羅",
+    "yum": "일",
+    "meaning": "벌일/그물라",
+    "level": "4",
+    "image": "assets/hanja/4/羅.webp",
+    "hun": "벌"
+  },
+  {
+    "char": "兩",
+    "yum": "량",
+    "meaning": "두량",
+    "level": "4",
+    "image": "assets/hanja/4/兩.webp",
+    "hun": "두"
+  },
+  {
+    "char": "麗",
+    "yum": "려",
+    "meaning": "고울려",
+    "level": "4",
+    "image": "assets/hanja/4/麗.webp",
+    "hun": "고울"
+  },
+  {
+    "char": "連",
+    "yum": "련",
+    "meaning": "잇닿을련",
+    "level": "4",
+    "image": "assets/hanja/4/連.webp",
+    "hun": "잇닿을"
+  },
+  {
+    "char": "列",
+    "yum": "렬",
+    "meaning": "줄렬",
+    "level": "4",
+    "image": "assets/hanja/4/列.webp",
+    "hun": "줄"
+  },
+  {
+    "char": "錄",
+    "yum": "록",
+    "meaning": "기록할록",
+    "level": "4",
+    "image": "assets/hanja/4/錄.webp",
+    "hun": "기록할"
+  },
+  {
+    "char": "論",
+    "yum": "론",
+    "meaning": "논할론",
+    "level": "4",
+    "image": "assets/hanja/4/論.webp",
+    "hun": "논할"
+  },
+  {
+    "char": "留",
+    "yum": "류",
+    "meaning": "머무를류",
+    "level": "4",
+    "image": "assets/hanja/4/留.webp",
+    "hun": "머무를"
+  },
+  {
+    "char": "律",
+    "yum": "률",
+    "meaning": "법률",
+    "level": "4",
+    "image": "assets/hanja/4/律.webp",
+    "hun": "법"
+  },
+  {
+    "char": "滿",
+    "yum": "만",
+    "meaning": "찰만",
+    "level": "4",
+    "image": "assets/hanja/4/滿.webp",
+    "hun": "찰"
+  },
+  {
+    "char": "脈",
+    "yum": "맥",
+    "meaning": "줄기맥",
+    "level": "4",
+    "image": "assets/hanja/4/脈.webp",
+    "hun": "줄기"
+  },
+  {
+    "char": "毛",
+    "yum": "모",
+    "meaning": "털모",
+    "level": "4",
+    "image": "assets/hanja/4/毛.webp",
+    "hun": "털"
+  },
+  {
+    "char": "牧",
+    "yum": "목",
+    "meaning": "칠목",
+    "level": "4",
+    "image": "assets/hanja/4/牧.webp",
+    "hun": "칠"
+  },
+  {
+    "char": "務",
+    "yum": "무",
+    "meaning": "힘쓸무",
+    "level": "4",
+    "image": "assets/hanja/4/務.webp",
+    "hun": "힘쓸"
+  },
+  {
+    "char": "武",
+    "yum": "무",
+    "meaning": "무인무",
+    "level": "4",
+    "image": "assets/hanja/4/武.webp",
+    "hun": "무인"
+  },
+  {
+    "char": "味",
+    "yum": "미",
+    "meaning": "맛미",
+    "level": "4",
+    "image": "assets/hanja/4/味.webp",
+    "hun": "맛"
+  },
+  {
+    "char": "未",
+    "yum": "미",
+    "meaning": "아닐미",
+    "level": "4",
+    "image": "assets/hanja/4/未.webp",
+    "hun": "아닐"
+  },
+  {
+    "char": "密",
+    "yum": "밀",
+    "meaning": "빽빽할밀",
+    "level": "4",
+    "image": "assets/hanja/4/密.webp",
+    "hun": "빽빽할"
+  },
+  {
+    "char": "博",
+    "yum": "박",
+    "meaning": "넓을박",
+    "level": "4",
+    "image": "assets/hanja/4/博.webp",
+    "hun": "넓을"
+  },
+  {
+    "char": "房",
+    "yum": "방",
+    "meaning": "방방",
+    "level": "4",
+    "image": "assets/hanja/4/房.webp",
+    "hun": "방"
+  },
+  {
+    "char": "訪",
+    "yum": "방",
+    "meaning": "찾을방",
+    "level": "4",
+    "image": "assets/hanja/4/訪.webp",
+    "hun": "찾을"
+  },
+  {
+    "char": "防",
+    "yum": "방",
+    "meaning": "막을방",
+    "level": "4",
+    "image": "assets/hanja/4/防.webp",
+    "hun": "막을"
+  },
+  {
+    "char": "拜",
+    "yum": "배",
+    "meaning": "절배",
+    "level": "4",
+    "image": "assets/hanja/4/拜.webp",
+    "hun": "절"
+  },
+  {
+    "char": "背",
+    "yum": "등",
+    "meaning": "등/배반할배",
+    "level": "4",
+    "image": "assets/hanja/4/背.webp",
+    "hun": "등"
+  },
+  {
+    "char": "配",
+    "yum": "짝",
+    "meaning": "짝/나눌배",
+    "level": "4",
+    "image": "assets/hanja/4/配.webp",
+    "hun": "짝"
+  },
+  {
+    "char": "伐",
+    "yum": "벌",
+    "meaning": "칠벌",
+    "level": "4",
+    "image": "assets/hanja/4/伐.webp",
+    "hun": "칠"
+  },
+  {
+    "char": "罰",
+    "yum": "벌",
+    "meaning": "벌할벌",
+    "level": "4",
+    "image": "assets/hanja/4/罰.webp",
+    "hun": "벌할"
+  },
+  {
+    "char": "壁",
+    "yum": "벽",
+    "meaning": "벽벽",
+    "level": "4",
+    "image": "assets/hanja/4/壁.webp",
+    "hun": "벽"
+  },
+  {
+    "char": "邊",
+    "yum": "변",
+    "meaning": "가변",
+    "level": "4",
+    "image": "assets/hanja/4/邊.webp",
+    "hun": "가"
+  },
+  {
+    "char": "保",
+    "yum": "보",
+    "meaning": "지킬보",
+    "level": "4",
+    "image": "assets/hanja/4/保.webp",
+    "hun": "지킬"
+  },
+  {
+    "char": "報",
+    "yum": "을",
+    "meaning": "갚을/알릴보",
+    "level": "4",
+    "image": "assets/hanja/4/報.webp",
+    "hun": "갚"
+  },
+  {
+    "char": "寶",
+    "yum": "보",
+    "meaning": "보배보",
+    "level": "4",
+    "image": "assets/hanja/4/寶.webp",
+    "hun": "보배"
+  },
+  {
+    "char": "步",
+    "yum": "보",
+    "meaning": "걸음보",
+    "level": "4",
+    "image": "assets/hanja/4/步.webp",
+    "hun": "걸음"
+  },
+  {
+    "char": "復",
+    "yum": "복",
+    "meaning": "돌아올복,다시부",
+    "level": "4",
+    "image": "assets/hanja/4/復.webp",
+    "hun": "돌아올"
+  },
+  {
+    "char": "副",
+    "yum": "부",
+    "meaning": "버금부",
+    "level": "4",
+    "image": "assets/hanja/4/副.webp",
+    "hun": "버금"
+  },
+  {
+    "char": "婦",
+    "yum": "부",
+    "meaning": "아내부",
+    "level": "4",
+    "image": "assets/hanja/4/婦.webp",
+    "hun": "아내"
+  },
+  {
+    "char": "富",
+    "yum": "부",
+    "meaning": "부유할부",
+    "level": "4",
+    "image": "assets/hanja/4/富.webp",
+    "hun": "부유할"
+  },
+  {
+    "char": "府",
+    "yum": "부",
+    "meaning": "관청부",
+    "level": "4",
+    "image": "assets/hanja/4/府.webp",
+    "hun": "관청"
+  },
+  {
+    "char": "佛",
+    "yum": "불",
+    "meaning": "부처불",
+    "level": "4",
+    "image": "assets/hanja/4/佛.webp",
+    "hun": "부처"
+  },
+  {
+    "char": "備",
+    "yum": "비",
+    "meaning": "갖출비",
+    "level": "4",
+    "image": "assets/hanja/4/備.webp",
+    "hun": "갖출"
+  },
+  {
+    "char": "悲",
+    "yum": "비",
+    "meaning": "슬플비",
+    "level": "4",
+    "image": "assets/hanja/4/悲.webp",
+    "hun": "슬플"
+  },
+  {
+    "char": "非",
+    "yum": "비",
+    "meaning": "아닐비",
+    "level": "4",
+    "image": "assets/hanja/4/非.webp",
+    "hun": "아닐"
+  },
+  {
+    "char": "飛",
+    "yum": "비",
+    "meaning": "날비",
+    "level": "4",
+    "image": "assets/hanja/4/飛.webp",
+    "hun": "날"
+  },
+  {
+    "char": "貧",
+    "yum": "빈",
+    "meaning": "가난할빈",
+    "level": "4",
+    "image": "assets/hanja/4/貧.webp",
+    "hun": "가난할"
+  },
+  {
+    "char": "寺",
+    "yum": "사",
+    "meaning": "절사,내관시",
+    "level": "4",
+    "image": "assets/hanja/4/寺.webp",
+    "hun": "절"
+  },
+  {
+    "char": "師",
+    "yum": "사",
+    "meaning": "스승사",
+    "level": "4",
+    "image": "assets/hanja/4/師.webp",
+    "hun": "스승"
+  },
+  {
+    "char": "舍",
+    "yum": "사",
+    "meaning": "집사",
+    "level": "4",
+    "image": "assets/hanja/4/舍.webp",
+    "hun": "집"
+  },
+  {
+    "char": "謝",
+    "yum": "사",
+    "meaning": "사례할사",
+    "level": "4",
+    "image": "assets/hanja/4/謝.webp",
+    "hun": "사례할"
+  },
+  {
+    "char": "殺",
+    "yum": "살",
+    "meaning": "죽일살,빠를쇄",
+    "level": "4",
+    "image": "assets/hanja/4/殺.webp",
+    "hun": "죽일"
+  },
+  {
+    "char": "常",
+    "yum": "상",
+    "meaning": "항상상",
+    "level": "4",
+    "image": "assets/hanja/4/常.webp",
+    "hun": "항상"
+  },
+  {
+    "char": "床",
+    "yum": "상",
+    "meaning": "상상",
+    "level": "4",
+    "image": "assets/hanja/4/床.webp",
+    "hun": "상"
+  },
+  {
+    "char": "想",
+    "yum": "상",
+    "meaning": "생각상",
+    "level": "4",
+    "image": "assets/hanja/4/想.webp",
+    "hun": "생각"
+  },
+  {
+    "char": "狀",
+    "yum": "상",
+    "meaning": "형상상,문서장",
+    "level": "4",
+    "image": "assets/hanja/4/狀.webp",
+    "hun": "형상"
+  },
+  {
+    "char": "設",
+    "yum": "설",
+    "meaning": "베풀설",
+    "level": "4",
+    "image": "assets/hanja/4/設.webp",
+    "hun": "베풀"
+  },
+  {
+    "char": "城",
+    "yum": "성",
+    "meaning": "재성",
+    "level": "4",
+    "image": "assets/hanja/4/城.webp",
+    "hun": "재"
+  },
+  {
+    "char": "星",
+    "yum": "성",
+    "meaning": "별성",
+    "level": "4",
+    "image": "assets/hanja/4/星.webp",
+    "hun": "별"
+  },
+  {
+    "char": "盛",
+    "yum": "성",
+    "meaning": "성할성",
+    "level": "4",
+    "image": "assets/hanja/4/盛.webp",
+    "hun": "성할"
+  },
+  {
+    "char": "聖",
+    "yum": "성",
+    "meaning": "신성할성",
+    "level": "4",
+    "image": "assets/hanja/4/聖.webp",
+    "hun": "신성할"
+  },
+  {
+    "char": "聲",
+    "yum": "성",
+    "meaning": "소리성",
+    "level": "4",
+    "image": "assets/hanja/4/聲.webp",
+    "hun": "소리"
+  },
+  {
+    "char": "誠",
+    "yum": "성",
+    "meaning": "정성성",
+    "level": "4",
+    "image": "assets/hanja/4/誠.webp",
+    "hun": "정성"
+  },
+  {
+    "char": "勢",
+    "yum": "세",
+    "meaning": "형세세",
+    "level": "4",
+    "image": "assets/hanja/4/勢.webp",
+    "hun": "형세"
+  },
+  {
+    "char": "稅",
+    "yum": "세",
+    "meaning": "세금세",
+    "level": "4",
+    "image": "assets/hanja/4/稅.webp",
+    "hun": "세금"
+  },
+  {
+    "char": "細",
+    "yum": "세",
+    "meaning": "가늘세",
+    "level": "4",
+    "image": "assets/hanja/4/細.webp",
+    "hun": "가늘"
+  },
+  {
+    "char": "掃",
+    "yum": "소",
+    "meaning": "쓸소",
+    "level": "4",
+    "image": "assets/hanja/4/掃.webp",
+    "hun": "쓸"
+  },
+  {
+    "char": "笑",
+    "yum": "소",
+    "meaning": "웃을소",
+    "level": "4",
+    "image": "assets/hanja/4/笑.webp",
+    "hun": "웃을"
+  },
+  {
+    "char": "素",
+    "yum": "흴",
+    "meaning": "흴/바탕소",
+    "level": "4",
+    "image": "assets/hanja/4/素.webp",
+    "hun": "흴"
+  },
+  {
+    "char": "俗",
+    "yum": "속",
+    "meaning": "풍속속",
+    "level": "4",
+    "image": "assets/hanja/4/俗.webp",
+    "hun": "풍속"
+  },
+  {
+    "char": "續",
+    "yum": "속",
+    "meaning": "이을속",
+    "level": "4",
+    "image": "assets/hanja/4/續.webp",
+    "hun": "이을"
+  },
+  {
+    "char": "送",
+    "yum": "송",
+    "meaning": "보낼송",
+    "level": "4",
+    "image": "assets/hanja/4/送.webp",
+    "hun": "보낼"
+  },
+  {
+    "char": "修",
+    "yum": "수",
+    "meaning": "닦을수",
+    "level": "4",
+    "image": "assets/hanja/4/修.webp",
+    "hun": "닦을"
+  },
+  {
+    "char": "受",
+    "yum": "수",
+    "meaning": "받을수",
+    "level": "4",
+    "image": "assets/hanja/4/受.webp",
+    "hun": "받을"
+  },
+  {
+    "char": "守",
+    "yum": "수",
+    "meaning": "지킬수",
+    "level": "4",
+    "image": "assets/hanja/4/守.webp",
+    "hun": "지킬"
+  },
+  {
+    "char": "授",
+    "yum": "수",
+    "meaning": "줄수",
+    "level": "4",
+    "image": "assets/hanja/4/授.webp",
+    "hun": "줄"
+  },
+  {
+    "char": "收",
+    "yum": "수",
+    "meaning": "거둘수",
+    "level": "4",
+    "image": "assets/hanja/4/收.webp",
+    "hun": "거둘"
+  },
+  {
+    "char": "純",
+    "yum": "순",
+    "meaning": "순수할순",
+    "level": "4",
+    "image": "assets/hanja/4/純.webp",
+    "hun": "순수할"
+  },
+  {
+    "char": "承",
+    "yum": "승",
+    "meaning": "이을승",
+    "level": "4",
+    "image": "assets/hanja/4/承.webp",
+    "hun": "이을"
+  },
+  {
+    "char": "施",
+    "yum": "시",
+    "meaning": "베풀시",
+    "level": "4",
+    "image": "assets/hanja/4/施.webp",
+    "hun": "베풀"
+  },
+  {
+    "char": "是",
+    "yum": "을",
+    "meaning": "옳을/이시",
+    "level": "4",
+    "image": "assets/hanja/4/是.webp",
+    "hun": "옳"
+  },
+  {
+    "char": "視",
+    "yum": "시",
+    "meaning": "볼시",
+    "level": "4",
+    "image": "assets/hanja/4/視.webp",
+    "hun": "볼"
+  },
+  {
+    "char": "試",
+    "yum": "시",
+    "meaning": "시험할시",
+    "level": "4",
+    "image": "assets/hanja/4/試.webp",
+    "hun": "시험할"
+  },
+  {
+    "char": "詩",
+    "yum": "시",
+    "meaning": "시시",
+    "level": "4",
+    "image": "assets/hanja/4/詩.webp",
+    "hun": "시"
+  },
+  {
+    "char": "息",
+    "yum": "식",
+    "meaning": "쉴식",
+    "level": "4",
+    "image": "assets/hanja/4/息.webp",
+    "hun": "쉴"
+  },
+  {
+    "char": "申",
+    "yum": "듭",
+    "meaning": "거듭/고할신",
+    "level": "4",
+    "image": "assets/hanja/4/申.webp",
+    "hun": "거"
+  },
+  {
+    "char": "深",
+    "yum": "심",
+    "meaning": "깊을심",
+    "level": "4",
+    "image": "assets/hanja/4/深.webp",
+    "hun": "깊을"
+  },
+  {
+    "char": "眼",
+    "yum": "안",
+    "meaning": "눈안",
+    "level": "4",
+    "image": "assets/hanja/4/眼.webp",
+    "hun": "눈"
+  },
+  {
+    "char": "暗",
+    "yum": "암",
+    "meaning": "어두울암",
+    "level": "4",
+    "image": "assets/hanja/4/暗.webp",
+    "hun": "어두울"
+  },
+  {
+    "char": "壓",
+    "yum": "압",
+    "meaning": "누를압",
+    "level": "4",
+    "image": "assets/hanja/4/壓.webp",
+    "hun": "누를"
+  },
+  {
+    "char": "液",
+    "yum": "액",
+    "meaning": "진액",
+    "level": "4",
+    "image": "assets/hanja/4/液.webp",
+    "hun": "진"
+  },
+  {
+    "char": "羊",
+    "yum": "양",
+    "meaning": "양양",
+    "level": "4",
+    "image": "assets/hanja/4/羊.webp",
+    "hun": "양"
+  },
+  {
+    "char": "如",
+    "yum": "여",
+    "meaning": "같을여",
+    "level": "4",
+    "image": "assets/hanja/4/如.webp",
+    "hun": "같을"
+  },
+  {
+    "char": "餘",
+    "yum": "여",
+    "meaning": "남을여",
+    "level": "4",
+    "image": "assets/hanja/4/餘.webp",
+    "hun": "남을"
+  },
+  {
+    "char": "逆",
+    "yum": "역",
+    "meaning": "거스를역",
+    "level": "4",
+    "image": "assets/hanja/4/逆.webp",
+    "hun": "거스를"
+  },
+  {
+    "char": "演",
+    "yum": "연",
+    "meaning": "펼연",
+    "level": "4",
+    "image": "assets/hanja/4/演.webp",
+    "hun": "펼"
+  },
+  {
+    "char": "煙",
+    "yum": "연",
+    "meaning": "연기연",
+    "level": "4",
+    "image": "assets/hanja/4/煙.webp",
+    "hun": "연기"
+  },
+  {
+    "char": "硏",
+    "yum": "연",
+    "meaning": "갈연",
+    "level": "4",
+    "image": "assets/hanja/4/硏.webp",
+    "hun": "갈"
+  },
+  {
+    "char": "榮",
+    "yum": "영",
+    "meaning": "꽃영",
+    "level": "4",
+    "image": "assets/hanja/4/榮.webp",
+    "hun": "꽃"
+  },
+  {
+    "char": "藝",
+    "yum": "예",
+    "meaning": "재주예",
+    "level": "4",
+    "image": "assets/hanja/4/藝.webp",
+    "hun": "재주"
+  },
+  {
+    "char": "誤",
+    "yum": "오",
+    "meaning": "그르칠오",
+    "level": "4",
+    "image": "assets/hanja/4/誤.webp",
+    "hun": "그르칠"
+  },
+  {
+    "char": "玉",
+    "yum": "옥",
+    "meaning": "구슬옥",
+    "level": "4",
+    "image": "assets/hanja/4/玉.webp",
+    "hun": "구슬"
+  },
+  {
+    "char": "往",
+    "yum": "왕",
+    "meaning": "갈왕",
+    "level": "4",
+    "image": "assets/hanja/4/往.webp",
+    "hun": "갈"
+  },
+  {
+    "char": "謠",
+    "yum": "요",
+    "meaning": "노래요",
+    "level": "4",
+    "image": "assets/hanja/4/謠.webp",
+    "hun": "노래"
+  },
+  {
+    "char": "容",
+    "yum": "할",
+    "meaning": "용서할/얼굴용",
+    "level": "4",
+    "image": "assets/hanja/4/容.webp",
+    "hun": "용서"
+  },
+  {
+    "char": "員",
+    "yum": "원",
+    "meaning": "인원원",
+    "level": "4",
+    "image": "assets/hanja/4/員.webp",
+    "hun": "인원"
+  },
+  {
+    "char": "圓",
+    "yum": "원",
+    "meaning": "둥글원",
+    "level": "4",
+    "image": "assets/hanja/4/圓.webp",
+    "hun": "둥글"
+  },
+  {
+    "char": "爲",
+    "yum": "위",
+    "meaning": "할위",
+    "level": "4",
+    "image": "assets/hanja/4/爲.webp",
+    "hun": "할"
+  },
+  {
+    "char": "衛",
+    "yum": "위",
+    "meaning": "지킬위",
+    "level": "4",
+    "image": "assets/hanja/4/衛.webp",
+    "hun": "지킬"
+  },
+  {
+    "char": "肉",
+    "yum": "육",
+    "meaning": "고기육",
+    "level": "4",
+    "image": "assets/hanja/4/肉.webp",
+    "hun": "고기"
+  },
+  {
+    "char": "恩",
+    "yum": "은",
+    "meaning": "은혜은",
+    "level": "4",
+    "image": "assets/hanja/4/恩.webp",
+    "hun": "은혜"
+  },
+  {
+    "char": "陰",
+    "yum": "음",
+    "meaning": "그늘음",
+    "level": "4",
+    "image": "assets/hanja/4/陰.webp",
+    "hun": "그늘"
+  },
+  {
+    "char": "應",
+    "yum": "응",
+    "meaning": "응할응",
+    "level": "4",
+    "image": "assets/hanja/4/應.webp",
+    "hun": "응할"
+  },
+  {
+    "char": "義",
+    "yum": "의",
+    "meaning": "옳을의",
+    "level": "4",
+    "image": "assets/hanja/4/義.webp",
+    "hun": "옳을"
+  },
+  {
+    "char": "議",
+    "yum": "의",
+    "meaning": "의론할의",
+    "level": "4",
+    "image": "assets/hanja/4/議.webp",
+    "hun": "의론할"
+  },
+  {
+    "char": "移",
+    "yum": "이",
+    "meaning": "옮길이",
+    "level": "4",
+    "image": "assets/hanja/4/移.webp",
+    "hun": "옮길"
+  },
+  {
+    "char": "益",
+    "yum": "익",
+    "meaning": "더할익",
+    "level": "4",
+    "image": "assets/hanja/4/益.webp",
+    "hun": "더할"
+  },
+  {
+    "char": "印",
+    "yum": "인",
+    "meaning": "도장인",
+    "level": "4",
+    "image": "assets/hanja/4/印.webp",
+    "hun": "도장"
+  },
+  {
+    "char": "引",
+    "yum": "인",
+    "meaning": "끌인",
+    "level": "4",
+    "image": "assets/hanja/4/引.webp",
+    "hun": "끌"
+  },
+  {
+    "char": "認",
+    "yum": "인",
+    "meaning": "알인",
+    "level": "4",
+    "image": "assets/hanja/4/認.webp",
+    "hun": "알"
+  },
+  {
+    "char": "將",
+    "yum": "장",
+    "meaning": "장수장",
+    "level": "4",
+    "image": "assets/hanja/4/將.webp",
+    "hun": "장수"
+  },
+  {
+    "char": "障",
+    "yum": "장",
+    "meaning": "막을장",
+    "level": "4",
+    "image": "assets/hanja/4/障.webp",
+    "hun": "막을"
+  },
+  {
+    "char": "低",
+    "yum": "저",
+    "meaning": "낮을저",
+    "level": "4",
+    "image": "assets/hanja/4/低.webp",
+    "hun": "낮을"
+  },
+  {
+    "char": "敵",
+    "yum": "적",
+    "meaning": "적적",
+    "level": "4",
+    "image": "assets/hanja/4/敵.webp",
+    "hun": "적"
+  },
+  {
+    "char": "田",
+    "yum": "전",
+    "meaning": "밭전",
+    "level": "4",
+    "image": "assets/hanja/4/田.webp",
+    "hun": "밭"
+  },
+  {
+    "char": "絶",
+    "yum": "절",
+    "meaning": "끊을절",
+    "level": "4",
+    "image": "assets/hanja/4/絶.webp",
+    "hun": "끊을"
+  },
+  {
+    "char": "接",
+    "yum": "접",
+    "meaning": "이을접",
+    "level": "4",
+    "image": "assets/hanja/4/接.webp",
+    "hun": "이을"
+  },
+  {
+    "char": "政",
+    "yum": "정",
+    "meaning": "정사정",
+    "level": "4",
+    "image": "assets/hanja/4/政.webp",
+    "hun": "정사"
+  },
+  {
+    "char": "程",
+    "yum": "정",
+    "meaning": "헤아릴정",
+    "level": "4",
+    "image": "assets/hanja/4/程.webp",
+    "hun": "헤아릴"
+  },
+  {
+    "char": "精",
+    "yum": "정",
+    "meaning": "정할정",
+    "level": "4",
+    "image": "assets/hanja/4/精.webp",
+    "hun": "정할"
+  },
+  {
+    "char": "制",
+    "yum": "제",
+    "meaning": "절제할제",
+    "level": "4",
+    "image": "assets/hanja/4/制.webp",
+    "hun": "절제할"
+  },
+  {
+    "char": "提",
+    "yum": "제",
+    "meaning": "끌제",
+    "level": "4",
+    "image": "assets/hanja/4/提.webp",
+    "hun": "끌"
+  },
+  {
+    "char": "濟",
+    "yum": "제",
+    "meaning": "건널제",
+    "level": "4",
+    "image": "assets/hanja/4/濟.webp",
+    "hun": "건널"
+  },
+  {
+    "char": "祭",
+    "yum": "제",
+    "meaning": "제사제",
+    "level": "4",
+    "image": "assets/hanja/4/祭.webp",
+    "hun": "제사"
+  },
+  {
+    "char": "製",
+    "yum": "제",
+    "meaning": "지을제",
+    "level": "4",
+    "image": "assets/hanja/4/製.webp",
+    "hun": "지을"
+  },
+  {
+    "char": "除",
+    "yum": "제",
+    "meaning": "덜제",
+    "level": "4",
+    "image": "assets/hanja/4/除.webp",
+    "hun": "덜"
+  },
+  {
+    "char": "際",
+    "yum": "제",
+    "meaning": "즈음제",
+    "level": "4",
+    "image": "assets/hanja/4/際.webp",
+    "hun": "즈음"
+  },
+  {
+    "char": "助",
+    "yum": "조",
+    "meaning": "도울조",
+    "level": "4",
+    "image": "assets/hanja/4/助.webp",
+    "hun": "도울"
+  },
+  {
+    "char": "早",
+    "yum": "조",
+    "meaning": "이를조",
+    "level": "4",
+    "image": "assets/hanja/4/早.webp",
+    "hun": "이를"
+  },
+  {
+    "char": "造",
+    "yum": "조",
+    "meaning": "지을조",
+    "level": "4",
+    "image": "assets/hanja/4/造.webp",
+    "hun": "지을"
+  },
+  {
+    "char": "鳥",
+    "yum": "조",
+    "meaning": "새조",
+    "level": "4",
+    "image": "assets/hanja/4/鳥.webp",
+    "hun": "새"
+  },
+  {
+    "char": "尊",
+    "yum": "존",
+    "meaning": "높을존",
+    "level": "4",
+    "image": "assets/hanja/4/尊.webp",
+    "hun": "높을"
+  },
+  {
+    "char": "宗",
+    "yum": "루",
+    "meaning": "마루/조상종",
+    "level": "4",
+    "image": "assets/hanja/4/宗.webp",
+    "hun": "마"
+  },
+  {
+    "char": "走",
+    "yum": "주",
+    "meaning": "달릴주",
+    "level": "4",
+    "image": "assets/hanja/4/走.webp",
+    "hun": "달릴"
+  },
+  {
+    "char": "竹",
+    "yum": "죽",
+    "meaning": "대나무죽",
+    "level": "4",
+    "image": "assets/hanja/4/竹.webp",
+    "hun": "대나무"
+  },
+  {
+    "char": "準",
+    "yum": "준",
+    "meaning": "준할준",
+    "level": "4",
+    "image": "assets/hanja/4/準.webp",
+    "hun": "준할"
+  },
+  {
+    "char": "衆",
+    "yum": "중",
+    "meaning": "무리중",
+    "level": "4",
+    "image": "assets/hanja/4/衆.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "增",
+    "yum": "증",
+    "meaning": "더할증",
+    "level": "4",
+    "image": "assets/hanja/4/增.webp",
+    "hun": "더할"
+  },
+  {
+    "char": "志",
+    "yum": "지",
+    "meaning": "뜻지",
+    "level": "4",
+    "image": "assets/hanja/4/志.webp",
+    "hun": "뜻"
+  },
+  {
+    "char": "指",
+    "yum": "킬",
+    "meaning": "가리킬/손가락지",
+    "level": "4",
+    "image": "assets/hanja/4/指.webp",
+    "hun": "가리"
+  },
+  {
+    "char": "支",
+    "yum": "지",
+    "meaning": "지탱할지",
+    "level": "4",
+    "image": "assets/hanja/4/支.webp",
+    "hun": "지탱할"
+  },
+  {
+    "char": "至",
+    "yum": "지",
+    "meaning": "이를지",
+    "level": "4",
+    "image": "assets/hanja/4/至.webp",
+    "hun": "이를"
+  },
+  {
+    "char": "職",
+    "yum": "직",
+    "meaning": "벼슬직",
+    "level": "4",
+    "image": "assets/hanja/4/職.webp",
+    "hun": "벼슬"
+  },
+  {
+    "char": "眞",
+    "yum": "진",
+    "meaning": "참진",
+    "level": "4",
+    "image": "assets/hanja/4/眞.webp",
+    "hun": "참"
+  },
+  {
+    "char": "進",
+    "yum": "진",
+    "meaning": "나아갈진",
+    "level": "4",
+    "image": "assets/hanja/4/進.webp",
+    "hun": "나아갈"
+  },
+  {
+    "char": "次",
+    "yum": "차",
+    "meaning": "버금차",
+    "level": "4",
+    "image": "assets/hanja/4/次.webp",
+    "hun": "버금"
+  },
+  {
+    "char": "察",
+    "yum": "찰",
+    "meaning": "살필찰",
+    "level": "4",
+    "image": "assets/hanja/4/察.webp",
+    "hun": "살필"
+  },
+  {
+    "char": "創",
+    "yum": "창",
+    "meaning": "비롯할창",
+    "level": "4",
+    "image": "assets/hanja/4/創.webp",
+    "hun": "비롯할"
+  },
+  {
+    "char": "處",
+    "yum": "처",
+    "meaning": "곳처",
+    "level": "4",
+    "image": "assets/hanja/4/處.webp",
+    "hun": "곳"
+  },
+  {
+    "char": "請",
+    "yum": "청",
+    "meaning": "청할청",
+    "level": "4",
+    "image": "assets/hanja/4/請.webp",
+    "hun": "청할"
+  },
+  {
+    "char": "總",
+    "yum": "총",
+    "meaning": "다총",
+    "level": "4",
+    "image": "assets/hanja/4/總.webp",
+    "hun": "다"
+  },
+  {
+    "char": "銃",
+    "yum": "총",
+    "meaning": "총총",
+    "level": "4",
+    "image": "assets/hanja/4/銃.webp",
+    "hun": "총"
+  },
+  {
+    "char": "築",
+    "yum": "을",
+    "meaning": "쌓을/악기축",
+    "level": "4",
+    "image": "assets/hanja/4/築.webp",
+    "hun": "쌓"
+  },
+  {
+    "char": "蓄",
+    "yum": "축",
+    "meaning": "모을축",
+    "level": "4",
+    "image": "assets/hanja/4/蓄.webp",
+    "hun": "모을"
+  },
+  {
+    "char": "忠",
+    "yum": "충",
+    "meaning": "충성충",
+    "level": "4",
+    "image": "assets/hanja/4/忠.webp",
+    "hun": "충성"
+  },
+  {
+    "char": "蟲",
+    "yum": "충",
+    "meaning": "벌레충",
+    "level": "4",
+    "image": "assets/hanja/4/蟲.webp",
+    "hun": "벌레"
+  },
+  {
+    "char": "取",
+    "yum": "취",
+    "meaning": "취할취",
+    "level": "4",
+    "image": "assets/hanja/4/取.webp",
+    "hun": "취할"
+  },
+  {
+    "char": "測",
+    "yum": "측",
+    "meaning": "헤아릴측",
+    "level": "4",
+    "image": "assets/hanja/4/測.webp",
+    "hun": "헤아릴"
+  },
+  {
+    "char": "治",
+    "yum": "치",
+    "meaning": "다스릴치",
+    "level": "4",
+    "image": "assets/hanja/4/治.webp",
+    "hun": "다스릴"
+  },
+  {
+    "char": "置",
+    "yum": "치",
+    "meaning": "둘치",
+    "level": "4",
+    "image": "assets/hanja/4/置.webp",
+    "hun": "둘"
+  },
+  {
+    "char": "齒",
+    "yum": "치",
+    "meaning": "이치",
+    "level": "4",
+    "image": "assets/hanja/4/齒.webp",
+    "hun": "이"
+  },
+  {
+    "char": "侵",
+    "yum": "침",
+    "meaning": "넘을침",
+    "level": "4",
+    "image": "assets/hanja/4/侵.webp",
+    "hun": "넘을"
+  },
+  {
+    "char": "快",
+    "yum": "쾌",
+    "meaning": "쾌할쾌",
+    "level": "4",
+    "image": "assets/hanja/4/快.webp",
+    "hun": "쾌할"
+  },
+  {
+    "char": "態",
+    "yum": "태",
+    "meaning": "모습태",
+    "level": "4",
+    "image": "assets/hanja/4/態.webp",
+    "hun": "모습"
+  },
+  {
+    "char": "統",
+    "yum": "통",
+    "meaning": "거느릴통",
+    "level": "4",
+    "image": "assets/hanja/4/統.webp",
+    "hun": "거느릴"
+  },
+  {
+    "char": "退",
+    "yum": "퇴",
+    "meaning": "물러날퇴",
+    "level": "4",
+    "image": "assets/hanja/4/退.webp",
+    "hun": "물러날"
+  },
+  {
+    "char": "波",
+    "yum": "파",
+    "meaning": "물결파",
+    "level": "4",
+    "image": "assets/hanja/4/波.webp",
+    "hun": "물결"
+  },
+  {
+    "char": "破",
+    "yum": "파",
+    "meaning": "깨뜨릴파",
+    "level": "4",
+    "image": "assets/hanja/4/破.webp",
+    "hun": "깨뜨릴"
+  },
+  {
+    "char": "包",
+    "yum": "포",
+    "meaning": "쌀포",
+    "level": "4",
+    "image": "assets/hanja/4/包.webp",
+    "hun": "쌀"
+  },
+  {
+    "char": "布",
+    "yum": "포",
+    "meaning": "펼포,보시보",
+    "level": "4",
+    "image": "assets/hanja/4/布.webp",
+    "hun": "펼"
+  },
+  {
+    "char": "砲",
+    "yum": "포",
+    "meaning": "대포포",
+    "level": "4",
+    "image": "assets/hanja/4/砲.webp",
+    "hun": "대포"
+  },
+  {
+    "char": "暴",
+    "yum": "폭",
+    "meaning": "사나울폭/포",
+    "level": "4",
+    "image": "assets/hanja/4/暴.webp",
+    "hun": "사나울"
+  },
+  {
+    "char": "票",
+    "yum": "표",
+    "meaning": "표표",
+    "level": "4",
+    "image": "assets/hanja/4/票.webp",
+    "hun": "표"
+  },
+  {
+    "char": "豊",
+    "yum": "풍",
+    "meaning": "풍년풍",
+    "level": "4",
+    "image": "assets/hanja/4/豊.webp",
+    "hun": "풍년"
+  },
+  {
+    "char": "限",
+    "yum": "한",
+    "meaning": "한계한",
+    "level": "4",
+    "image": "assets/hanja/4/限.webp",
+    "hun": "한계"
+  },
+  {
+    "char": "港",
+    "yum": "항",
+    "meaning": "항구항",
+    "level": "4",
+    "image": "assets/hanja/4/港.webp",
+    "hun": "항구"
+  },
+  {
+    "char": "航",
+    "yum": "항",
+    "meaning": "배항",
+    "level": "4",
+    "image": "assets/hanja/4/航.webp",
+    "hun": "배"
+  },
+  {
+    "char": "解",
+    "yum": "해",
+    "meaning": "풀해",
+    "level": "4",
+    "image": "assets/hanja/4/解.webp",
+    "hun": "풀"
+  },
+  {
+    "char": "鄕",
+    "yum": "향",
+    "meaning": "시골향",
+    "level": "4",
+    "image": "assets/hanja/4/鄕.webp",
+    "hun": "시골"
+  },
+  {
+    "char": "香",
+    "yum": "향",
+    "meaning": "향기향",
+    "level": "4",
+    "image": "assets/hanja/4/香.webp",
+    "hun": "향기"
+  },
+  {
+    "char": "虛",
+    "yum": "허",
+    "meaning": "빌허",
+    "level": "4",
+    "image": "assets/hanja/4/虛.webp",
+    "hun": "빌"
+  },
+  {
+    "char": "驗",
+    "yum": "험",
+    "meaning": "시험할험",
+    "level": "4",
+    "image": "assets/hanja/4/驗.webp",
+    "hun": "시험할"
+  },
+  {
+    "char": "賢",
+    "yum": "현",
+    "meaning": "어질현",
+    "level": "4",
+    "image": "assets/hanja/4/賢.webp",
+    "hun": "어질"
+  },
+  {
+    "char": "血",
+    "yum": "혈",
+    "meaning": "피혈",
+    "level": "4",
+    "image": "assets/hanja/4/血.webp",
+    "hun": "피"
+  },
+  {
+    "char": "協",
+    "yum": "협",
+    "meaning": "화할협",
+    "level": "4",
+    "image": "assets/hanja/4/協.webp",
+    "hun": "화할"
+  },
+  {
+    "char": "惠",
+    "yum": "혜",
+    "meaning": "은혜혜",
+    "level": "4",
+    "image": "assets/hanja/4/惠.webp",
+    "hun": "은혜"
+  },
+  {
+    "char": "呼",
+    "yum": "호",
+    "meaning": "부를호",
+    "level": "4",
+    "image": "assets/hanja/4/呼.webp",
+    "hun": "부를"
+  },
+  {
+    "char": "好",
+    "yum": "호",
+    "meaning": "좋을호",
+    "level": "4",
+    "image": "assets/hanja/4/好.webp",
+    "hun": "좋을"
+  },
+  {
+    "char": "戶",
+    "yum": "호",
+    "meaning": "문호",
+    "level": "4",
+    "image": "assets/hanja/4/戶.webp",
+    "hun": "문"
+  },
+  {
+    "char": "護",
+    "yum": "호",
+    "meaning": "도울호",
+    "level": "4",
+    "image": "assets/hanja/4/護.webp",
+    "hun": "도울"
+  },
+  {
+    "char": "貨",
+    "yum": "화",
+    "meaning": "재화화",
+    "level": "4",
+    "image": "assets/hanja/4/貨.webp",
+    "hun": "재화"
+  },
+  {
+    "char": "確",
+    "yum": "확",
+    "meaning": "굳을확",
+    "level": "4",
+    "image": "assets/hanja/4/確.webp",
+    "hun": "굳을"
+  },
+  {
+    "char": "回",
+    "yum": "회",
+    "meaning": "돌아올회",
+    "level": "4",
+    "image": "assets/hanja/4/回.webp",
+    "hun": "돌아올"
+  },
+  {
+    "char": "吸",
+    "yum": "흡",
+    "meaning": "마실흡",
+    "level": "4",
+    "image": "assets/hanja/4/吸.webp",
+    "hun": "마실"
+  },
+  {
+    "char": "興",
+    "yum": "흥",
+    "meaning": "일흥",
+    "level": "4",
+    "image": "assets/hanja/4/興.webp",
+    "hun": "일"
+  },
+  {
+    "char": "希",
+    "yum": "희",
+    "meaning": "바랄희",
+    "level": "4",
+    "image": "assets/hanja/4/希.webp",
+    "hun": "바랄"
+  },
+  {
+    "char": "暇",
+    "yum": "가",
+    "meaning": "겨를가",
+    "level": "4",
+    "image": "assets/hanja/4/暇.webp",
+    "hun": "겨를"
+  },
+  {
+    "char": "刻",
+    "yum": "각",
+    "meaning": "새길각",
+    "level": "4",
+    "image": "assets/hanja/4/刻.webp",
+    "hun": "새길"
+  },
+  {
+    "char": "覺",
+    "yum": "각",
+    "meaning": "깨달을각",
+    "level": "4",
+    "image": "assets/hanja/4/覺.webp",
+    "hun": "깨달을"
+  },
+  {
+    "char": "干",
+    "yum": "패",
+    "meaning": "방패/막을간",
+    "level": "4",
+    "image": "assets/hanja/4/干.webp",
+    "hun": "방"
+  },
+  {
+    "char": "看",
+    "yum": "간",
+    "meaning": "볼간",
+    "level": "4",
+    "image": "assets/hanja/4/看.webp",
+    "hun": "볼"
+  },
+  {
+    "char": "簡",
+    "yum": "쪽",
+    "meaning": "대쪽/간략할간",
+    "level": "4",
+    "image": "assets/hanja/4/簡.webp",
+    "hun": "대"
+  },
+  {
+    "char": "敢",
+    "yum": "감",
+    "meaning": "감히감",
+    "level": "4",
+    "image": "assets/hanja/4/敢.webp",
+    "hun": "감히"
+  },
+  {
+    "char": "甘",
+    "yum": "감",
+    "meaning": "달감",
+    "level": "4",
+    "image": "assets/hanja/4/甘.webp",
+    "hun": "달"
+  },
+  {
+    "char": "甲",
+    "yum": "간",
+    "meaning": "첫째천간/갑옷갑",
+    "level": "4",
+    "image": "assets/hanja/4/甲.webp",
+    "hun": "첫째천"
+  },
+  {
+    "char": "降",
+    "yum": "강",
+    "meaning": "내릴강,항복할항",
+    "level": "4",
+    "image": "assets/hanja/4/降.webp",
+    "hun": "내릴"
+  },
+  {
+    "char": "居",
+    "yum": "거",
+    "meaning": "살거",
+    "level": "4",
+    "image": "assets/hanja/4/居.webp",
+    "hun": "살"
+  },
+  {
+    "char": "巨",
+    "yum": "거",
+    "meaning": "클거",
+    "level": "4",
+    "image": "assets/hanja/4/巨.webp",
+    "hun": "클"
+  },
+  {
+    "char": "拒",
+    "yum": "거",
+    "meaning": "막을거",
+    "level": "4",
+    "image": "assets/hanja/4/拒.webp",
+    "hun": "막을"
+  },
+  {
+    "char": "據",
+    "yum": "거",
+    "meaning": "근거거",
+    "level": "4",
+    "image": "assets/hanja/4/據.webp",
+    "hun": "근거"
+  },
+  {
+    "char": "傑",
+    "yum": "걸",
+    "meaning": "뛰어날걸",
+    "level": "4",
+    "image": "assets/hanja/4/傑.webp",
+    "hun": "뛰어날"
+  },
+  {
+    "char": "儉",
+    "yum": "검",
+    "meaning": "검소할검",
+    "level": "4",
+    "image": "assets/hanja/4/儉.webp",
+    "hun": "검소할"
+  },
+  {
+    "char": "擊",
+    "yum": "격",
+    "meaning": "칠격",
+    "level": "4",
+    "image": "assets/hanja/4/擊.webp",
+    "hun": "칠"
+  },
+  {
+    "char": "激",
+    "yum": "격",
+    "meaning": "격할격",
+    "level": "4",
+    "image": "assets/hanja/4/激.webp",
+    "hun": "격할"
+  },
+  {
+    "char": "堅",
+    "yum": "견",
+    "meaning": "굳을견",
+    "level": "4",
+    "image": "assets/hanja/4/堅.webp",
+    "hun": "굳을"
+  },
+  {
+    "char": "犬",
+    "yum": "견",
+    "meaning": "개견",
+    "level": "4",
+    "image": "assets/hanja/4/犬.webp",
+    "hun": "개"
+  },
+  {
+    "char": "傾",
+    "yum": "경",
+    "meaning": "기울경",
+    "level": "4",
+    "image": "assets/hanja/4/傾.webp",
+    "hun": "기울"
+  },
+  {
+    "char": "更",
+    "yum": "갱",
+    "meaning": "다시갱,고칠경",
+    "level": "4",
+    "image": "assets/hanja/4/更.webp",
+    "hun": "다시"
+  },
+  {
+    "char": "鏡",
+    "yum": "경",
+    "meaning": "거울경",
+    "level": "4",
+    "image": "assets/hanja/4/鏡.webp",
+    "hun": "거울"
+  },
+  {
+    "char": "驚",
+    "yum": "경",
+    "meaning": "놀랄경",
+    "level": "4",
+    "image": "assets/hanja/4/驚.webp",
+    "hun": "놀랄"
+  },
+  {
+    "char": "季",
+    "yum": "계",
+    "meaning": "철계",
+    "level": "4",
+    "image": "assets/hanja/4/季.webp",
+    "hun": "철"
+  },
+  {
+    "char": "戒",
+    "yum": "계",
+    "meaning": "경계할계",
+    "level": "4",
+    "image": "assets/hanja/4/戒.webp",
+    "hun": "경계할"
+  },
+  {
+    "char": "系",
+    "yum": "계",
+    "meaning": "이을계",
+    "level": "4",
+    "image": "assets/hanja/4/系.webp",
+    "hun": "이을"
+  },
+  {
+    "char": "繼",
+    "yum": "계",
+    "meaning": "이을계",
+    "level": "4",
+    "image": "assets/hanja/4/繼.webp",
+    "hun": "이을"
+  },
+  {
+    "char": "階",
+    "yum": "계",
+    "meaning": "섬돌계",
+    "level": "4",
+    "image": "assets/hanja/4/階.webp",
+    "hun": "섬돌"
+  },
+  {
+    "char": "鷄",
+    "yum": "계",
+    "meaning": "닭계",
+    "level": "4",
+    "image": "assets/hanja/4/鷄.webp",
+    "hun": "닭"
+  },
+  {
+    "char": "孤",
+    "yum": "고",
+    "meaning": "외로울고",
+    "level": "4",
+    "image": "assets/hanja/4/孤.webp",
+    "hun": "외로울"
+  },
+  {
+    "char": "庫",
+    "yum": "고",
+    "meaning": "창고고",
+    "level": "4",
+    "image": "assets/hanja/4/庫.webp",
+    "hun": "창고"
+  },
+  {
+    "char": "穀",
+    "yum": "곡",
+    "meaning": "곡식곡",
+    "level": "4",
+    "image": "assets/hanja/4/穀.webp",
+    "hun": "곡식"
+  },
+  {
+    "char": "困",
+    "yum": "곤",
+    "meaning": "곤할곤",
+    "level": "4",
+    "image": "assets/hanja/4/困.webp",
+    "hun": "곤할"
+  },
+  {
+    "char": "骨",
+    "yum": "골",
+    "meaning": "뼈골",
+    "level": "4",
+    "image": "assets/hanja/4/骨.webp",
+    "hun": "뼈"
+  },
+  {
+    "char": "孔",
+    "yum": "공",
+    "meaning": "구멍공",
+    "level": "4",
+    "image": "assets/hanja/4/孔.webp",
+    "hun": "구멍"
+  },
+  {
+    "char": "攻",
+    "yum": "공",
+    "meaning": "칠공",
+    "level": "4",
+    "image": "assets/hanja/4/攻.webp",
+    "hun": "칠"
+  },
+  {
+    "char": "管",
+    "yum": "롱",
+    "meaning": "대롱/주관할관",
+    "level": "4",
+    "image": "assets/hanja/4/管.webp",
+    "hun": "대"
+  },
+  {
+    "char": "鑛",
+    "yum": "광",
+    "meaning": "쇳돌광",
+    "level": "4",
+    "image": "assets/hanja/4/鑛.webp",
+    "hun": "쇳돌"
+  },
+  {
+    "char": "構",
+    "yum": "구",
+    "meaning": "얽을구",
+    "level": "4",
+    "image": "assets/hanja/4/構.webp",
+    "hun": "얽을"
+  },
+  {
+    "char": "君",
+    "yum": "군",
+    "meaning": "임금군",
+    "level": "4",
+    "image": "assets/hanja/4/君.webp",
+    "hun": "임금"
+  },
+  {
+    "char": "群",
+    "yum": "군",
+    "meaning": "무리군",
+    "level": "4",
+    "image": "assets/hanja/4/群.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "屈",
+    "yum": "굴",
+    "meaning": "굽힐굴",
+    "level": "4",
+    "image": "assets/hanja/4/屈.webp",
+    "hun": "굽힐"
+  },
+  {
+    "char": "窮",
+    "yum": "궁",
+    "meaning": "다할궁",
+    "level": "4",
+    "image": "assets/hanja/4/窮.webp",
+    "hun": "다할"
+  },
+  {
+    "char": "券",
+    "yum": "권",
+    "meaning": "문서권",
+    "level": "4",
+    "image": "assets/hanja/4/券.webp",
+    "hun": "문서"
+  },
+  {
+    "char": "勸",
+    "yum": "권",
+    "meaning": "권할권",
+    "level": "4",
+    "image": "assets/hanja/4/勸.webp",
+    "hun": "권할"
+  },
+  {
+    "char": "卷",
+    "yum": "권",
+    "meaning": "책권",
+    "level": "4",
+    "image": "assets/hanja/4/卷.webp",
+    "hun": "책"
+  },
+  {
+    "char": "歸",
+    "yum": "귀",
+    "meaning": "돌아갈귀",
+    "level": "4",
+    "image": "assets/hanja/4/歸.webp",
+    "hun": "돌아갈"
+  },
+  {
+    "char": "均",
+    "yum": "균",
+    "meaning": "고를균",
+    "level": "4",
+    "image": "assets/hanja/4/均.webp",
+    "hun": "고를"
+  },
+  {
+    "char": "劇",
+    "yum": "극",
+    "meaning": "연극/심할극",
+    "level": "4",
+    "image": "assets/hanja/4/劇.webp",
+    "hun": "연"
+  },
+  {
+    "char": "勤",
+    "yum": "근",
+    "meaning": "부지런할근",
+    "level": "4",
+    "image": "assets/hanja/4/勤.webp",
+    "hun": "부지런할"
+  },
+  {
+    "char": "筋",
+    "yum": "근",
+    "meaning": "힘줄근",
+    "level": "4",
+    "image": "assets/hanja/4/筋.webp",
+    "hun": "힘줄"
+  },
+  {
+    "char": "奇",
+    "yum": "기",
+    "meaning": "기이할기",
+    "level": "4",
+    "image": "assets/hanja/4/奇.webp",
+    "hun": "기이할"
+  },
+  {
+    "char": "寄",
+    "yum": "기",
+    "meaning": "부칠기",
+    "level": "4",
+    "image": "assets/hanja/4/寄.webp",
+    "hun": "부칠"
+  },
+  {
+    "char": "機",
+    "yum": "기",
+    "meaning": "틀기",
+    "level": "4",
+    "image": "assets/hanja/4/機.webp",
+    "hun": "틀"
+  },
+  {
+    "char": "紀",
+    "yum": "기",
+    "meaning": "벼리기",
+    "level": "4",
+    "image": "assets/hanja/4/紀.webp",
+    "hun": "벼리"
+  },
+  {
+    "char": "納",
+    "yum": "납",
+    "meaning": "들일납",
+    "level": "4",
+    "image": "assets/hanja/4/納.webp",
+    "hun": "들일"
+  },
+  {
+    "char": "段",
+    "yum": "단",
+    "meaning": "층계단",
+    "level": "4",
+    "image": "assets/hanja/4/段.webp",
+    "hun": "층계"
+  },
+  {
+    "char": "徒",
+    "yum": "도",
+    "meaning": "무리도",
+    "level": "4",
+    "image": "assets/hanja/4/徒.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "盜",
+    "yum": "도",
+    "meaning": "도둑도",
+    "level": "4",
+    "image": "assets/hanja/4/盜.webp",
+    "hun": "도둑"
+  },
+  {
+    "char": "逃",
+    "yum": "도",
+    "meaning": "달아날도",
+    "level": "4",
+    "image": "assets/hanja/4/逃.webp",
+    "hun": "달아날"
+  },
+  {
+    "char": "亂",
+    "yum": "란",
+    "meaning": "어지러울란",
+    "level": "4",
+    "image": "assets/hanja/4/亂.webp",
+    "hun": "어지러울"
+  },
+  {
+    "char": "卵",
+    "yum": "란",
+    "meaning": "알란",
+    "level": "4",
+    "image": "assets/hanja/4/卵.webp",
+    "hun": "알"
+  },
+  {
+    "char": "覽",
+    "yum": "람",
+    "meaning": "볼람",
+    "level": "4",
+    "image": "assets/hanja/4/覽.webp",
+    "hun": "볼"
+  },
+  {
+    "char": "略",
+    "yum": "략",
+    "meaning": "책략/간략할략",
+    "level": "4",
+    "image": "assets/hanja/4/略.webp",
+    "hun": "책"
+  },
+  {
+    "char": "糧",
+    "yum": "량",
+    "meaning": "양식량",
+    "level": "4",
+    "image": "assets/hanja/4/糧.webp",
+    "hun": "양식"
+  },
+  {
+    "char": "慮",
+    "yum": "려",
+    "meaning": "생각할려",
+    "level": "4",
+    "image": "assets/hanja/4/慮.webp",
+    "hun": "생각할"
+  },
+  {
+    "char": "烈",
+    "yum": "렬",
+    "meaning": "매울렬",
+    "level": "4",
+    "image": "assets/hanja/4/烈.webp",
+    "hun": "매울"
+  },
+  {
+    "char": "龍",
+    "yum": "룡",
+    "meaning": "용룡",
+    "level": "4",
+    "image": "assets/hanja/4/龍.webp",
+    "hun": "용"
+  },
+  {
+    "char": "柳",
+    "yum": "류",
+    "meaning": "버들류",
+    "level": "4",
+    "image": "assets/hanja/4/柳.webp",
+    "hun": "버들"
+  },
+  {
+    "char": "輪",
+    "yum": "륜",
+    "meaning": "바퀴륜",
+    "level": "4",
+    "image": "assets/hanja/4/輪.webp",
+    "hun": "바퀴"
+  },
+  {
+    "char": "離",
+    "yum": "리",
+    "meaning": "떠날리",
+    "level": "4",
+    "image": "assets/hanja/4/離.webp",
+    "hun": "떠날"
+  },
+  {
+    "char": "妹",
+    "yum": "매",
+    "meaning": "손아래누이매",
+    "level": "4",
+    "image": "assets/hanja/4/妹.webp",
+    "hun": "손아래누이"
+  },
+  {
+    "char": "勉",
+    "yum": "면",
+    "meaning": "힘쓸면",
+    "level": "4",
+    "image": "assets/hanja/4/勉.webp",
+    "hun": "힘쓸"
+  },
+  {
+    "char": "鳴",
+    "yum": "명",
+    "meaning": "울명",
+    "level": "4",
+    "image": "assets/hanja/4/鳴.webp",
+    "hun": "울"
+  },
+  {
+    "char": "模",
+    "yum": "모",
+    "meaning": "본뜰모",
+    "level": "4",
+    "image": "assets/hanja/4/模.webp",
+    "hun": "본뜰"
+  },
+  {
+    "char": "墓",
+    "yum": "묘",
+    "meaning": "무덤묘",
+    "level": "4",
+    "image": "assets/hanja/4/墓.webp",
+    "hun": "무덤"
+  },
+  {
+    "char": "妙",
+    "yum": "묘",
+    "meaning": "묘할묘",
+    "level": "4",
+    "image": "assets/hanja/4/妙.webp",
+    "hun": "묘할"
+  },
+  {
+    "char": "舞",
+    "yum": "무",
+    "meaning": "춤출무",
+    "level": "4",
+    "image": "assets/hanja/4/舞.webp",
+    "hun": "춤출"
+  },
+  {
+    "char": "拍",
+    "yum": "박",
+    "meaning": "칠박",
+    "level": "4",
+    "image": "assets/hanja/4/拍.webp",
+    "hun": "칠"
+  },
+  {
+    "char": "髮",
+    "yum": "발",
+    "meaning": "터럭발",
+    "level": "4",
+    "image": "assets/hanja/4/髮.webp",
+    "hun": "터럭"
+  },
+  {
+    "char": "妨",
+    "yum": "방",
+    "meaning": "방해할방",
+    "level": "4",
+    "image": "assets/hanja/4/妨.webp",
+    "hun": "방해할"
+  },
+  {
+    "char": "犯",
+    "yum": "범",
+    "meaning": "범할범",
+    "level": "4",
+    "image": "assets/hanja/4/犯.webp",
+    "hun": "범할"
+  },
+  {
+    "char": "範",
+    "yum": "범",
+    "meaning": "법범",
+    "level": "4",
+    "image": "assets/hanja/4/範.webp",
+    "hun": "법"
+  },
+  {
+    "char": "辯",
+    "yum": "변",
+    "meaning": "말씀변",
+    "level": "4",
+    "image": "assets/hanja/4/辯.webp",
+    "hun": "말씀"
+  },
+  {
+    "char": "普",
+    "yum": "보",
+    "meaning": "넓을보",
+    "level": "4",
+    "image": "assets/hanja/4/普.webp",
+    "hun": "넓을"
+  },
+  {
+    "char": "伏",
+    "yum": "복",
+    "meaning": "엎드릴복",
+    "level": "4",
+    "image": "assets/hanja/4/伏.webp",
+    "hun": "엎드릴"
+  },
+  {
+    "char": "複",
+    "yum": "복",
+    "meaning": "겹칠복",
+    "level": "4",
+    "image": "assets/hanja/4/複.webp",
+    "hun": "겹칠"
+  },
+  {
+    "char": "否",
+    "yum": "부",
+    "meaning": "아닐부",
+    "level": "4",
+    "image": "assets/hanja/4/否.webp",
+    "hun": "아닐"
+  },
+  {
+    "char": "負",
+    "yum": "부",
+    "meaning": "질부",
+    "level": "4",
+    "image": "assets/hanja/4/負.webp",
+    "hun": "질"
+  },
+  {
+    "char": "憤",
+    "yum": "분",
+    "meaning": "분할분",
+    "level": "4",
+    "image": "assets/hanja/4/憤.webp",
+    "hun": "분할"
+  },
+  {
+    "char": "粉",
+    "yum": "분",
+    "meaning": "가루분",
+    "level": "4",
+    "image": "assets/hanja/4/粉.webp",
+    "hun": "가루"
+  },
+  {
+    "char": "批",
+    "yum": "비",
+    "meaning": "비평할비",
+    "level": "4",
+    "image": "assets/hanja/4/批.webp",
+    "hun": "비평할"
+  },
+  {
+    "char": "碑",
+    "yum": "비",
+    "meaning": "비석비",
+    "level": "4",
+    "image": "assets/hanja/4/碑.webp",
+    "hun": "비석"
+  },
+  {
+    "char": "祕",
+    "yum": "비",
+    "meaning": "숨길비",
+    "level": "4",
+    "image": "assets/hanja/4/祕.webp",
+    "hun": "숨길"
+  },
+  {
+    "char": "射",
+    "yum": "사",
+    "meaning": "쏠사",
+    "level": "4",
+    "image": "assets/hanja/4/射.webp",
+    "hun": "쏠"
+  },
+  {
+    "char": "私",
+    "yum": "사",
+    "meaning": "사사로울사",
+    "level": "4",
+    "image": "assets/hanja/4/私.webp",
+    "hun": "사사로울"
+  },
+  {
+    "char": "絲",
+    "yum": "사",
+    "meaning": "실사",
+    "level": "4",
+    "image": "assets/hanja/4/絲.webp",
+    "hun": "실"
+  },
+  {
+    "char": "辭",
+    "yum": "사",
+    "meaning": "말씀사",
+    "level": "4",
+    "image": "assets/hanja/4/辭.webp",
+    "hun": "말씀"
+  },
+  {
+    "char": "散",
+    "yum": "산",
+    "meaning": "흩을산",
+    "level": "4",
+    "image": "assets/hanja/4/散.webp",
+    "hun": "흩을"
+  },
+  {
+    "char": "傷",
+    "yum": "상",
+    "meaning": "상할상",
+    "level": "4",
+    "image": "assets/hanja/4/傷.webp",
+    "hun": "상할"
+  },
+  {
+    "char": "象",
+    "yum": "리",
+    "meaning": "코끼리/모양상",
+    "level": "4",
+    "image": "assets/hanja/4/象.webp",
+    "hun": "코끼"
+  },
+  {
+    "char": "宣",
+    "yum": "선",
+    "meaning": "베풀선",
+    "level": "4",
+    "image": "assets/hanja/4/宣.webp",
+    "hun": "베풀"
+  },
+  {
+    "char": "舌",
+    "yum": "설",
+    "meaning": "혀설",
+    "level": "4",
+    "image": "assets/hanja/4/舌.webp",
+    "hun": "혀"
+  },
+  {
+    "char": "屬",
+    "yum": "속",
+    "meaning": "무리속",
+    "level": "4",
+    "image": "assets/hanja/4/屬.webp",
+    "hun": "무리"
+  },
+  {
+    "char": "損",
+    "yum": "손",
+    "meaning": "덜손",
+    "level": "4",
+    "image": "assets/hanja/4/損.webp",
+    "hun": "덜"
+  },
+  {
+    "char": "松",
+    "yum": "송",
+    "meaning": "소나무송",
+    "level": "4",
+    "image": "assets/hanja/4/松.webp",
+    "hun": "소나무"
+  },
+  {
+    "char": "頌",
+    "yum": "송",
+    "meaning": "기릴송",
+    "level": "4",
+    "image": "assets/hanja/4/頌.webp",
+    "hun": "기릴"
+  },
+  {
+    "char": "秀",
+    "yum": "수",
+    "meaning": "빼어날수",
+    "level": "4",
+    "image": "assets/hanja/4/秀.webp",
+    "hun": "빼어날"
+  },
+  {
+    "char": "叔",
+    "yum": "숙",
+    "meaning": "아저씨숙",
+    "level": "4",
+    "image": "assets/hanja/4/叔.webp",
+    "hun": "아저씨"
+  },
+  {
+    "char": "肅",
+    "yum": "숙",
+    "meaning": "엄숙할숙",
+    "level": "4",
+    "image": "assets/hanja/4/肅.webp",
+    "hun": "엄숙할"
+  },
+  {
+    "char": "崇",
+    "yum": "숭",
+    "meaning": "받들숭",
+    "level": "4",
+    "image": "assets/hanja/4/崇.webp",
+    "hun": "받들"
+  },
+  {
+    "char": "氏",
+    "yum": "씨",
+    "meaning": "성씨씨",
+    "level": "4",
+    "image": "assets/hanja/4/氏.webp",
+    "hun": "성씨"
+  },
+  {
+    "char": "額",
+    "yum": "액",
+    "meaning": "이마액",
+    "level": "4",
+    "image": "assets/hanja/4/額.webp",
+    "hun": "이마"
+  },
+  {
+    "char": "樣",
+    "yum": "양",
+    "meaning": "모양양",
+    "level": "4",
+    "image": "assets/hanja/4/樣.webp",
+    "hun": "모양"
+  },
+  {
+    "char": "嚴",
+    "yum": "엄",
+    "meaning": "엄할엄",
+    "level": "4",
+    "image": "assets/hanja/4/嚴.webp",
+    "hun": "엄할"
+  },
+  {
+    "char": "與",
+    "yum": "불",
+    "meaning": "더불/줄여",
+    "level": "4",
+    "image": "assets/hanja/4/與.webp",
+    "hun": "더"
+  },
+  {
+    "char": "域",
+    "yum": "역",
+    "meaning": "지경역",
+    "level": "4",
+    "image": "assets/hanja/4/域.webp",
+    "hun": "지경"
+  },
+  {
+    "char": "易",
+    "yum": "역",
+    "meaning": "바꿀역,쉬울이",
+    "level": "4",
+    "image": "assets/hanja/4/易.webp",
+    "hun": "바꿀"
+  },
+  {
+    "char": "延",
+    "yum": "연",
+    "meaning": "늘일연",
+    "level": "4",
+    "image": "assets/hanja/4/延.webp",
+    "hun": "늘일"
+  },
+  {
+    "char": "燃",
+    "yum": "연",
+    "meaning": "불탈연",
+    "level": "4",
+    "image": "assets/hanja/4/燃.webp",
+    "hun": "불탈"
+  },
+  {
+    "char": "緣",
+    "yum": "연",
+    "meaning": "인연연",
+    "level": "4",
+    "image": "assets/hanja/4/緣.webp",
+    "hun": "인연"
+  },
+  {
+    "char": "鉛",
+    "yum": "연",
+    "meaning": "납연",
+    "level": "4",
+    "image": "assets/hanja/4/鉛.webp",
+    "hun": "납"
+  },
+  {
+    "char": "映",
+    "yum": "영",
+    "meaning": "비칠영",
+    "level": "4",
+    "image": "assets/hanja/4/映.webp",
+    "hun": "비칠"
+  },
+  {
+    "char": "營",
+    "yum": "영",
+    "meaning": "경영할영",
+    "level": "4",
+    "image": "assets/hanja/4/營.webp",
+    "hun": "경영할"
+  },
+  {
+    "char": "迎",
+    "yum": "영",
+    "meaning": "맞을영",
+    "level": "4",
+    "image": "assets/hanja/4/迎.webp",
+    "hun": "맞을"
+  },
+  {
+    "char": "豫",
+    "yum": "예",
+    "meaning": "미리예",
+    "level": "4",
+    "image": "assets/hanja/4/豫.webp",
+    "hun": "미리"
+  },
+  {
+    "char": "優",
+    "yum": "우",
+    "meaning": "넉넉할우",
+    "level": "4",
+    "image": "assets/hanja/4/優.webp",
+    "hun": "넉넉할"
+  },
+  {
+    "char": "遇",
+    "yum": "우",
+    "meaning": "만날우",
+    "level": "4",
+    "image": "assets/hanja/4/遇.webp",
+    "hun": "만날"
+  },
+  {
+    "char": "郵",
+    "yum": "우",
+    "meaning": "우편우",
+    "level": "4",
+    "image": "assets/hanja/4/郵.webp",
+    "hun": "우편"
+  },
+  {
+    "char": "怨",
+    "yum": "원",
+    "meaning": "원망할원",
+    "level": "4",
+    "image": "assets/hanja/4/怨.webp",
+    "hun": "원망할"
+  },
+  {
+    "char": "援",
+    "yum": "원",
+    "meaning": "도울원",
+    "level": "4",
+    "image": "assets/hanja/4/援.webp",
+    "hun": "도울"
+  },
+  {
+    "char": "源",
+    "yum": "원",
+    "meaning": "근원원",
+    "level": "4",
+    "image": "assets/hanja/4/源.webp",
+    "hun": "근원"
+  },
+  {
+    "char": "危",
+    "yum": "위",
+    "meaning": "위태할위",
+    "level": "4",
+    "image": "assets/hanja/4/危.webp",
+    "hun": "위태할"
+  },
+  {
+    "char": "圍",
+    "yum": "위",
+    "meaning": "에워쌀위",
+    "level": "4",
+    "image": "assets/hanja/4/圍.webp",
+    "hun": "에워쌀"
+  },
+  {
+    "char": "委",
+    "yum": "위",
+    "meaning": "맡길위",
+    "level": "4",
+    "image": "assets/hanja/4/委.webp",
+    "hun": "맡길"
+  },
+  {
+    "char": "威",
+    "yum": "위",
+    "meaning": "위엄위",
+    "level": "4",
+    "image": "assets/hanja/4/威.webp",
+    "hun": "위엄"
+  },
+  {
+    "char": "慰",
+    "yum": "위",
+    "meaning": "위로할위",
+    "level": "4",
+    "image": "assets/hanja/4/慰.webp",
+    "hun": "위로할"
+  },
+  {
+    "char": "乳",
+    "yum": "유",
+    "meaning": "젖유",
+    "level": "4",
+    "image": "assets/hanja/4/乳.webp",
+    "hun": "젖"
+  },
+  {
+    "char": "儒",
+    "yum": "유",
+    "meaning": "선비유",
+    "level": "4",
+    "image": "assets/hanja/4/儒.webp",
+    "hun": "선비"
+  },
+  {
+    "char": "遊",
+    "yum": "유",
+    "meaning": "놀유",
+    "level": "4",
+    "image": "assets/hanja/4/遊.webp",
+    "hun": "놀"
+  },
+  {
+    "char": "遺",
+    "yum": "유",
+    "meaning": "남길유",
+    "level": "4",
+    "image": "assets/hanja/4/遺.webp",
+    "hun": "남길"
+  },
+  {
+    "char": "隱",
+    "yum": "은",
+    "meaning": "숨을은",
+    "level": "4",
+    "image": "assets/hanja/4/隱.webp",
+    "hun": "숨을"
+  },
+  {
+    "char": "依",
+    "yum": "의",
+    "meaning": "의지할의",
+    "level": "4",
+    "image": "assets/hanja/4/依.webp",
+    "hun": "의지할"
+  },
+  {
+    "char": "儀",
+    "yum": "의",
+    "meaning": "모양의",
+    "level": "4",
+    "image": "assets/hanja/4/儀.webp",
+    "hun": "모양"
+  },
+  {
+    "char": "疑",
+    "yum": "의",
+    "meaning": "의심할의",
+    "level": "4",
+    "image": "assets/hanja/4/疑.webp",
+    "hun": "의심할"
+  },
+  {
+    "char": "異",
+    "yum": "이",
+    "meaning": "다를이",
+    "level": "4",
+    "image": "assets/hanja/4/異.webp",
+    "hun": "다를"
+  },
+  {
+    "char": "仁",
+    "yum": "인",
+    "meaning": "어질인",
+    "level": "4",
+    "image": "assets/hanja/4/仁.webp",
+    "hun": "어질"
+  },
+  {
+    "char": "姉",
+    "yum": "자",
+    "meaning": "윗누이자",
+    "level": "4",
+    "image": "assets/hanja/4/姉.webp",
+    "hun": "윗누이"
+  },
+  {
+    "char": "姿",
+    "yum": "자",
+    "meaning": "모양자",
+    "level": "4",
+    "image": "assets/hanja/4/姿.webp",
+    "hun": "모양"
+  },
+  {
+    "char": "資",
+    "yum": "자",
+    "meaning": "재물자",
+    "level": "4",
+    "image": "assets/hanja/4/資.webp",
+    "hun": "재물"
+  },
+  {
+    "char": "殘",
+    "yum": "할",
+    "meaning": "잔인할/남을잔",
+    "level": "4",
+    "image": "assets/hanja/4/殘.webp",
+    "hun": "잔인"
+  },
+  {
+    "char": "雜",
+    "yum": "잡",
+    "meaning": "섞일잡",
+    "level": "4",
+    "image": "assets/hanja/4/雜.webp",
+    "hun": "섞일"
+  },
+  {
+    "char": "壯",
+    "yum": "장",
+    "meaning": "장할장",
+    "level": "4",
+    "image": "assets/hanja/4/壯.webp",
+    "hun": "장할"
+  },
+  {
+    "char": "奬",
+    "yum": "장",
+    "meaning": "권장할장",
+    "level": "4",
+    "image": "assets/hanja/4/奬.webp",
+    "hun": "권장할"
+  },
+  {
+    "char": "帳",
+    "yum": "장",
+    "meaning": "장막장",
+    "level": "4",
+    "image": "assets/hanja/4/帳.webp",
+    "hun": "장막"
+  },
+  {
+    "char": "張",
+    "yum": "장",
+    "meaning": "베풀장",
+    "level": "4",
+    "image": "assets/hanja/4/張.webp",
+    "hun": "베풀"
+  },
+  {
+    "char": "腸",
+    "yum": "장",
+    "meaning": "창자장",
+    "level": "4",
+    "image": "assets/hanja/4/腸.webp",
+    "hun": "창자"
+  },
+  {
+    "char": "裝",
+    "yum": "장",
+    "meaning": "꾸밀장",
+    "level": "4",
+    "image": "assets/hanja/4/裝.webp",
+    "hun": "꾸밀"
+  },
+  {
+    "char": "底",
+    "yum": "저",
+    "meaning": "밑저",
+    "level": "4",
+    "image": "assets/hanja/4/底.webp",
+    "hun": "밑"
+  },
+  {
+    "char": "積",
+    "yum": "적",
+    "meaning": "쌓을적",
+    "level": "4",
+    "image": "assets/hanja/4/積.webp",
+    "hun": "쌓을"
+  },
+  {
+    "char": "籍",
+    "yum": "적",
+    "meaning": "문서적",
+    "level": "4",
+    "image": "assets/hanja/4/籍.webp",
+    "hun": "문서"
+  },
+  {
+    "char": "績",
+    "yum": "할",
+    "meaning": "길쌈할/공적적",
+    "level": "4",
+    "image": "assets/hanja/4/績.webp",
+    "hun": "길쌈"
+  },
+  {
+    "char": "賊",
+    "yum": "적",
+    "meaning": "도둑적",
+    "level": "4",
+    "image": "assets/hanja/4/賊.webp",
+    "hun": "도둑"
+  },
+  {
+    "char": "適",
+    "yum": "적",
+    "meaning": "맞을적",
+    "level": "4",
+    "image": "assets/hanja/4/適.webp",
+    "hun": "맞을"
+  },
+  {
+    "char": "專",
+    "yum": "전",
+    "meaning": "오로지전",
+    "level": "4",
+    "image": "assets/hanja/4/專.webp",
+    "hun": "오로지"
+  },
+  {
+    "char": "轉",
+    "yum": "전",
+    "meaning": "구를전",
+    "level": "4",
+    "image": "assets/hanja/4/轉.webp",
+    "hun": "구를"
+  },
+  {
+    "char": "錢",
+    "yum": "전",
+    "meaning": "돈전",
+    "level": "4",
+    "image": "assets/hanja/4/錢.webp",
+    "hun": "돈"
+  },
+  {
+    "char": "折",
+    "yum": "절",
+    "meaning": "꺾을절",
+    "level": "4",
+    "image": "assets/hanja/4/折.webp",
+    "hun": "꺾을"
+  },
+  {
+    "char": "占",
+    "yum": "할",
+    "meaning": "점거할/점칠점",
+    "level": "4",
+    "image": "assets/hanja/4/占.webp",
+    "hun": "점거"
+  },
+  {
+    "char": "點",
+    "yum": "점",
+    "meaning": "점점",
+    "level": "4",
+    "image": "assets/hanja/4/點.webp",
+    "hun": "점"
+  },
+  {
+    "char": "丁",
+    "yum": "간",
+    "meaning": "넷째천간/고무래정",
+    "level": "4",
+    "image": "assets/hanja/4/丁.webp",
+    "hun": "넷째천"
+  },
+  {
+    "char": "整",
+    "yum": "정",
+    "meaning": "가지런할정",
+    "level": "4",
+    "image": "assets/hanja/4/整.webp",
+    "hun": "가지런할"
+  },
+  {
+    "char": "靜",
+    "yum": "정",
+    "meaning": "고요할정",
+    "level": "4",
+    "image": "assets/hanja/4/靜.webp",
+    "hun": "고요할"
+  },
+  {
+    "char": "帝",
+    "yum": "제",
+    "meaning": "임금제",
+    "level": "4",
+    "image": "assets/hanja/4/帝.webp",
+    "hun": "임금"
+  },
+  {
+    "char": "條",
+    "yum": "조",
+    "meaning": "가지조",
+    "level": "4",
+    "image": "assets/hanja/4/條.webp",
+    "hun": "가지"
+  },
+  {
+    "char": "潮",
+    "yum": "조",
+    "meaning": "밀물조",
+    "level": "4",
+    "image": "assets/hanja/4/潮.webp",
+    "hun": "밀물"
+  },
+  {
+    "char": "組",
+    "yum": "조",
+    "meaning": "짤조",
+    "level": "4",
+    "image": "assets/hanja/4/組.webp",
+    "hun": "짤"
+  },
+  {
+    "char": "存",
+    "yum": "존",
+    "meaning": "있을존",
+    "level": "4",
+    "image": "assets/hanja/4/存.webp",
+    "hun": "있을"
+  },
+  {
+    "char": "從",
+    "yum": "종",
+    "meaning": "좇을종",
+    "level": "4",
+    "image": "assets/hanja/4/從.webp",
+    "hun": "좇을"
+  },
+  {
+    "char": "鍾",
+    "yum": "종",
+    "meaning": "쇠북종",
+    "level": "4",
+    "image": "assets/hanja/4/鍾.webp",
+    "hun": "쇠북"
+  },
+  {
+    "char": "座",
+    "yum": "좌",
+    "meaning": "자리좌",
+    "level": "4",
+    "image": "assets/hanja/4/座.webp",
+    "hun": "자리"
+  },
+  {
+    "char": "周",
+    "yum": "주",
+    "meaning": "두루주",
+    "level": "4",
+    "image": "assets/hanja/4/周.webp",
+    "hun": "두루"
+  },
+  {
+    "char": "朱",
+    "yum": "주",
+    "meaning": "붉을주",
+    "level": "4",
+    "image": "assets/hanja/4/朱.webp",
+    "hun": "붉을"
+  },
+  {
+    "char": "酒",
+    "yum": "주",
+    "meaning": "술주",
+    "level": "4",
+    "image": "assets/hanja/4/酒.webp",
+    "hun": "술"
+  },
+  {
+    "char": "證",
+    "yum": "증",
+    "meaning": "증명할증",
+    "level": "4",
+    "image": "assets/hanja/4/證.webp",
+    "hun": "증명할"
+  },
+  {
+    "char": "持",
+    "yum": "지",
+    "meaning": "가질지",
+    "level": "4",
+    "image": "assets/hanja/4/持.webp",
+    "hun": "가질"
+  },
+  {
+    "char": "智",
+    "yum": "지",
+    "meaning": "지혜지",
+    "level": "4",
+    "image": "assets/hanja/4/智.webp",
+    "hun": "지혜"
+  },
+  {
+    "char": "誌",
+    "yum": "지",
+    "meaning": "기록할지",
+    "level": "4",
+    "image": "assets/hanja/4/誌.webp",
+    "hun": "기록할"
+  },
+  {
+    "char": "織",
+    "yum": "직",
+    "meaning": "짤직",
+    "level": "4",
+    "image": "assets/hanja/4/織.webp",
+    "hun": "짤"
+  },
+  {
+    "char": "珍",
+    "yum": "진",
+    "meaning": "보배진",
+    "level": "4",
+    "image": "assets/hanja/4/珍.webp",
+    "hun": "보배"
+  },
+  {
+    "char": "盡",
+    "yum": "진",
+    "meaning": "다할진",
+    "level": "4",
+    "image": "assets/hanja/4/盡.webp",
+    "hun": "다할"
+  },
+  {
+    "char": "陣",
+    "yum": "진",
+    "meaning": "진칠진",
+    "level": "4",
+    "image": "assets/hanja/4/陣.webp",
+    "hun": "진칠"
+  },
+  {
+    "char": "差",
+    "yum": "차",
+    "meaning": "다를차,어긋날치",
+    "level": "4",
+    "image": "assets/hanja/4/差.webp",
+    "hun": "다를"
+  },
+  {
+    "char": "讚",
+    "yum": "찬",
+    "meaning": "기릴찬",
+    "level": "4",
+    "image": "assets/hanja/4/讚.webp",
+    "hun": "기릴"
+  },
+  {
+    "char": "採",
+    "yum": "채",
+    "meaning": "캘채",
+    "level": "4",
+    "image": "assets/hanja/4/採.webp",
+    "hun": "캘"
+  },
+  {
+    "char": "冊",
+    "yum": "책",
+    "meaning": "책책",
+    "level": "4",
+    "image": "assets/hanja/4/冊.webp",
+    "hun": "책"
+  },
+  {
+    "char": "泉",
+    "yum": "천",
+    "meaning": "샘천",
+    "level": "4",
+    "image": "assets/hanja/4/泉.webp",
+    "hun": "샘"
+  },
+  {
+    "char": "廳",
+    "yum": "청",
+    "meaning": "관청청",
+    "level": "4",
+    "image": "assets/hanja/4/廳.webp",
+    "hun": "관청"
+  },
+  {
+    "char": "聽",
+    "yum": "청",
+    "meaning": "들을청",
+    "level": "4",
+    "image": "assets/hanja/4/聽.webp",
+    "hun": "들을"
+  },
+  {
+    "char": "招",
+    "yum": "초",
+    "meaning": "부를초",
+    "level": "4",
+    "image": "assets/hanja/4/招.webp",
+    "hun": "부를"
+  },
+  {
+    "char": "推",
+    "yum": "추",
+    "meaning": "밀추/퇴",
+    "level": "4",
+    "image": "assets/hanja/4/推.webp",
+    "hun": "밀"
+  },
+  {
+    "char": "縮",
+    "yum": "축",
+    "meaning": "줄일축",
+    "level": "4",
+    "image": "assets/hanja/4/縮.webp",
+    "hun": "줄일"
+  },
+  {
+    "char": "就",
+    "yum": "취",
+    "meaning": "나아갈취",
+    "level": "4",
+    "image": "assets/hanja/4/就.webp",
+    "hun": "나아갈"
+  },
+  {
+    "char": "趣",
+    "yum": "취",
+    "meaning": "뜻취",
+    "level": "4",
+    "image": "assets/hanja/4/趣.webp",
+    "hun": "뜻"
+  },
+  {
+    "char": "層",
+    "yum": "층",
+    "meaning": "층층",
+    "level": "4",
+    "image": "assets/hanja/4/層.webp",
+    "hun": "층"
+  },
+  {
+    "char": "寢",
+    "yum": "침",
+    "meaning": "잘침",
+    "level": "4",
+    "image": "assets/hanja/4/寢.webp",
+    "hun": "잘"
+  },
+  {
+    "char": "針",
+    "yum": "침",
+    "meaning": "바늘침",
+    "level": "4",
+    "image": "assets/hanja/4/針.webp",
+    "hun": "바늘"
+  },
+  {
+    "char": "稱",
+    "yum": "칭",
+    "meaning": "일컬을칭",
+    "level": "4",
+    "image": "assets/hanja/4/稱.webp",
+    "hun": "일컬을"
+  },
+  {
+    "char": "彈",
+    "yum": "탄",
+    "meaning": "탄알탄",
+    "level": "4",
+    "image": "assets/hanja/4/彈.webp",
+    "hun": "탄알"
+  },
+  {
+    "char": "歎",
+    "yum": "탄",
+    "meaning": "탄식할탄",
+    "level": "4",
+    "image": "assets/hanja/4/歎.webp",
+    "hun": "탄식할"
+  },
+  {
+    "char": "脫",
+    "yum": "탈",
+    "meaning": "벗을탈",
+    "level": "4",
+    "image": "assets/hanja/4/脫.webp",
+    "hun": "벗을"
+  },
+  {
+    "char": "探",
+    "yum": "탐",
+    "meaning": "찾을탐",
+    "level": "4",
+    "image": "assets/hanja/4/探.webp",
+    "hun": "찾을"
+  },
+  {
+    "char": "擇",
+    "yum": "택",
+    "meaning": "가릴택",
+    "level": "4",
+    "image": "assets/hanja/4/擇.webp",
+    "hun": "가릴"
+  },
+  {
+    "char": "討",
+    "yum": "토",
+    "meaning": "칠토",
+    "level": "4",
+    "image": "assets/hanja/4/討.webp",
+    "hun": "칠"
+  },
+  {
+    "char": "痛",
+    "yum": "통",
+    "meaning": "아플통",
+    "level": "4",
+    "image": "assets/hanja/4/痛.webp",
+    "hun": "아플"
+  },
+  {
+    "char": "投",
+    "yum": "투",
+    "meaning": "던질투",
+    "level": "4",
+    "image": "assets/hanja/4/投.webp",
+    "hun": "던질"
+  },
+  {
+    "char": "鬪",
+    "yum": "투",
+    "meaning": "싸울투",
+    "level": "4",
+    "image": "assets/hanja/4/鬪.webp",
+    "hun": "싸울"
+  },
+  {
+    "char": "派",
+    "yum": "파",
+    "meaning": "갈래파",
+    "level": "4",
+    "image": "assets/hanja/4/派.webp",
+    "hun": "갈래"
+  },
+  {
+    "char": "判",
+    "yum": "판",
+    "meaning": "판단할판",
+    "level": "4",
+    "image": "assets/hanja/4/判.webp",
+    "hun": "판단할"
+  },
+  {
+    "char": "篇",
+    "yum": "편",
+    "meaning": "책편",
+    "level": "4",
+    "image": "assets/hanja/4/篇.webp",
+    "hun": "책"
+  },
+  {
+    "char": "評",
+    "yum": "평",
+    "meaning": "평할평",
+    "level": "4",
+    "image": "assets/hanja/4/評.webp",
+    "hun": "평할"
+  },
+  {
+    "char": "閉",
+    "yum": "폐",
+    "meaning": "닫을폐",
+    "level": "4",
+    "image": "assets/hanja/4/閉.webp",
+    "hun": "닫을"
+  },
+  {
+    "char": "胞",
+    "yum": "포",
+    "meaning": "세포/여드름포",
+    "level": "4",
+    "image": "assets/hanja/4/胞.webp",
+    "hun": "세"
+  },
+  {
+    "char": "爆",
+    "yum": "폭",
+    "meaning": "터질폭",
+    "level": "4",
+    "image": "assets/hanja/4/爆.webp",
+    "hun": "터질"
+  },
+  {
+    "char": "標",
+    "yum": "표",
+    "meaning": "표할표",
+    "level": "4",
+    "image": "assets/hanja/4/標.webp",
+    "hun": "표할"
+  },
+  {
+    "char": "疲",
+    "yum": "피",
+    "meaning": "피곤할피",
+    "level": "4",
+    "image": "assets/hanja/4/疲.webp",
+    "hun": "피곤할"
+  },
+  {
+    "char": "避",
+    "yum": "피",
+    "meaning": "피할피",
+    "level": "4",
+    "image": "assets/hanja/4/避.webp",
+    "hun": "피할"
+  },
+  {
+    "char": "恨",
+    "yum": "한",
+    "meaning": "한한",
+    "level": "4",
+    "image": "assets/hanja/4/恨.webp",
+    "hun": "한"
+  },
+  {
+    "char": "閑",
+    "yum": "한",
+    "meaning": "한가할한",
+    "level": "4",
+    "image": "assets/hanja/4/閑.webp",
+    "hun": "한가할"
+  },
+  {
+    "char": "抗",
+    "yum": "항",
+    "meaning": "막을항",
+    "level": "4",
+    "image": "assets/hanja/4/抗.webp",
+    "hun": "막을"
+  },
+  {
+    "char": "核",
+    "yum": "핵",
+    "meaning": "씨핵",
+    "level": "4",
+    "image": "assets/hanja/4/核.webp",
+    "hun": "씨"
+  },
+  {
+    "char": "憲",
+    "yum": "헌",
+    "meaning": "법헌",
+    "level": "4",
+    "image": "assets/hanja/4/憲.webp",
+    "hun": "법"
+  },
+  {
+    "char": "險",
+    "yum": "험",
+    "meaning": "험할험",
+    "level": "4",
+    "image": "assets/hanja/4/險.webp",
+    "hun": "험할"
+  },
+  {
+    "char": "革",
+    "yum": "죽",
+    "meaning": "가죽/고칠혁",
+    "level": "4",
+    "image": "assets/hanja/4/革.webp",
+    "hun": "가"
+  },
+  {
+    "char": "顯",
+    "yum": "현",
+    "meaning": "나타날현",
+    "level": "4",
+    "image": "assets/hanja/4/顯.webp",
+    "hun": "나타날"
+  },
+  {
+    "char": "刑",
+    "yum": "형",
+    "meaning": "형벌형",
+    "level": "4",
+    "image": "assets/hanja/4/刑.webp",
+    "hun": "형벌"
+  },
+  {
+    "char": "或",
+    "yum": "혹",
+    "meaning": "혹시혹",
+    "level": "4",
+    "image": "assets/hanja/4/或.webp",
+    "hun": "혹시"
+  },
+  {
+    "char": "婚",
+    "yum": "혼",
+    "meaning": "혼인할혼",
+    "level": "4",
+    "image": "assets/hanja/4/婚.webp",
+    "hun": "혼인할"
+  },
+  {
+    "char": "混",
+    "yum": "혼",
+    "meaning": "섞일혼",
+    "level": "4",
+    "image": "assets/hanja/4/混.webp",
+    "hun": "섞일"
+  },
+  {
+    "char": "紅",
+    "yum": "홍",
+    "meaning": "붉을홍",
+    "level": "4",
+    "image": "assets/hanja/4/紅.webp",
+    "hun": "붉을"
+  },
+  {
+    "char": "華",
+    "yum": "화",
+    "meaning": "빛날화",
+    "level": "4",
+    "image": "assets/hanja/4/華.webp",
+    "hun": "빛날"
+  },
+  {
+    "char": "歡",
+    "yum": "환",
+    "meaning": "기쁠환",
+    "level": "4",
+    "image": "assets/hanja/4/歡.webp",
+    "hun": "기쁠"
+  },
+  {
+    "char": "環",
+    "yum": "환",
+    "meaning": "고리환",
+    "level": "4",
+    "image": "assets/hanja/4/環.webp",
+    "hun": "고리"
+  },
+  {
+    "char": "況",
+    "yum": "며",
+    "meaning": "하물며/상황황",
+    "level": "4",
+    "image": "assets/hanja/4/況.webp",
+    "hun": "하물"
+  },
+  {
+    "char": "灰",
+    "yum": "회",
+    "meaning": "재회",
+    "level": "4",
+    "image": "assets/hanja/4/灰.webp",
+    "hun": "재"
+  },
+  {
+    "char": "候",
+    "yum": "후",
+    "meaning": "기후후",
+    "level": "4",
+    "image": "assets/hanja/4/候.webp",
+    "hun": "기후"
+  },
+  {
+    "char": "厚",
+    "yum": "후",
+    "meaning": "두터울후",
+    "level": "4",
+    "image": "assets/hanja/4/厚.webp",
+    "hun": "두터울"
+  },
+  {
+    "char": "揮",
+    "yum": "휘",
+    "meaning": "휘두를휘",
+    "level": "4",
+    "image": "assets/hanja/4/揮.webp",
+    "hun": "휘두를"
+  },
+  {
+    "char": "喜",
+    "yum": "희",
+    "meaning": "기쁠희",
+    "level": "4",
+    "image": "assets/hanja/4/喜.webp",
+    "hun": "기쁠"
+  }
 ]

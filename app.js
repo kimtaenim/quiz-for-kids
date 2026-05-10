@@ -101,7 +101,7 @@ const Hanja = (() => {
       btn.dataset.char = c.char;
       btn.innerHTML = `
         <span class="hanja-choice-label">${labels[i]}</span>
-        <span class="hanja-choice-text">${c.yum} / ${c.meaning}</span>
+        <span class="hanja-choice-text">${c.hun} - ${c.yum}</span>
         <span class="hanja-choice-mark" aria-hidden="true">✓</span>
       `;
       btn.addEventListener('click', () => onChoiceClick(btn, c, q, choicesEl));
@@ -163,13 +163,22 @@ const Hanja = (() => {
         document.querySelectorAll('.hanja-chip').forEach(c => c.classList.remove('active'));
         chip.classList.add('active');
         currentLevel = chip.dataset.level;
-        restart();
+        // 급수 바꿔도 점수는 유지, 다음 문제만 갱신
+        lastChar = null;
+        stage.classList.add('fading');
+        setTimeout(renderQuestion, FADE_MS);
       });
     });
   }
 
+  function bindRestart() {
+    const btn = document.getElementById('hanja-restart');
+    if (btn) btn.addEventListener('click', () => restart());
+  }
+
   async function init() {
     bindLevelChips();
+    bindRestart();
     updateScore();
     try {
       const res = await fetch('data/hanja.json', { cache: 'no-cache' });
