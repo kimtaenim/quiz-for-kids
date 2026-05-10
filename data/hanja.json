@@ -5,7 +5,8 @@
     "meaning": "가르칠 교",
     "level": "8",
     "image": "assets/hanja/8/敎.webp",
-    "hun": "가르칠"
+    "hun": "가르칠",
+    "label": "가르칠 - 교"
   },
   {
     "char": "校",
@@ -13,7 +14,8 @@
     "meaning": "학교 교",
     "level": "8",
     "image": "assets/hanja/8/校.webp",
-    "hun": "학교"
+    "hun": "학교",
+    "label": "학교 - 교"
   },
   {
     "char": "九",
@@ -21,7 +23,8 @@
     "meaning": "아홉 구",
     "level": "8",
     "image": "assets/hanja/8/九.webp",
-    "hun": "아홉"
+    "hun": "아홉",
+    "label": "아홉 - 구"
   },
   {
     "char": "國",
@@ -29,7 +32,8 @@
     "meaning": "나라 국",
     "level": "8",
     "image": "assets/hanja/8/國.webp",
-    "hun": "나라"
+    "hun": "나라",
+    "label": "나라 - 국"
   },
   {
     "char": "軍",
@@ -37,7 +41,8 @@
     "meaning": "군사 군",
     "level": "8",
     "image": "assets/hanja/8/軍.webp",
-    "hun": "군사"
+    "hun": "군사",
+    "label": "군사 - 군"
   },
   {
     "char": "金",
@@ -45,7 +50,8 @@
     "meaning": "쇠 금",
     "level": "8",
     "image": "assets/hanja/8/金.webp",
-    "hun": "쇠"
+    "hun": "쇠",
+    "label": "쇠 - 금"
   },
   {
     "char": "南",
@@ -53,7 +59,8 @@
     "meaning": "남녘 남",
     "level": "8",
     "image": "assets/hanja/8/南.webp",
-    "hun": "남녘"
+    "hun": "남녘",
+    "label": "남녘 - 남"
   },
   {
     "char": "女",
@@ -61,7 +68,8 @@
     "meaning": "여자 녀",
     "level": "8",
     "image": "assets/hanja/8/女.webp",
-    "hun": "여자"
+    "hun": "여자",
+    "label": "여자 - 녀"
   },
   {
     "char": "年",
@@ -69,7 +77,8 @@
     "meaning": "해 년",
     "level": "8",
     "image": "assets/hanja/8/年.webp",
-    "hun": "해"
+    "hun": "해",
+    "label": "해 - 년"
   },
   {
     "char": "大",
@@ -77,7 +86,8 @@
     "meaning": "큰 대",
     "level": "8",
     "image": "assets/hanja/8/大.webp",
-    "hun": "큰"
+    "hun": "큰",
+    "label": "큰 - 대"
   },
   {
     "char": "東",
@@ -85,7 +95,8 @@
     "meaning": "동녘 동",
     "level": "8",
     "image": "assets/hanja/8/東.webp",
-    "hun": "동녘"
+    "hun": "동녘",
+    "label": "동녘 - 동"
   },
   {
     "char": "六",
@@ -93,7 +104,8 @@
     "meaning": "여섯 륙",
     "level": "8",
     "image": "assets/hanja/8/六.webp",
-    "hun": "여섯"
+    "hun": "여섯",
+    "label": "여섯 - 륙"
   },
   {
     "char": "萬",
@@ -101,7 +113,8 @@
     "meaning": "일만 만",
     "level": "8",
     "image": "assets/hanja/8/萬.webp",
-    "hun": "일만"
+    "hun": "일만",
+    "label": "일만 - 만"
   },
   {
     "char": "母",
@@ -109,7 +122,8 @@
     "meaning": "어미 모",
     "level": "8",
     "image": "assets/hanja/8/母.webp",
-    "hun": "어미"
+    "hun": "어미",
+    "label": "어미 - 모"
   },
   {
     "char": "木",
@@ -117,7 +131,8 @@
     "meaning": "나무 목",
     "level": "8",
     "image": "assets/hanja/8/木.webp",
-    "hun": "나무"
+    "hun": "나무",
+    "label": "나무 - 목"
   },
   {
     "char": "門",
@@ -125,7 +140,8 @@
     "meaning": "문 문",
     "level": "8",
     "image": "assets/hanja/8/門.webp",
-    "hun": "문"
+    "hun": "문",
+    "label": "문 - 문"
   },
   {
     "char": "民",
@@ -133,7 +149,8 @@
     "meaning": "백성 민",
     "level": "8",
     "image": "assets/hanja/8/民.webp",
-    "hun": "백성"
+    "hun": "백성",
+    "label": "백성 - 민"
   },
   {
     "char": "白",
@@ -141,7 +158,8 @@
     "meaning": "흰 백",
     "level": "8",
     "image": "assets/hanja/8/白.webp",
-    "hun": "흰"
+    "hun": "흰",
+    "label": "흰 - 백"
   },
   {
     "char": "父",
@@ -149,7 +167,8 @@
     "meaning": "아비 부",
     "level": "8",
     "image": "assets/hanja/8/父.webp",
-    "hun": "아비"
+    "hun": "아비",
+    "label": "아비 - 부"
   },
   {
     "char": "北",
@@ -157,7 +176,8 @@
     "meaning": "북녘 북",
     "level": "8",
     "image": "assets/hanja/8/北.webp",
-    "hun": "북녘"
+    "hun": "북녘",
+    "label": "북녘 - 북"
   },
   {
     "char": "四",
@@ -165,7 +185,8 @@
     "meaning": "넉 사",
     "level": "8",
     "image": "assets/hanja/8/四.webp",
-    "hun": "넉"
+    "hun": "넉",
+    "label": "넉 - 사"
   },
   {
     "char": "山",
@@ -173,7 +194,8 @@
     "meaning": "뫼 산",
     "level": "8",
     "image": "assets/hanja/8/山.webp",
-    "hun": "뫼"
+    "hun": "뫼",
+    "label": "뫼 - 산"
   },
   {
     "char": "三",
@@ -181,7 +203,8 @@
     "meaning": "석 삼",
     "level": "8",
     "image": "assets/hanja/8/三.webp",
-    "hun": "석"
+    "hun": "석",
+    "label": "석 - 삼"
   },
   {
     "char": "生",
@@ -189,7 +212,8 @@
     "meaning": "날 생",
     "level": "8",
     "image": "assets/hanja/8/生.webp",
-    "hun": "날"
+    "hun": "날",
+    "label": "날 - 생"
   },
   {
     "char": "西",
@@ -197,7 +221,8 @@
     "meaning": "서녘 서",
     "level": "8",
     "image": "assets/hanja/8/西.webp",
-    "hun": "서녘"
+    "hun": "서녘",
+    "label": "서녘 - 서"
   },
   {
     "char": "先",
@@ -205,7 +230,8 @@
     "meaning": "먼저 선",
     "level": "8",
     "image": "assets/hanja/8/先.webp",
-    "hun": "먼저"
+    "hun": "먼저",
+    "label": "먼저 - 선"
   },
   {
     "char": "小",
@@ -213,7 +239,8 @@
     "meaning": "작을 소",
     "level": "8",
     "image": "assets/hanja/8/小.webp",
-    "hun": "작을"
+    "hun": "작을",
+    "label": "작을 - 소"
   },
   {
     "char": "水",
@@ -221,7 +248,8 @@
     "meaning": "물 수",
     "level": "8",
     "image": "assets/hanja/8/水.webp",
-    "hun": "물"
+    "hun": "물",
+    "label": "물 - 수"
   },
   {
     "char": "室",
@@ -229,7 +257,8 @@
     "meaning": "집 실",
     "level": "8",
     "image": "assets/hanja/8/室.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 실"
   },
   {
     "char": "十",
@@ -237,7 +266,8 @@
     "meaning": "열 십",
     "level": "8",
     "image": "assets/hanja/8/十.webp",
-    "hun": "열"
+    "hun": "열",
+    "label": "열 - 십"
   },
   {
     "char": "五",
@@ -245,7 +275,8 @@
     "meaning": "다섯 오",
     "level": "8",
     "image": "assets/hanja/8/五.webp",
-    "hun": "다섯"
+    "hun": "다섯",
+    "label": "다섯 - 오"
   },
   {
     "char": "王",
@@ -253,7 +284,8 @@
     "meaning": "임금 왕",
     "level": "8",
     "image": "assets/hanja/8/王.webp",
-    "hun": "임금"
+    "hun": "임금",
+    "label": "임금 - 왕"
   },
   {
     "char": "外",
@@ -261,7 +293,8 @@
     "meaning": "바깥 외",
     "level": "8",
     "image": "assets/hanja/8/外.webp",
-    "hun": "바깥"
+    "hun": "바깥",
+    "label": "바깥 - 외"
   },
   {
     "char": "月",
@@ -269,7 +302,8 @@
     "meaning": "달 월",
     "level": "8",
     "image": "assets/hanja/8/月.webp",
-    "hun": "달"
+    "hun": "달",
+    "label": "달 - 월"
   },
   {
     "char": "二",
@@ -277,7 +311,8 @@
     "meaning": "두 이",
     "level": "8",
     "image": "assets/hanja/8/二.webp",
-    "hun": "두"
+    "hun": "두",
+    "label": "두 - 이"
   },
   {
     "char": "人",
@@ -285,7 +320,8 @@
     "meaning": "사람 인",
     "level": "8",
     "image": "assets/hanja/8/人.webp",
-    "hun": "사람"
+    "hun": "사람",
+    "label": "사람 - 인"
   },
   {
     "char": "一",
@@ -293,7 +329,8 @@
     "meaning": "한 일",
     "level": "8",
     "image": "assets/hanja/8/一.webp",
-    "hun": "한"
+    "hun": "한",
+    "label": "한 - 일"
   },
   {
     "char": "日",
@@ -301,7 +338,8 @@
     "meaning": "해 일",
     "level": "8",
     "image": "assets/hanja/8/日.webp",
-    "hun": "해"
+    "hun": "해",
+    "label": "해 - 일"
   },
   {
     "char": "長",
@@ -309,7 +347,8 @@
     "meaning": "길 장",
     "level": "8",
     "image": "assets/hanja/8/長.webp",
-    "hun": "길"
+    "hun": "길",
+    "label": "길 - 장"
   },
   {
     "char": "弟",
@@ -317,7 +356,8 @@
     "meaning": "아우 제",
     "level": "8",
     "image": "assets/hanja/8/弟.webp",
-    "hun": "아우"
+    "hun": "아우",
+    "label": "아우 - 제"
   },
   {
     "char": "中",
@@ -325,7 +365,8 @@
     "meaning": "가운데 중",
     "level": "8",
     "image": "assets/hanja/8/中.webp",
-    "hun": "가운데"
+    "hun": "가운데",
+    "label": "가운데 - 중"
   },
   {
     "char": "靑",
@@ -333,7 +374,8 @@
     "meaning": "푸를 청",
     "level": "8",
     "image": "assets/hanja/8/靑.webp",
-    "hun": "푸를"
+    "hun": "푸를",
+    "label": "푸를 - 청"
   },
   {
     "char": "寸",
@@ -341,7 +383,8 @@
     "meaning": "마디 촌",
     "level": "8",
     "image": "assets/hanja/8/寸.webp",
-    "hun": "마디"
+    "hun": "마디",
+    "label": "마디 - 촌"
   },
   {
     "char": "七",
@@ -349,7 +392,8 @@
     "meaning": "일곱 칠",
     "level": "8",
     "image": "assets/hanja/8/七.webp",
-    "hun": "일곱"
+    "hun": "일곱",
+    "label": "일곱 - 칠"
   },
   {
     "char": "土",
@@ -357,7 +401,8 @@
     "meaning": "흙 토",
     "level": "8",
     "image": "assets/hanja/8/土.webp",
-    "hun": "흙"
+    "hun": "흙",
+    "label": "흙 - 토"
   },
   {
     "char": "八",
@@ -365,7 +410,8 @@
     "meaning": "여덟 팔",
     "level": "8",
     "image": "assets/hanja/8/八.webp",
-    "hun": "여덟"
+    "hun": "여덟",
+    "label": "여덟 - 팔"
   },
   {
     "char": "學",
@@ -373,7 +419,8 @@
     "meaning": "배울 학",
     "level": "8",
     "image": "assets/hanja/8/學.webp",
-    "hun": "배울"
+    "hun": "배울",
+    "label": "배울 - 학"
   },
   {
     "char": "韓",
@@ -381,7 +428,8 @@
     "meaning": "나라이름 한",
     "level": "8",
     "image": "assets/hanja/8/韓.webp",
-    "hun": "나라이름"
+    "hun": "나라이름",
+    "label": "나라이름 - 한"
   },
   {
     "char": "兄",
@@ -389,7 +437,8 @@
     "meaning": "형 형",
     "level": "8",
     "image": "assets/hanja/8/兄.webp",
-    "hun": "형"
+    "hun": "형",
+    "label": "형 - 형"
   },
   {
     "char": "火",
@@ -397,7 +446,8 @@
     "meaning": "불 화",
     "level": "8",
     "image": "assets/hanja/8/火.webp",
-    "hun": "불"
+    "hun": "불",
+    "label": "불 - 화"
   },
   {
     "char": "家",
@@ -405,7 +455,8 @@
     "meaning": "집 가",
     "level": "7",
     "image": "assets/hanja/7/家.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 가"
   },
   {
     "char": "間",
@@ -413,7 +464,8 @@
     "meaning": "사이 간",
     "level": "7",
     "image": "assets/hanja/7/間.webp",
-    "hun": "사이"
+    "hun": "사이",
+    "label": "사이 - 간"
   },
   {
     "char": "江",
@@ -421,7 +473,8 @@
     "meaning": "강 강",
     "level": "7",
     "image": "assets/hanja/7/江.webp",
-    "hun": "강"
+    "hun": "강",
+    "label": "강 - 강"
   },
   {
     "char": "工",
@@ -429,7 +482,8 @@
     "meaning": "장인 공",
     "level": "7",
     "image": "assets/hanja/7/工.webp",
-    "hun": "장인"
+    "hun": "장인",
+    "label": "장인 - 공"
   },
   {
     "char": "空",
@@ -437,7 +491,8 @@
     "meaning": "빌 공",
     "level": "7",
     "image": "assets/hanja/7/空.webp",
-    "hun": "빌"
+    "hun": "빌",
+    "label": "빌 - 공"
   },
   {
     "char": "氣",
@@ -445,7 +500,8 @@
     "meaning": "기운 기",
     "level": "7",
     "image": "assets/hanja/7/氣.webp",
-    "hun": "기운"
+    "hun": "기운",
+    "label": "기운 - 기"
   },
   {
     "char": "記",
@@ -453,7 +509,8 @@
     "meaning": "기록할 기",
     "level": "7",
     "image": "assets/hanja/7/記.webp",
-    "hun": "기록할"
+    "hun": "기록할",
+    "label": "기록할 - 기"
   },
   {
     "char": "男",
@@ -461,7 +518,8 @@
     "meaning": "사내 남",
     "level": "7",
     "image": "assets/hanja/7/男.webp",
-    "hun": "사내"
+    "hun": "사내",
+    "label": "사내 - 남"
   },
   {
     "char": "內",
@@ -469,7 +527,8 @@
     "meaning": "안 내",
     "level": "7",
     "image": "assets/hanja/7/內.webp",
-    "hun": "안"
+    "hun": "안",
+    "label": "안 - 내"
   },
   {
     "char": "農",
@@ -477,7 +536,8 @@
     "meaning": "농사 농",
     "level": "7",
     "image": "assets/hanja/7/農.webp",
-    "hun": "농사"
+    "hun": "농사",
+    "label": "농사 - 농"
   },
   {
     "char": "答",
@@ -485,7 +545,8 @@
     "meaning": "답할 답",
     "level": "7",
     "image": "assets/hanja/7/答.webp",
-    "hun": "답할"
+    "hun": "답할",
+    "label": "답할 - 답"
   },
   {
     "char": "道",
@@ -493,7 +554,8 @@
     "meaning": "길 도",
     "level": "7",
     "image": "assets/hanja/7/道.webp",
-    "hun": "길"
+    "hun": "길",
+    "label": "길 - 도"
   },
   {
     "char": "動",
@@ -501,7 +563,8 @@
     "meaning": "움직일 동",
     "level": "7",
     "image": "assets/hanja/7/動.webp",
-    "hun": "움직일"
+    "hun": "움직일",
+    "label": "움직일 - 동"
   },
   {
     "char": "力",
@@ -509,7 +572,8 @@
     "meaning": "힘 력",
     "level": "7",
     "image": "assets/hanja/7/力.webp",
-    "hun": "힘"
+    "hun": "힘",
+    "label": "힘 - 력"
   },
   {
     "char": "立",
@@ -517,7 +581,8 @@
     "meaning": "설 립",
     "level": "7",
     "image": "assets/hanja/7/立.webp",
-    "hun": "설"
+    "hun": "설",
+    "label": "설 - 립"
   },
   {
     "char": "每",
@@ -525,7 +590,8 @@
     "meaning": "매양 매",
     "level": "7",
     "image": "assets/hanja/7/每.webp",
-    "hun": "매양"
+    "hun": "매양",
+    "label": "매양 - 매"
   },
   {
     "char": "名",
@@ -533,7 +599,8 @@
     "meaning": "이름 명",
     "level": "7",
     "image": "assets/hanja/7/名.webp",
-    "hun": "이름"
+    "hun": "이름",
+    "label": "이름 - 명"
   },
   {
     "char": "物",
@@ -541,7 +608,8 @@
     "meaning": "물건 물",
     "level": "7",
     "image": "assets/hanja/7/物.webp",
-    "hun": "물건"
+    "hun": "물건",
+    "label": "물건 - 물"
   },
   {
     "char": "方",
@@ -549,7 +617,8 @@
     "meaning": "모 방",
     "level": "7",
     "image": "assets/hanja/7/方.webp",
-    "hun": "모"
+    "hun": "모",
+    "label": "모 - 방"
   },
   {
     "char": "不",
@@ -557,7 +626,8 @@
     "meaning": "아닐 불",
     "level": "7",
     "image": "assets/hanja/7/不.webp",
-    "hun": "아닐"
+    "hun": "아닐",
+    "label": "아닐 - 불"
   },
   {
     "char": "事",
@@ -565,7 +635,8 @@
     "meaning": "일 사",
     "level": "7",
     "image": "assets/hanja/7/事.webp",
-    "hun": "일"
+    "hun": "일",
+    "label": "일 - 사"
   },
   {
     "char": "上",
@@ -573,7 +644,8 @@
     "meaning": "위 상",
     "level": "7",
     "image": "assets/hanja/7/上.webp",
-    "hun": "위"
+    "hun": "위",
+    "label": "위 - 상"
   },
   {
     "char": "姓",
@@ -581,7 +653,8 @@
     "meaning": "성씨 성",
     "level": "7",
     "image": "assets/hanja/7/姓.webp",
-    "hun": "성씨"
+    "hun": "성씨",
+    "label": "성씨 - 성"
   },
   {
     "char": "世",
@@ -589,7 +662,8 @@
     "meaning": "누리 세",
     "level": "7",
     "image": "assets/hanja/7/世.webp",
-    "hun": "누리"
+    "hun": "누리",
+    "label": "누리 - 세"
   },
   {
     "char": "手",
@@ -597,7 +671,8 @@
     "meaning": "손 수",
     "level": "7",
     "image": "assets/hanja/7/手.webp",
-    "hun": "손"
+    "hun": "손",
+    "label": "손 - 수"
   },
   {
     "char": "市",
@@ -605,7 +680,8 @@
     "meaning": "저자 시",
     "level": "7",
     "image": "assets/hanja/7/市.webp",
-    "hun": "저자"
+    "hun": "저자",
+    "label": "저자 - 시"
   },
   {
     "char": "時",
@@ -613,7 +689,8 @@
     "meaning": "때 시",
     "level": "7",
     "image": "assets/hanja/7/時.webp",
-    "hun": "때"
+    "hun": "때",
+    "label": "때 - 시"
   },
   {
     "char": "食",
@@ -621,7 +698,8 @@
     "meaning": "밥 식",
     "level": "7",
     "image": "assets/hanja/7/食.webp",
-    "hun": "밥"
+    "hun": "밥",
+    "label": "밥 - 식"
   },
   {
     "char": "安",
@@ -629,7 +707,8 @@
     "meaning": "편안할 안",
     "level": "7",
     "image": "assets/hanja/7/安.webp",
-    "hun": "편안할"
+    "hun": "편안할",
+    "label": "편안할 - 안"
   },
   {
     "char": "午",
@@ -637,7 +716,8 @@
     "meaning": "낮 오",
     "level": "7",
     "image": "assets/hanja/7/午.webp",
-    "hun": "낮"
+    "hun": "낮",
+    "label": "낮 - 오"
   },
   {
     "char": "右",
@@ -645,7 +725,8 @@
     "meaning": "오른 우",
     "level": "7",
     "image": "assets/hanja/7/右.webp",
-    "hun": "오른"
+    "hun": "오른",
+    "label": "오른 - 우"
   },
   {
     "char": "子",
@@ -653,7 +734,8 @@
     "meaning": "아들 자",
     "level": "7",
     "image": "assets/hanja/7/子.webp",
-    "hun": "아들"
+    "hun": "아들",
+    "label": "아들 - 자"
   },
   {
     "char": "自",
@@ -661,7 +743,8 @@
     "meaning": "스스로 자",
     "level": "7",
     "image": "assets/hanja/7/自.webp",
-    "hun": "스스로"
+    "hun": "스스로",
+    "label": "스스로 - 자"
   },
   {
     "char": "場",
@@ -669,7 +752,8 @@
     "meaning": "마당 장",
     "level": "7",
     "image": "assets/hanja/7/場.webp",
-    "hun": "마당"
+    "hun": "마당",
+    "label": "마당 - 장"
   },
   {
     "char": "全",
@@ -677,7 +761,8 @@
     "meaning": "온전할 전",
     "level": "7",
     "image": "assets/hanja/7/全.webp",
-    "hun": "온전할"
+    "hun": "온전할",
+    "label": "온전할 - 전"
   },
   {
     "char": "前",
@@ -685,7 +770,8 @@
     "meaning": "앞 전",
     "level": "7",
     "image": "assets/hanja/7/前.webp",
-    "hun": "앞"
+    "hun": "앞",
+    "label": "앞 - 전"
   },
   {
     "char": "電",
@@ -693,7 +779,8 @@
     "meaning": "번개 전",
     "level": "7",
     "image": "assets/hanja/7/電.webp",
-    "hun": "번개"
+    "hun": "번개",
+    "label": "번개 - 전"
   },
   {
     "char": "正",
@@ -701,7 +788,8 @@
     "meaning": "바를 정",
     "level": "7",
     "image": "assets/hanja/7/正.webp",
-    "hun": "바를"
+    "hun": "바를",
+    "label": "바를 - 정"
   },
   {
     "char": "足",
@@ -709,7 +797,8 @@
     "meaning": "발 족",
     "level": "7",
     "image": "assets/hanja/7/足.webp",
-    "hun": "발"
+    "hun": "발",
+    "label": "발 - 족"
   },
   {
     "char": "左",
@@ -717,7 +806,8 @@
     "meaning": "왼 좌",
     "level": "7",
     "image": "assets/hanja/7/左.webp",
-    "hun": "왼"
+    "hun": "왼",
+    "label": "왼 - 좌"
   },
   {
     "char": "直",
@@ -725,7 +815,8 @@
     "meaning": "곧을 직",
     "level": "7",
     "image": "assets/hanja/7/直.webp",
-    "hun": "곧을"
+    "hun": "곧을",
+    "label": "곧을 - 직"
   },
   {
     "char": "車",
@@ -733,7 +824,8 @@
     "meaning": "수레 차",
     "level": "7",
     "image": "assets/hanja/7/車.webp",
-    "hun": "수레"
+    "hun": "수레",
+    "label": "수레 - 차"
   },
   {
     "char": "平",
@@ -741,7 +833,8 @@
     "meaning": "평평할 평",
     "level": "7",
     "image": "assets/hanja/7/平.webp",
-    "hun": "평평할"
+    "hun": "평평할",
+    "label": "평평할 - 평"
   },
   {
     "char": "下",
@@ -749,7 +842,8 @@
     "meaning": "아래 하",
     "level": "7",
     "image": "assets/hanja/7/下.webp",
-    "hun": "아래"
+    "hun": "아래",
+    "label": "아래 - 하"
   },
   {
     "char": "漢",
@@ -757,7 +851,8 @@
     "meaning": "한수 한",
     "level": "7",
     "image": "assets/hanja/7/漢.webp",
-    "hun": "한수"
+    "hun": "한수",
+    "label": "한수 - 한"
   },
   {
     "char": "海",
@@ -765,7 +860,8 @@
     "meaning": "바다 해",
     "level": "7",
     "image": "assets/hanja/7/海.webp",
-    "hun": "바다"
+    "hun": "바다",
+    "label": "바다 - 해"
   },
   {
     "char": "話",
@@ -773,7 +869,8 @@
     "meaning": "말씀 화",
     "level": "7",
     "image": "assets/hanja/7/話.webp",
-    "hun": "말씀"
+    "hun": "말씀",
+    "label": "말씀 - 화"
   },
   {
     "char": "活",
@@ -781,7 +878,8 @@
     "meaning": "살 활",
     "level": "7",
     "image": "assets/hanja/7/活.webp",
-    "hun": "살"
+    "hun": "살",
+    "label": "살 - 활"
   },
   {
     "char": "孝",
@@ -789,7 +887,8 @@
     "meaning": "효도 효",
     "level": "7",
     "image": "assets/hanja/7/孝.webp",
-    "hun": "효도"
+    "hun": "효도",
+    "label": "효도 - 효"
   },
   {
     "char": "後",
@@ -797,7 +896,8 @@
     "meaning": "뒤 후",
     "level": "7",
     "image": "assets/hanja/7/後.webp",
-    "hun": "뒤"
+    "hun": "뒤",
+    "label": "뒤 - 후"
   },
   {
     "char": "歌",
@@ -805,7 +905,8 @@
     "meaning": "노래 가",
     "level": "7",
     "image": "assets/hanja/7/歌.webp",
-    "hun": "노래"
+    "hun": "노래",
+    "label": "노래 - 가"
   },
   {
     "char": "口",
@@ -813,7 +914,8 @@
     "meaning": "입 구",
     "level": "7",
     "image": "assets/hanja/7/口.webp",
-    "hun": "입"
+    "hun": "입",
+    "label": "입 - 구"
   },
   {
     "char": "旗",
@@ -821,7 +923,8 @@
     "meaning": "기 기",
     "level": "7",
     "image": "assets/hanja/7/旗.webp",
-    "hun": "기"
+    "hun": "기",
+    "label": "기 - 기"
   },
   {
     "char": "冬",
@@ -829,7 +932,8 @@
     "meaning": "겨울 동",
     "level": "7",
     "image": "assets/hanja/7/冬.webp",
-    "hun": "겨울"
+    "hun": "겨울",
+    "label": "겨울 - 동"
   },
   {
     "char": "同",
@@ -837,7 +941,8 @@
     "meaning": "한가지 동",
     "level": "7",
     "image": "assets/hanja/7/同.webp",
-    "hun": "한가지"
+    "hun": "한가지",
+    "label": "한가지 - 동"
   },
   {
     "char": "洞",
@@ -845,7 +950,8 @@
     "meaning": "마을 동",
     "level": "7",
     "image": "assets/hanja/7/洞.webp",
-    "hun": "마을"
+    "hun": "마을",
+    "label": "마을 - 동"
   },
   {
     "char": "登",
@@ -853,7 +959,8 @@
     "meaning": "오를 등",
     "level": "7",
     "image": "assets/hanja/7/登.webp",
-    "hun": "오를"
+    "hun": "오를",
+    "label": "오를 - 등"
   },
   {
     "char": "來",
@@ -861,7 +968,8 @@
     "meaning": "올 래",
     "level": "7",
     "image": "assets/hanja/7/來.webp",
-    "hun": "올"
+    "hun": "올",
+    "label": "올 - 래"
   },
   {
     "char": "老",
@@ -869,7 +977,8 @@
     "meaning": "늙을 로",
     "level": "7",
     "image": "assets/hanja/7/老.webp",
-    "hun": "늙을"
+    "hun": "늙을",
+    "label": "늙을 - 로"
   },
   {
     "char": "里",
@@ -877,7 +986,8 @@
     "meaning": "마을 리",
     "level": "7",
     "image": "assets/hanja/7/里.webp",
-    "hun": "마을"
+    "hun": "마을",
+    "label": "마을 - 리"
   },
   {
     "char": "林",
@@ -885,7 +995,8 @@
     "meaning": "수풀 림",
     "level": "7",
     "image": "assets/hanja/7/林.webp",
-    "hun": "수풀"
+    "hun": "수풀",
+    "label": "수풀 - 림"
   },
   {
     "char": "面",
@@ -893,7 +1004,8 @@
     "meaning": "낯 면",
     "level": "7",
     "image": "assets/hanja/7/面.webp",
-    "hun": "낯"
+    "hun": "낯",
+    "label": "낯 - 면"
   },
   {
     "char": "命",
@@ -901,7 +1013,8 @@
     "meaning": "목숨 명",
     "level": "7",
     "image": "assets/hanja/7/命.webp",
-    "hun": "목숨"
+    "hun": "목숨",
+    "label": "목숨 - 명"
   },
   {
     "char": "問",
@@ -909,7 +1022,8 @@
     "meaning": "물을 문",
     "level": "7",
     "image": "assets/hanja/7/問.webp",
-    "hun": "물을"
+    "hun": "물을",
+    "label": "물을 - 문"
   },
   {
     "char": "文",
@@ -917,7 +1031,8 @@
     "meaning": "글월 문",
     "level": "7",
     "image": "assets/hanja/7/文.webp",
-    "hun": "글월"
+    "hun": "글월",
+    "label": "글월 - 문"
   },
   {
     "char": "百",
@@ -925,7 +1040,8 @@
     "meaning": "일백 백",
     "level": "7",
     "image": "assets/hanja/7/百.webp",
-    "hun": "일백"
+    "hun": "일백",
+    "label": "일백 - 백"
   },
   {
     "char": "夫",
@@ -933,7 +1049,8 @@
     "meaning": "남편 부",
     "level": "7",
     "image": "assets/hanja/7/夫.webp",
-    "hun": "남편"
+    "hun": "남편",
+    "label": "남편 - 부"
   },
   {
     "char": "算",
@@ -941,7 +1058,8 @@
     "meaning": "셈 산",
     "level": "7",
     "image": "assets/hanja/7/算.webp",
-    "hun": "셈"
+    "hun": "셈",
+    "label": "셈 - 산"
   },
   {
     "char": "色",
@@ -949,7 +1067,8 @@
     "meaning": "빛 색",
     "level": "7",
     "image": "assets/hanja/7/色.webp",
-    "hun": "빛"
+    "hun": "빛",
+    "label": "빛 - 색"
   },
   {
     "char": "夕",
@@ -957,7 +1076,8 @@
     "meaning": "저녁 석",
     "level": "7",
     "image": "assets/hanja/7/夕.webp",
-    "hun": "저녁"
+    "hun": "저녁",
+    "label": "저녁 - 석"
   },
   {
     "char": "少",
@@ -965,7 +1085,8 @@
     "meaning": "적을 소",
     "level": "7",
     "image": "assets/hanja/7/少.webp",
-    "hun": "적을"
+    "hun": "적을",
+    "label": "적을 - 소"
   },
   {
     "char": "所",
@@ -973,7 +1094,8 @@
     "meaning": "바 소",
     "level": "7",
     "image": "assets/hanja/7/所.webp",
-    "hun": "바"
+    "hun": "바",
+    "label": "바 - 소"
   },
   {
     "char": "數",
@@ -981,7 +1103,8 @@
     "meaning": "셈 수",
     "level": "7",
     "image": "assets/hanja/7/數.webp",
-    "hun": "셈"
+    "hun": "셈",
+    "label": "셈 - 수"
   },
   {
     "char": "植",
@@ -989,7 +1112,8 @@
     "meaning": "심을 식",
     "level": "7",
     "image": "assets/hanja/7/植.webp",
-    "hun": "심을"
+    "hun": "심을",
+    "label": "심을 - 식"
   },
   {
     "char": "心",
@@ -997,7 +1121,8 @@
     "meaning": "마음 심",
     "level": "7",
     "image": "assets/hanja/7/心.webp",
-    "hun": "마음"
+    "hun": "마음",
+    "label": "마음 - 심"
   },
   {
     "char": "語",
@@ -1005,7 +1130,8 @@
     "meaning": "말씀 어",
     "level": "7",
     "image": "assets/hanja/7/語.webp",
-    "hun": "말씀"
+    "hun": "말씀",
+    "label": "말씀 - 어"
   },
   {
     "char": "然",
@@ -1013,7 +1139,8 @@
     "meaning": "그러할 연",
     "level": "7",
     "image": "assets/hanja/7/然.webp",
-    "hun": "그러할"
+    "hun": "그러할",
+    "label": "그러할 - 연"
   },
   {
     "char": "有",
@@ -1021,7 +1148,8 @@
     "meaning": "있을 유",
     "level": "7",
     "image": "assets/hanja/7/有.webp",
-    "hun": "있을"
+    "hun": "있을",
+    "label": "있을 - 유"
   },
   {
     "char": "育",
@@ -1029,7 +1157,8 @@
     "meaning": "기를 육",
     "level": "7",
     "image": "assets/hanja/7/育.webp",
-    "hun": "기를"
+    "hun": "기를",
+    "label": "기를 - 육"
   },
   {
     "char": "邑",
@@ -1037,7 +1166,8 @@
     "meaning": "고을 읍",
     "level": "7",
     "image": "assets/hanja/7/邑.webp",
-    "hun": "고을"
+    "hun": "고을",
+    "label": "고을 - 읍"
   },
   {
     "char": "入",
@@ -1045,7 +1175,8 @@
     "meaning": "들 입",
     "level": "7",
     "image": "assets/hanja/7/入.webp",
-    "hun": "들"
+    "hun": "들",
+    "label": "들 - 입"
   },
   {
     "char": "字",
@@ -1053,7 +1184,8 @@
     "meaning": "글자 자",
     "level": "7",
     "image": "assets/hanja/7/字.webp",
-    "hun": "글자"
+    "hun": "글자",
+    "label": "글자 - 자"
   },
   {
     "char": "祖",
@@ -1061,7 +1193,8 @@
     "meaning": "할아버지 조",
     "level": "7",
     "image": "assets/hanja/7/祖.webp",
-    "hun": "할아버지"
+    "hun": "할아버지",
+    "label": "할아버지 - 조"
   },
   {
     "char": "主",
@@ -1069,7 +1202,8 @@
     "meaning": "주인 주",
     "level": "7",
     "image": "assets/hanja/7/主.webp",
-    "hun": "주인"
+    "hun": "주인",
+    "label": "주인 - 주"
   },
   {
     "char": "住",
@@ -1077,7 +1211,8 @@
     "meaning": "살 주",
     "level": "7",
     "image": "assets/hanja/7/住.webp",
-    "hun": "살"
+    "hun": "살",
+    "label": "살 - 주"
   },
   {
     "char": "重",
@@ -1085,7 +1220,8 @@
     "meaning": "무거울 중",
     "level": "7",
     "image": "assets/hanja/7/重.webp",
-    "hun": "무거울"
+    "hun": "무거울",
+    "label": "무거울 - 중"
   },
   {
     "char": "地",
@@ -1093,7 +1229,8 @@
     "meaning": "땅 지",
     "level": "7",
     "image": "assets/hanja/7/地.webp",
-    "hun": "땅"
+    "hun": "땅",
+    "label": "땅 - 지"
   },
   {
     "char": "紙",
@@ -1101,7 +1238,8 @@
     "meaning": "종이 지",
     "level": "7",
     "image": "assets/hanja/7/紙.webp",
-    "hun": "종이"
+    "hun": "종이",
+    "label": "종이 - 지"
   },
   {
     "char": "千",
@@ -1109,7 +1247,8 @@
     "meaning": "일천 천",
     "level": "7",
     "image": "assets/hanja/7/千.webp",
-    "hun": "일천"
+    "hun": "일천",
+    "label": "일천 - 천"
   },
   {
     "char": "天",
@@ -1117,7 +1256,8 @@
     "meaning": "하늘 천",
     "level": "7",
     "image": "assets/hanja/7/天.webp",
-    "hun": "하늘"
+    "hun": "하늘",
+    "label": "하늘 - 천"
   },
   {
     "char": "川",
@@ -1125,7 +1265,8 @@
     "meaning": "내 천",
     "level": "7",
     "image": "assets/hanja/7/川.webp",
-    "hun": "내"
+    "hun": "내",
+    "label": "내 - 천"
   },
   {
     "char": "草",
@@ -1133,7 +1274,8 @@
     "meaning": "풀 초",
     "level": "7",
     "image": "assets/hanja/7/草.webp",
-    "hun": "풀"
+    "hun": "풀",
+    "label": "풀 - 초"
   },
   {
     "char": "村",
@@ -1141,7 +1283,8 @@
     "meaning": "마을 촌",
     "level": "7",
     "image": "assets/hanja/7/村.webp",
-    "hun": "마을"
+    "hun": "마을",
+    "label": "마을 - 촌"
   },
   {
     "char": "秋",
@@ -1149,7 +1292,8 @@
     "meaning": "가을 추",
     "level": "7",
     "image": "assets/hanja/7/秋.webp",
-    "hun": "가을"
+    "hun": "가을",
+    "label": "가을 - 추"
   },
   {
     "char": "春",
@@ -1157,7 +1301,8 @@
     "meaning": "봄 춘",
     "level": "7",
     "image": "assets/hanja/7/春.webp",
-    "hun": "봄"
+    "hun": "봄",
+    "label": "봄 - 춘"
   },
   {
     "char": "出",
@@ -1165,7 +1310,8 @@
     "meaning": "날 출",
     "level": "7",
     "image": "assets/hanja/7/出.webp",
-    "hun": "날"
+    "hun": "날",
+    "label": "날 - 출"
   },
   {
     "char": "便",
@@ -1173,7 +1319,8 @@
     "meaning": "편할 편",
     "level": "7",
     "image": "assets/hanja/7/便.webp",
-    "hun": "편할"
+    "hun": "편할",
+    "label": "편할 - 편"
   },
   {
     "char": "夏",
@@ -1181,7 +1328,8 @@
     "meaning": "여름 하",
     "level": "7",
     "image": "assets/hanja/7/夏.webp",
-    "hun": "여름"
+    "hun": "여름",
+    "label": "여름 - 하"
   },
   {
     "char": "花",
@@ -1189,7 +1337,8 @@
     "meaning": "꽃 화",
     "level": "7",
     "image": "assets/hanja/7/花.webp",
-    "hun": "꽃"
+    "hun": "꽃",
+    "label": "꽃 - 화"
   },
   {
     "char": "休",
@@ -1197,7 +1346,8 @@
     "meaning": "쉴 휴",
     "level": "7",
     "image": "assets/hanja/7/休.webp",
-    "hun": "쉴"
+    "hun": "쉴",
+    "label": "쉴 - 휴"
   },
   {
     "char": "各",
@@ -1205,7 +1355,8 @@
     "meaning": "각각 각",
     "level": "6",
     "image": "assets/hanja/6/各.webp",
-    "hun": "각각"
+    "hun": "각각",
+    "label": "각각 - 각"
   },
   {
     "char": "角",
@@ -1213,7 +1364,8 @@
     "meaning": "뿔 각",
     "level": "6",
     "image": "assets/hanja/6/角.webp",
-    "hun": "뿔"
+    "hun": "뿔",
+    "label": "뿔 - 각"
   },
   {
     "char": "界",
@@ -1221,7 +1373,8 @@
     "meaning": "지경 계",
     "level": "6",
     "image": "assets/hanja/6/界.webp",
-    "hun": "지경"
+    "hun": "지경",
+    "label": "지경 - 계"
   },
   {
     "char": "計",
@@ -1229,7 +1382,8 @@
     "meaning": "셀 계",
     "level": "6",
     "image": "assets/hanja/6/計.webp",
-    "hun": "셀"
+    "hun": "셀",
+    "label": "셀 - 계"
   },
   {
     "char": "高",
@@ -1237,7 +1391,8 @@
     "meaning": "높을 고",
     "level": "6",
     "image": "assets/hanja/6/高.webp",
-    "hun": "높을"
+    "hun": "높을",
+    "label": "높을 - 고"
   },
   {
     "char": "公",
@@ -1245,7 +1400,8 @@
     "meaning": "공평할 공",
     "level": "6",
     "image": "assets/hanja/6/公.webp",
-    "hun": "공평할"
+    "hun": "공평할",
+    "label": "공평할 - 공"
   },
   {
     "char": "共",
@@ -1253,7 +1409,8 @@
     "meaning": "함께 공",
     "level": "6",
     "image": "assets/hanja/6/共.webp",
-    "hun": "함께"
+    "hun": "함께",
+    "label": "함께 - 공"
   },
   {
     "char": "功",
@@ -1261,7 +1418,8 @@
     "meaning": "공적 공",
     "level": "6",
     "image": "assets/hanja/6/功.webp",
-    "hun": "공적"
+    "hun": "공적",
+    "label": "공적 - 공"
   },
   {
     "char": "果",
@@ -1269,7 +1427,8 @@
     "meaning": "열매 과",
     "level": "6",
     "image": "assets/hanja/6/果.webp",
-    "hun": "열매"
+    "hun": "열매",
+    "label": "열매 - 과"
   },
   {
     "char": "科",
@@ -1277,7 +1436,8 @@
     "meaning": "과목 과",
     "level": "6",
     "image": "assets/hanja/6/科.webp",
-    "hun": "과목"
+    "hun": "과목",
+    "label": "과목 - 과"
   },
   {
     "char": "光",
@@ -1285,7 +1445,8 @@
     "meaning": "빛 광",
     "level": "6",
     "image": "assets/hanja/6/光.webp",
-    "hun": "빛"
+    "hun": "빛",
+    "label": "빛 - 광"
   },
   {
     "char": "球",
@@ -1293,7 +1454,8 @@
     "meaning": "공 구",
     "level": "6",
     "image": "assets/hanja/6/球.webp",
-    "hun": "공"
+    "hun": "공",
+    "label": "공 - 구"
   },
   {
     "char": "今",
@@ -1301,7 +1463,8 @@
     "meaning": "이제 금",
     "level": "6",
     "image": "assets/hanja/6/今.webp",
-    "hun": "이제"
+    "hun": "이제",
+    "label": "이제 - 금"
   },
   {
     "char": "急",
@@ -1309,7 +1472,8 @@
     "meaning": "급할 급",
     "level": "6",
     "image": "assets/hanja/6/急.webp",
-    "hun": "급할"
+    "hun": "급할",
+    "label": "급할 - 급"
   },
   {
     "char": "短",
@@ -1317,7 +1481,8 @@
     "meaning": "짧을 단",
     "level": "6",
     "image": "assets/hanja/6/短.webp",
-    "hun": "짧을"
+    "hun": "짧을",
+    "label": "짧을 - 단"
   },
   {
     "char": "堂",
@@ -1325,7 +1490,8 @@
     "meaning": "집 당",
     "level": "6",
     "image": "assets/hanja/6/堂.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 당"
   },
   {
     "char": "代",
@@ -1333,7 +1499,8 @@
     "meaning": "세대 대",
     "level": "6",
     "image": "assets/hanja/6/代.webp",
-    "hun": "세대"
+    "hun": "세대",
+    "label": "세대 - 대"
   },
   {
     "char": "對",
@@ -1341,7 +1508,8 @@
     "meaning": "대할 대",
     "level": "6",
     "image": "assets/hanja/6/對.webp",
-    "hun": "대할"
+    "hun": "대할",
+    "label": "대할 - 대"
   },
   {
     "char": "圖",
@@ -1349,7 +1517,8 @@
     "meaning": "그림 도",
     "level": "6",
     "image": "assets/hanja/6/圖.webp",
-    "hun": "그림"
+    "hun": "그림",
+    "label": "그림 - 도"
   },
   {
     "char": "讀",
@@ -1357,7 +1526,8 @@
     "meaning": "읽을 독",
     "level": "6",
     "image": "assets/hanja/6/讀.webp",
-    "hun": "읽을"
+    "hun": "읽을",
+    "label": "읽을 - 독"
   },
   {
     "char": "童",
@@ -1365,7 +1535,8 @@
     "meaning": "아이 동",
     "level": "6",
     "image": "assets/hanja/6/童.webp",
-    "hun": "아이"
+    "hun": "아이",
+    "label": "아이 - 동"
   },
   {
     "char": "等",
@@ -1373,7 +1544,8 @@
     "meaning": "무리 등",
     "level": "6",
     "image": "assets/hanja/6/等.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 등"
   },
   {
     "char": "利",
@@ -1381,7 +1553,8 @@
     "meaning": "이로울 리",
     "level": "6",
     "image": "assets/hanja/6/利.webp",
-    "hun": "이로울"
+    "hun": "이로울",
+    "label": "이로울 - 리"
   },
   {
     "char": "理",
@@ -1389,7 +1562,8 @@
     "meaning": "다스릴 리",
     "level": "6",
     "image": "assets/hanja/6/理.webp",
-    "hun": "다스릴"
+    "hun": "다스릴",
+    "label": "다스릴 - 리"
   },
   {
     "char": "明",
@@ -1397,7 +1571,8 @@
     "meaning": "밝을 명",
     "level": "6",
     "image": "assets/hanja/6/明.webp",
-    "hun": "밝을"
+    "hun": "밝을",
+    "label": "밝을 - 명"
   },
   {
     "char": "聞",
@@ -1405,7 +1580,8 @@
     "meaning": "들을 문",
     "level": "6",
     "image": "assets/hanja/6/聞.webp",
-    "hun": "들을"
+    "hun": "들을",
+    "label": "들을 - 문"
   },
   {
     "char": "半",
@@ -1413,7 +1589,8 @@
     "meaning": "반 반",
     "level": "6",
     "image": "assets/hanja/6/半.webp",
-    "hun": "반"
+    "hun": "반",
+    "label": "반 - 반"
   },
   {
     "char": "反",
@@ -1421,7 +1598,8 @@
     "meaning": "돌이킬 반",
     "level": "6",
     "image": "assets/hanja/6/反.webp",
-    "hun": "돌이킬"
+    "hun": "돌이킬",
+    "label": "돌이킬 - 반"
   },
   {
     "char": "班",
@@ -1429,7 +1607,8 @@
     "meaning": "나눌 반",
     "level": "6",
     "image": "assets/hanja/6/班.webp",
-    "hun": "나눌"
+    "hun": "나눌",
+    "label": "나눌 - 반"
   },
   {
     "char": "發",
@@ -1437,7 +1616,8 @@
     "meaning": "필 발",
     "level": "6",
     "image": "assets/hanja/6/發.webp",
-    "hun": "필"
+    "hun": "필",
+    "label": "필 - 발"
   },
   {
     "char": "放",
@@ -1445,7 +1625,8 @@
     "meaning": "놓을 방",
     "level": "6",
     "image": "assets/hanja/6/放.webp",
-    "hun": "놓을"
+    "hun": "놓을",
+    "label": "놓을 - 방"
   },
   {
     "char": "部",
@@ -1453,7 +1634,8 @@
     "meaning": "떼 부",
     "level": "6",
     "image": "assets/hanja/6/部.webp",
-    "hun": "떼"
+    "hun": "떼",
+    "label": "떼 - 부"
   },
   {
     "char": "分",
@@ -1461,7 +1643,8 @@
     "meaning": "나눌 분",
     "level": "6",
     "image": "assets/hanja/6/分.webp",
-    "hun": "나눌"
+    "hun": "나눌",
+    "label": "나눌 - 분"
   },
   {
     "char": "社",
@@ -1469,7 +1652,8 @@
     "meaning": "모일 사",
     "level": "6",
     "image": "assets/hanja/6/社.webp",
-    "hun": "모일"
+    "hun": "모일",
+    "label": "모일 - 사"
   },
   {
     "char": "書",
@@ -1477,7 +1661,8 @@
     "meaning": "글 서",
     "level": "6",
     "image": "assets/hanja/6/書.webp",
-    "hun": "글"
+    "hun": "글",
+    "label": "글 - 서"
   },
   {
     "char": "線",
@@ -1485,7 +1670,8 @@
     "meaning": "줄 선",
     "level": "6",
     "image": "assets/hanja/6/線.webp",
-    "hun": "줄"
+    "hun": "줄",
+    "label": "줄 - 선"
   },
   {
     "char": "雪",
@@ -1493,7 +1679,8 @@
     "meaning": "눈 설",
     "level": "6",
     "image": "assets/hanja/6/雪.webp",
-    "hun": "눈"
+    "hun": "눈",
+    "label": "눈 - 설"
   },
   {
     "char": "成",
@@ -1501,7 +1688,8 @@
     "meaning": "이룰 성",
     "level": "6",
     "image": "assets/hanja/6/成.webp",
-    "hun": "이룰"
+    "hun": "이룰",
+    "label": "이룰 - 성"
   },
   {
     "char": "省",
@@ -1509,7 +1697,8 @@
     "meaning": "살필 성",
     "level": "6",
     "image": "assets/hanja/6/省.webp",
-    "hun": "살필"
+    "hun": "살필",
+    "label": "살필 - 성"
   },
   {
     "char": "消",
@@ -1517,7 +1706,8 @@
     "meaning": "사라질 소",
     "level": "6",
     "image": "assets/hanja/6/消.webp",
-    "hun": "사라질"
+    "hun": "사라질",
+    "label": "사라질 - 소"
   },
   {
     "char": "術",
@@ -1525,7 +1715,8 @@
     "meaning": "재주 술",
     "level": "6",
     "image": "assets/hanja/6/術.webp",
-    "hun": "재주"
+    "hun": "재주",
+    "label": "재주 - 술"
   },
   {
     "char": "始",
@@ -1533,7 +1724,8 @@
     "meaning": "비로소 시",
     "level": "6",
     "image": "assets/hanja/6/始.webp",
-    "hun": "비로소"
+    "hun": "비로소",
+    "label": "비로소 - 시"
   },
   {
     "char": "信",
@@ -1541,7 +1733,8 @@
     "meaning": "믿을 신",
     "level": "6",
     "image": "assets/hanja/6/信.webp",
-    "hun": "믿을"
+    "hun": "믿을",
+    "label": "믿을 - 신"
   },
   {
     "char": "新",
@@ -1549,7 +1742,8 @@
     "meaning": "새 신",
     "level": "6",
     "image": "assets/hanja/6/新.webp",
-    "hun": "새"
+    "hun": "새",
+    "label": "새 - 신"
   },
   {
     "char": "神",
@@ -1557,7 +1751,8 @@
     "meaning": "귀신 신",
     "level": "6",
     "image": "assets/hanja/6/神.webp",
-    "hun": "귀신"
+    "hun": "귀신",
+    "label": "귀신 - 신"
   },
   {
     "char": "身",
@@ -1565,7 +1760,8 @@
     "meaning": "몸 신",
     "level": "6",
     "image": "assets/hanja/6/身.webp",
-    "hun": "몸"
+    "hun": "몸",
+    "label": "몸 - 신"
   },
   {
     "char": "樂",
@@ -1573,7 +1769,8 @@
     "meaning": "즐길 락",
     "level": "6",
     "image": "assets/hanja/6/樂.webp",
-    "hun": "즐길"
+    "hun": "즐길",
+    "label": "즐길 - 락"
   },
   {
     "char": "弱",
@@ -1581,7 +1778,8 @@
     "meaning": "약할 약",
     "level": "6",
     "image": "assets/hanja/6/弱.webp",
-    "hun": "약할"
+    "hun": "약할",
+    "label": "약할 - 약"
   },
   {
     "char": "藥",
@@ -1589,7 +1787,8 @@
     "meaning": "약 약",
     "level": "6",
     "image": "assets/hanja/6/藥.webp",
-    "hun": "약"
+    "hun": "약",
+    "label": "약 - 약"
   },
   {
     "char": "業",
@@ -1597,7 +1796,8 @@
     "meaning": "일 업",
     "level": "6",
     "image": "assets/hanja/6/業.webp",
-    "hun": "일"
+    "hun": "일",
+    "label": "일 - 업"
   },
   {
     "char": "勇",
@@ -1605,7 +1805,8 @@
     "meaning": "날랠 용",
     "level": "6",
     "image": "assets/hanja/6/勇.webp",
-    "hun": "날랠"
+    "hun": "날랠",
+    "label": "날랠 - 용"
   },
   {
     "char": "用",
@@ -1613,7 +1814,8 @@
     "meaning": "쓸 용",
     "level": "6",
     "image": "assets/hanja/6/用.webp",
-    "hun": "쓸"
+    "hun": "쓸",
+    "label": "쓸 - 용"
   },
   {
     "char": "運",
@@ -1621,7 +1823,8 @@
     "meaning": "옮길 운",
     "level": "6",
     "image": "assets/hanja/6/運.webp",
-    "hun": "옮길"
+    "hun": "옮길",
+    "label": "옮길 - 운"
   },
   {
     "char": "音",
@@ -1629,7 +1832,8 @@
     "meaning": "소리 음",
     "level": "6",
     "image": "assets/hanja/6/音.webp",
-    "hun": "소리"
+    "hun": "소리",
+    "label": "소리 - 음"
   },
   {
     "char": "飮",
@@ -1637,7 +1841,8 @@
     "meaning": "마실 음",
     "level": "6",
     "image": "assets/hanja/6/飮.webp",
-    "hun": "마실"
+    "hun": "마실",
+    "label": "마실 - 음"
   },
   {
     "char": "意",
@@ -1645,7 +1850,8 @@
     "meaning": "뜻 의",
     "level": "6",
     "image": "assets/hanja/6/意.webp",
-    "hun": "뜻"
+    "hun": "뜻",
+    "label": "뜻 - 의"
   },
   {
     "char": "作",
@@ -1653,7 +1859,8 @@
     "meaning": "지을 작",
     "level": "6",
     "image": "assets/hanja/6/作.webp",
-    "hun": "지을"
+    "hun": "지을",
+    "label": "지을 - 작"
   },
   {
     "char": "昨",
@@ -1661,7 +1868,8 @@
     "meaning": "어제 작",
     "level": "6",
     "image": "assets/hanja/6/昨.webp",
-    "hun": "어제"
+    "hun": "어제",
+    "label": "어제 - 작"
   },
   {
     "char": "才",
@@ -1669,7 +1877,8 @@
     "meaning": "재주 재",
     "level": "6",
     "image": "assets/hanja/6/才.webp",
-    "hun": "재주"
+    "hun": "재주",
+    "label": "재주 - 재"
   },
   {
     "char": "戰",
@@ -1677,7 +1886,8 @@
     "meaning": "싸울 전",
     "level": "6",
     "image": "assets/hanja/6/戰.webp",
-    "hun": "싸울"
+    "hun": "싸울",
+    "label": "싸울 - 전"
   },
   {
     "char": "庭",
@@ -1685,7 +1895,8 @@
     "meaning": "뜰 정",
     "level": "6",
     "image": "assets/hanja/6/庭.webp",
-    "hun": "뜰"
+    "hun": "뜰",
+    "label": "뜰 - 정"
   },
   {
     "char": "第",
@@ -1693,7 +1904,8 @@
     "meaning": "차례 제",
     "level": "6",
     "image": "assets/hanja/6/第.webp",
-    "hun": "차례"
+    "hun": "차례",
+    "label": "차례 - 제"
   },
   {
     "char": "題",
@@ -1701,7 +1913,8 @@
     "meaning": "제목 제",
     "level": "6",
     "image": "assets/hanja/6/題.webp",
-    "hun": "제목"
+    "hun": "제목",
+    "label": "제목 - 제"
   },
   {
     "char": "注",
@@ -1709,7 +1922,8 @@
     "meaning": "부을 주",
     "level": "6",
     "image": "assets/hanja/6/注.webp",
-    "hun": "부을"
+    "hun": "부을",
+    "label": "부을 - 주"
   },
   {
     "char": "集",
@@ -1717,7 +1931,8 @@
     "meaning": "모을 집",
     "level": "6",
     "image": "assets/hanja/6/集.webp",
-    "hun": "모을"
+    "hun": "모을",
+    "label": "모을 - 집"
   },
   {
     "char": "窓",
@@ -1725,7 +1940,8 @@
     "meaning": "창문 창",
     "level": "6",
     "image": "assets/hanja/6/窓.webp",
-    "hun": "창문"
+    "hun": "창문",
+    "label": "창문 - 창"
   },
   {
     "char": "淸",
@@ -1733,7 +1949,8 @@
     "meaning": "맑을 청",
     "level": "6",
     "image": "assets/hanja/6/淸.webp",
-    "hun": "맑을"
+    "hun": "맑을",
+    "label": "맑을 - 청"
   },
   {
     "char": "體",
@@ -1741,7 +1958,8 @@
     "meaning": "몸 체",
     "level": "6",
     "image": "assets/hanja/6/體.webp",
-    "hun": "몸"
+    "hun": "몸",
+    "label": "몸 - 체"
   },
   {
     "char": "表",
@@ -1749,7 +1967,8 @@
     "meaning": "겉 표",
     "level": "6",
     "image": "assets/hanja/6/表.webp",
-    "hun": "겉"
+    "hun": "겉",
+    "label": "겉 - 표"
   },
   {
     "char": "風",
@@ -1757,7 +1976,8 @@
     "meaning": "바람 풍",
     "level": "6",
     "image": "assets/hanja/6/風.webp",
-    "hun": "바람"
+    "hun": "바람",
+    "label": "바람 - 풍"
   },
   {
     "char": "幸",
@@ -1765,7 +1985,8 @@
     "meaning": "다행 행",
     "level": "6",
     "image": "assets/hanja/6/幸.webp",
-    "hun": "다행"
+    "hun": "다행",
+    "label": "다행 - 행"
   },
   {
     "char": "現",
@@ -1773,7 +1994,8 @@
     "meaning": "나타날 현",
     "level": "6",
     "image": "assets/hanja/6/現.webp",
-    "hun": "나타날"
+    "hun": "나타날",
+    "label": "나타날 - 현"
   },
   {
     "char": "形",
@@ -1781,7 +2003,8 @@
     "meaning": "모양 형",
     "level": "6",
     "image": "assets/hanja/6/形.webp",
-    "hun": "모양"
+    "hun": "모양",
+    "label": "모양 - 형"
   },
   {
     "char": "和",
@@ -1789,7 +2012,8 @@
     "meaning": "화할 화",
     "level": "6",
     "image": "assets/hanja/6/和.webp",
-    "hun": "화할"
+    "hun": "화할",
+    "label": "화할 - 화"
   },
   {
     "char": "會",
@@ -1797,7 +2021,8 @@
     "meaning": "모일 회",
     "level": "6",
     "image": "assets/hanja/6/會.webp",
-    "hun": "모일"
+    "hun": "모일",
+    "label": "모일 - 회"
   },
   {
     "char": "感",
@@ -1805,7 +2030,8 @@
     "meaning": "느낄 감",
     "level": "6",
     "image": "assets/hanja/6/感.webp",
-    "hun": "느낄"
+    "hun": "느낄",
+    "label": "느낄 - 감"
   },
   {
     "char": "強",
@@ -1813,7 +2039,8 @@
     "meaning": "강할 강",
     "level": "6",
     "image": "assets/hanja/6/強.webp",
-    "hun": "강할"
+    "hun": "강할",
+    "label": "강할 - 강"
   },
   {
     "char": "開",
@@ -1821,7 +2048,8 @@
     "meaning": "열 개",
     "level": "6",
     "image": "assets/hanja/6/開.webp",
-    "hun": "열"
+    "hun": "열",
+    "label": "열 - 개"
   },
   {
     "char": "京",
@@ -1829,7 +2057,8 @@
     "meaning": "서울 경",
     "level": "6",
     "image": "assets/hanja/6/京.webp",
-    "hun": "서울"
+    "hun": "서울",
+    "label": "서울 - 경"
   },
   {
     "char": "古",
@@ -1837,7 +2066,8 @@
     "meaning": "예 고",
     "level": "6",
     "image": "assets/hanja/6/古.webp",
-    "hun": "예"
+    "hun": "예",
+    "label": "예 - 고"
   },
   {
     "char": "苦",
@@ -1845,7 +2075,8 @@
     "meaning": "쓸 고",
     "level": "6",
     "image": "assets/hanja/6/苦.webp",
-    "hun": "쓸"
+    "hun": "쓸",
+    "label": "쓸 - 고"
   },
   {
     "char": "交",
@@ -1853,7 +2084,8 @@
     "meaning": "사귈 교",
     "level": "6",
     "image": "assets/hanja/6/交.webp",
-    "hun": "사귈"
+    "hun": "사귈",
+    "label": "사귈 - 교"
   },
   {
     "char": "區",
@@ -1861,7 +2093,8 @@
     "meaning": "구분할 구",
     "level": "6",
     "image": "assets/hanja/6/區.webp",
-    "hun": "구분할"
+    "hun": "구분할",
+    "label": "구분할 - 구"
   },
   {
     "char": "郡",
@@ -1869,7 +2102,8 @@
     "meaning": "고을 군",
     "level": "6",
     "image": "assets/hanja/6/郡.webp",
-    "hun": "고을"
+    "hun": "고을",
+    "label": "고을 - 군"
   },
   {
     "char": "根",
@@ -1877,7 +2111,8 @@
     "meaning": "뿌리 근",
     "level": "6",
     "image": "assets/hanja/6/根.webp",
-    "hun": "뿌리"
+    "hun": "뿌리",
+    "label": "뿌리 - 근"
   },
   {
     "char": "近",
@@ -1885,7 +2120,8 @@
     "meaning": "가까울 근",
     "level": "6",
     "image": "assets/hanja/6/近.webp",
-    "hun": "가까울"
+    "hun": "가까울",
+    "label": "가까울 - 근"
   },
   {
     "char": "級",
@@ -1893,7 +2129,8 @@
     "meaning": "등급 급",
     "level": "6",
     "image": "assets/hanja/6/級.webp",
-    "hun": "등급"
+    "hun": "등급",
+    "label": "등급 - 급"
   },
   {
     "char": "多",
@@ -1901,7 +2138,8 @@
     "meaning": "많을 다",
     "level": "6",
     "image": "assets/hanja/6/多.webp",
-    "hun": "많을"
+    "hun": "많을",
+    "label": "많을 - 다"
   },
   {
     "char": "待",
@@ -1909,7 +2147,8 @@
     "meaning": "기다릴 대",
     "level": "6",
     "image": "assets/hanja/6/待.webp",
-    "hun": "기다릴"
+    "hun": "기다릴",
+    "label": "기다릴 - 대"
   },
   {
     "char": "度",
@@ -1917,7 +2156,8 @@
     "meaning": "법도 도",
     "level": "6",
     "image": "assets/hanja/6/度.webp",
-    "hun": "법도"
+    "hun": "법도",
+    "label": "법도 - 도"
   },
   {
     "char": "頭",
@@ -1925,7 +2165,8 @@
     "meaning": "머리 두",
     "level": "6",
     "image": "assets/hanja/6/頭.webp",
-    "hun": "머리"
+    "hun": "머리",
+    "label": "머리 - 두"
   },
   {
     "char": "例",
@@ -1933,7 +2174,8 @@
     "meaning": "법식 례",
     "level": "6",
     "image": "assets/hanja/6/例.webp",
-    "hun": "법식"
+    "hun": "법식",
+    "label": "법식 - 례"
   },
   {
     "char": "禮",
@@ -1941,7 +2183,8 @@
     "meaning": "예도 례",
     "level": "6",
     "image": "assets/hanja/6/禮.webp",
-    "hun": "예도"
+    "hun": "예도",
+    "label": "예도 - 례"
   },
   {
     "char": "路",
@@ -1949,7 +2192,8 @@
     "meaning": "길 로",
     "level": "6",
     "image": "assets/hanja/6/路.webp",
-    "hun": "길"
+    "hun": "길",
+    "label": "길 - 로"
   },
   {
     "char": "綠",
@@ -1957,7 +2201,8 @@
     "meaning": "푸를 록",
     "level": "6",
     "image": "assets/hanja/6/綠.webp",
-    "hun": "푸를"
+    "hun": "푸를",
+    "label": "푸를 - 록"
   },
   {
     "char": "李",
@@ -1965,7 +2210,8 @@
     "meaning": "오얏 리",
     "level": "6",
     "image": "assets/hanja/6/李.webp",
-    "hun": "오얏"
+    "hun": "오얏",
+    "label": "오얏 - 리"
   },
   {
     "char": "目",
@@ -1973,7 +2219,8 @@
     "meaning": "눈 목",
     "level": "6",
     "image": "assets/hanja/6/目.webp",
-    "hun": "눈"
+    "hun": "눈",
+    "label": "눈 - 목"
   },
   {
     "char": "米",
@@ -1981,7 +2228,8 @@
     "meaning": "쌀 미",
     "level": "6",
     "image": "assets/hanja/6/米.webp",
-    "hun": "쌀"
+    "hun": "쌀",
+    "label": "쌀 - 미"
   },
   {
     "char": "美",
@@ -1989,7 +2237,8 @@
     "meaning": "아름다울 미",
     "level": "6",
     "image": "assets/hanja/6/美.webp",
-    "hun": "아름다울"
+    "hun": "아름다울",
+    "label": "아름다울 - 미"
   },
   {
     "char": "朴",
@@ -1997,7 +2246,8 @@
     "meaning": "순박할 박",
     "level": "6",
     "image": "assets/hanja/6/朴.webp",
-    "hun": "순박할"
+    "hun": "순박할",
+    "label": "순박할 - 박"
   },
   {
     "char": "番",
@@ -2005,7 +2255,8 @@
     "meaning": "차례 번",
     "level": "6",
     "image": "assets/hanja/6/番.webp",
-    "hun": "차례"
+    "hun": "차례",
+    "label": "차례 - 번"
   },
   {
     "char": "別",
@@ -2013,7 +2264,8 @@
     "meaning": "다를 별",
     "level": "6",
     "image": "assets/hanja/6/別.webp",
-    "hun": "다를"
+    "hun": "다를",
+    "label": "다를 - 별"
   },
   {
     "char": "病",
@@ -2021,7 +2273,8 @@
     "meaning": "병 병",
     "level": "6",
     "image": "assets/hanja/6/病.webp",
-    "hun": "병"
+    "hun": "병",
+    "label": "병 - 병"
   },
   {
     "char": "服",
@@ -2029,7 +2282,8 @@
     "meaning": "옷 복",
     "level": "6",
     "image": "assets/hanja/6/服.webp",
-    "hun": "옷"
+    "hun": "옷",
+    "label": "옷 - 복"
   },
   {
     "char": "本",
@@ -2037,7 +2291,8 @@
     "meaning": "근본 본",
     "level": "6",
     "image": "assets/hanja/6/本.webp",
-    "hun": "근본"
+    "hun": "근본",
+    "label": "근본 - 본"
   },
   {
     "char": "使",
@@ -2045,7 +2300,8 @@
     "meaning": "부릴 사",
     "level": "6",
     "image": "assets/hanja/6/使.webp",
-    "hun": "부릴"
+    "hun": "부릴",
+    "label": "부릴 - 사"
   },
   {
     "char": "死",
@@ -2053,7 +2309,8 @@
     "meaning": "죽을 사",
     "level": "6",
     "image": "assets/hanja/6/死.webp",
-    "hun": "죽을"
+    "hun": "죽을",
+    "label": "죽을 - 사"
   },
   {
     "char": "席",
@@ -2061,7 +2318,8 @@
     "meaning": "자리 석",
     "level": "6",
     "image": "assets/hanja/6/席.webp",
-    "hun": "자리"
+    "hun": "자리",
+    "label": "자리 - 석"
   },
   {
     "char": "石",
@@ -2069,7 +2327,8 @@
     "meaning": "돌 석",
     "level": "6",
     "image": "assets/hanja/6/石.webp",
-    "hun": "돌"
+    "hun": "돌",
+    "label": "돌 - 석"
   },
   {
     "char": "速",
@@ -2077,7 +2336,8 @@
     "meaning": "빠를 속",
     "level": "6",
     "image": "assets/hanja/6/速.webp",
-    "hun": "빠를"
+    "hun": "빠를",
+    "label": "빠를 - 속"
   },
   {
     "char": "孫",
@@ -2085,7 +2345,8 @@
     "meaning": "손자 손",
     "level": "6",
     "image": "assets/hanja/6/孫.webp",
-    "hun": "손자"
+    "hun": "손자",
+    "label": "손자 - 손"
   },
   {
     "char": "樹",
@@ -2093,7 +2354,8 @@
     "meaning": "나무 수",
     "level": "6",
     "image": "assets/hanja/6/樹.webp",
-    "hun": "나무"
+    "hun": "나무",
+    "label": "나무 - 수"
   },
   {
     "char": "習",
@@ -2101,7 +2363,8 @@
     "meaning": "익힐 습",
     "level": "6",
     "image": "assets/hanja/6/習.webp",
-    "hun": "익힐"
+    "hun": "익힐",
+    "label": "익힐 - 습"
   },
   {
     "char": "勝",
@@ -2109,7 +2372,8 @@
     "meaning": "이길 승",
     "level": "6",
     "image": "assets/hanja/6/勝.webp",
-    "hun": "이길"
+    "hun": "이길",
+    "label": "이길 - 승"
   },
   {
     "char": "式",
@@ -2117,7 +2381,8 @@
     "meaning": "법식 식",
     "level": "6",
     "image": "assets/hanja/6/式.webp",
-    "hun": "법식"
+    "hun": "법식",
+    "label": "법식 - 식"
   },
   {
     "char": "失",
@@ -2125,7 +2390,8 @@
     "meaning": "잃을 실",
     "level": "6",
     "image": "assets/hanja/6/失.webp",
-    "hun": "잃을"
+    "hun": "잃을",
+    "label": "잃을 - 실"
   },
   {
     "char": "愛",
@@ -2133,7 +2399,8 @@
     "meaning": "사랑 애",
     "level": "6",
     "image": "assets/hanja/6/愛.webp",
-    "hun": "사랑"
+    "hun": "사랑",
+    "label": "사랑 - 애"
   },
   {
     "char": "夜",
@@ -2141,7 +2408,8 @@
     "meaning": "밤 야",
     "level": "6",
     "image": "assets/hanja/6/夜.webp",
-    "hun": "밤"
+    "hun": "밤",
+    "label": "밤 - 야"
   },
   {
     "char": "野",
@@ -2149,7 +2417,8 @@
     "meaning": "들 야",
     "level": "6",
     "image": "assets/hanja/6/野.webp",
-    "hun": "들"
+    "hun": "들",
+    "label": "들 - 야"
   },
   {
     "char": "洋",
@@ -2157,7 +2426,8 @@
     "meaning": "큰바다 양",
     "level": "6",
     "image": "assets/hanja/6/洋.webp",
-    "hun": "큰바다"
+    "hun": "큰바다",
+    "label": "큰바다 - 양"
   },
   {
     "char": "陽",
@@ -2165,7 +2435,8 @@
     "meaning": "볕 양",
     "level": "6",
     "image": "assets/hanja/6/陽.webp",
-    "hun": "볕"
+    "hun": "볕",
+    "label": "볕 - 양"
   },
   {
     "char": "言",
@@ -2173,7 +2444,8 @@
     "meaning": "말씀 언",
     "level": "6",
     "image": "assets/hanja/6/言.webp",
-    "hun": "말씀"
+    "hun": "말씀",
+    "label": "말씀 - 언"
   },
   {
     "char": "永",
@@ -2181,7 +2453,8 @@
     "meaning": "길 영",
     "level": "6",
     "image": "assets/hanja/6/永.webp",
-    "hun": "길"
+    "hun": "길",
+    "label": "길 - 영"
   },
   {
     "char": "英",
@@ -2189,7 +2462,8 @@
     "meaning": "꽃부리 영",
     "level": "6",
     "image": "assets/hanja/6/英.webp",
-    "hun": "꽃부리"
+    "hun": "꽃부리",
+    "label": "꽃부리 - 영"
   },
   {
     "char": "溫",
@@ -2197,7 +2471,8 @@
     "meaning": "따뜻할 온",
     "level": "6",
     "image": "assets/hanja/6/溫.webp",
-    "hun": "따뜻할"
+    "hun": "따뜻할",
+    "label": "따뜻할 - 온"
   },
   {
     "char": "園",
@@ -2205,7 +2480,8 @@
     "meaning": "동산 원",
     "level": "6",
     "image": "assets/hanja/6/園.webp",
-    "hun": "동산"
+    "hun": "동산",
+    "label": "동산 - 원"
   },
   {
     "char": "遠",
@@ -2213,7 +2489,8 @@
     "meaning": "멀 원",
     "level": "6",
     "image": "assets/hanja/6/遠.webp",
-    "hun": "멀"
+    "hun": "멀",
+    "label": "멀 - 원"
   },
   {
     "char": "油",
@@ -2221,7 +2498,8 @@
     "meaning": "기름 유",
     "level": "6",
     "image": "assets/hanja/6/油.webp",
-    "hun": "기름"
+    "hun": "기름",
+    "label": "기름 - 유"
   },
   {
     "char": "由",
@@ -2229,7 +2507,8 @@
     "meaning": "말미암을 유",
     "level": "6",
     "image": "assets/hanja/6/由.webp",
-    "hun": "말미암을"
+    "hun": "말미암을",
+    "label": "말미암을 - 유"
   },
   {
     "char": "銀",
@@ -2237,7 +2516,8 @@
     "meaning": "은 은",
     "level": "6",
     "image": "assets/hanja/6/銀.webp",
-    "hun": "은"
+    "hun": "은",
+    "label": "은 - 은"
   },
   {
     "char": "衣",
@@ -2245,7 +2525,8 @@
     "meaning": "옷 의",
     "level": "6",
     "image": "assets/hanja/6/衣.webp",
-    "hun": "옷"
+    "hun": "옷",
+    "label": "옷 - 의"
   },
   {
     "char": "醫",
@@ -2253,7 +2534,8 @@
     "meaning": "의원 의",
     "level": "6",
     "image": "assets/hanja/6/醫.webp",
-    "hun": "의원"
+    "hun": "의원",
+    "label": "의원 - 의"
   },
   {
     "char": "者",
@@ -2261,7 +2543,8 @@
     "meaning": "놈 자",
     "level": "6",
     "image": "assets/hanja/6/者.webp",
-    "hun": "놈"
+    "hun": "놈",
+    "label": "놈 - 자"
   },
   {
     "char": "章",
@@ -2269,7 +2552,8 @@
     "meaning": "글 장",
     "level": "6",
     "image": "assets/hanja/6/章.webp",
-    "hun": "글"
+    "hun": "글",
+    "label": "글 - 장"
   },
   {
     "char": "在",
@@ -2277,7 +2561,8 @@
     "meaning": "있을 재",
     "level": "6",
     "image": "assets/hanja/6/在.webp",
-    "hun": "있을"
+    "hun": "있을",
+    "label": "있을 - 재"
   },
   {
     "char": "定",
@@ -2285,7 +2570,8 @@
     "meaning": "정할 정",
     "level": "6",
     "image": "assets/hanja/6/定.webp",
-    "hun": "정할"
+    "hun": "정할",
+    "label": "정할 - 정"
   },
   {
     "char": "朝",
@@ -2293,7 +2579,8 @@
     "meaning": "아침 조",
     "level": "6",
     "image": "assets/hanja/6/朝.webp",
-    "hun": "아침"
+    "hun": "아침",
+    "label": "아침 - 조"
   },
   {
     "char": "族",
@@ -2301,7 +2588,8 @@
     "meaning": "겨레 족",
     "level": "6",
     "image": "assets/hanja/6/族.webp",
-    "hun": "겨레"
+    "hun": "겨레",
+    "label": "겨레 - 족"
   },
   {
     "char": "晝",
@@ -2309,7 +2597,8 @@
     "meaning": "낮 주",
     "level": "6",
     "image": "assets/hanja/6/晝.webp",
-    "hun": "낮"
+    "hun": "낮",
+    "label": "낮 - 주"
   },
   {
     "char": "親",
@@ -2317,7 +2606,8 @@
     "meaning": "친할 친",
     "level": "6",
     "image": "assets/hanja/6/親.webp",
-    "hun": "친할"
+    "hun": "친할",
+    "label": "친할 - 친"
   },
   {
     "char": "太",
@@ -2325,7 +2615,8 @@
     "meaning": "클 태",
     "level": "6",
     "image": "assets/hanja/6/太.webp",
-    "hun": "클"
+    "hun": "클",
+    "label": "클 - 태"
   },
   {
     "char": "通",
@@ -2333,7 +2624,8 @@
     "meaning": "통할 통",
     "level": "6",
     "image": "assets/hanja/6/通.webp",
-    "hun": "통할"
+    "hun": "통할",
+    "label": "통할 - 통"
   },
   {
     "char": "特",
@@ -2341,7 +2633,8 @@
     "meaning": "특별할 특",
     "level": "6",
     "image": "assets/hanja/6/特.webp",
-    "hun": "특별할"
+    "hun": "특별할",
+    "label": "특별할 - 특"
   },
   {
     "char": "合",
@@ -2349,7 +2642,8 @@
     "meaning": "합할 합",
     "level": "6",
     "image": "assets/hanja/6/合.webp",
-    "hun": "합할"
+    "hun": "합할",
+    "label": "합할 - 합"
   },
   {
     "char": "行",
@@ -2357,7 +2651,8 @@
     "meaning": "다닐 행",
     "level": "6",
     "image": "assets/hanja/6/行.webp",
-    "hun": "다닐"
+    "hun": "다닐",
+    "label": "다닐 - 행"
   },
   {
     "char": "向",
@@ -2365,7 +2660,8 @@
     "meaning": "향할 향",
     "level": "6",
     "image": "assets/hanja/6/向.webp",
-    "hun": "향할"
+    "hun": "향할",
+    "label": "향할 - 향"
   },
   {
     "char": "號",
@@ -2373,7 +2669,8 @@
     "meaning": "부르짖을 호",
     "level": "6",
     "image": "assets/hanja/6/號.webp",
-    "hun": "부르짖을"
+    "hun": "부르짖을",
+    "label": "부르짖을 - 호"
   },
   {
     "char": "畫",
@@ -2381,7 +2678,8 @@
     "meaning": "그림 화",
     "level": "6",
     "image": "assets/hanja/6/畫.webp",
-    "hun": "그림"
+    "hun": "그림",
+    "label": "그림 - 화"
   },
   {
     "char": "黃",
@@ -2389,7 +2687,8 @@
     "meaning": "누를 황",
     "level": "6",
     "image": "assets/hanja/6/黃.webp",
-    "hun": "누를"
+    "hun": "누를",
+    "label": "누를 - 황"
   },
   {
     "char": "訓",
@@ -2397,7 +2696,8 @@
     "meaning": "가르칠 훈",
     "level": "6",
     "image": "assets/hanja/6/訓.webp",
-    "hun": "가르칠"
+    "hun": "가르칠",
+    "label": "가르칠 - 훈"
   },
   {
     "char": "價",
@@ -2405,7 +2705,8 @@
     "meaning": "값가",
     "level": "5",
     "image": "assets/hanja/5/價.webp",
-    "hun": "값"
+    "hun": "값",
+    "label": "값 - 가"
   },
   {
     "char": "客",
@@ -2413,7 +2714,8 @@
     "meaning": "손객",
     "level": "5",
     "image": "assets/hanja/5/客.webp",
-    "hun": "손"
+    "hun": "손",
+    "label": "손 - 객"
   },
   {
     "char": "格",
@@ -2421,7 +2723,8 @@
     "meaning": "격식격",
     "level": "5",
     "image": "assets/hanja/5/格.webp",
-    "hun": "격식"
+    "hun": "격식",
+    "label": "격식 - 격"
   },
   {
     "char": "見",
@@ -2429,7 +2732,8 @@
     "meaning": "볼견",
     "level": "5",
     "image": "assets/hanja/5/見.webp",
-    "hun": "볼"
+    "hun": "볼",
+    "label": "볼 - 견"
   },
   {
     "char": "決",
@@ -2437,7 +2741,8 @@
     "meaning": "결단할결",
     "level": "5",
     "image": "assets/hanja/5/決.webp",
-    "hun": "결단할"
+    "hun": "결단할",
+    "label": "결단할 - 결"
   },
   {
     "char": "結",
@@ -2445,7 +2750,8 @@
     "meaning": "맺을결",
     "level": "5",
     "image": "assets/hanja/5/結.webp",
-    "hun": "맺을"
+    "hun": "맺을",
+    "label": "맺을 - 결"
   },
   {
     "char": "敬",
@@ -2453,7 +2759,8 @@
     "meaning": "공경할경",
     "level": "5",
     "image": "assets/hanja/5/敬.webp",
-    "hun": "공경할"
+    "hun": "공경할",
+    "label": "공경할 - 경"
   },
   {
     "char": "告",
@@ -2461,7 +2768,8 @@
     "meaning": "고할고",
     "level": "5",
     "image": "assets/hanja/5/告.webp",
-    "hun": "고할"
+    "hun": "고할",
+    "label": "고할 - 고"
   },
   {
     "char": "課",
@@ -2469,7 +2777,8 @@
     "meaning": "과정과",
     "level": "5",
     "image": "assets/hanja/5/課.webp",
-    "hun": "과정"
+    "hun": "과정",
+    "label": "과정 - 과"
   },
   {
     "char": "過",
@@ -2477,7 +2786,8 @@
     "meaning": "지날과",
     "level": "5",
     "image": "assets/hanja/5/過.webp",
-    "hun": "지날"
+    "hun": "지날",
+    "label": "지날 - 과"
   },
   {
     "char": "觀",
@@ -2485,7 +2795,8 @@
     "meaning": "볼관",
     "level": "5",
     "image": "assets/hanja/5/觀.webp",
-    "hun": "볼"
+    "hun": "볼",
+    "label": "볼 - 관"
   },
   {
     "char": "關",
@@ -2493,7 +2804,8 @@
     "meaning": "관계할관",
     "level": "5",
     "image": "assets/hanja/5/關.webp",
-    "hun": "관계할"
+    "hun": "관계할",
+    "label": "관계할 - 관"
   },
   {
     "char": "廣",
@@ -2501,7 +2813,8 @@
     "meaning": "넓을광",
     "level": "5",
     "image": "assets/hanja/5/廣.webp",
-    "hun": "넓을"
+    "hun": "넓을",
+    "label": "넓을 - 광"
   },
   {
     "char": "具",
@@ -2509,7 +2822,8 @@
     "meaning": "갖출구",
     "level": "5",
     "image": "assets/hanja/5/具.webp",
-    "hun": "갖출"
+    "hun": "갖출",
+    "label": "갖출 - 구"
   },
   {
     "char": "舊",
@@ -2517,7 +2831,8 @@
     "meaning": "예구",
     "level": "5",
     "image": "assets/hanja/5/舊.webp",
-    "hun": "예"
+    "hun": "예",
+    "label": "예 - 구"
   },
   {
     "char": "局",
@@ -2525,7 +2840,8 @@
     "meaning": "판국",
     "level": "5",
     "image": "assets/hanja/5/局.webp",
-    "hun": "판"
+    "hun": "판",
+    "label": "판 - 국"
   },
   {
     "char": "基",
@@ -2533,7 +2849,8 @@
     "meaning": "터기",
     "level": "5",
     "image": "assets/hanja/5/基.webp",
-    "hun": "터"
+    "hun": "터",
+    "label": "터 - 기"
   },
   {
     "char": "己",
@@ -2541,7 +2858,8 @@
     "meaning": "몸기",
     "level": "5",
     "image": "assets/hanja/5/己.webp",
-    "hun": "몸"
+    "hun": "몸",
+    "label": "몸 - 기"
   },
   {
     "char": "念",
@@ -2549,7 +2867,8 @@
     "meaning": "생각념",
     "level": "5",
     "image": "assets/hanja/5/念.webp",
-    "hun": "생각"
+    "hun": "생각",
+    "label": "생각 - 념"
   },
   {
     "char": "能",
@@ -2557,7 +2876,8 @@
     "meaning": "능할능",
     "level": "5",
     "image": "assets/hanja/5/能.webp",
-    "hun": "능할"
+    "hun": "능할",
+    "label": "능할 - 능"
   },
   {
     "char": "團",
@@ -2565,7 +2885,8 @@
     "meaning": "둥글단",
     "level": "5",
     "image": "assets/hanja/5/團.webp",
-    "hun": "둥글"
+    "hun": "둥글",
+    "label": "둥글 - 단"
   },
   {
     "char": "當",
@@ -2573,7 +2894,8 @@
     "meaning": "마땅당",
     "level": "5",
     "image": "assets/hanja/5/當.webp",
-    "hun": "마땅"
+    "hun": "마땅",
+    "label": "마땅 - 당"
   },
   {
     "char": "宅",
@@ -2581,7 +2903,8 @@
     "meaning": "집댁",
     "level": "5",
     "image": "assets/hanja/5/宅.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 댁"
   },
   {
     "char": "德",
@@ -2589,7 +2912,8 @@
     "meaning": "덕덕",
     "level": "5",
     "image": "assets/hanja/5/德.webp",
-    "hun": "덕"
+    "hun": "덕",
+    "label": "덕 - 덕"
   },
   {
     "char": "到",
@@ -2597,7 +2921,8 @@
     "meaning": "이를도",
     "level": "5",
     "image": "assets/hanja/5/到.webp",
-    "hun": "이를"
+    "hun": "이를",
+    "label": "이를 - 도"
   },
   {
     "char": "獨",
@@ -2605,7 +2930,8 @@
     "meaning": "홀로독",
     "level": "5",
     "image": "assets/hanja/5/獨.webp",
-    "hun": "홀로"
+    "hun": "홀로",
+    "label": "홀로 - 독"
   },
   {
     "char": "朗",
@@ -2613,7 +2939,8 @@
     "meaning": "밝을랑",
     "level": "5",
     "image": "assets/hanja/5/朗.webp",
-    "hun": "밝을"
+    "hun": "밝을",
+    "label": "밝을 - 랑"
   },
   {
     "char": "良",
@@ -2621,7 +2948,8 @@
     "meaning": "어질량",
     "level": "5",
     "image": "assets/hanja/5/良.webp",
-    "hun": "어질"
+    "hun": "어질",
+    "label": "어질 - 량"
   },
   {
     "char": "旅",
@@ -2629,7 +2957,8 @@
     "meaning": "나그네려",
     "level": "5",
     "image": "assets/hanja/5/旅.webp",
-    "hun": "나그네"
+    "hun": "나그네",
+    "label": "나그네 - 려"
   },
   {
     "char": "歷",
@@ -2637,7 +2966,8 @@
     "meaning": "지낼력",
     "level": "5",
     "image": "assets/hanja/5/歷.webp",
-    "hun": "지낼"
+    "hun": "지낼",
+    "label": "지낼 - 력"
   },
   {
     "char": "練",
@@ -2645,7 +2975,8 @@
     "meaning": "익힐련",
     "level": "5",
     "image": "assets/hanja/5/練.webp",
-    "hun": "익힐"
+    "hun": "익힐",
+    "label": "익힐 - 련"
   },
   {
     "char": "勞",
@@ -2653,7 +2984,8 @@
     "meaning": "일할로",
     "level": "5",
     "image": "assets/hanja/5/勞.webp",
-    "hun": "일할"
+    "hun": "일할",
+    "label": "일할 - 로"
   },
   {
     "char": "流",
@@ -2661,7 +2993,8 @@
     "meaning": "흐를류",
     "level": "5",
     "image": "assets/hanja/5/流.webp",
-    "hun": "흐를"
+    "hun": "흐를",
+    "label": "흐를 - 류"
   },
   {
     "char": "類",
@@ -2669,7 +3002,8 @@
     "meaning": "무리류",
     "level": "5",
     "image": "assets/hanja/5/類.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 류"
   },
   {
     "char": "陸",
@@ -2677,7 +3011,8 @@
     "meaning": "뭍륙",
     "level": "5",
     "image": "assets/hanja/5/陸.webp",
-    "hun": "뭍"
+    "hun": "뭍",
+    "label": "뭍 - 륙"
   },
   {
     "char": "望",
@@ -2685,7 +3020,8 @@
     "meaning": "바랄망",
     "level": "5",
     "image": "assets/hanja/5/望.webp",
-    "hun": "바랄"
+    "hun": "바랄",
+    "label": "바랄 - 망"
   },
   {
     "char": "法",
@@ -2693,7 +3029,8 @@
     "meaning": "법법",
     "level": "5",
     "image": "assets/hanja/5/法.webp",
-    "hun": "법"
+    "hun": "법",
+    "label": "법 - 법"
   },
   {
     "char": "變",
@@ -2701,7 +3038,8 @@
     "meaning": "변할변",
     "level": "5",
     "image": "assets/hanja/5/變.webp",
-    "hun": "변할"
+    "hun": "변할",
+    "label": "변할 - 변"
   },
   {
     "char": "兵",
@@ -2709,7 +3047,8 @@
     "meaning": "병사병",
     "level": "5",
     "image": "assets/hanja/5/兵.webp",
-    "hun": "병사"
+    "hun": "병사",
+    "label": "병사 - 병"
   },
   {
     "char": "福",
@@ -2717,7 +3056,8 @@
     "meaning": "복복",
     "level": "5",
     "image": "assets/hanja/5/福.webp",
-    "hun": "복"
+    "hun": "복",
+    "label": "복 - 복"
   },
   {
     "char": "奉",
@@ -2725,7 +3065,8 @@
     "meaning": "받들봉",
     "level": "5",
     "image": "assets/hanja/5/奉.webp",
-    "hun": "받들"
+    "hun": "받들",
+    "label": "받들 - 봉"
   },
   {
     "char": "仕",
@@ -2733,7 +3074,8 @@
     "meaning": "섬길사",
     "level": "5",
     "image": "assets/hanja/5/仕.webp",
-    "hun": "섬길"
+    "hun": "섬길",
+    "label": "섬길 - 사"
   },
   {
     "char": "史",
@@ -2741,7 +3083,8 @@
     "meaning": "역사사",
     "level": "5",
     "image": "assets/hanja/5/史.webp",
-    "hun": "역사"
+    "hun": "역사",
+    "label": "역사 - 사"
   },
   {
     "char": "士",
@@ -2749,7 +3092,8 @@
     "meaning": "선비사",
     "level": "5",
     "image": "assets/hanja/5/士.webp",
-    "hun": "선비"
+    "hun": "선비",
+    "label": "선비 - 사"
   },
   {
     "char": "産",
@@ -2757,7 +3101,8 @@
     "meaning": "낳을산",
     "level": "5",
     "image": "assets/hanja/5/産.webp",
-    "hun": "낳을"
+    "hun": "낳을",
+    "label": "낳을 - 산"
   },
   {
     "char": "商",
@@ -2765,7 +3110,8 @@
     "meaning": "장사상",
     "level": "5",
     "image": "assets/hanja/5/商.webp",
-    "hun": "장사"
+    "hun": "장사",
+    "label": "장사 - 상"
   },
   {
     "char": "相",
@@ -2773,7 +3119,8 @@
     "meaning": "서로상",
     "level": "5",
     "image": "assets/hanja/5/相.webp",
-    "hun": "서로"
+    "hun": "서로",
+    "label": "서로 - 상"
   },
   {
     "char": "仙",
@@ -2781,7 +3128,8 @@
     "meaning": "신선선",
     "level": "5",
     "image": "assets/hanja/5/仙.webp",
-    "hun": "신선"
+    "hun": "신선",
+    "label": "신선 - 선"
   },
   {
     "char": "鮮",
@@ -2789,7 +3137,8 @@
     "meaning": "고울선",
     "level": "5",
     "image": "assets/hanja/5/鮮.webp",
-    "hun": "고울"
+    "hun": "고울",
+    "label": "고울 - 선"
   },
   {
     "char": "說",
@@ -2797,7 +3146,8 @@
     "meaning": "말씀설",
     "level": "5",
     "image": "assets/hanja/5/說.webp",
-    "hun": "말씀"
+    "hun": "말씀",
+    "label": "말씀 - 설"
   },
   {
     "char": "性",
@@ -2805,7 +3155,8 @@
     "meaning": "성품성",
     "level": "5",
     "image": "assets/hanja/5/性.webp",
-    "hun": "성품"
+    "hun": "성품",
+    "label": "성품 - 성"
   },
   {
     "char": "歲",
@@ -2813,7 +3164,8 @@
     "meaning": "해세",
     "level": "5",
     "image": "assets/hanja/5/歲.webp",
-    "hun": "해"
+    "hun": "해",
+    "label": "해 - 세"
   },
   {
     "char": "洗",
@@ -2821,7 +3173,8 @@
     "meaning": "씻을세",
     "level": "5",
     "image": "assets/hanja/5/洗.webp",
-    "hun": "씻을"
+    "hun": "씻을",
+    "label": "씻을 - 세"
   },
   {
     "char": "束",
@@ -2829,7 +3182,8 @@
     "meaning": "묶을속",
     "level": "5",
     "image": "assets/hanja/5/束.webp",
-    "hun": "묶을"
+    "hun": "묶을",
+    "label": "묶을 - 속"
   },
   {
     "char": "首",
@@ -2837,7 +3191,8 @@
     "meaning": "머리수",
     "level": "5",
     "image": "assets/hanja/5/首.webp",
-    "hun": "머리"
+    "hun": "머리",
+    "label": "머리 - 수"
   },
   {
     "char": "宿",
@@ -2845,7 +3200,8 @@
     "meaning": "잘숙",
     "level": "5",
     "image": "assets/hanja/5/宿.webp",
-    "hun": "잘"
+    "hun": "잘",
+    "label": "잘 - 숙"
   },
   {
     "char": "順",
@@ -2853,7 +3209,8 @@
     "meaning": "순할순",
     "level": "5",
     "image": "assets/hanja/5/順.webp",
-    "hun": "순할"
+    "hun": "순할",
+    "label": "순할 - 순"
   },
   {
     "char": "識",
@@ -2861,7 +3218,8 @@
     "meaning": "알식",
     "level": "5",
     "image": "assets/hanja/5/識.webp",
-    "hun": "알"
+    "hun": "알",
+    "label": "알 - 식"
   },
   {
     "char": "臣",
@@ -2869,7 +3227,8 @@
     "meaning": "신하신",
     "level": "5",
     "image": "assets/hanja/5/臣.webp",
-    "hun": "신하"
+    "hun": "신하",
+    "label": "신하 - 신"
   },
   {
     "char": "實",
@@ -2877,7 +3236,8 @@
     "meaning": "열매실",
     "level": "5",
     "image": "assets/hanja/5/實.webp",
-    "hun": "열매"
+    "hun": "열매",
+    "label": "열매 - 실"
   },
   {
     "char": "兒",
@@ -2885,7 +3245,8 @@
     "meaning": "아이아",
     "level": "5",
     "image": "assets/hanja/5/兒.webp",
-    "hun": "아이"
+    "hun": "아이",
+    "label": "아이 - 아"
   },
   {
     "char": "惡",
@@ -2893,7 +3254,8 @@
     "meaning": "악할악",
     "level": "5",
     "image": "assets/hanja/5/惡.webp",
-    "hun": "악할"
+    "hun": "악할",
+    "label": "악할 - 악"
   },
   {
     "char": "約",
@@ -2901,7 +3263,8 @@
     "meaning": "맺을약",
     "level": "5",
     "image": "assets/hanja/5/約.webp",
-    "hun": "맺을"
+    "hun": "맺을",
+    "label": "맺을 - 약"
   },
   {
     "char": "養",
@@ -2909,7 +3272,8 @@
     "meaning": "기를양",
     "level": "5",
     "image": "assets/hanja/5/養.webp",
-    "hun": "기를"
+    "hun": "기를",
+    "label": "기를 - 양"
   },
   {
     "char": "要",
@@ -2917,7 +3281,8 @@
     "meaning": "요긴할요",
     "level": "5",
     "image": "assets/hanja/5/要.webp",
-    "hun": "요긴할"
+    "hun": "요긴할",
+    "label": "요긴할 - 요"
   },
   {
     "char": "友",
@@ -2925,7 +3290,8 @@
     "meaning": "벗우",
     "level": "5",
     "image": "assets/hanja/5/友.webp",
-    "hun": "벗"
+    "hun": "벗",
+    "label": "벗 - 우"
   },
   {
     "char": "雨",
@@ -2933,7 +3299,8 @@
     "meaning": "비우",
     "level": "5",
     "image": "assets/hanja/5/雨.webp",
-    "hun": "비"
+    "hun": "비",
+    "label": "비 - 우"
   },
   {
     "char": "雲",
@@ -2941,7 +3308,8 @@
     "meaning": "구름운",
     "level": "5",
     "image": "assets/hanja/5/雲.webp",
-    "hun": "구름"
+    "hun": "구름",
+    "label": "구름 - 운"
   },
   {
     "char": "元",
@@ -2949,7 +3317,8 @@
     "meaning": "으뜸원",
     "level": "5",
     "image": "assets/hanja/5/元.webp",
-    "hun": "으뜸"
+    "hun": "으뜸",
+    "label": "으뜸 - 원"
   },
   {
     "char": "偉",
@@ -2957,7 +3326,8 @@
     "meaning": "클위",
     "level": "5",
     "image": "assets/hanja/5/偉.webp",
-    "hun": "클"
+    "hun": "클",
+    "label": "클 - 위"
   },
   {
     "char": "以",
@@ -2965,7 +3335,8 @@
     "meaning": "써이",
     "level": "5",
     "image": "assets/hanja/5/以.webp",
-    "hun": "써"
+    "hun": "써",
+    "label": "써 - 이"
   },
   {
     "char": "任",
@@ -2973,7 +3344,8 @@
     "meaning": "맡길임",
     "level": "5",
     "image": "assets/hanja/5/任.webp",
-    "hun": "맡길"
+    "hun": "맡길",
+    "label": "맡길 - 임"
   },
   {
     "char": "材",
@@ -2981,7 +3353,8 @@
     "meaning": "재목재",
     "level": "5",
     "image": "assets/hanja/5/材.webp",
-    "hun": "재목"
+    "hun": "재목",
+    "label": "재목 - 재"
   },
   {
     "char": "財",
@@ -2989,7 +3362,8 @@
     "meaning": "재물재",
     "level": "5",
     "image": "assets/hanja/5/財.webp",
-    "hun": "재물"
+    "hun": "재물",
+    "label": "재물 - 재"
   },
   {
     "char": "的",
@@ -2997,7 +3371,8 @@
     "meaning": "과녁적",
     "level": "5",
     "image": "assets/hanja/5/的.webp",
-    "hun": "과녁"
+    "hun": "과녁",
+    "label": "과녁 - 적"
   },
   {
     "char": "傳",
@@ -3005,7 +3380,8 @@
     "meaning": "전할전",
     "level": "5",
     "image": "assets/hanja/5/傳.webp",
-    "hun": "전할"
+    "hun": "전할",
+    "label": "전할 - 전"
   },
   {
     "char": "典",
@@ -3013,7 +3389,8 @@
     "meaning": "법전",
     "level": "5",
     "image": "assets/hanja/5/典.webp",
-    "hun": "법"
+    "hun": "법",
+    "label": "법 - 전"
   },
   {
     "char": "展",
@@ -3021,7 +3398,8 @@
     "meaning": "펼전",
     "level": "5",
     "image": "assets/hanja/5/展.webp",
-    "hun": "펼"
+    "hun": "펼",
+    "label": "펼 - 전"
   },
   {
     "char": "切",
@@ -3029,7 +3407,8 @@
     "meaning": "끊을절",
     "level": "5",
     "image": "assets/hanja/5/切.webp",
-    "hun": "끊을"
+    "hun": "끊을",
+    "label": "끊을 - 절"
   },
   {
     "char": "節",
@@ -3037,7 +3416,8 @@
     "meaning": "마디절",
     "level": "5",
     "image": "assets/hanja/5/節.webp",
-    "hun": "마디"
+    "hun": "마디",
+    "label": "마디 - 절"
   },
   {
     "char": "店",
@@ -3045,7 +3425,8 @@
     "meaning": "가게점",
     "level": "5",
     "image": "assets/hanja/5/店.webp",
-    "hun": "가게"
+    "hun": "가게",
+    "label": "가게 - 점"
   },
   {
     "char": "情",
@@ -3053,7 +3434,8 @@
     "meaning": "뜻정",
     "level": "5",
     "image": "assets/hanja/5/情.webp",
-    "hun": "뜻"
+    "hun": "뜻",
+    "label": "뜻 - 정"
   },
   {
     "char": "調",
@@ -3061,7 +3443,8 @@
     "meaning": "고를조",
     "level": "5",
     "image": "assets/hanja/5/調.webp",
-    "hun": "고를"
+    "hun": "고를",
+    "label": "고를 - 조"
   },
   {
     "char": "卒",
@@ -3069,7 +3452,8 @@
     "meaning": "마칠졸",
     "level": "5",
     "image": "assets/hanja/5/卒.webp",
-    "hun": "마칠"
+    "hun": "마칠",
+    "label": "마칠 - 졸"
   },
   {
     "char": "種",
@@ -3077,7 +3461,8 @@
     "meaning": "씨종",
     "level": "5",
     "image": "assets/hanja/5/種.webp",
-    "hun": "씨"
+    "hun": "씨",
+    "label": "씨 - 종"
   },
   {
     "char": "州",
@@ -3085,7 +3470,8 @@
     "meaning": "고을주",
     "level": "5",
     "image": "assets/hanja/5/州.webp",
-    "hun": "고을"
+    "hun": "고을",
+    "label": "고을 - 주"
   },
   {
     "char": "週",
@@ -3093,7 +3479,8 @@
     "meaning": "돌주",
     "level": "5",
     "image": "assets/hanja/5/週.webp",
-    "hun": "돌"
+    "hun": "돌",
+    "label": "돌 - 주"
   },
   {
     "char": "知",
@@ -3101,7 +3488,8 @@
     "meaning": "알지",
     "level": "5",
     "image": "assets/hanja/5/知.webp",
-    "hun": "알"
+    "hun": "알",
+    "label": "알 - 지"
   },
   {
     "char": "質",
@@ -3109,7 +3497,8 @@
     "meaning": "바탕질",
     "level": "5",
     "image": "assets/hanja/5/質.webp",
-    "hun": "바탕"
+    "hun": "바탕",
+    "label": "바탕 - 질"
   },
   {
     "char": "着",
@@ -3117,7 +3506,8 @@
     "meaning": "붙을착",
     "level": "5",
     "image": "assets/hanja/5/着.webp",
-    "hun": "붙을"
+    "hun": "붙을",
+    "label": "붙을 - 착"
   },
   {
     "char": "參",
@@ -3125,7 +3515,8 @@
     "meaning": "참여할참",
     "level": "5",
     "image": "assets/hanja/5/參.webp",
-    "hun": "참여할"
+    "hun": "참여할",
+    "label": "참여할 - 참"
   },
   {
     "char": "責",
@@ -3133,7 +3524,8 @@
     "meaning": "꾸짖을책",
     "level": "5",
     "image": "assets/hanja/5/責.webp",
-    "hun": "꾸짖을"
+    "hun": "꾸짖을",
+    "label": "꾸짖을 - 책"
   },
   {
     "char": "充",
@@ -3141,7 +3533,8 @@
     "meaning": "채울충",
     "level": "5",
     "image": "assets/hanja/5/充.webp",
-    "hun": "채울"
+    "hun": "채울",
+    "label": "채울 - 충"
   },
   {
     "char": "品",
@@ -3149,7 +3542,8 @@
     "meaning": "물건품",
     "level": "5",
     "image": "assets/hanja/5/品.webp",
-    "hun": "물건"
+    "hun": "물건",
+    "label": "물건 - 품"
   },
   {
     "char": "必",
@@ -3157,7 +3551,8 @@
     "meaning": "반드시필",
     "level": "5",
     "image": "assets/hanja/5/必.webp",
-    "hun": "반드시"
+    "hun": "반드시",
+    "label": "반드시 - 필"
   },
   {
     "char": "筆",
@@ -3165,7 +3560,8 @@
     "meaning": "붓필",
     "level": "5",
     "image": "assets/hanja/5/筆.webp",
-    "hun": "붓"
+    "hun": "붓",
+    "label": "붓 - 필"
   },
   {
     "char": "害",
@@ -3173,7 +3569,8 @@
     "meaning": "해할해",
     "level": "5",
     "image": "assets/hanja/5/害.webp",
-    "hun": "해할"
+    "hun": "해할",
+    "label": "해할 - 해"
   },
   {
     "char": "化",
@@ -3181,7 +3578,8 @@
     "meaning": "될화",
     "level": "5",
     "image": "assets/hanja/5/化.webp",
-    "hun": "될"
+    "hun": "될",
+    "label": "될 - 화"
   },
   {
     "char": "效",
@@ -3189,7 +3587,8 @@
     "meaning": "본받을효",
     "level": "5",
     "image": "assets/hanja/5/效.webp",
-    "hun": "본받을"
+    "hun": "본받을",
+    "label": "본받을 - 효"
   },
   {
     "char": "凶",
@@ -3197,7 +3596,8 @@
     "meaning": "흉할흉",
     "level": "5",
     "image": "assets/hanja/5/凶.webp",
-    "hun": "흉할"
+    "hun": "흉할",
+    "label": "흉할 - 흉"
   },
   {
     "char": "加",
@@ -3205,7 +3605,8 @@
     "meaning": "더할가",
     "level": "5",
     "image": "assets/hanja/5/加.webp",
-    "hun": "더할"
+    "hun": "더할",
+    "label": "더할 - 가"
   },
   {
     "char": "可",
@@ -3213,7 +3614,8 @@
     "meaning": "옳을가",
     "level": "5",
     "image": "assets/hanja/5/可.webp",
-    "hun": "옳을"
+    "hun": "옳을",
+    "label": "옳을 - 가"
   },
   {
     "char": "改",
@@ -3221,7 +3623,8 @@
     "meaning": "고칠개",
     "level": "5",
     "image": "assets/hanja/5/改.webp",
-    "hun": "고칠"
+    "hun": "고칠",
+    "label": "고칠 - 개"
   },
   {
     "char": "去",
@@ -3229,7 +3632,8 @@
     "meaning": "갈거",
     "level": "5",
     "image": "assets/hanja/5/去.webp",
-    "hun": "갈"
+    "hun": "갈",
+    "label": "갈 - 거"
   },
   {
     "char": "擧",
@@ -3237,7 +3641,8 @@
     "meaning": "들거",
     "level": "5",
     "image": "assets/hanja/5/擧.webp",
-    "hun": "들"
+    "hun": "들",
+    "label": "들 - 거"
   },
   {
     "char": "件",
@@ -3245,7 +3650,8 @@
     "meaning": "물건건",
     "level": "5",
     "image": "assets/hanja/5/件.webp",
-    "hun": "물건"
+    "hun": "물건",
+    "label": "물건 - 건"
   },
   {
     "char": "健",
@@ -3253,7 +3659,8 @@
     "meaning": "굳셀건",
     "level": "5",
     "image": "assets/hanja/5/健.webp",
-    "hun": "굳셀"
+    "hun": "굳셀",
+    "label": "굳셀 - 건"
   },
   {
     "char": "建",
@@ -3261,7 +3668,8 @@
     "meaning": "세울건",
     "level": "5",
     "image": "assets/hanja/5/建.webp",
-    "hun": "세울"
+    "hun": "세울",
+    "label": "세울 - 건"
   },
   {
     "char": "景",
@@ -3269,7 +3677,8 @@
     "meaning": "볕경",
     "level": "5",
     "image": "assets/hanja/5/景.webp",
-    "hun": "볕"
+    "hun": "볕",
+    "label": "볕 - 경"
   },
   {
     "char": "競",
@@ -3277,7 +3686,8 @@
     "meaning": "다툴경",
     "level": "5",
     "image": "assets/hanja/5/競.webp",
-    "hun": "다툴"
+    "hun": "다툴",
+    "label": "다툴 - 경"
   },
   {
     "char": "輕",
@@ -3285,7 +3695,8 @@
     "meaning": "가벼울경",
     "level": "5",
     "image": "assets/hanja/5/輕.webp",
-    "hun": "가벼울"
+    "hun": "가벼울",
+    "label": "가벼울 - 경"
   },
   {
     "char": "固",
@@ -3293,7 +3704,8 @@
     "meaning": "굳을고",
     "level": "5",
     "image": "assets/hanja/5/固.webp",
-    "hun": "굳을"
+    "hun": "굳을",
+    "label": "굳을 - 고"
   },
   {
     "char": "考",
@@ -3301,7 +3713,8 @@
     "meaning": "생각고",
     "level": "5",
     "image": "assets/hanja/5/考.webp",
-    "hun": "생각"
+    "hun": "생각",
+    "label": "생각 - 고"
   },
   {
     "char": "曲",
@@ -3309,7 +3722,8 @@
     "meaning": "굽을곡",
     "level": "5",
     "image": "assets/hanja/5/曲.webp",
-    "hun": "굽을"
+    "hun": "굽을",
+    "label": "굽을 - 곡"
   },
   {
     "char": "橋",
@@ -3317,7 +3731,8 @@
     "meaning": "다리교",
     "level": "5",
     "image": "assets/hanja/5/橋.webp",
-    "hun": "다리"
+    "hun": "다리",
+    "label": "다리 - 교"
   },
   {
     "char": "救",
@@ -3325,7 +3740,8 @@
     "meaning": "구원할구",
     "level": "5",
     "image": "assets/hanja/5/救.webp",
-    "hun": "구원할"
+    "hun": "구원할",
+    "label": "구원할 - 구"
   },
   {
     "char": "貴",
@@ -3333,7 +3749,8 @@
     "meaning": "귀할귀",
     "level": "5",
     "image": "assets/hanja/5/貴.webp",
-    "hun": "귀할"
+    "hun": "귀할",
+    "label": "귀할 - 귀"
   },
   {
     "char": "規",
@@ -3341,7 +3758,8 @@
     "meaning": "법규",
     "level": "5",
     "image": "assets/hanja/5/規.webp",
-    "hun": "법"
+    "hun": "법",
+    "label": "법 - 규"
   },
   {
     "char": "給",
@@ -3349,7 +3767,8 @@
     "meaning": "줄급",
     "level": "5",
     "image": "assets/hanja/5/給.webp",
-    "hun": "줄"
+    "hun": "줄",
+    "label": "줄 - 급"
   },
   {
     "char": "技",
@@ -3357,7 +3776,8 @@
     "meaning": "재주기",
     "level": "5",
     "image": "assets/hanja/5/技.webp",
-    "hun": "재주"
+    "hun": "재주",
+    "label": "재주 - 기"
   },
   {
     "char": "期",
@@ -3365,7 +3785,8 @@
     "meaning": "기약할기",
     "level": "5",
     "image": "assets/hanja/5/期.webp",
-    "hun": "기약할"
+    "hun": "기약할",
+    "label": "기약할 - 기"
   },
   {
     "char": "汽",
@@ -3373,7 +3794,8 @@
     "meaning": "김기",
     "level": "5",
     "image": "assets/hanja/5/汽.webp",
-    "hun": "김"
+    "hun": "김",
+    "label": "김 - 기"
   },
   {
     "char": "吉",
@@ -3381,7 +3803,8 @@
     "meaning": "길할길",
     "level": "5",
     "image": "assets/hanja/5/吉.webp",
-    "hun": "길할"
+    "hun": "길할",
+    "label": "길할 - 길"
   },
   {
     "char": "壇",
@@ -3389,7 +3812,8 @@
     "meaning": "단단",
     "level": "5",
     "image": "assets/hanja/5/壇.webp",
-    "hun": "단"
+    "hun": "단",
+    "label": "단 - 단"
   },
   {
     "char": "談",
@@ -3397,7 +3821,8 @@
     "meaning": "말씀담",
     "level": "5",
     "image": "assets/hanja/5/談.webp",
-    "hun": "말씀"
+    "hun": "말씀",
+    "label": "말씀 - 담"
   },
   {
     "char": "島",
@@ -3405,7 +3830,8 @@
     "meaning": "섬도",
     "level": "5",
     "image": "assets/hanja/5/島.webp",
-    "hun": "섬"
+    "hun": "섬",
+    "label": "섬 - 도"
   },
   {
     "char": "都",
@@ -3413,7 +3839,8 @@
     "meaning": "도읍도",
     "level": "5",
     "image": "assets/hanja/5/都.webp",
-    "hun": "도읍"
+    "hun": "도읍",
+    "label": "도읍 - 도"
   },
   {
     "char": "落",
@@ -3421,7 +3848,8 @@
     "meaning": "떨어질락",
     "level": "5",
     "image": "assets/hanja/5/落.webp",
-    "hun": "떨어질"
+    "hun": "떨어질",
+    "label": "떨어질 - 락"
   },
   {
     "char": "冷",
@@ -3429,7 +3857,8 @@
     "meaning": "찰랭",
     "level": "5",
     "image": "assets/hanja/5/冷.webp",
-    "hun": "찰"
+    "hun": "찰",
+    "label": "찰 - 랭"
   },
   {
     "char": "量",
@@ -3437,7 +3866,8 @@
     "meaning": "헤아릴량",
     "level": "5",
     "image": "assets/hanja/5/量.webp",
-    "hun": "헤아릴"
+    "hun": "헤아릴",
+    "label": "헤아릴 - 량"
   },
   {
     "char": "令",
@@ -3445,7 +3875,8 @@
     "meaning": "좋을령",
     "level": "5",
     "image": "assets/hanja/5/令.webp",
-    "hun": "좋을"
+    "hun": "좋을",
+    "label": "좋을 - 령"
   },
   {
     "char": "領",
@@ -3453,7 +3884,8 @@
     "meaning": "거느릴령",
     "level": "5",
     "image": "assets/hanja/5/領.webp",
-    "hun": "거느릴"
+    "hun": "거느릴",
+    "label": "거느릴 - 령"
   },
   {
     "char": "料",
@@ -3461,7 +3893,8 @@
     "meaning": "재료료",
     "level": "5",
     "image": "assets/hanja/5/料.webp",
-    "hun": "재료"
+    "hun": "재료",
+    "label": "재료 - 료"
   },
   {
     "char": "馬",
@@ -3469,7 +3902,8 @@
     "meaning": "말마",
     "level": "5",
     "image": "assets/hanja/5/馬.webp",
-    "hun": "말"
+    "hun": "말",
+    "label": "말 - 마"
   },
   {
     "char": "末",
@@ -3477,7 +3911,8 @@
     "meaning": "끝말",
     "level": "5",
     "image": "assets/hanja/5/末.webp",
-    "hun": "끝"
+    "hun": "끝",
+    "label": "끝 - 말"
   },
   {
     "char": "亡",
@@ -3485,7 +3920,8 @@
     "meaning": "망할망",
     "level": "5",
     "image": "assets/hanja/5/亡.webp",
-    "hun": "망할"
+    "hun": "망할",
+    "label": "망할 - 망"
   },
   {
     "char": "買",
@@ -3493,7 +3929,8 @@
     "meaning": "살매",
     "level": "5",
     "image": "assets/hanja/5/買.webp",
-    "hun": "살"
+    "hun": "살",
+    "label": "살 - 매"
   },
   {
     "char": "賣",
@@ -3501,7 +3938,8 @@
     "meaning": "팔매",
     "level": "5",
     "image": "assets/hanja/5/賣.webp",
-    "hun": "팔"
+    "hun": "팔",
+    "label": "팔 - 매"
   },
   {
     "char": "無",
@@ -3509,7 +3947,8 @@
     "meaning": "없을무",
     "level": "5",
     "image": "assets/hanja/5/無.webp",
-    "hun": "없을"
+    "hun": "없을",
+    "label": "없을 - 무"
   },
   {
     "char": "倍",
@@ -3517,7 +3956,8 @@
     "meaning": "곱배",
     "level": "5",
     "image": "assets/hanja/5/倍.webp",
-    "hun": "곱"
+    "hun": "곱",
+    "label": "곱 - 배"
   },
   {
     "char": "比",
@@ -3525,7 +3965,8 @@
     "meaning": "견줄비",
     "level": "5",
     "image": "assets/hanja/5/比.webp",
-    "hun": "견줄"
+    "hun": "견줄",
+    "label": "견줄 - 비"
   },
   {
     "char": "費",
@@ -3533,7 +3974,8 @@
     "meaning": "쓸비",
     "level": "5",
     "image": "assets/hanja/5/費.webp",
-    "hun": "쓸"
+    "hun": "쓸",
+    "label": "쓸 - 비"
   },
   {
     "char": "鼻",
@@ -3541,7 +3983,8 @@
     "meaning": "코비",
     "level": "5",
     "image": "assets/hanja/5/鼻.webp",
-    "hun": "코"
+    "hun": "코",
+    "label": "코 - 비"
   },
   {
     "char": "氷",
@@ -3549,7 +3992,8 @@
     "meaning": "얼음빙",
     "level": "5",
     "image": "assets/hanja/5/氷.webp",
-    "hun": "얼음"
+    "hun": "얼음",
+    "label": "얼음 - 빙"
   },
   {
     "char": "寫",
@@ -3557,7 +4001,8 @@
     "meaning": "베낄사",
     "level": "5",
     "image": "assets/hanja/5/寫.webp",
-    "hun": "베낄"
+    "hun": "베낄",
+    "label": "베낄 - 사"
   },
   {
     "char": "思",
@@ -3565,7 +4010,8 @@
     "meaning": "생각사",
     "level": "5",
     "image": "assets/hanja/5/思.webp",
-    "hun": "생각"
+    "hun": "생각",
+    "label": "생각 - 사"
   },
   {
     "char": "査",
@@ -3573,7 +4019,8 @@
     "meaning": "조사할사",
     "level": "5",
     "image": "assets/hanja/5/査.webp",
-    "hun": "조사할"
+    "hun": "조사할",
+    "label": "조사할 - 사"
   },
   {
     "char": "賞",
@@ -3581,7 +4028,8 @@
     "meaning": "상줄상",
     "level": "5",
     "image": "assets/hanja/5/賞.webp",
-    "hun": "상줄"
+    "hun": "상줄",
+    "label": "상줄 - 상"
   },
   {
     "char": "序",
@@ -3589,7 +4037,8 @@
     "meaning": "차례서",
     "level": "5",
     "image": "assets/hanja/5/序.webp",
-    "hun": "차례"
+    "hun": "차례",
+    "label": "차례 - 서"
   },
   {
     "char": "善",
@@ -3597,7 +4046,8 @@
     "meaning": "착할선",
     "level": "5",
     "image": "assets/hanja/5/善.webp",
-    "hun": "착할"
+    "hun": "착할",
+    "label": "착할 - 선"
   },
   {
     "char": "船",
@@ -3605,7 +4055,8 @@
     "meaning": "배선",
     "level": "5",
     "image": "assets/hanja/5/船.webp",
-    "hun": "배"
+    "hun": "배",
+    "label": "배 - 선"
   },
   {
     "char": "選",
@@ -3613,7 +4064,8 @@
     "meaning": "가릴선",
     "level": "5",
     "image": "assets/hanja/5/選.webp",
-    "hun": "가릴"
+    "hun": "가릴",
+    "label": "가릴 - 선"
   },
   {
     "char": "示",
@@ -3621,7 +4073,8 @@
     "meaning": "보일시",
     "level": "5",
     "image": "assets/hanja/5/示.webp",
-    "hun": "보일"
+    "hun": "보일",
+    "label": "보일 - 시"
   },
   {
     "char": "案",
@@ -3629,7 +4082,8 @@
     "meaning": "책상안",
     "level": "5",
     "image": "assets/hanja/5/案.webp",
-    "hun": "책상"
+    "hun": "책상",
+    "label": "책상 - 안"
   },
   {
     "char": "漁",
@@ -3637,7 +4091,8 @@
     "meaning": "고기잡을어",
     "level": "5",
     "image": "assets/hanja/5/漁.webp",
-    "hun": "고기잡을"
+    "hun": "고기잡을",
+    "label": "고기잡을 - 어"
   },
   {
     "char": "魚",
@@ -3645,7 +4100,8 @@
     "meaning": "물고기어",
     "level": "5",
     "image": "assets/hanja/5/魚.webp",
-    "hun": "물고기"
+    "hun": "물고기",
+    "label": "물고기 - 어"
   },
   {
     "char": "億",
@@ -3653,7 +4109,8 @@
     "meaning": "억억",
     "level": "5",
     "image": "assets/hanja/5/億.webp",
-    "hun": "억"
+    "hun": "억",
+    "label": "억 - 억"
   },
   {
     "char": "熱",
@@ -3661,7 +4118,8 @@
     "meaning": "더울열",
     "level": "5",
     "image": "assets/hanja/5/熱.webp",
-    "hun": "더울"
+    "hun": "더울",
+    "label": "더울 - 열"
   },
   {
     "char": "葉",
@@ -3669,7 +4127,8 @@
     "meaning": "잎엽",
     "level": "5",
     "image": "assets/hanja/5/葉.webp",
-    "hun": "잎"
+    "hun": "잎",
+    "label": "잎 - 엽"
   },
   {
     "char": "屋",
@@ -3677,7 +4136,8 @@
     "meaning": "집옥",
     "level": "5",
     "image": "assets/hanja/5/屋.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 옥"
   },
   {
     "char": "完",
@@ -3685,7 +4145,8 @@
     "meaning": "완전할완",
     "level": "5",
     "image": "assets/hanja/5/完.webp",
-    "hun": "완전할"
+    "hun": "완전할",
+    "label": "완전할 - 완"
   },
   {
     "char": "曜",
@@ -3693,7 +4154,8 @@
     "meaning": "빛날요",
     "level": "5",
     "image": "assets/hanja/5/曜.webp",
-    "hun": "빛날"
+    "hun": "빛날",
+    "label": "빛날 - 요"
   },
   {
     "char": "浴",
@@ -3701,7 +4163,8 @@
     "meaning": "목욕할욕",
     "level": "5",
     "image": "assets/hanja/5/浴.webp",
-    "hun": "목욕할"
+    "hun": "목욕할",
+    "label": "목욕할 - 욕"
   },
   {
     "char": "牛",
@@ -3709,7 +4172,8 @@
     "meaning": "소우",
     "level": "5",
     "image": "assets/hanja/5/牛.webp",
-    "hun": "소"
+    "hun": "소",
+    "label": "소 - 우"
   },
   {
     "char": "雄",
@@ -3717,7 +4181,8 @@
     "meaning": "수컷웅",
     "level": "5",
     "image": "assets/hanja/5/雄.webp",
-    "hun": "수컷"
+    "hun": "수컷",
+    "label": "수컷 - 웅"
   },
   {
     "char": "原",
@@ -3725,7 +4190,8 @@
     "meaning": "근원원",
     "level": "5",
     "image": "assets/hanja/5/原.webp",
-    "hun": "근원"
+    "hun": "근원",
+    "label": "근원 - 원"
   },
   {
     "char": "院",
@@ -3733,7 +4199,8 @@
     "meaning": "집원",
     "level": "5",
     "image": "assets/hanja/5/院.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 원"
   },
   {
     "char": "願",
@@ -3741,7 +4208,8 @@
     "meaning": "원할원",
     "level": "5",
     "image": "assets/hanja/5/願.webp",
-    "hun": "원할"
+    "hun": "원할",
+    "label": "원할 - 원"
   },
   {
     "char": "位",
@@ -3749,7 +4217,8 @@
     "meaning": "자리위",
     "level": "5",
     "image": "assets/hanja/5/位.webp",
-    "hun": "자리"
+    "hun": "자리",
+    "label": "자리 - 위"
   },
   {
     "char": "耳",
@@ -3757,7 +4226,8 @@
     "meaning": "귀이",
     "level": "5",
     "image": "assets/hanja/5/耳.webp",
-    "hun": "귀"
+    "hun": "귀",
+    "label": "귀 - 이"
   },
   {
     "char": "因",
@@ -3765,7 +4235,8 @@
     "meaning": "인할인",
     "level": "5",
     "image": "assets/hanja/5/因.webp",
-    "hun": "인할"
+    "hun": "인할",
+    "label": "인할 - 인"
   },
   {
     "char": "再",
@@ -3773,7 +4244,8 @@
     "meaning": "다시재",
     "level": "5",
     "image": "assets/hanja/5/再.webp",
-    "hun": "다시"
+    "hun": "다시",
+    "label": "다시 - 재"
   },
   {
     "char": "災",
@@ -3781,7 +4253,8 @@
     "meaning": "재앙재",
     "level": "5",
     "image": "assets/hanja/5/災.webp",
-    "hun": "재앙"
+    "hun": "재앙",
+    "label": "재앙 - 재"
   },
   {
     "char": "爭",
@@ -3789,7 +4262,8 @@
     "meaning": "다툴쟁",
     "level": "5",
     "image": "assets/hanja/5/爭.webp",
-    "hun": "다툴"
+    "hun": "다툴",
+    "label": "다툴 - 쟁"
   },
   {
     "char": "貯",
@@ -3797,7 +4271,8 @@
     "meaning": "쌓을저",
     "level": "5",
     "image": "assets/hanja/5/貯.webp",
-    "hun": "쌓을"
+    "hun": "쌓을",
+    "label": "쌓을 - 저"
   },
   {
     "char": "赤",
@@ -3805,7 +4280,8 @@
     "meaning": "붉을적",
     "level": "5",
     "image": "assets/hanja/5/赤.webp",
-    "hun": "붉을"
+    "hun": "붉을",
+    "label": "붉을 - 적"
   },
   {
     "char": "停",
@@ -3813,7 +4289,8 @@
     "meaning": "머물정",
     "level": "5",
     "image": "assets/hanja/5/停.webp",
-    "hun": "머물"
+    "hun": "머물",
+    "label": "머물 - 정"
   },
   {
     "char": "操",
@@ -3821,7 +4298,8 @@
     "meaning": "잡을조",
     "level": "5",
     "image": "assets/hanja/5/操.webp",
-    "hun": "잡을"
+    "hun": "잡을",
+    "label": "잡을 - 조"
   },
   {
     "char": "終",
@@ -3829,7 +4307,8 @@
     "meaning": "마칠종",
     "level": "5",
     "image": "assets/hanja/5/終.webp",
-    "hun": "마칠"
+    "hun": "마칠",
+    "label": "마칠 - 종"
   },
   {
     "char": "罪",
@@ -3837,7 +4316,8 @@
     "meaning": "허물죄",
     "level": "5",
     "image": "assets/hanja/5/罪.webp",
-    "hun": "허물"
+    "hun": "허물",
+    "label": "허물 - 죄"
   },
   {
     "char": "止",
@@ -3845,7 +4325,8 @@
     "meaning": "그칠지",
     "level": "5",
     "image": "assets/hanja/5/止.webp",
-    "hun": "그칠"
+    "hun": "그칠",
+    "label": "그칠 - 지"
   },
   {
     "char": "唱",
@@ -3853,7 +4334,8 @@
     "meaning": "부를창",
     "level": "5",
     "image": "assets/hanja/5/唱.webp",
-    "hun": "부를"
+    "hun": "부를",
+    "label": "부를 - 창"
   },
   {
     "char": "鐵",
@@ -3861,7 +4343,8 @@
     "meaning": "쇠철",
     "level": "5",
     "image": "assets/hanja/5/鐵.webp",
-    "hun": "쇠"
+    "hun": "쇠",
+    "label": "쇠 - 철"
   },
   {
     "char": "初",
@@ -3869,7 +4352,8 @@
     "meaning": "처음초",
     "level": "5",
     "image": "assets/hanja/5/初.webp",
-    "hun": "처음"
+    "hun": "처음",
+    "label": "처음 - 초"
   },
   {
     "char": "最",
@@ -3877,7 +4361,8 @@
     "meaning": "가장최",
     "level": "5",
     "image": "assets/hanja/5/最.webp",
-    "hun": "가장"
+    "hun": "가장",
+    "label": "가장 - 최"
   },
   {
     "char": "祝",
@@ -3885,7 +4370,8 @@
     "meaning": "빌축",
     "level": "5",
     "image": "assets/hanja/5/祝.webp",
-    "hun": "빌"
+    "hun": "빌",
+    "label": "빌 - 축"
   },
   {
     "char": "致",
@@ -3893,7 +4379,8 @@
     "meaning": "이를치",
     "level": "5",
     "image": "assets/hanja/5/致.webp",
-    "hun": "이를"
+    "hun": "이를",
+    "label": "이를 - 치"
   },
   {
     "char": "則",
@@ -3901,7 +4388,8 @@
     "meaning": "법칙즉",
     "level": "5",
     "image": "assets/hanja/5/則.webp",
-    "hun": "법칙"
+    "hun": "법칙",
+    "label": "법칙 - 즉"
   },
   {
     "char": "他",
@@ -3909,7 +4397,8 @@
     "meaning": "남타",
     "level": "5",
     "image": "assets/hanja/5/他.webp",
-    "hun": "남"
+    "hun": "남",
+    "label": "남 - 타"
   },
   {
     "char": "打",
@@ -3917,7 +4406,8 @@
     "meaning": "칠타",
     "level": "5",
     "image": "assets/hanja/5/打.webp",
-    "hun": "칠"
+    "hun": "칠",
+    "label": "칠 - 타"
   },
   {
     "char": "卓",
@@ -3925,7 +4415,8 @@
     "meaning": "높을탁",
     "level": "5",
     "image": "assets/hanja/5/卓.webp",
-    "hun": "높을"
+    "hun": "높을",
+    "label": "높을 - 탁"
   },
   {
     "char": "炭",
@@ -3933,7 +4424,8 @@
     "meaning": "숯탄",
     "level": "5",
     "image": "assets/hanja/5/炭.webp",
-    "hun": "숯"
+    "hun": "숯",
+    "label": "숯 - 탄"
   },
   {
     "char": "板",
@@ -3941,7 +4433,8 @@
     "meaning": "널판",
     "level": "5",
     "image": "assets/hanja/5/板.webp",
-    "hun": "널"
+    "hun": "널",
+    "label": "널 - 판"
   },
   {
     "char": "敗",
@@ -3949,7 +4442,8 @@
     "meaning": "질패",
     "level": "5",
     "image": "assets/hanja/5/敗.webp",
-    "hun": "질"
+    "hun": "질",
+    "label": "질 - 패"
   },
   {
     "char": "河",
@@ -3957,7 +4451,8 @@
     "meaning": "물하",
     "level": "5",
     "image": "assets/hanja/5/河.webp",
-    "hun": "물"
+    "hun": "물",
+    "label": "물 - 하"
   },
   {
     "char": "寒",
@@ -3965,7 +4460,8 @@
     "meaning": "찰한",
     "level": "5",
     "image": "assets/hanja/5/寒.webp",
-    "hun": "찰"
+    "hun": "찰",
+    "label": "찰 - 한"
   },
   {
     "char": "許",
@@ -3973,7 +4469,8 @@
     "meaning": "허락할허",
     "level": "5",
     "image": "assets/hanja/5/許.webp",
-    "hun": "허락할"
+    "hun": "허락할",
+    "label": "허락할 - 허"
   },
   {
     "char": "湖",
@@ -3981,7 +4478,8 @@
     "meaning": "호수호",
     "level": "5",
     "image": "assets/hanja/5/湖.webp",
-    "hun": "호수"
+    "hun": "호수",
+    "label": "호수 - 호"
   },
   {
     "char": "患",
@@ -3989,7 +4487,8 @@
     "meaning": "근심환",
     "level": "5",
     "image": "assets/hanja/5/患.webp",
-    "hun": "근심"
+    "hun": "근심",
+    "label": "근심 - 환"
   },
   {
     "char": "黑",
@@ -3997,7 +4496,8 @@
     "meaning": "검을흑",
     "level": "5",
     "image": "assets/hanja/5/黑.webp",
-    "hun": "검을"
+    "hun": "검을",
+    "label": "검을 - 흑"
   },
   {
     "char": "假",
@@ -4005,7 +4505,8 @@
     "meaning": "거짓/빌릴가",
     "level": "4",
     "image": "assets/hanja/4/假.webp",
-    "hun": "거짓/빌릴"
+    "hun": "거짓/빌릴",
+    "label": "거짓 / 빌릴 - 가"
   },
   {
     "char": "街",
@@ -4013,7 +4514,8 @@
     "meaning": "거리가",
     "level": "4",
     "image": "assets/hanja/4/街.webp",
-    "hun": "거리"
+    "hun": "거리",
+    "label": "거리 - 가"
   },
   {
     "char": "減",
@@ -4021,7 +4523,8 @@
     "meaning": "덜감",
     "level": "4",
     "image": "assets/hanja/4/減.webp",
-    "hun": "덜"
+    "hun": "덜",
+    "label": "덜 - 감"
   },
   {
     "char": "監",
@@ -4029,7 +4532,8 @@
     "meaning": "볼감",
     "level": "4",
     "image": "assets/hanja/4/監.webp",
-    "hun": "볼"
+    "hun": "볼",
+    "label": "볼 - 감"
   },
   {
     "char": "康",
@@ -4037,7 +4541,8 @@
     "meaning": "편안할강",
     "level": "4",
     "image": "assets/hanja/4/康.webp",
-    "hun": "편안할"
+    "hun": "편안할",
+    "label": "편안할 - 강"
   },
   {
     "char": "講",
@@ -4045,7 +4550,8 @@
     "meaning": "외울강",
     "level": "4",
     "image": "assets/hanja/4/講.webp",
-    "hun": "외울"
+    "hun": "외울",
+    "label": "외울 - 강"
   },
   {
     "char": "個",
@@ -4053,7 +4559,8 @@
     "meaning": "낱개",
     "level": "4",
     "image": "assets/hanja/4/個.webp",
-    "hun": "낱"
+    "hun": "낱",
+    "label": "낱 - 개"
   },
   {
     "char": "檢",
@@ -4061,7 +4568,8 @@
     "meaning": "검사할검",
     "level": "4",
     "image": "assets/hanja/4/檢.webp",
-    "hun": "검사할"
+    "hun": "검사할",
+    "label": "검사할 - 검"
   },
   {
     "char": "潔",
@@ -4069,7 +4577,8 @@
     "meaning": "깨끗할결",
     "level": "4",
     "image": "assets/hanja/4/潔.webp",
-    "hun": "깨끗할"
+    "hun": "깨끗할",
+    "label": "깨끗할 - 결"
   },
   {
     "char": "缺",
@@ -4077,7 +4586,8 @@
     "meaning": "이지러질결",
     "level": "4",
     "image": "assets/hanja/4/缺.webp",
-    "hun": "이지러질"
+    "hun": "이지러질",
+    "label": "이지러질 - 결"
   },
   {
     "char": "境",
@@ -4085,7 +4595,8 @@
     "meaning": "지경경",
     "level": "4",
     "image": "assets/hanja/4/境.webp",
-    "hun": "지경"
+    "hun": "지경",
+    "label": "지경 - 경"
   },
   {
     "char": "慶",
@@ -4093,7 +4604,8 @@
     "meaning": "경사경",
     "level": "4",
     "image": "assets/hanja/4/慶.webp",
-    "hun": "경사"
+    "hun": "경사",
+    "label": "경사 - 경"
   },
   {
     "char": "經",
@@ -4101,7 +4613,8 @@
     "meaning": "글/지날경",
     "level": "4",
     "image": "assets/hanja/4/經.webp",
-    "hun": "글/지날"
+    "hun": "글/지날",
+    "label": "글 / 지날 - 경"
   },
   {
     "char": "警",
@@ -4109,7 +4622,8 @@
     "meaning": "경계할경",
     "level": "4",
     "image": "assets/hanja/4/警.webp",
-    "hun": "경계할"
+    "hun": "경계할",
+    "label": "경계할 - 경"
   },
   {
     "char": "係",
@@ -4117,7 +4631,8 @@
     "meaning": "맬계",
     "level": "4",
     "image": "assets/hanja/4/係.webp",
-    "hun": "맬"
+    "hun": "맬",
+    "label": "맬 - 계"
   },
   {
     "char": "故",
@@ -4125,7 +4640,8 @@
     "meaning": "예고",
     "level": "4",
     "image": "assets/hanja/4/故.webp",
-    "hun": "예"
+    "hun": "예",
+    "label": "예 - 고"
   },
   {
     "char": "官",
@@ -4133,7 +4649,8 @@
     "meaning": "벼슬관",
     "level": "4",
     "image": "assets/hanja/4/官.webp",
-    "hun": "벼슬"
+    "hun": "벼슬",
+    "label": "벼슬 - 관"
   },
   {
     "char": "句",
@@ -4141,7 +4658,8 @@
     "meaning": "글귀구/귀",
     "level": "4",
     "image": "assets/hanja/4/句.webp",
-    "hun": "글귀구"
+    "hun": "글귀구",
+    "label": "글귀 - 구 / 귀"
   },
   {
     "char": "求",
@@ -4149,7 +4667,8 @@
     "meaning": "구할구",
     "level": "4",
     "image": "assets/hanja/4/求.webp",
-    "hun": "구할"
+    "hun": "구할",
+    "label": "구할 - 구"
   },
   {
     "char": "究",
@@ -4157,7 +4676,8 @@
     "meaning": "연구할구",
     "level": "4",
     "image": "assets/hanja/4/究.webp",
-    "hun": "연구할"
+    "hun": "연구할",
+    "label": "연구할 - 구"
   },
   {
     "char": "宮",
@@ -4165,7 +4685,8 @@
     "meaning": "집궁",
     "level": "4",
     "image": "assets/hanja/4/宮.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 궁"
   },
   {
     "char": "權",
@@ -4173,7 +4694,8 @@
     "meaning": "권리권",
     "level": "4",
     "image": "assets/hanja/4/權.webp",
-    "hun": "권리"
+    "hun": "권리",
+    "label": "권리 - 권"
   },
   {
     "char": "極",
@@ -4181,7 +4703,8 @@
     "meaning": "다할극",
     "level": "4",
     "image": "assets/hanja/4/極.webp",
-    "hun": "다할"
+    "hun": "다할",
+    "label": "다할 - 극"
   },
   {
     "char": "禁",
@@ -4189,7 +4712,8 @@
     "meaning": "금할금",
     "level": "4",
     "image": "assets/hanja/4/禁.webp",
-    "hun": "금할"
+    "hun": "금할",
+    "label": "금할 - 금"
   },
   {
     "char": "器",
@@ -4197,7 +4721,8 @@
     "meaning": "그릇기",
     "level": "4",
     "image": "assets/hanja/4/器.webp",
-    "hun": "그릇"
+    "hun": "그릇",
+    "label": "그릇 - 기"
   },
   {
     "char": "起",
@@ -4205,7 +4730,8 @@
     "meaning": "일어날기",
     "level": "4",
     "image": "assets/hanja/4/起.webp",
-    "hun": "일어날"
+    "hun": "일어날",
+    "label": "일어날 - 기"
   },
   {
     "char": "暖",
@@ -4213,7 +4739,8 @@
     "meaning": "따뜻할난",
     "level": "4",
     "image": "assets/hanja/4/暖.webp",
-    "hun": "따뜻할"
+    "hun": "따뜻할",
+    "label": "따뜻할 - 난"
   },
   {
     "char": "難",
@@ -4221,7 +4748,8 @@
     "meaning": "어려울난",
     "level": "4",
     "image": "assets/hanja/4/難.webp",
-    "hun": "어려울"
+    "hun": "어려울",
+    "label": "어려울 - 난"
   },
   {
     "char": "努",
@@ -4229,7 +4757,8 @@
     "meaning": "힘쓸노",
     "level": "4",
     "image": "assets/hanja/4/努.webp",
-    "hun": "힘쓸"
+    "hun": "힘쓸",
+    "label": "힘쓸 - 노"
   },
   {
     "char": "怒",
@@ -4237,7 +4766,8 @@
     "meaning": "성낼노",
     "level": "4",
     "image": "assets/hanja/4/怒.webp",
-    "hun": "성낼"
+    "hun": "성낼",
+    "label": "성낼 - 노"
   },
   {
     "char": "單",
@@ -4245,7 +4775,8 @@
     "meaning": "홑단",
     "level": "4",
     "image": "assets/hanja/4/單.webp",
-    "hun": "홑"
+    "hun": "홑",
+    "label": "홑 - 단"
   },
   {
     "char": "斷",
@@ -4253,7 +4784,8 @@
     "meaning": "끊을단",
     "level": "4",
     "image": "assets/hanja/4/斷.webp",
-    "hun": "끊을"
+    "hun": "끊을",
+    "label": "끊을 - 단"
   },
   {
     "char": "檀",
@@ -4261,7 +4793,8 @@
     "meaning": "박달나무단",
     "level": "4",
     "image": "assets/hanja/4/檀.webp",
-    "hun": "박달나무"
+    "hun": "박달나무",
+    "label": "박달나무 - 단"
   },
   {
     "char": "端",
@@ -4269,7 +4802,8 @@
     "meaning": "끝단",
     "level": "4",
     "image": "assets/hanja/4/端.webp",
-    "hun": "끝"
+    "hun": "끝",
+    "label": "끝 - 단"
   },
   {
     "char": "達",
@@ -4277,7 +4811,8 @@
     "meaning": "통달할달",
     "level": "4",
     "image": "assets/hanja/4/達.webp",
-    "hun": "통달할"
+    "hun": "통달할",
+    "label": "통달할 - 달"
   },
   {
     "char": "擔",
@@ -4285,7 +4820,8 @@
     "meaning": "멜담",
     "level": "4",
     "image": "assets/hanja/4/擔.webp",
-    "hun": "멜"
+    "hun": "멜",
+    "label": "멜 - 담"
   },
   {
     "char": "黨",
@@ -4293,7 +4829,8 @@
     "meaning": "무리당",
     "level": "4",
     "image": "assets/hanja/4/黨.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 당"
   },
   {
     "char": "帶",
@@ -4301,7 +4838,8 @@
     "meaning": "띠대",
     "level": "4",
     "image": "assets/hanja/4/帶.webp",
-    "hun": "띠"
+    "hun": "띠",
+    "label": "띠 - 대"
   },
   {
     "char": "隊",
@@ -4309,7 +4847,8 @@
     "meaning": "무리대",
     "level": "4",
     "image": "assets/hanja/4/隊.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 대"
   },
   {
     "char": "導",
@@ -4317,7 +4856,8 @@
     "meaning": "인도할도",
     "level": "4",
     "image": "assets/hanja/4/導.webp",
-    "hun": "인도할"
+    "hun": "인도할",
+    "label": "인도할 - 도"
   },
   {
     "char": "毒",
@@ -4325,7 +4865,8 @@
     "meaning": "독독",
     "level": "4",
     "image": "assets/hanja/4/毒.webp",
-    "hun": "독"
+    "hun": "독",
+    "label": "독 - 독"
   },
   {
     "char": "督",
@@ -4333,7 +4874,8 @@
     "meaning": "감독할독",
     "level": "4",
     "image": "assets/hanja/4/督.webp",
-    "hun": "감독할"
+    "hun": "감독할",
+    "label": "감독할 - 독"
   },
   {
     "char": "銅",
@@ -4341,7 +4883,8 @@
     "meaning": "구리동",
     "level": "4",
     "image": "assets/hanja/4/銅.webp",
-    "hun": "구리"
+    "hun": "구리",
+    "label": "구리 - 동"
   },
   {
     "char": "斗",
@@ -4349,7 +4892,8 @@
     "meaning": "말두",
     "level": "4",
     "image": "assets/hanja/4/斗.webp",
-    "hun": "말"
+    "hun": "말",
+    "label": "말 - 두"
   },
   {
     "char": "豆",
@@ -4357,7 +4901,8 @@
     "meaning": "콩두",
     "level": "4",
     "image": "assets/hanja/4/豆.webp",
-    "hun": "콩"
+    "hun": "콩",
+    "label": "콩 - 두"
   },
   {
     "char": "得",
@@ -4365,7 +4910,8 @@
     "meaning": "얻을득",
     "level": "4",
     "image": "assets/hanja/4/得.webp",
-    "hun": "얻을"
+    "hun": "얻을",
+    "label": "얻을 - 득"
   },
   {
     "char": "燈",
@@ -4373,7 +4919,8 @@
     "meaning": "등잔등",
     "level": "4",
     "image": "assets/hanja/4/燈.webp",
-    "hun": "등잔"
+    "hun": "등잔",
+    "label": "등잔 - 등"
   },
   {
     "char": "羅",
@@ -4381,7 +4928,8 @@
     "meaning": "벌일/그물라",
     "level": "4",
     "image": "assets/hanja/4/羅.webp",
-    "hun": "벌일/그물"
+    "hun": "벌일/그물",
+    "label": "벌일 / 그물 - 라"
   },
   {
     "char": "兩",
@@ -4389,7 +4937,8 @@
     "meaning": "두량",
     "level": "4",
     "image": "assets/hanja/4/兩.webp",
-    "hun": "두"
+    "hun": "두",
+    "label": "두 - 량"
   },
   {
     "char": "麗",
@@ -4397,7 +4946,8 @@
     "meaning": "고울려",
     "level": "4",
     "image": "assets/hanja/4/麗.webp",
-    "hun": "고울"
+    "hun": "고울",
+    "label": "고울 - 려"
   },
   {
     "char": "連",
@@ -4405,7 +4955,8 @@
     "meaning": "잇닿을련",
     "level": "4",
     "image": "assets/hanja/4/連.webp",
-    "hun": "잇닿을"
+    "hun": "잇닿을",
+    "label": "잇닿을 - 련"
   },
   {
     "char": "列",
@@ -4413,7 +4964,8 @@
     "meaning": "줄렬",
     "level": "4",
     "image": "assets/hanja/4/列.webp",
-    "hun": "줄"
+    "hun": "줄",
+    "label": "줄 - 렬"
   },
   {
     "char": "錄",
@@ -4421,7 +4973,8 @@
     "meaning": "기록할록",
     "level": "4",
     "image": "assets/hanja/4/錄.webp",
-    "hun": "기록할"
+    "hun": "기록할",
+    "label": "기록할 - 록"
   },
   {
     "char": "論",
@@ -4429,7 +4982,8 @@
     "meaning": "논할론",
     "level": "4",
     "image": "assets/hanja/4/論.webp",
-    "hun": "논할"
+    "hun": "논할",
+    "label": "논할 - 론"
   },
   {
     "char": "留",
@@ -4437,7 +4991,8 @@
     "meaning": "머무를류",
     "level": "4",
     "image": "assets/hanja/4/留.webp",
-    "hun": "머무를"
+    "hun": "머무를",
+    "label": "머무를 - 류"
   },
   {
     "char": "律",
@@ -4445,7 +5000,8 @@
     "meaning": "법률",
     "level": "4",
     "image": "assets/hanja/4/律.webp",
-    "hun": "법"
+    "hun": "법",
+    "label": "법 - 률"
   },
   {
     "char": "滿",
@@ -4453,7 +5009,8 @@
     "meaning": "찰만",
     "level": "4",
     "image": "assets/hanja/4/滿.webp",
-    "hun": "찰"
+    "hun": "찰",
+    "label": "찰 - 만"
   },
   {
     "char": "脈",
@@ -4461,7 +5018,8 @@
     "meaning": "줄기맥",
     "level": "4",
     "image": "assets/hanja/4/脈.webp",
-    "hun": "줄기"
+    "hun": "줄기",
+    "label": "줄기 - 맥"
   },
   {
     "char": "毛",
@@ -4469,7 +5027,8 @@
     "meaning": "털모",
     "level": "4",
     "image": "assets/hanja/4/毛.webp",
-    "hun": "털"
+    "hun": "털",
+    "label": "털 - 모"
   },
   {
     "char": "牧",
@@ -4477,7 +5036,8 @@
     "meaning": "칠목",
     "level": "4",
     "image": "assets/hanja/4/牧.webp",
-    "hun": "칠"
+    "hun": "칠",
+    "label": "칠 - 목"
   },
   {
     "char": "務",
@@ -4485,7 +5045,8 @@
     "meaning": "힘쓸무",
     "level": "4",
     "image": "assets/hanja/4/務.webp",
-    "hun": "힘쓸"
+    "hun": "힘쓸",
+    "label": "힘쓸 - 무"
   },
   {
     "char": "武",
@@ -4493,7 +5054,8 @@
     "meaning": "무인무",
     "level": "4",
     "image": "assets/hanja/4/武.webp",
-    "hun": "무인"
+    "hun": "무인",
+    "label": "무인 - 무"
   },
   {
     "char": "味",
@@ -4501,7 +5063,8 @@
     "meaning": "맛미",
     "level": "4",
     "image": "assets/hanja/4/味.webp",
-    "hun": "맛"
+    "hun": "맛",
+    "label": "맛 - 미"
   },
   {
     "char": "未",
@@ -4509,7 +5072,8 @@
     "meaning": "아닐미",
     "level": "4",
     "image": "assets/hanja/4/未.webp",
-    "hun": "아닐"
+    "hun": "아닐",
+    "label": "아닐 - 미"
   },
   {
     "char": "密",
@@ -4517,7 +5081,8 @@
     "meaning": "빽빽할밀",
     "level": "4",
     "image": "assets/hanja/4/密.webp",
-    "hun": "빽빽할"
+    "hun": "빽빽할",
+    "label": "빽빽할 - 밀"
   },
   {
     "char": "博",
@@ -4525,7 +5090,8 @@
     "meaning": "넓을박",
     "level": "4",
     "image": "assets/hanja/4/博.webp",
-    "hun": "넓을"
+    "hun": "넓을",
+    "label": "넓을 - 박"
   },
   {
     "char": "房",
@@ -4533,7 +5099,8 @@
     "meaning": "방방",
     "level": "4",
     "image": "assets/hanja/4/房.webp",
-    "hun": "방"
+    "hun": "방",
+    "label": "방 - 방"
   },
   {
     "char": "訪",
@@ -4541,7 +5108,8 @@
     "meaning": "찾을방",
     "level": "4",
     "image": "assets/hanja/4/訪.webp",
-    "hun": "찾을"
+    "hun": "찾을",
+    "label": "찾을 - 방"
   },
   {
     "char": "防",
@@ -4549,7 +5117,8 @@
     "meaning": "막을방",
     "level": "4",
     "image": "assets/hanja/4/防.webp",
-    "hun": "막을"
+    "hun": "막을",
+    "label": "막을 - 방"
   },
   {
     "char": "拜",
@@ -4557,7 +5126,8 @@
     "meaning": "절배",
     "level": "4",
     "image": "assets/hanja/4/拜.webp",
-    "hun": "절"
+    "hun": "절",
+    "label": "절 - 배"
   },
   {
     "char": "背",
@@ -4565,7 +5135,8 @@
     "meaning": "등/배반할배",
     "level": "4",
     "image": "assets/hanja/4/背.webp",
-    "hun": "등/배반할"
+    "hun": "등/배반할",
+    "label": "등 / 배반할 - 배"
   },
   {
     "char": "配",
@@ -4573,7 +5144,8 @@
     "meaning": "짝/나눌배",
     "level": "4",
     "image": "assets/hanja/4/配.webp",
-    "hun": "짝/나눌"
+    "hun": "짝/나눌",
+    "label": "짝 / 나눌 - 배"
   },
   {
     "char": "伐",
@@ -4581,7 +5153,8 @@
     "meaning": "칠벌",
     "level": "4",
     "image": "assets/hanja/4/伐.webp",
-    "hun": "칠"
+    "hun": "칠",
+    "label": "칠 - 벌"
   },
   {
     "char": "罰",
@@ -4589,7 +5162,8 @@
     "meaning": "벌할벌",
     "level": "4",
     "image": "assets/hanja/4/罰.webp",
-    "hun": "벌할"
+    "hun": "벌할",
+    "label": "벌할 - 벌"
   },
   {
     "char": "壁",
@@ -4597,7 +5171,8 @@
     "meaning": "벽벽",
     "level": "4",
     "image": "assets/hanja/4/壁.webp",
-    "hun": "벽"
+    "hun": "벽",
+    "label": "벽 - 벽"
   },
   {
     "char": "邊",
@@ -4605,7 +5180,8 @@
     "meaning": "가변",
     "level": "4",
     "image": "assets/hanja/4/邊.webp",
-    "hun": "가"
+    "hun": "가",
+    "label": "가 - 변"
   },
   {
     "char": "保",
@@ -4613,7 +5189,8 @@
     "meaning": "지킬보",
     "level": "4",
     "image": "assets/hanja/4/保.webp",
-    "hun": "지킬"
+    "hun": "지킬",
+    "label": "지킬 - 보"
   },
   {
     "char": "報",
@@ -4621,7 +5198,8 @@
     "meaning": "갚을/알릴보",
     "level": "4",
     "image": "assets/hanja/4/報.webp",
-    "hun": "갚을/알릴"
+    "hun": "갚을/알릴",
+    "label": "갚을 / 알릴 - 보"
   },
   {
     "char": "寶",
@@ -4629,7 +5207,8 @@
     "meaning": "보배보",
     "level": "4",
     "image": "assets/hanja/4/寶.webp",
-    "hun": "보배"
+    "hun": "보배",
+    "label": "보배 - 보"
   },
   {
     "char": "步",
@@ -4637,7 +5216,8 @@
     "meaning": "걸음보",
     "level": "4",
     "image": "assets/hanja/4/步.webp",
-    "hun": "걸음"
+    "hun": "걸음",
+    "label": "걸음 - 보"
   },
   {
     "char": "復",
@@ -4645,7 +5225,8 @@
     "meaning": "돌아올복,다시부",
     "level": "4",
     "image": "assets/hanja/4/復.webp",
-    "hun": "돌아올"
+    "hun": "돌아올",
+    "label": "돌아올 - 복 / 다시 - 부"
   },
   {
     "char": "副",
@@ -4653,7 +5234,8 @@
     "meaning": "버금부",
     "level": "4",
     "image": "assets/hanja/4/副.webp",
-    "hun": "버금"
+    "hun": "버금",
+    "label": "버금 - 부"
   },
   {
     "char": "婦",
@@ -4661,7 +5243,8 @@
     "meaning": "아내부",
     "level": "4",
     "image": "assets/hanja/4/婦.webp",
-    "hun": "아내"
+    "hun": "아내",
+    "label": "아내 - 부"
   },
   {
     "char": "富",
@@ -4669,7 +5252,8 @@
     "meaning": "부유할부",
     "level": "4",
     "image": "assets/hanja/4/富.webp",
-    "hun": "부유할"
+    "hun": "부유할",
+    "label": "부유할 - 부"
   },
   {
     "char": "府",
@@ -4677,7 +5261,8 @@
     "meaning": "관청부",
     "level": "4",
     "image": "assets/hanja/4/府.webp",
-    "hun": "관청"
+    "hun": "관청",
+    "label": "관청 - 부"
   },
   {
     "char": "佛",
@@ -4685,7 +5270,8 @@
     "meaning": "부처불",
     "level": "4",
     "image": "assets/hanja/4/佛.webp",
-    "hun": "부처"
+    "hun": "부처",
+    "label": "부처 - 불"
   },
   {
     "char": "備",
@@ -4693,7 +5279,8 @@
     "meaning": "갖출비",
     "level": "4",
     "image": "assets/hanja/4/備.webp",
-    "hun": "갖출"
+    "hun": "갖출",
+    "label": "갖출 - 비"
   },
   {
     "char": "悲",
@@ -4701,7 +5288,8 @@
     "meaning": "슬플비",
     "level": "4",
     "image": "assets/hanja/4/悲.webp",
-    "hun": "슬플"
+    "hun": "슬플",
+    "label": "슬플 - 비"
   },
   {
     "char": "非",
@@ -4709,7 +5297,8 @@
     "meaning": "아닐비",
     "level": "4",
     "image": "assets/hanja/4/非.webp",
-    "hun": "아닐"
+    "hun": "아닐",
+    "label": "아닐 - 비"
   },
   {
     "char": "飛",
@@ -4717,7 +5306,8 @@
     "meaning": "날비",
     "level": "4",
     "image": "assets/hanja/4/飛.webp",
-    "hun": "날"
+    "hun": "날",
+    "label": "날 - 비"
   },
   {
     "char": "貧",
@@ -4725,7 +5315,8 @@
     "meaning": "가난할빈",
     "level": "4",
     "image": "assets/hanja/4/貧.webp",
-    "hun": "가난할"
+    "hun": "가난할",
+    "label": "가난할 - 빈"
   },
   {
     "char": "寺",
@@ -4733,7 +5324,8 @@
     "meaning": "절사,내관시",
     "level": "4",
     "image": "assets/hanja/4/寺.webp",
-    "hun": "절"
+    "hun": "절",
+    "label": "절 - 사 / 내관 - 시"
   },
   {
     "char": "師",
@@ -4741,7 +5333,8 @@
     "meaning": "스승사",
     "level": "4",
     "image": "assets/hanja/4/師.webp",
-    "hun": "스승"
+    "hun": "스승",
+    "label": "스승 - 사"
   },
   {
     "char": "舍",
@@ -4749,7 +5342,8 @@
     "meaning": "집사",
     "level": "4",
     "image": "assets/hanja/4/舍.webp",
-    "hun": "집"
+    "hun": "집",
+    "label": "집 - 사"
   },
   {
     "char": "謝",
@@ -4757,7 +5351,8 @@
     "meaning": "사례할사",
     "level": "4",
     "image": "assets/hanja/4/謝.webp",
-    "hun": "사례할"
+    "hun": "사례할",
+    "label": "사례할 - 사"
   },
   {
     "char": "殺",
@@ -4765,7 +5360,8 @@
     "meaning": "죽일살,빠를쇄",
     "level": "4",
     "image": "assets/hanja/4/殺.webp",
-    "hun": "죽일"
+    "hun": "죽일",
+    "label": "죽일 - 살 / 빠를 - 쇄"
   },
   {
     "char": "常",
@@ -4773,7 +5369,8 @@
     "meaning": "항상상",
     "level": "4",
     "image": "assets/hanja/4/常.webp",
-    "hun": "항상"
+    "hun": "항상",
+    "label": "항상 - 상"
   },
   {
     "char": "床",
@@ -4781,7 +5378,8 @@
     "meaning": "상상",
     "level": "4",
     "image": "assets/hanja/4/床.webp",
-    "hun": "상"
+    "hun": "상",
+    "label": "상 - 상"
   },
   {
     "char": "想",
@@ -4789,7 +5387,8 @@
     "meaning": "생각상",
     "level": "4",
     "image": "assets/hanja/4/想.webp",
-    "hun": "생각"
+    "hun": "생각",
+    "label": "생각 - 상"
   },
   {
     "char": "狀",
@@ -4797,7 +5396,8 @@
     "meaning": "형상상,문서장",
     "level": "4",
     "image": "assets/hanja/4/狀.webp",
-    "hun": "형상"
+    "hun": "형상",
+    "label": "형상 - 상 / 문서 - 장"
   },
   {
     "char": "設",
@@ -4805,7 +5405,8 @@
     "meaning": "베풀설",
     "level": "4",
     "image": "assets/hanja/4/設.webp",
-    "hun": "베풀"
+    "hun": "베풀",
+    "label": "베풀 - 설"
   },
   {
     "char": "城",
@@ -4813,7 +5414,8 @@
     "meaning": "재성",
     "level": "4",
     "image": "assets/hanja/4/城.webp",
-    "hun": "재"
+    "hun": "재",
+    "label": "재 - 성"
   },
   {
     "char": "星",
@@ -4821,7 +5423,8 @@
     "meaning": "별성",
     "level": "4",
     "image": "assets/hanja/4/星.webp",
-    "hun": "별"
+    "hun": "별",
+    "label": "별 - 성"
   },
   {
     "char": "盛",
@@ -4829,7 +5432,8 @@
     "meaning": "성할성",
     "level": "4",
     "image": "assets/hanja/4/盛.webp",
-    "hun": "성할"
+    "hun": "성할",
+    "label": "성할 - 성"
   },
   {
     "char": "聖",
@@ -4837,7 +5441,8 @@
     "meaning": "신성할성",
     "level": "4",
     "image": "assets/hanja/4/聖.webp",
-    "hun": "신성할"
+    "hun": "신성할",
+    "label": "신성할 - 성"
   },
   {
     "char": "聲",
@@ -4845,7 +5450,8 @@
     "meaning": "소리성",
     "level": "4",
     "image": "assets/hanja/4/聲.webp",
-    "hun": "소리"
+    "hun": "소리",
+    "label": "소리 - 성"
   },
   {
     "char": "誠",
@@ -4853,7 +5459,8 @@
     "meaning": "정성성",
     "level": "4",
     "image": "assets/hanja/4/誠.webp",
-    "hun": "정성"
+    "hun": "정성",
+    "label": "정성 - 성"
   },
   {
     "char": "勢",
@@ -4861,7 +5468,8 @@
     "meaning": "형세세",
     "level": "4",
     "image": "assets/hanja/4/勢.webp",
-    "hun": "형세"
+    "hun": "형세",
+    "label": "형세 - 세"
   },
   {
     "char": "稅",
@@ -4869,7 +5477,8 @@
     "meaning": "세금세",
     "level": "4",
     "image": "assets/hanja/4/稅.webp",
-    "hun": "세금"
+    "hun": "세금",
+    "label": "세금 - 세"
   },
   {
     "char": "細",
@@ -4877,7 +5486,8 @@
     "meaning": "가늘세",
     "level": "4",
     "image": "assets/hanja/4/細.webp",
-    "hun": "가늘"
+    "hun": "가늘",
+    "label": "가늘 - 세"
   },
   {
     "char": "掃",
@@ -4885,7 +5495,8 @@
     "meaning": "쓸소",
     "level": "4",
     "image": "assets/hanja/4/掃.webp",
-    "hun": "쓸"
+    "hun": "쓸",
+    "label": "쓸 - 소"
   },
   {
     "char": "笑",
@@ -4893,7 +5504,8 @@
     "meaning": "웃을소",
     "level": "4",
     "image": "assets/hanja/4/笑.webp",
-    "hun": "웃을"
+    "hun": "웃을",
+    "label": "웃을 - 소"
   },
   {
     "char": "素",
@@ -4901,7 +5513,8 @@
     "meaning": "흴/바탕소",
     "level": "4",
     "image": "assets/hanja/4/素.webp",
-    "hun": "흴/바탕"
+    "hun": "흴/바탕",
+    "label": "흴 / 바탕 - 소"
   },
   {
     "char": "俗",
@@ -4909,7 +5522,8 @@
     "meaning": "풍속속",
     "level": "4",
     "image": "assets/hanja/4/俗.webp",
-    "hun": "풍속"
+    "hun": "풍속",
+    "label": "풍속 - 속"
   },
   {
     "char": "續",
@@ -4917,7 +5531,8 @@
     "meaning": "이을속",
     "level": "4",
     "image": "assets/hanja/4/續.webp",
-    "hun": "이을"
+    "hun": "이을",
+    "label": "이을 - 속"
   },
   {
     "char": "送",
@@ -4925,7 +5540,8 @@
     "meaning": "보낼송",
     "level": "4",
     "image": "assets/hanja/4/送.webp",
-    "hun": "보낼"
+    "hun": "보낼",
+    "label": "보낼 - 송"
   },
   {
     "char": "修",
@@ -4933,7 +5549,8 @@
     "meaning": "닦을수",
     "level": "4",
     "image": "assets/hanja/4/修.webp",
-    "hun": "닦을"
+    "hun": "닦을",
+    "label": "닦을 - 수"
   },
   {
     "char": "受",
@@ -4941,7 +5558,8 @@
     "meaning": "받을수",
     "level": "4",
     "image": "assets/hanja/4/受.webp",
-    "hun": "받을"
+    "hun": "받을",
+    "label": "받을 - 수"
   },
   {
     "char": "守",
@@ -4949,7 +5567,8 @@
     "meaning": "지킬수",
     "level": "4",
     "image": "assets/hanja/4/守.webp",
-    "hun": "지킬"
+    "hun": "지킬",
+    "label": "지킬 - 수"
   },
   {
     "char": "授",
@@ -4957,7 +5576,8 @@
     "meaning": "줄수",
     "level": "4",
     "image": "assets/hanja/4/授.webp",
-    "hun": "줄"
+    "hun": "줄",
+    "label": "줄 - 수"
   },
   {
     "char": "收",
@@ -4965,7 +5585,8 @@
     "meaning": "거둘수",
     "level": "4",
     "image": "assets/hanja/4/收.webp",
-    "hun": "거둘"
+    "hun": "거둘",
+    "label": "거둘 - 수"
   },
   {
     "char": "純",
@@ -4973,7 +5594,8 @@
     "meaning": "순수할순",
     "level": "4",
     "image": "assets/hanja/4/純.webp",
-    "hun": "순수할"
+    "hun": "순수할",
+    "label": "순수할 - 순"
   },
   {
     "char": "承",
@@ -4981,7 +5603,8 @@
     "meaning": "이을승",
     "level": "4",
     "image": "assets/hanja/4/承.webp",
-    "hun": "이을"
+    "hun": "이을",
+    "label": "이을 - 승"
   },
   {
     "char": "施",
@@ -4989,7 +5612,8 @@
     "meaning": "베풀시",
     "level": "4",
     "image": "assets/hanja/4/施.webp",
-    "hun": "베풀"
+    "hun": "베풀",
+    "label": "베풀 - 시"
   },
   {
     "char": "是",
@@ -4997,7 +5621,8 @@
     "meaning": "옳을/이시",
     "level": "4",
     "image": "assets/hanja/4/是.webp",
-    "hun": "옳을/이"
+    "hun": "옳을/이",
+    "label": "옳을 / 이 - 시"
   },
   {
     "char": "視",
@@ -5005,7 +5630,8 @@
     "meaning": "볼시",
     "level": "4",
     "image": "assets/hanja/4/視.webp",
-    "hun": "볼"
+    "hun": "볼",
+    "label": "볼 - 시"
   },
   {
     "char": "試",
@@ -5013,7 +5639,8 @@
     "meaning": "시험할시",
     "level": "4",
     "image": "assets/hanja/4/試.webp",
-    "hun": "시험할"
+    "hun": "시험할",
+    "label": "시험할 - 시"
   },
   {
     "char": "詩",
@@ -5021,7 +5648,8 @@
     "meaning": "시시",
     "level": "4",
     "image": "assets/hanja/4/詩.webp",
-    "hun": "시"
+    "hun": "시",
+    "label": "시 - 시"
   },
   {
     "char": "息",
@@ -5029,7 +5657,8 @@
     "meaning": "쉴식",
     "level": "4",
     "image": "assets/hanja/4/息.webp",
-    "hun": "쉴"
+    "hun": "쉴",
+    "label": "쉴 - 식"
   },
   {
     "char": "申",
@@ -5037,7 +5666,8 @@
     "meaning": "거듭/고할신",
     "level": "4",
     "image": "assets/hanja/4/申.webp",
-    "hun": "거듭/고할"
+    "hun": "거듭/고할",
+    "label": "거듭 / 고할 - 신"
   },
   {
     "char": "深",
@@ -5045,7 +5675,8 @@
     "meaning": "깊을심",
     "level": "4",
     "image": "assets/hanja/4/深.webp",
-    "hun": "깊을"
+    "hun": "깊을",
+    "label": "깊을 - 심"
   },
   {
     "char": "眼",
@@ -5053,7 +5684,8 @@
     "meaning": "눈안",
     "level": "4",
     "image": "assets/hanja/4/眼.webp",
-    "hun": "눈"
+    "hun": "눈",
+    "label": "눈 - 안"
   },
   {
     "char": "暗",
@@ -5061,7 +5693,8 @@
     "meaning": "어두울암",
     "level": "4",
     "image": "assets/hanja/4/暗.webp",
-    "hun": "어두울"
+    "hun": "어두울",
+    "label": "어두울 - 암"
   },
   {
     "char": "壓",
@@ -5069,7 +5702,8 @@
     "meaning": "누를압",
     "level": "4",
     "image": "assets/hanja/4/壓.webp",
-    "hun": "누를"
+    "hun": "누를",
+    "label": "누를 - 압"
   },
   {
     "char": "液",
@@ -5077,7 +5711,8 @@
     "meaning": "진액",
     "level": "4",
     "image": "assets/hanja/4/液.webp",
-    "hun": "진"
+    "hun": "진",
+    "label": "진 - 액"
   },
   {
     "char": "羊",
@@ -5085,7 +5720,8 @@
     "meaning": "양양",
     "level": "4",
     "image": "assets/hanja/4/羊.webp",
-    "hun": "양"
+    "hun": "양",
+    "label": "양 - 양"
   },
   {
     "char": "如",
@@ -5093,7 +5729,8 @@
     "meaning": "같을여",
     "level": "4",
     "image": "assets/hanja/4/如.webp",
-    "hun": "같을"
+    "hun": "같을",
+    "label": "같을 - 여"
   },
   {
     "char": "餘",
@@ -5101,7 +5738,8 @@
     "meaning": "남을여",
     "level": "4",
     "image": "assets/hanja/4/餘.webp",
-    "hun": "남을"
+    "hun": "남을",
+    "label": "남을 - 여"
   },
   {
     "char": "逆",
@@ -5109,7 +5747,8 @@
     "meaning": "거스를역",
     "level": "4",
     "image": "assets/hanja/4/逆.webp",
-    "hun": "거스를"
+    "hun": "거스를",
+    "label": "거스를 - 역"
   },
   {
     "char": "演",
@@ -5117,7 +5756,8 @@
     "meaning": "펼연",
     "level": "4",
     "image": "assets/hanja/4/演.webp",
-    "hun": "펼"
+    "hun": "펼",
+    "label": "펼 - 연"
   },
   {
     "char": "煙",
@@ -5125,7 +5765,8 @@
     "meaning": "연기연",
     "level": "4",
     "image": "assets/hanja/4/煙.webp",
-    "hun": "연기"
+    "hun": "연기",
+    "label": "연기 - 연"
   },
   {
     "char": "硏",
@@ -5133,7 +5774,8 @@
     "meaning": "갈연",
     "level": "4",
     "image": "assets/hanja/4/硏.webp",
-    "hun": "갈"
+    "hun": "갈",
+    "label": "갈 - 연"
   },
   {
     "char": "榮",
@@ -5141,7 +5783,8 @@
     "meaning": "꽃영",
     "level": "4",
     "image": "assets/hanja/4/榮.webp",
-    "hun": "꽃"
+    "hun": "꽃",
+    "label": "꽃 - 영"
   },
   {
     "char": "藝",
@@ -5149,7 +5792,8 @@
     "meaning": "재주예",
     "level": "4",
     "image": "assets/hanja/4/藝.webp",
-    "hun": "재주"
+    "hun": "재주",
+    "label": "재주 - 예"
   },
   {
     "char": "誤",
@@ -5157,7 +5801,8 @@
     "meaning": "그르칠오",
     "level": "4",
     "image": "assets/hanja/4/誤.webp",
-    "hun": "그르칠"
+    "hun": "그르칠",
+    "label": "그르칠 - 오"
   },
   {
     "char": "玉",
@@ -5165,7 +5810,8 @@
     "meaning": "구슬옥",
     "level": "4",
     "image": "assets/hanja/4/玉.webp",
-    "hun": "구슬"
+    "hun": "구슬",
+    "label": "구슬 - 옥"
   },
   {
     "char": "往",
@@ -5173,7 +5819,8 @@
     "meaning": "갈왕",
     "level": "4",
     "image": "assets/hanja/4/往.webp",
-    "hun": "갈"
+    "hun": "갈",
+    "label": "갈 - 왕"
   },
   {
     "char": "謠",
@@ -5181,7 +5828,8 @@
     "meaning": "노래요",
     "level": "4",
     "image": "assets/hanja/4/謠.webp",
-    "hun": "노래"
+    "hun": "노래",
+    "label": "노래 - 요"
   },
   {
     "char": "容",
@@ -5189,7 +5837,8 @@
     "meaning": "용서할/얼굴용",
     "level": "4",
     "image": "assets/hanja/4/容.webp",
-    "hun": "용서할/얼굴"
+    "hun": "용서할/얼굴",
+    "label": "용서할 / 얼굴 - 용"
   },
   {
     "char": "員",
@@ -5197,7 +5846,8 @@
     "meaning": "인원원",
     "level": "4",
     "image": "assets/hanja/4/員.webp",
-    "hun": "인원"
+    "hun": "인원",
+    "label": "인원 - 원"
   },
   {
     "char": "圓",
@@ -5205,7 +5855,8 @@
     "meaning": "둥글원",
     "level": "4",
     "image": "assets/hanja/4/圓.webp",
-    "hun": "둥글"
+    "hun": "둥글",
+    "label": "둥글 - 원"
   },
   {
     "char": "爲",
@@ -5213,7 +5864,8 @@
     "meaning": "할위",
     "level": "4",
     "image": "assets/hanja/4/爲.webp",
-    "hun": "할"
+    "hun": "할",
+    "label": "할 - 위"
   },
   {
     "char": "衛",
@@ -5221,7 +5873,8 @@
     "meaning": "지킬위",
     "level": "4",
     "image": "assets/hanja/4/衛.webp",
-    "hun": "지킬"
+    "hun": "지킬",
+    "label": "지킬 - 위"
   },
   {
     "char": "肉",
@@ -5229,7 +5882,8 @@
     "meaning": "고기육",
     "level": "4",
     "image": "assets/hanja/4/肉.webp",
-    "hun": "고기"
+    "hun": "고기",
+    "label": "고기 - 육"
   },
   {
     "char": "恩",
@@ -5237,7 +5891,8 @@
     "meaning": "은혜은",
     "level": "4",
     "image": "assets/hanja/4/恩.webp",
-    "hun": "은혜"
+    "hun": "은혜",
+    "label": "은혜 - 은"
   },
   {
     "char": "陰",
@@ -5245,7 +5900,8 @@
     "meaning": "그늘음",
     "level": "4",
     "image": "assets/hanja/4/陰.webp",
-    "hun": "그늘"
+    "hun": "그늘",
+    "label": "그늘 - 음"
   },
   {
     "char": "應",
@@ -5253,7 +5909,8 @@
     "meaning": "응할응",
     "level": "4",
     "image": "assets/hanja/4/應.webp",
-    "hun": "응할"
+    "hun": "응할",
+    "label": "응할 - 응"
   },
   {
     "char": "義",
@@ -5261,7 +5918,8 @@
     "meaning": "옳을의",
     "level": "4",
     "image": "assets/hanja/4/義.webp",
-    "hun": "옳을"
+    "hun": "옳을",
+    "label": "옳을 - 의"
   },
   {
     "char": "議",
@@ -5269,7 +5927,8 @@
     "meaning": "의론할의",
     "level": "4",
     "image": "assets/hanja/4/議.webp",
-    "hun": "의론할"
+    "hun": "의론할",
+    "label": "의론할 - 의"
   },
   {
     "char": "移",
@@ -5277,7 +5936,8 @@
     "meaning": "옮길이",
     "level": "4",
     "image": "assets/hanja/4/移.webp",
-    "hun": "옮길"
+    "hun": "옮길",
+    "label": "옮길 - 이"
   },
   {
     "char": "益",
@@ -5285,7 +5945,8 @@
     "meaning": "더할익",
     "level": "4",
     "image": "assets/hanja/4/益.webp",
-    "hun": "더할"
+    "hun": "더할",
+    "label": "더할 - 익"
   },
   {
     "char": "印",
@@ -5293,7 +5954,8 @@
     "meaning": "도장인",
     "level": "4",
     "image": "assets/hanja/4/印.webp",
-    "hun": "도장"
+    "hun": "도장",
+    "label": "도장 - 인"
   },
   {
     "char": "引",
@@ -5301,7 +5963,8 @@
     "meaning": "끌인",
     "level": "4",
     "image": "assets/hanja/4/引.webp",
-    "hun": "끌"
+    "hun": "끌",
+    "label": "끌 - 인"
   },
   {
     "char": "認",
@@ -5309,7 +5972,8 @@
     "meaning": "알인",
     "level": "4",
     "image": "assets/hanja/4/認.webp",
-    "hun": "알"
+    "hun": "알",
+    "label": "알 - 인"
   },
   {
     "char": "將",
@@ -5317,7 +5981,8 @@
     "meaning": "장수장",
     "level": "4",
     "image": "assets/hanja/4/將.webp",
-    "hun": "장수"
+    "hun": "장수",
+    "label": "장수 - 장"
   },
   {
     "char": "障",
@@ -5325,7 +5990,8 @@
     "meaning": "막을장",
     "level": "4",
     "image": "assets/hanja/4/障.webp",
-    "hun": "막을"
+    "hun": "막을",
+    "label": "막을 - 장"
   },
   {
     "char": "低",
@@ -5333,7 +5999,8 @@
     "meaning": "낮을저",
     "level": "4",
     "image": "assets/hanja/4/低.webp",
-    "hun": "낮을"
+    "hun": "낮을",
+    "label": "낮을 - 저"
   },
   {
     "char": "敵",
@@ -5341,7 +6008,8 @@
     "meaning": "적적",
     "level": "4",
     "image": "assets/hanja/4/敵.webp",
-    "hun": "적"
+    "hun": "적",
+    "label": "적 - 적"
   },
   {
     "char": "田",
@@ -5349,7 +6017,8 @@
     "meaning": "밭전",
     "level": "4",
     "image": "assets/hanja/4/田.webp",
-    "hun": "밭"
+    "hun": "밭",
+    "label": "밭 - 전"
   },
   {
     "char": "絶",
@@ -5357,7 +6026,8 @@
     "meaning": "끊을절",
     "level": "4",
     "image": "assets/hanja/4/絶.webp",
-    "hun": "끊을"
+    "hun": "끊을",
+    "label": "끊을 - 절"
   },
   {
     "char": "接",
@@ -5365,7 +6035,8 @@
     "meaning": "이을접",
     "level": "4",
     "image": "assets/hanja/4/接.webp",
-    "hun": "이을"
+    "hun": "이을",
+    "label": "이을 - 접"
   },
   {
     "char": "政",
@@ -5373,7 +6044,8 @@
     "meaning": "정사정",
     "level": "4",
     "image": "assets/hanja/4/政.webp",
-    "hun": "정사"
+    "hun": "정사",
+    "label": "정사 - 정"
   },
   {
     "char": "程",
@@ -5381,7 +6053,8 @@
     "meaning": "헤아릴정",
     "level": "4",
     "image": "assets/hanja/4/程.webp",
-    "hun": "헤아릴"
+    "hun": "헤아릴",
+    "label": "헤아릴 - 정"
   },
   {
     "char": "精",
@@ -5389,7 +6062,8 @@
     "meaning": "정할정",
     "level": "4",
     "image": "assets/hanja/4/精.webp",
-    "hun": "정할"
+    "hun": "정할",
+    "label": "정할 - 정"
   },
   {
     "char": "制",
@@ -5397,7 +6071,8 @@
     "meaning": "절제할제",
     "level": "4",
     "image": "assets/hanja/4/制.webp",
-    "hun": "절제할"
+    "hun": "절제할",
+    "label": "절제할 - 제"
   },
   {
     "char": "提",
@@ -5405,7 +6080,8 @@
     "meaning": "끌제",
     "level": "4",
     "image": "assets/hanja/4/提.webp",
-    "hun": "끌"
+    "hun": "끌",
+    "label": "끌 - 제"
   },
   {
     "char": "濟",
@@ -5413,7 +6089,8 @@
     "meaning": "건널제",
     "level": "4",
     "image": "assets/hanja/4/濟.webp",
-    "hun": "건널"
+    "hun": "건널",
+    "label": "건널 - 제"
   },
   {
     "char": "祭",
@@ -5421,7 +6098,8 @@
     "meaning": "제사제",
     "level": "4",
     "image": "assets/hanja/4/祭.webp",
-    "hun": "제사"
+    "hun": "제사",
+    "label": "제사 - 제"
   },
   {
     "char": "製",
@@ -5429,7 +6107,8 @@
     "meaning": "지을제",
     "level": "4",
     "image": "assets/hanja/4/製.webp",
-    "hun": "지을"
+    "hun": "지을",
+    "label": "지을 - 제"
   },
   {
     "char": "除",
@@ -5437,7 +6116,8 @@
     "meaning": "덜제",
     "level": "4",
     "image": "assets/hanja/4/除.webp",
-    "hun": "덜"
+    "hun": "덜",
+    "label": "덜 - 제"
   },
   {
     "char": "際",
@@ -5445,7 +6125,8 @@
     "meaning": "즈음제",
     "level": "4",
     "image": "assets/hanja/4/際.webp",
-    "hun": "즈음"
+    "hun": "즈음",
+    "label": "즈음 - 제"
   },
   {
     "char": "助",
@@ -5453,7 +6134,8 @@
     "meaning": "도울조",
     "level": "4",
     "image": "assets/hanja/4/助.webp",
-    "hun": "도울"
+    "hun": "도울",
+    "label": "도울 - 조"
   },
   {
     "char": "早",
@@ -5461,7 +6143,8 @@
     "meaning": "이를조",
     "level": "4",
     "image": "assets/hanja/4/早.webp",
-    "hun": "이를"
+    "hun": "이를",
+    "label": "이를 - 조"
   },
   {
     "char": "造",
@@ -5469,7 +6152,8 @@
     "meaning": "지을조",
     "level": "4",
     "image": "assets/hanja/4/造.webp",
-    "hun": "지을"
+    "hun": "지을",
+    "label": "지을 - 조"
   },
   {
     "char": "鳥",
@@ -5477,7 +6161,8 @@
     "meaning": "새조",
     "level": "4",
     "image": "assets/hanja/4/鳥.webp",
-    "hun": "새"
+    "hun": "새",
+    "label": "새 - 조"
   },
   {
     "char": "尊",
@@ -5485,7 +6170,8 @@
     "meaning": "높을존",
     "level": "4",
     "image": "assets/hanja/4/尊.webp",
-    "hun": "높을"
+    "hun": "높을",
+    "label": "높을 - 존"
   },
   {
     "char": "宗",
@@ -5493,7 +6179,8 @@
     "meaning": "마루/조상종",
     "level": "4",
     "image": "assets/hanja/4/宗.webp",
-    "hun": "마루/조상"
+    "hun": "마루/조상",
+    "label": "마루 / 조상 - 종"
   },
   {
     "char": "走",
@@ -5501,7 +6188,8 @@
     "meaning": "달릴주",
     "level": "4",
     "image": "assets/hanja/4/走.webp",
-    "hun": "달릴"
+    "hun": "달릴",
+    "label": "달릴 - 주"
   },
   {
     "char": "竹",
@@ -5509,7 +6197,8 @@
     "meaning": "대나무죽",
     "level": "4",
     "image": "assets/hanja/4/竹.webp",
-    "hun": "대나무"
+    "hun": "대나무",
+    "label": "대나무 - 죽"
   },
   {
     "char": "準",
@@ -5517,7 +6206,8 @@
     "meaning": "준할준",
     "level": "4",
     "image": "assets/hanja/4/準.webp",
-    "hun": "준할"
+    "hun": "준할",
+    "label": "준할 - 준"
   },
   {
     "char": "衆",
@@ -5525,7 +6215,8 @@
     "meaning": "무리중",
     "level": "4",
     "image": "assets/hanja/4/衆.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 중"
   },
   {
     "char": "增",
@@ -5533,7 +6224,8 @@
     "meaning": "더할증",
     "level": "4",
     "image": "assets/hanja/4/增.webp",
-    "hun": "더할"
+    "hun": "더할",
+    "label": "더할 - 증"
   },
   {
     "char": "志",
@@ -5541,7 +6233,8 @@
     "meaning": "뜻지",
     "level": "4",
     "image": "assets/hanja/4/志.webp",
-    "hun": "뜻"
+    "hun": "뜻",
+    "label": "뜻 - 지"
   },
   {
     "char": "指",
@@ -5549,7 +6242,8 @@
     "meaning": "가리킬/손가락지",
     "level": "4",
     "image": "assets/hanja/4/指.webp",
-    "hun": "가리킬/손가락"
+    "hun": "가리킬/손가락",
+    "label": "가리킬 / 손가락 - 지"
   },
   {
     "char": "支",
@@ -5557,7 +6251,8 @@
     "meaning": "지탱할지",
     "level": "4",
     "image": "assets/hanja/4/支.webp",
-    "hun": "지탱할"
+    "hun": "지탱할",
+    "label": "지탱할 - 지"
   },
   {
     "char": "至",
@@ -5565,7 +6260,8 @@
     "meaning": "이를지",
     "level": "4",
     "image": "assets/hanja/4/至.webp",
-    "hun": "이를"
+    "hun": "이를",
+    "label": "이를 - 지"
   },
   {
     "char": "職",
@@ -5573,7 +6269,8 @@
     "meaning": "벼슬직",
     "level": "4",
     "image": "assets/hanja/4/職.webp",
-    "hun": "벼슬"
+    "hun": "벼슬",
+    "label": "벼슬 - 직"
   },
   {
     "char": "眞",
@@ -5581,7 +6278,8 @@
     "meaning": "참진",
     "level": "4",
     "image": "assets/hanja/4/眞.webp",
-    "hun": "참"
+    "hun": "참",
+    "label": "참 - 진"
   },
   {
     "char": "進",
@@ -5589,7 +6287,8 @@
     "meaning": "나아갈진",
     "level": "4",
     "image": "assets/hanja/4/進.webp",
-    "hun": "나아갈"
+    "hun": "나아갈",
+    "label": "나아갈 - 진"
   },
   {
     "char": "次",
@@ -5597,7 +6296,8 @@
     "meaning": "버금차",
     "level": "4",
     "image": "assets/hanja/4/次.webp",
-    "hun": "버금"
+    "hun": "버금",
+    "label": "버금 - 차"
   },
   {
     "char": "察",
@@ -5605,7 +6305,8 @@
     "meaning": "살필찰",
     "level": "4",
     "image": "assets/hanja/4/察.webp",
-    "hun": "살필"
+    "hun": "살필",
+    "label": "살필 - 찰"
   },
   {
     "char": "創",
@@ -5613,7 +6314,8 @@
     "meaning": "비롯할창",
     "level": "4",
     "image": "assets/hanja/4/創.webp",
-    "hun": "비롯할"
+    "hun": "비롯할",
+    "label": "비롯할 - 창"
   },
   {
     "char": "處",
@@ -5621,7 +6323,8 @@
     "meaning": "곳처",
     "level": "4",
     "image": "assets/hanja/4/處.webp",
-    "hun": "곳"
+    "hun": "곳",
+    "label": "곳 - 처"
   },
   {
     "char": "請",
@@ -5629,7 +6332,8 @@
     "meaning": "청할청",
     "level": "4",
     "image": "assets/hanja/4/請.webp",
-    "hun": "청할"
+    "hun": "청할",
+    "label": "청할 - 청"
   },
   {
     "char": "總",
@@ -5637,7 +6341,8 @@
     "meaning": "다총",
     "level": "4",
     "image": "assets/hanja/4/總.webp",
-    "hun": "다"
+    "hun": "다",
+    "label": "다 - 총"
   },
   {
     "char": "銃",
@@ -5645,7 +6350,8 @@
     "meaning": "총총",
     "level": "4",
     "image": "assets/hanja/4/銃.webp",
-    "hun": "총"
+    "hun": "총",
+    "label": "총 - 총"
   },
   {
     "char": "築",
@@ -5653,7 +6359,8 @@
     "meaning": "쌓을/악기축",
     "level": "4",
     "image": "assets/hanja/4/築.webp",
-    "hun": "쌓을/악기"
+    "hun": "쌓을/악기",
+    "label": "쌓을 / 악기 - 축"
   },
   {
     "char": "蓄",
@@ -5661,7 +6368,8 @@
     "meaning": "모을축",
     "level": "4",
     "image": "assets/hanja/4/蓄.webp",
-    "hun": "모을"
+    "hun": "모을",
+    "label": "모을 - 축"
   },
   {
     "char": "忠",
@@ -5669,7 +6377,8 @@
     "meaning": "충성충",
     "level": "4",
     "image": "assets/hanja/4/忠.webp",
-    "hun": "충성"
+    "hun": "충성",
+    "label": "충성 - 충"
   },
   {
     "char": "蟲",
@@ -5677,7 +6386,8 @@
     "meaning": "벌레충",
     "level": "4",
     "image": "assets/hanja/4/蟲.webp",
-    "hun": "벌레"
+    "hun": "벌레",
+    "label": "벌레 - 충"
   },
   {
     "char": "取",
@@ -5685,7 +6395,8 @@
     "meaning": "취할취",
     "level": "4",
     "image": "assets/hanja/4/取.webp",
-    "hun": "취할"
+    "hun": "취할",
+    "label": "취할 - 취"
   },
   {
     "char": "測",
@@ -5693,7 +6404,8 @@
     "meaning": "헤아릴측",
     "level": "4",
     "image": "assets/hanja/4/測.webp",
-    "hun": "헤아릴"
+    "hun": "헤아릴",
+    "label": "헤아릴 - 측"
   },
   {
     "char": "治",
@@ -5701,7 +6413,8 @@
     "meaning": "다스릴치",
     "level": "4",
     "image": "assets/hanja/4/治.webp",
-    "hun": "다스릴"
+    "hun": "다스릴",
+    "label": "다스릴 - 치"
   },
   {
     "char": "置",
@@ -5709,7 +6422,8 @@
     "meaning": "둘치",
     "level": "4",
     "image": "assets/hanja/4/置.webp",
-    "hun": "둘"
+    "hun": "둘",
+    "label": "둘 - 치"
   },
   {
     "char": "齒",
@@ -5717,7 +6431,8 @@
     "meaning": "이치",
     "level": "4",
     "image": "assets/hanja/4/齒.webp",
-    "hun": "이"
+    "hun": "이",
+    "label": "이 - 치"
   },
   {
     "char": "侵",
@@ -5725,7 +6440,8 @@
     "meaning": "넘을침",
     "level": "4",
     "image": "assets/hanja/4/侵.webp",
-    "hun": "넘을"
+    "hun": "넘을",
+    "label": "넘을 - 침"
   },
   {
     "char": "快",
@@ -5733,7 +6449,8 @@
     "meaning": "쾌할쾌",
     "level": "4",
     "image": "assets/hanja/4/快.webp",
-    "hun": "쾌할"
+    "hun": "쾌할",
+    "label": "쾌할 - 쾌"
   },
   {
     "char": "態",
@@ -5741,7 +6458,8 @@
     "meaning": "모습태",
     "level": "4",
     "image": "assets/hanja/4/態.webp",
-    "hun": "모습"
+    "hun": "모습",
+    "label": "모습 - 태"
   },
   {
     "char": "統",
@@ -5749,7 +6467,8 @@
     "meaning": "거느릴통",
     "level": "4",
     "image": "assets/hanja/4/統.webp",
-    "hun": "거느릴"
+    "hun": "거느릴",
+    "label": "거느릴 - 통"
   },
   {
     "char": "退",
@@ -5757,7 +6476,8 @@
     "meaning": "물러날퇴",
     "level": "4",
     "image": "assets/hanja/4/退.webp",
-    "hun": "물러날"
+    "hun": "물러날",
+    "label": "물러날 - 퇴"
   },
   {
     "char": "波",
@@ -5765,7 +6485,8 @@
     "meaning": "물결파",
     "level": "4",
     "image": "assets/hanja/4/波.webp",
-    "hun": "물결"
+    "hun": "물결",
+    "label": "물결 - 파"
   },
   {
     "char": "破",
@@ -5773,7 +6494,8 @@
     "meaning": "깨뜨릴파",
     "level": "4",
     "image": "assets/hanja/4/破.webp",
-    "hun": "깨뜨릴"
+    "hun": "깨뜨릴",
+    "label": "깨뜨릴 - 파"
   },
   {
     "char": "包",
@@ -5781,7 +6503,8 @@
     "meaning": "쌀포",
     "level": "4",
     "image": "assets/hanja/4/包.webp",
-    "hun": "쌀"
+    "hun": "쌀",
+    "label": "쌀 - 포"
   },
   {
     "char": "布",
@@ -5789,7 +6512,8 @@
     "meaning": "펼포,보시보",
     "level": "4",
     "image": "assets/hanja/4/布.webp",
-    "hun": "펼"
+    "hun": "펼",
+    "label": "펼 - 포 / 보시 - 보"
   },
   {
     "char": "砲",
@@ -5797,7 +6521,8 @@
     "meaning": "대포포",
     "level": "4",
     "image": "assets/hanja/4/砲.webp",
-    "hun": "대포"
+    "hun": "대포",
+    "label": "대포 - 포"
   },
   {
     "char": "暴",
@@ -5805,7 +6530,8 @@
     "meaning": "사나울폭/포",
     "level": "4",
     "image": "assets/hanja/4/暴.webp",
-    "hun": "사나울폭"
+    "hun": "사나울폭",
+    "label": "사나울 - 폭 / 포"
   },
   {
     "char": "票",
@@ -5813,7 +6539,8 @@
     "meaning": "표표",
     "level": "4",
     "image": "assets/hanja/4/票.webp",
-    "hun": "표"
+    "hun": "표",
+    "label": "표 - 표"
   },
   {
     "char": "豊",
@@ -5821,7 +6548,8 @@
     "meaning": "풍년풍",
     "level": "4",
     "image": "assets/hanja/4/豊.webp",
-    "hun": "풍년"
+    "hun": "풍년",
+    "label": "풍년 - 풍"
   },
   {
     "char": "限",
@@ -5829,7 +6557,8 @@
     "meaning": "한계한",
     "level": "4",
     "image": "assets/hanja/4/限.webp",
-    "hun": "한계"
+    "hun": "한계",
+    "label": "한계 - 한"
   },
   {
     "char": "港",
@@ -5837,7 +6566,8 @@
     "meaning": "항구항",
     "level": "4",
     "image": "assets/hanja/4/港.webp",
-    "hun": "항구"
+    "hun": "항구",
+    "label": "항구 - 항"
   },
   {
     "char": "航",
@@ -5845,7 +6575,8 @@
     "meaning": "배항",
     "level": "4",
     "image": "assets/hanja/4/航.webp",
-    "hun": "배"
+    "hun": "배",
+    "label": "배 - 항"
   },
   {
     "char": "解",
@@ -5853,7 +6584,8 @@
     "meaning": "풀해",
     "level": "4",
     "image": "assets/hanja/4/解.webp",
-    "hun": "풀"
+    "hun": "풀",
+    "label": "풀 - 해"
   },
   {
     "char": "鄕",
@@ -5861,7 +6593,8 @@
     "meaning": "시골향",
     "level": "4",
     "image": "assets/hanja/4/鄕.webp",
-    "hun": "시골"
+    "hun": "시골",
+    "label": "시골 - 향"
   },
   {
     "char": "香",
@@ -5869,7 +6602,8 @@
     "meaning": "향기향",
     "level": "4",
     "image": "assets/hanja/4/香.webp",
-    "hun": "향기"
+    "hun": "향기",
+    "label": "향기 - 향"
   },
   {
     "char": "虛",
@@ -5877,7 +6611,8 @@
     "meaning": "빌허",
     "level": "4",
     "image": "assets/hanja/4/虛.webp",
-    "hun": "빌"
+    "hun": "빌",
+    "label": "빌 - 허"
   },
   {
     "char": "驗",
@@ -5885,7 +6620,8 @@
     "meaning": "시험할험",
     "level": "4",
     "image": "assets/hanja/4/驗.webp",
-    "hun": "시험할"
+    "hun": "시험할",
+    "label": "시험할 - 험"
   },
   {
     "char": "賢",
@@ -5893,7 +6629,8 @@
     "meaning": "어질현",
     "level": "4",
     "image": "assets/hanja/4/賢.webp",
-    "hun": "어질"
+    "hun": "어질",
+    "label": "어질 - 현"
   },
   {
     "char": "血",
@@ -5901,7 +6638,8 @@
     "meaning": "피혈",
     "level": "4",
     "image": "assets/hanja/4/血.webp",
-    "hun": "피"
+    "hun": "피",
+    "label": "피 - 혈"
   },
   {
     "char": "協",
@@ -5909,7 +6647,8 @@
     "meaning": "화할협",
     "level": "4",
     "image": "assets/hanja/4/協.webp",
-    "hun": "화할"
+    "hun": "화할",
+    "label": "화할 - 협"
   },
   {
     "char": "惠",
@@ -5917,7 +6656,8 @@
     "meaning": "은혜혜",
     "level": "4",
     "image": "assets/hanja/4/惠.webp",
-    "hun": "은혜"
+    "hun": "은혜",
+    "label": "은혜 - 혜"
   },
   {
     "char": "呼",
@@ -5925,7 +6665,8 @@
     "meaning": "부를호",
     "level": "4",
     "image": "assets/hanja/4/呼.webp",
-    "hun": "부를"
+    "hun": "부를",
+    "label": "부를 - 호"
   },
   {
     "char": "好",
@@ -5933,7 +6674,8 @@
     "meaning": "좋을호",
     "level": "4",
     "image": "assets/hanja/4/好.webp",
-    "hun": "좋을"
+    "hun": "좋을",
+    "label": "좋을 - 호"
   },
   {
     "char": "戶",
@@ -5941,7 +6683,8 @@
     "meaning": "문호",
     "level": "4",
     "image": "assets/hanja/4/戶.webp",
-    "hun": "문"
+    "hun": "문",
+    "label": "문 - 호"
   },
   {
     "char": "護",
@@ -5949,7 +6692,8 @@
     "meaning": "도울호",
     "level": "4",
     "image": "assets/hanja/4/護.webp",
-    "hun": "도울"
+    "hun": "도울",
+    "label": "도울 - 호"
   },
   {
     "char": "貨",
@@ -5957,7 +6701,8 @@
     "meaning": "재화화",
     "level": "4",
     "image": "assets/hanja/4/貨.webp",
-    "hun": "재화"
+    "hun": "재화",
+    "label": "재화 - 화"
   },
   {
     "char": "確",
@@ -5965,7 +6710,8 @@
     "meaning": "굳을확",
     "level": "4",
     "image": "assets/hanja/4/確.webp",
-    "hun": "굳을"
+    "hun": "굳을",
+    "label": "굳을 - 확"
   },
   {
     "char": "回",
@@ -5973,7 +6719,8 @@
     "meaning": "돌아올회",
     "level": "4",
     "image": "assets/hanja/4/回.webp",
-    "hun": "돌아올"
+    "hun": "돌아올",
+    "label": "돌아올 - 회"
   },
   {
     "char": "吸",
@@ -5981,7 +6728,8 @@
     "meaning": "마실흡",
     "level": "4",
     "image": "assets/hanja/4/吸.webp",
-    "hun": "마실"
+    "hun": "마실",
+    "label": "마실 - 흡"
   },
   {
     "char": "興",
@@ -5989,7 +6737,8 @@
     "meaning": "일흥",
     "level": "4",
     "image": "assets/hanja/4/興.webp",
-    "hun": "일"
+    "hun": "일",
+    "label": "일 - 흥"
   },
   {
     "char": "希",
@@ -5997,7 +6746,8 @@
     "meaning": "바랄희",
     "level": "4",
     "image": "assets/hanja/4/希.webp",
-    "hun": "바랄"
+    "hun": "바랄",
+    "label": "바랄 - 희"
   },
   {
     "char": "暇",
@@ -6005,7 +6755,8 @@
     "meaning": "겨를가",
     "level": "4",
     "image": "assets/hanja/4/暇.webp",
-    "hun": "겨를"
+    "hun": "겨를",
+    "label": "겨를 - 가"
   },
   {
     "char": "刻",
@@ -6013,7 +6764,8 @@
     "meaning": "새길각",
     "level": "4",
     "image": "assets/hanja/4/刻.webp",
-    "hun": "새길"
+    "hun": "새길",
+    "label": "새길 - 각"
   },
   {
     "char": "覺",
@@ -6021,7 +6773,8 @@
     "meaning": "깨달을각",
     "level": "4",
     "image": "assets/hanja/4/覺.webp",
-    "hun": "깨달을"
+    "hun": "깨달을",
+    "label": "깨달을 - 각"
   },
   {
     "char": "干",
@@ -6029,7 +6782,8 @@
     "meaning": "방패/막을간",
     "level": "4",
     "image": "assets/hanja/4/干.webp",
-    "hun": "방패/막을"
+    "hun": "방패/막을",
+    "label": "방패 / 막을 - 간"
   },
   {
     "char": "看",
@@ -6037,7 +6791,8 @@
     "meaning": "볼간",
     "level": "4",
     "image": "assets/hanja/4/看.webp",
-    "hun": "볼"
+    "hun": "볼",
+    "label": "볼 - 간"
   },
   {
     "char": "簡",
@@ -6045,7 +6800,8 @@
     "meaning": "대쪽/간략할간",
     "level": "4",
     "image": "assets/hanja/4/簡.webp",
-    "hun": "대쪽/간략할"
+    "hun": "대쪽/간략할",
+    "label": "대쪽 / 간략할 - 간"
   },
   {
     "char": "敢",
@@ -6053,7 +6809,8 @@
     "meaning": "감히감",
     "level": "4",
     "image": "assets/hanja/4/敢.webp",
-    "hun": "감히"
+    "hun": "감히",
+    "label": "감히 - 감"
   },
   {
     "char": "甘",
@@ -6061,7 +6818,8 @@
     "meaning": "달감",
     "level": "4",
     "image": "assets/hanja/4/甘.webp",
-    "hun": "달"
+    "hun": "달",
+    "label": "달 - 감"
   },
   {
     "char": "甲",
@@ -6069,7 +6827,8 @@
     "meaning": "첫째천간/갑옷갑",
     "level": "4",
     "image": "assets/hanja/4/甲.webp",
-    "hun": "첫째천간/갑옷"
+    "hun": "첫째천간/갑옷",
+    "label": "첫째천간 / 갑옷 - 갑"
   },
   {
     "char": "降",
@@ -6077,7 +6836,8 @@
     "meaning": "내릴강,항복할항",
     "level": "4",
     "image": "assets/hanja/4/降.webp",
-    "hun": "내릴"
+    "hun": "내릴",
+    "label": "내릴 - 강 / 항복할 - 항"
   },
   {
     "char": "居",
@@ -6085,7 +6845,8 @@
     "meaning": "살거",
     "level": "4",
     "image": "assets/hanja/4/居.webp",
-    "hun": "살"
+    "hun": "살",
+    "label": "살 - 거"
   },
   {
     "char": "巨",
@@ -6093,7 +6854,8 @@
     "meaning": "클거",
     "level": "4",
     "image": "assets/hanja/4/巨.webp",
-    "hun": "클"
+    "hun": "클",
+    "label": "클 - 거"
   },
   {
     "char": "拒",
@@ -6101,7 +6863,8 @@
     "meaning": "막을거",
     "level": "4",
     "image": "assets/hanja/4/拒.webp",
-    "hun": "막을"
+    "hun": "막을",
+    "label": "막을 - 거"
   },
   {
     "char": "據",
@@ -6109,7 +6872,8 @@
     "meaning": "근거거",
     "level": "4",
     "image": "assets/hanja/4/據.webp",
-    "hun": "근거"
+    "hun": "근거",
+    "label": "근거 - 거"
   },
   {
     "char": "傑",
@@ -6117,7 +6881,8 @@
     "meaning": "뛰어날걸",
     "level": "4",
     "image": "assets/hanja/4/傑.webp",
-    "hun": "뛰어날"
+    "hun": "뛰어날",
+    "label": "뛰어날 - 걸"
   },
   {
     "char": "儉",
@@ -6125,7 +6890,8 @@
     "meaning": "검소할검",
     "level": "4",
     "image": "assets/hanja/4/儉.webp",
-    "hun": "검소할"
+    "hun": "검소할",
+    "label": "검소할 - 검"
   },
   {
     "char": "擊",
@@ -6133,7 +6899,8 @@
     "meaning": "칠격",
     "level": "4",
     "image": "assets/hanja/4/擊.webp",
-    "hun": "칠"
+    "hun": "칠",
+    "label": "칠 - 격"
   },
   {
     "char": "激",
@@ -6141,7 +6908,8 @@
     "meaning": "격할격",
     "level": "4",
     "image": "assets/hanja/4/激.webp",
-    "hun": "격할"
+    "hun": "격할",
+    "label": "격할 - 격"
   },
   {
     "char": "堅",
@@ -6149,7 +6917,8 @@
     "meaning": "굳을견",
     "level": "4",
     "image": "assets/hanja/4/堅.webp",
-    "hun": "굳을"
+    "hun": "굳을",
+    "label": "굳을 - 견"
   },
   {
     "char": "犬",
@@ -6157,7 +6926,8 @@
     "meaning": "개견",
     "level": "4",
     "image": "assets/hanja/4/犬.webp",
-    "hun": "개"
+    "hun": "개",
+    "label": "개 - 견"
   },
   {
     "char": "傾",
@@ -6165,7 +6935,8 @@
     "meaning": "기울경",
     "level": "4",
     "image": "assets/hanja/4/傾.webp",
-    "hun": "기울"
+    "hun": "기울",
+    "label": "기울 - 경"
   },
   {
     "char": "更",
@@ -6173,7 +6944,8 @@
     "meaning": "다시갱,고칠경",
     "level": "4",
     "image": "assets/hanja/4/更.webp",
-    "hun": "다시"
+    "hun": "다시",
+    "label": "다시 - 갱 / 고칠 - 경"
   },
   {
     "char": "鏡",
@@ -6181,7 +6953,8 @@
     "meaning": "거울경",
     "level": "4",
     "image": "assets/hanja/4/鏡.webp",
-    "hun": "거울"
+    "hun": "거울",
+    "label": "거울 - 경"
   },
   {
     "char": "驚",
@@ -6189,7 +6962,8 @@
     "meaning": "놀랄경",
     "level": "4",
     "image": "assets/hanja/4/驚.webp",
-    "hun": "놀랄"
+    "hun": "놀랄",
+    "label": "놀랄 - 경"
   },
   {
     "char": "季",
@@ -6197,7 +6971,8 @@
     "meaning": "철계",
     "level": "4",
     "image": "assets/hanja/4/季.webp",
-    "hun": "철"
+    "hun": "철",
+    "label": "철 - 계"
   },
   {
     "char": "戒",
@@ -6205,7 +6980,8 @@
     "meaning": "경계할계",
     "level": "4",
     "image": "assets/hanja/4/戒.webp",
-    "hun": "경계할"
+    "hun": "경계할",
+    "label": "경계할 - 계"
   },
   {
     "char": "系",
@@ -6213,7 +6989,8 @@
     "meaning": "이을계",
     "level": "4",
     "image": "assets/hanja/4/系.webp",
-    "hun": "이을"
+    "hun": "이을",
+    "label": "이을 - 계"
   },
   {
     "char": "繼",
@@ -6221,7 +6998,8 @@
     "meaning": "이을계",
     "level": "4",
     "image": "assets/hanja/4/繼.webp",
-    "hun": "이을"
+    "hun": "이을",
+    "label": "이을 - 계"
   },
   {
     "char": "階",
@@ -6229,7 +7007,8 @@
     "meaning": "섬돌계",
     "level": "4",
     "image": "assets/hanja/4/階.webp",
-    "hun": "섬돌"
+    "hun": "섬돌",
+    "label": "섬돌 - 계"
   },
   {
     "char": "鷄",
@@ -6237,7 +7016,8 @@
     "meaning": "닭계",
     "level": "4",
     "image": "assets/hanja/4/鷄.webp",
-    "hun": "닭"
+    "hun": "닭",
+    "label": "닭 - 계"
   },
   {
     "char": "孤",
@@ -6245,7 +7025,8 @@
     "meaning": "외로울고",
     "level": "4",
     "image": "assets/hanja/4/孤.webp",
-    "hun": "외로울"
+    "hun": "외로울",
+    "label": "외로울 - 고"
   },
   {
     "char": "庫",
@@ -6253,7 +7034,8 @@
     "meaning": "창고고",
     "level": "4",
     "image": "assets/hanja/4/庫.webp",
-    "hun": "창고"
+    "hun": "창고",
+    "label": "창고 - 고"
   },
   {
     "char": "穀",
@@ -6261,7 +7043,8 @@
     "meaning": "곡식곡",
     "level": "4",
     "image": "assets/hanja/4/穀.webp",
-    "hun": "곡식"
+    "hun": "곡식",
+    "label": "곡식 - 곡"
   },
   {
     "char": "困",
@@ -6269,7 +7052,8 @@
     "meaning": "곤할곤",
     "level": "4",
     "image": "assets/hanja/4/困.webp",
-    "hun": "곤할"
+    "hun": "곤할",
+    "label": "곤할 - 곤"
   },
   {
     "char": "骨",
@@ -6277,7 +7061,8 @@
     "meaning": "뼈골",
     "level": "4",
     "image": "assets/hanja/4/骨.webp",
-    "hun": "뼈"
+    "hun": "뼈",
+    "label": "뼈 - 골"
   },
   {
     "char": "孔",
@@ -6285,7 +7070,8 @@
     "meaning": "구멍공",
     "level": "4",
     "image": "assets/hanja/4/孔.webp",
-    "hun": "구멍"
+    "hun": "구멍",
+    "label": "구멍 - 공"
   },
   {
     "char": "攻",
@@ -6293,7 +7079,8 @@
     "meaning": "칠공",
     "level": "4",
     "image": "assets/hanja/4/攻.webp",
-    "hun": "칠"
+    "hun": "칠",
+    "label": "칠 - 공"
   },
   {
     "char": "管",
@@ -6301,7 +7088,8 @@
     "meaning": "대롱/주관할관",
     "level": "4",
     "image": "assets/hanja/4/管.webp",
-    "hun": "대롱/주관할"
+    "hun": "대롱/주관할",
+    "label": "대롱 / 주관할 - 관"
   },
   {
     "char": "鑛",
@@ -6309,7 +7097,8 @@
     "meaning": "쇳돌광",
     "level": "4",
     "image": "assets/hanja/4/鑛.webp",
-    "hun": "쇳돌"
+    "hun": "쇳돌",
+    "label": "쇳돌 - 광"
   },
   {
     "char": "構",
@@ -6317,7 +7106,8 @@
     "meaning": "얽을구",
     "level": "4",
     "image": "assets/hanja/4/構.webp",
-    "hun": "얽을"
+    "hun": "얽을",
+    "label": "얽을 - 구"
   },
   {
     "char": "君",
@@ -6325,7 +7115,8 @@
     "meaning": "임금군",
     "level": "4",
     "image": "assets/hanja/4/君.webp",
-    "hun": "임금"
+    "hun": "임금",
+    "label": "임금 - 군"
   },
   {
     "char": "群",
@@ -6333,7 +7124,8 @@
     "meaning": "무리군",
     "level": "4",
     "image": "assets/hanja/4/群.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 군"
   },
   {
     "char": "屈",
@@ -6341,7 +7133,8 @@
     "meaning": "굽힐굴",
     "level": "4",
     "image": "assets/hanja/4/屈.webp",
-    "hun": "굽힐"
+    "hun": "굽힐",
+    "label": "굽힐 - 굴"
   },
   {
     "char": "窮",
@@ -6349,7 +7142,8 @@
     "meaning": "다할궁",
     "level": "4",
     "image": "assets/hanja/4/窮.webp",
-    "hun": "다할"
+    "hun": "다할",
+    "label": "다할 - 궁"
   },
   {
     "char": "券",
@@ -6357,7 +7151,8 @@
     "meaning": "문서권",
     "level": "4",
     "image": "assets/hanja/4/券.webp",
-    "hun": "문서"
+    "hun": "문서",
+    "label": "문서 - 권"
   },
   {
     "char": "勸",
@@ -6365,7 +7160,8 @@
     "meaning": "권할권",
     "level": "4",
     "image": "assets/hanja/4/勸.webp",
-    "hun": "권할"
+    "hun": "권할",
+    "label": "권할 - 권"
   },
   {
     "char": "卷",
@@ -6373,7 +7169,8 @@
     "meaning": "책권",
     "level": "4",
     "image": "assets/hanja/4/卷.webp",
-    "hun": "책"
+    "hun": "책",
+    "label": "책 - 권"
   },
   {
     "char": "歸",
@@ -6381,7 +7178,8 @@
     "meaning": "돌아갈귀",
     "level": "4",
     "image": "assets/hanja/4/歸.webp",
-    "hun": "돌아갈"
+    "hun": "돌아갈",
+    "label": "돌아갈 - 귀"
   },
   {
     "char": "均",
@@ -6389,7 +7187,8 @@
     "meaning": "고를균",
     "level": "4",
     "image": "assets/hanja/4/均.webp",
-    "hun": "고를"
+    "hun": "고를",
+    "label": "고를 - 균"
   },
   {
     "char": "劇",
@@ -6397,7 +7196,8 @@
     "meaning": "연극/심할극",
     "level": "4",
     "image": "assets/hanja/4/劇.webp",
-    "hun": "연극/심할"
+    "hun": "연극/심할",
+    "label": "연극 / 심할 - 극"
   },
   {
     "char": "勤",
@@ -6405,7 +7205,8 @@
     "meaning": "부지런할근",
     "level": "4",
     "image": "assets/hanja/4/勤.webp",
-    "hun": "부지런할"
+    "hun": "부지런할",
+    "label": "부지런할 - 근"
   },
   {
     "char": "筋",
@@ -6413,7 +7214,8 @@
     "meaning": "힘줄근",
     "level": "4",
     "image": "assets/hanja/4/筋.webp",
-    "hun": "힘줄"
+    "hun": "힘줄",
+    "label": "힘줄 - 근"
   },
   {
     "char": "奇",
@@ -6421,7 +7223,8 @@
     "meaning": "기이할기",
     "level": "4",
     "image": "assets/hanja/4/奇.webp",
-    "hun": "기이할"
+    "hun": "기이할",
+    "label": "기이할 - 기"
   },
   {
     "char": "寄",
@@ -6429,7 +7232,8 @@
     "meaning": "부칠기",
     "level": "4",
     "image": "assets/hanja/4/寄.webp",
-    "hun": "부칠"
+    "hun": "부칠",
+    "label": "부칠 - 기"
   },
   {
     "char": "機",
@@ -6437,7 +7241,8 @@
     "meaning": "틀기",
     "level": "4",
     "image": "assets/hanja/4/機.webp",
-    "hun": "틀"
+    "hun": "틀",
+    "label": "틀 - 기"
   },
   {
     "char": "紀",
@@ -6445,7 +7250,8 @@
     "meaning": "벼리기",
     "level": "4",
     "image": "assets/hanja/4/紀.webp",
-    "hun": "벼리"
+    "hun": "벼리",
+    "label": "벼리 - 기"
   },
   {
     "char": "納",
@@ -6453,7 +7259,8 @@
     "meaning": "들일납",
     "level": "4",
     "image": "assets/hanja/4/納.webp",
-    "hun": "들일"
+    "hun": "들일",
+    "label": "들일 - 납"
   },
   {
     "char": "段",
@@ -6461,7 +7268,8 @@
     "meaning": "층계단",
     "level": "4",
     "image": "assets/hanja/4/段.webp",
-    "hun": "층계"
+    "hun": "층계",
+    "label": "층계 - 단"
   },
   {
     "char": "徒",
@@ -6469,7 +7277,8 @@
     "meaning": "무리도",
     "level": "4",
     "image": "assets/hanja/4/徒.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 도"
   },
   {
     "char": "盜",
@@ -6477,7 +7286,8 @@
     "meaning": "도둑도",
     "level": "4",
     "image": "assets/hanja/4/盜.webp",
-    "hun": "도둑"
+    "hun": "도둑",
+    "label": "도둑 - 도"
   },
   {
     "char": "逃",
@@ -6485,7 +7295,8 @@
     "meaning": "달아날도",
     "level": "4",
     "image": "assets/hanja/4/逃.webp",
-    "hun": "달아날"
+    "hun": "달아날",
+    "label": "달아날 - 도"
   },
   {
     "char": "亂",
@@ -6493,7 +7304,8 @@
     "meaning": "어지러울란",
     "level": "4",
     "image": "assets/hanja/4/亂.webp",
-    "hun": "어지러울"
+    "hun": "어지러울",
+    "label": "어지러울 - 란"
   },
   {
     "char": "卵",
@@ -6501,7 +7313,8 @@
     "meaning": "알란",
     "level": "4",
     "image": "assets/hanja/4/卵.webp",
-    "hun": "알"
+    "hun": "알",
+    "label": "알 - 란"
   },
   {
     "char": "覽",
@@ -6509,7 +7322,8 @@
     "meaning": "볼람",
     "level": "4",
     "image": "assets/hanja/4/覽.webp",
-    "hun": "볼"
+    "hun": "볼",
+    "label": "볼 - 람"
   },
   {
     "char": "略",
@@ -6517,7 +7331,8 @@
     "meaning": "책략/간략할략",
     "level": "4",
     "image": "assets/hanja/4/略.webp",
-    "hun": "책략/간략할"
+    "hun": "책략/간략할",
+    "label": "책략 / 간략할 - 략"
   },
   {
     "char": "糧",
@@ -6525,7 +7340,8 @@
     "meaning": "양식량",
     "level": "4",
     "image": "assets/hanja/4/糧.webp",
-    "hun": "양식"
+    "hun": "양식",
+    "label": "양식 - 량"
   },
   {
     "char": "慮",
@@ -6533,7 +7349,8 @@
     "meaning": "생각할려",
     "level": "4",
     "image": "assets/hanja/4/慮.webp",
-    "hun": "생각할"
+    "hun": "생각할",
+    "label": "생각할 - 려"
   },
   {
     "char": "烈",
@@ -6541,7 +7358,8 @@
     "meaning": "매울렬",
     "level": "4",
     "image": "assets/hanja/4/烈.webp",
-    "hun": "매울"
+    "hun": "매울",
+    "label": "매울 - 렬"
   },
   {
     "char": "龍",
@@ -6549,7 +7367,8 @@
     "meaning": "용룡",
     "level": "4",
     "image": "assets/hanja/4/龍.webp",
-    "hun": "용"
+    "hun": "용",
+    "label": "용 - 룡"
   },
   {
     "char": "柳",
@@ -6557,7 +7376,8 @@
     "meaning": "버들류",
     "level": "4",
     "image": "assets/hanja/4/柳.webp",
-    "hun": "버들"
+    "hun": "버들",
+    "label": "버들 - 류"
   },
   {
     "char": "輪",
@@ -6565,7 +7385,8 @@
     "meaning": "바퀴륜",
     "level": "4",
     "image": "assets/hanja/4/輪.webp",
-    "hun": "바퀴"
+    "hun": "바퀴",
+    "label": "바퀴 - 륜"
   },
   {
     "char": "離",
@@ -6573,7 +7394,8 @@
     "meaning": "떠날리",
     "level": "4",
     "image": "assets/hanja/4/離.webp",
-    "hun": "떠날"
+    "hun": "떠날",
+    "label": "떠날 - 리"
   },
   {
     "char": "妹",
@@ -6581,7 +7403,8 @@
     "meaning": "손아래누이매",
     "level": "4",
     "image": "assets/hanja/4/妹.webp",
-    "hun": "손아래누이"
+    "hun": "손아래누이",
+    "label": "손아래누이 - 매"
   },
   {
     "char": "勉",
@@ -6589,7 +7412,8 @@
     "meaning": "힘쓸면",
     "level": "4",
     "image": "assets/hanja/4/勉.webp",
-    "hun": "힘쓸"
+    "hun": "힘쓸",
+    "label": "힘쓸 - 면"
   },
   {
     "char": "鳴",
@@ -6597,7 +7421,8 @@
     "meaning": "울명",
     "level": "4",
     "image": "assets/hanja/4/鳴.webp",
-    "hun": "울"
+    "hun": "울",
+    "label": "울 - 명"
   },
   {
     "char": "模",
@@ -6605,7 +7430,8 @@
     "meaning": "본뜰모",
     "level": "4",
     "image": "assets/hanja/4/模.webp",
-    "hun": "본뜰"
+    "hun": "본뜰",
+    "label": "본뜰 - 모"
   },
   {
     "char": "墓",
@@ -6613,7 +7439,8 @@
     "meaning": "무덤묘",
     "level": "4",
     "image": "assets/hanja/4/墓.webp",
-    "hun": "무덤"
+    "hun": "무덤",
+    "label": "무덤 - 묘"
   },
   {
     "char": "妙",
@@ -6621,7 +7448,8 @@
     "meaning": "묘할묘",
     "level": "4",
     "image": "assets/hanja/4/妙.webp",
-    "hun": "묘할"
+    "hun": "묘할",
+    "label": "묘할 - 묘"
   },
   {
     "char": "舞",
@@ -6629,7 +7457,8 @@
     "meaning": "춤출무",
     "level": "4",
     "image": "assets/hanja/4/舞.webp",
-    "hun": "춤출"
+    "hun": "춤출",
+    "label": "춤출 - 무"
   },
   {
     "char": "拍",
@@ -6637,7 +7466,8 @@
     "meaning": "칠박",
     "level": "4",
     "image": "assets/hanja/4/拍.webp",
-    "hun": "칠"
+    "hun": "칠",
+    "label": "칠 - 박"
   },
   {
     "char": "髮",
@@ -6645,7 +7475,8 @@
     "meaning": "터럭발",
     "level": "4",
     "image": "assets/hanja/4/髮.webp",
-    "hun": "터럭"
+    "hun": "터럭",
+    "label": "터럭 - 발"
   },
   {
     "char": "妨",
@@ -6653,7 +7484,8 @@
     "meaning": "방해할방",
     "level": "4",
     "image": "assets/hanja/4/妨.webp",
-    "hun": "방해할"
+    "hun": "방해할",
+    "label": "방해할 - 방"
   },
   {
     "char": "犯",
@@ -6661,7 +7493,8 @@
     "meaning": "범할범",
     "level": "4",
     "image": "assets/hanja/4/犯.webp",
-    "hun": "범할"
+    "hun": "범할",
+    "label": "범할 - 범"
   },
   {
     "char": "範",
@@ -6669,7 +7502,8 @@
     "meaning": "법범",
     "level": "4",
     "image": "assets/hanja/4/範.webp",
-    "hun": "법"
+    "hun": "법",
+    "label": "법 - 범"
   },
   {
     "char": "辯",
@@ -6677,7 +7511,8 @@
     "meaning": "말씀변",
     "level": "4",
     "image": "assets/hanja/4/辯.webp",
-    "hun": "말씀"
+    "hun": "말씀",
+    "label": "말씀 - 변"
   },
   {
     "char": "普",
@@ -6685,7 +7520,8 @@
     "meaning": "넓을보",
     "level": "4",
     "image": "assets/hanja/4/普.webp",
-    "hun": "넓을"
+    "hun": "넓을",
+    "label": "넓을 - 보"
   },
   {
     "char": "伏",
@@ -6693,7 +7529,8 @@
     "meaning": "엎드릴복",
     "level": "4",
     "image": "assets/hanja/4/伏.webp",
-    "hun": "엎드릴"
+    "hun": "엎드릴",
+    "label": "엎드릴 - 복"
   },
   {
     "char": "複",
@@ -6701,7 +7538,8 @@
     "meaning": "겹칠복",
     "level": "4",
     "image": "assets/hanja/4/複.webp",
-    "hun": "겹칠"
+    "hun": "겹칠",
+    "label": "겹칠 - 복"
   },
   {
     "char": "否",
@@ -6709,7 +7547,8 @@
     "meaning": "아닐부",
     "level": "4",
     "image": "assets/hanja/4/否.webp",
-    "hun": "아닐"
+    "hun": "아닐",
+    "label": "아닐 - 부"
   },
   {
     "char": "負",
@@ -6717,7 +7556,8 @@
     "meaning": "질부",
     "level": "4",
     "image": "assets/hanja/4/負.webp",
-    "hun": "질"
+    "hun": "질",
+    "label": "질 - 부"
   },
   {
     "char": "憤",
@@ -6725,7 +7565,8 @@
     "meaning": "분할분",
     "level": "4",
     "image": "assets/hanja/4/憤.webp",
-    "hun": "분할"
+    "hun": "분할",
+    "label": "분할 - 분"
   },
   {
     "char": "粉",
@@ -6733,7 +7574,8 @@
     "meaning": "가루분",
     "level": "4",
     "image": "assets/hanja/4/粉.webp",
-    "hun": "가루"
+    "hun": "가루",
+    "label": "가루 - 분"
   },
   {
     "char": "批",
@@ -6741,7 +7583,8 @@
     "meaning": "비평할비",
     "level": "4",
     "image": "assets/hanja/4/批.webp",
-    "hun": "비평할"
+    "hun": "비평할",
+    "label": "비평할 - 비"
   },
   {
     "char": "碑",
@@ -6749,7 +7592,8 @@
     "meaning": "비석비",
     "level": "4",
     "image": "assets/hanja/4/碑.webp",
-    "hun": "비석"
+    "hun": "비석",
+    "label": "비석 - 비"
   },
   {
     "char": "祕",
@@ -6757,7 +7601,8 @@
     "meaning": "숨길비",
     "level": "4",
     "image": "assets/hanja/4/祕.webp",
-    "hun": "숨길"
+    "hun": "숨길",
+    "label": "숨길 - 비"
   },
   {
     "char": "射",
@@ -6765,7 +7610,8 @@
     "meaning": "쏠사",
     "level": "4",
     "image": "assets/hanja/4/射.webp",
-    "hun": "쏠"
+    "hun": "쏠",
+    "label": "쏠 - 사"
   },
   {
     "char": "私",
@@ -6773,7 +7619,8 @@
     "meaning": "사사로울사",
     "level": "4",
     "image": "assets/hanja/4/私.webp",
-    "hun": "사사로울"
+    "hun": "사사로울",
+    "label": "사사로울 - 사"
   },
   {
     "char": "絲",
@@ -6781,7 +7628,8 @@
     "meaning": "실사",
     "level": "4",
     "image": "assets/hanja/4/絲.webp",
-    "hun": "실"
+    "hun": "실",
+    "label": "실 - 사"
   },
   {
     "char": "辭",
@@ -6789,7 +7637,8 @@
     "meaning": "말씀사",
     "level": "4",
     "image": "assets/hanja/4/辭.webp",
-    "hun": "말씀"
+    "hun": "말씀",
+    "label": "말씀 - 사"
   },
   {
     "char": "散",
@@ -6797,7 +7646,8 @@
     "meaning": "흩을산",
     "level": "4",
     "image": "assets/hanja/4/散.webp",
-    "hun": "흩을"
+    "hun": "흩을",
+    "label": "흩을 - 산"
   },
   {
     "char": "傷",
@@ -6805,7 +7655,8 @@
     "meaning": "상할상",
     "level": "4",
     "image": "assets/hanja/4/傷.webp",
-    "hun": "상할"
+    "hun": "상할",
+    "label": "상할 - 상"
   },
   {
     "char": "象",
@@ -6813,7 +7664,8 @@
     "meaning": "코끼리/모양상",
     "level": "4",
     "image": "assets/hanja/4/象.webp",
-    "hun": "코끼리/모양"
+    "hun": "코끼리/모양",
+    "label": "코끼리 / 모양 - 상"
   },
   {
     "char": "宣",
@@ -6821,7 +7673,8 @@
     "meaning": "베풀선",
     "level": "4",
     "image": "assets/hanja/4/宣.webp",
-    "hun": "베풀"
+    "hun": "베풀",
+    "label": "베풀 - 선"
   },
   {
     "char": "舌",
@@ -6829,7 +7682,8 @@
     "meaning": "혀설",
     "level": "4",
     "image": "assets/hanja/4/舌.webp",
-    "hun": "혀"
+    "hun": "혀",
+    "label": "혀 - 설"
   },
   {
     "char": "屬",
@@ -6837,7 +7691,8 @@
     "meaning": "무리속",
     "level": "4",
     "image": "assets/hanja/4/屬.webp",
-    "hun": "무리"
+    "hun": "무리",
+    "label": "무리 - 속"
   },
   {
     "char": "損",
@@ -6845,7 +7700,8 @@
     "meaning": "덜손",
     "level": "4",
     "image": "assets/hanja/4/損.webp",
-    "hun": "덜"
+    "hun": "덜",
+    "label": "덜 - 손"
   },
   {
     "char": "松",
@@ -6853,7 +7709,8 @@
     "meaning": "소나무송",
     "level": "4",
     "image": "assets/hanja/4/松.webp",
-    "hun": "소나무"
+    "hun": "소나무",
+    "label": "소나무 - 송"
   },
   {
     "char": "頌",
@@ -6861,7 +7718,8 @@
     "meaning": "기릴송",
     "level": "4",
     "image": "assets/hanja/4/頌.webp",
-    "hun": "기릴"
+    "hun": "기릴",
+    "label": "기릴 - 송"
   },
   {
     "char": "秀",
@@ -6869,7 +7727,8 @@
     "meaning": "빼어날수",
     "level": "4",
     "image": "assets/hanja/4/秀.webp",
-    "hun": "빼어날"
+    "hun": "빼어날",
+    "label": "빼어날 - 수"
   },
   {
     "char": "叔",
@@ -6877,7 +7736,8 @@
     "meaning": "아저씨숙",
     "level": "4",
     "image": "assets/hanja/4/叔.webp",
-    "hun": "아저씨"
+    "hun": "아저씨",
+    "label": "아저씨 - 숙"
   },
   {
     "char": "肅",
@@ -6885,7 +7745,8 @@
     "meaning": "엄숙할숙",
     "level": "4",
     "image": "assets/hanja/4/肅.webp",
-    "hun": "엄숙할"
+    "hun": "엄숙할",
+    "label": "엄숙할 - 숙"
   },
   {
     "char": "崇",
@@ -6893,7 +7754,8 @@
     "meaning": "받들숭",
     "level": "4",
     "image": "assets/hanja/4/崇.webp",
-    "hun": "받들"
+    "hun": "받들",
+    "label": "받들 - 숭"
   },
   {
     "char": "氏",
@@ -6901,7 +7763,8 @@
     "meaning": "성씨씨",
     "level": "4",
     "image": "assets/hanja/4/氏.webp",
-    "hun": "성씨"
+    "hun": "성씨",
+    "label": "성씨 - 씨"
   },
   {
     "char": "額",
@@ -6909,7 +7772,8 @@
     "meaning": "이마액",
     "level": "4",
     "image": "assets/hanja/4/額.webp",
-    "hun": "이마"
+    "hun": "이마",
+    "label": "이마 - 액"
   },
   {
     "char": "樣",
@@ -6917,7 +7781,8 @@
     "meaning": "모양양",
     "level": "4",
     "image": "assets/hanja/4/樣.webp",
-    "hun": "모양"
+    "hun": "모양",
+    "label": "모양 - 양"
   },
   {
     "char": "嚴",
@@ -6925,7 +7790,8 @@
     "meaning": "엄할엄",
     "level": "4",
     "image": "assets/hanja/4/嚴.webp",
-    "hun": "엄할"
+    "hun": "엄할",
+    "label": "엄할 - 엄"
   },
   {
     "char": "與",
@@ -6933,7 +7799,8 @@
     "meaning": "더불/줄여",
     "level": "4",
     "image": "assets/hanja/4/與.webp",
-    "hun": "더불/줄"
+    "hun": "더불/줄",
+    "label": "더불 / 줄 - 여"
   },
   {
     "char": "域",
@@ -6941,7 +7808,8 @@
     "meaning": "지경역",
     "level": "4",
     "image": "assets/hanja/4/域.webp",
-    "hun": "지경"
+    "hun": "지경",
+    "label": "지경 - 역"
   },
   {
     "char": "易",
@@ -6949,7 +7817,8 @@
     "meaning": "바꿀역,쉬울이",
     "level": "4",
     "image": "assets/hanja/4/易.webp",
-    "hun": "바꿀"
+    "hun": "바꿀",
+    "label": "바꿀 - 역 / 쉬울 - 이"
   },
   {
     "char": "延",
@@ -6957,7 +7826,8 @@
     "meaning": "늘일연",
     "level": "4",
     "image": "assets/hanja/4/延.webp",
-    "hun": "늘일"
+    "hun": "늘일",
+    "label": "늘일 - 연"
   },
   {
     "char": "燃",
@@ -6965,7 +7835,8 @@
     "meaning": "불탈연",
     "level": "4",
     "image": "assets/hanja/4/燃.webp",
-    "hun": "불탈"
+    "hun": "불탈",
+    "label": "불탈 - 연"
   },
   {
     "char": "緣",
@@ -6973,7 +7844,8 @@
     "meaning": "인연연",
     "level": "4",
     "image": "assets/hanja/4/緣.webp",
-    "hun": "인연"
+    "hun": "인연",
+    "label": "인연 - 연"
   },
   {
     "char": "鉛",
@@ -6981,7 +7853,8 @@
     "meaning": "납연",
     "level": "4",
     "image": "assets/hanja/4/鉛.webp",
-    "hun": "납"
+    "hun": "납",
+    "label": "납 - 연"
   },
   {
     "char": "映",
@@ -6989,7 +7862,8 @@
     "meaning": "비칠영",
     "level": "4",
     "image": "assets/hanja/4/映.webp",
-    "hun": "비칠"
+    "hun": "비칠",
+    "label": "비칠 - 영"
   },
   {
     "char": "營",
@@ -6997,7 +7871,8 @@
     "meaning": "경영할영",
     "level": "4",
     "image": "assets/hanja/4/營.webp",
-    "hun": "경영할"
+    "hun": "경영할",
+    "label": "경영할 - 영"
   },
   {
     "char": "迎",
@@ -7005,7 +7880,8 @@
     "meaning": "맞을영",
     "level": "4",
     "image": "assets/hanja/4/迎.webp",
-    "hun": "맞을"
+    "hun": "맞을",
+    "label": "맞을 - 영"
   },
   {
     "char": "豫",
@@ -7013,7 +7889,8 @@
     "meaning": "미리예",
     "level": "4",
     "image": "assets/hanja/4/豫.webp",
-    "hun": "미리"
+    "hun": "미리",
+    "label": "미리 - 예"
   },
   {
     "char": "優",
@@ -7021,7 +7898,8 @@
     "meaning": "넉넉할우",
     "level": "4",
     "image": "assets/hanja/4/優.webp",
-    "hun": "넉넉할"
+    "hun": "넉넉할",
+    "label": "넉넉할 - 우"
   },
   {
     "char": "遇",
@@ -7029,7 +7907,8 @@
     "meaning": "만날우",
     "level": "4",
     "image": "assets/hanja/4/遇.webp",
-    "hun": "만날"
+    "hun": "만날",
+    "label": "만날 - 우"
   },
   {
     "char": "郵",
@@ -7037,7 +7916,8 @@
     "meaning": "우편우",
     "level": "4",
     "image": "assets/hanja/4/郵.webp",
-    "hun": "우편"
+    "hun": "우편",
+    "label": "우편 - 우"
   },
   {
     "char": "怨",
@@ -7045,7 +7925,8 @@
     "meaning": "원망할원",
     "level": "4",
     "image": "assets/hanja/4/怨.webp",
-    "hun": "원망할"
+    "hun": "원망할",
+    "label": "원망할 - 원"
   },
   {
     "char": "援",
@@ -7053,7 +7934,8 @@
     "meaning": "도울원",
     "level": "4",
     "image": "assets/hanja/4/援.webp",
-    "hun": "도울"
+    "hun": "도울",
+    "label": "도울 - 원"
   },
   {
     "char": "源",
@@ -7061,7 +7943,8 @@
     "meaning": "근원원",
     "level": "4",
     "image": "assets/hanja/4/源.webp",
-    "hun": "근원"
+    "hun": "근원",
+    "label": "근원 - 원"
   },
   {
     "char": "危",
@@ -7069,7 +7952,8 @@
     "meaning": "위태할위",
     "level": "4",
     "image": "assets/hanja/4/危.webp",
-    "hun": "위태할"
+    "hun": "위태할",
+    "label": "위태할 - 위"
   },
   {
     "char": "圍",
@@ -7077,7 +7961,8 @@
     "meaning": "에워쌀위",
     "level": "4",
     "image": "assets/hanja/4/圍.webp",
-    "hun": "에워쌀"
+    "hun": "에워쌀",
+    "label": "에워쌀 - 위"
   },
   {
     "char": "委",
@@ -7085,7 +7970,8 @@
     "meaning": "맡길위",
     "level": "4",
     "image": "assets/hanja/4/委.webp",
-    "hun": "맡길"
+    "hun": "맡길",
+    "label": "맡길 - 위"
   },
   {
     "char": "威",
@@ -7093,7 +7979,8 @@
     "meaning": "위엄위",
     "level": "4",
     "image": "assets/hanja/4/威.webp",
-    "hun": "위엄"
+    "hun": "위엄",
+    "label": "위엄 - 위"
   },
   {
     "char": "慰",
@@ -7101,7 +7988,8 @@
     "meaning": "위로할위",
     "level": "4",
     "image": "assets/hanja/4/慰.webp",
-    "hun": "위로할"
+    "hun": "위로할",
+    "label": "위로할 - 위"
   },
   {
     "char": "乳",
@@ -7109,7 +7997,8 @@
     "meaning": "젖유",
     "level": "4",
     "image": "assets/hanja/4/乳.webp",
-    "hun": "젖"
+    "hun": "젖",
+    "label": "젖 - 유"
   },
   {
     "char": "儒",
@@ -7117,7 +8006,8 @@
     "meaning": "선비유",
     "level": "4",
     "image": "assets/hanja/4/儒.webp",
-    "hun": "선비"
+    "hun": "선비",
+    "label": "선비 - 유"
   },
   {
     "char": "遊",
@@ -7125,7 +8015,8 @@
     "meaning": "놀유",
     "level": "4",
     "image": "assets/hanja/4/遊.webp",
-    "hun": "놀"
+    "hun": "놀",
+    "label": "놀 - 유"
   },
   {
     "char": "遺",
@@ -7133,7 +8024,8 @@
     "meaning": "남길유",
     "level": "4",
     "image": "assets/hanja/4/遺.webp",
-    "hun": "남길"
+    "hun": "남길",
+    "label": "남길 - 유"
   },
   {
     "char": "隱",
@@ -7141,7 +8033,8 @@
     "meaning": "숨을은",
     "level": "4",
     "image": "assets/hanja/4/隱.webp",
-    "hun": "숨을"
+    "hun": "숨을",
+    "label": "숨을 - 은"
   },
   {
     "char": "依",
@@ -7149,7 +8042,8 @@
     "meaning": "의지할의",
     "level": "4",
     "image": "assets/hanja/4/依.webp",
-    "hun": "의지할"
+    "hun": "의지할",
+    "label": "의지할 - 의"
   },
   {
     "char": "儀",
@@ -7157,7 +8051,8 @@
     "meaning": "모양의",
     "level": "4",
     "image": "assets/hanja/4/儀.webp",
-    "hun": "모양"
+    "hun": "모양",
+    "label": "모양 - 의"
   },
   {
     "char": "疑",
@@ -7165,7 +8060,8 @@
     "meaning": "의심할의",
     "level": "4",
     "image": "assets/hanja/4/疑.webp",
-    "hun": "의심할"
+    "hun": "의심할",
+    "label": "의심할 - 의"
   },
   {
     "char": "異",
@@ -7173,7 +8069,8 @@
     "meaning": "다를이",
     "level": "4",
     "image": "assets/hanja/4/異.webp",
-    "hun": "다를"
+    "hun": "다를",
+    "label": "다를 - 이"
   },
   {
     "char": "仁",
@@ -7181,7 +8078,8 @@
     "meaning": "어질인",
     "level": "4",
     "image": "assets/hanja/4/仁.webp",
-    "hun": "어질"
+    "hun": "어질",
+    "label": "어질 - 인"
   },
   {
     "char": "姉",
@@ -7189,7 +8087,8 @@
     "meaning": "윗누이자",
     "level": "4",
     "image": "assets/hanja/4/姉.webp",
-    "hun": "윗누이"
+    "hun": "윗누이",
+    "label": "윗누이 - 자"
   },
   {
     "char": "姿",
@@ -7197,7 +8096,8 @@
     "meaning": "모양자",
     "level": "4",
     "image": "assets/hanja/4/姿.webp",
-    "hun": "모양"
+    "hun": "모양",
+    "label": "모양 - 자"
   },
   {
     "char": "資",
@@ -7205,7 +8105,8 @@
     "meaning": "재물자",
     "level": "4",
     "image": "assets/hanja/4/資.webp",
-    "hun": "재물"
+    "hun": "재물",
+    "label": "재물 - 자"
   },
   {
     "char": "殘",
@@ -7213,7 +8114,8 @@
     "meaning": "잔인할/남을잔",
     "level": "4",
     "image": "assets/hanja/4/殘.webp",
-    "hun": "잔인할/남을"
+    "hun": "잔인할/남을",
+    "label": "잔인할 / 남을 - 잔"
   },
   {
     "char": "雜",
@@ -7221,7 +8123,8 @@
     "meaning": "섞일잡",
     "level": "4",
     "image": "assets/hanja/4/雜.webp",
-    "hun": "섞일"
+    "hun": "섞일",
+    "label": "섞일 - 잡"
   },
   {
     "char": "壯",
@@ -7229,7 +8132,8 @@
     "meaning": "장할장",
     "level": "4",
     "image": "assets/hanja/4/壯.webp",
-    "hun": "장할"
+    "hun": "장할",
+    "label": "장할 - 장"
   },
   {
     "char": "奬",
@@ -7237,7 +8141,8 @@
     "meaning": "권장할장",
     "level": "4",
     "image": "assets/hanja/4/奬.webp",
-    "hun": "권장할"
+    "hun": "권장할",
+    "label": "권장할 - 장"
   },
   {
     "char": "帳",
@@ -7245,7 +8150,8 @@
     "meaning": "장막장",
     "level": "4",
     "image": "assets/hanja/4/帳.webp",
-    "hun": "장막"
+    "hun": "장막",
+    "label": "장막 - 장"
   },
   {
     "char": "張",
@@ -7253,7 +8159,8 @@
     "meaning": "베풀장",
     "level": "4",
     "image": "assets/hanja/4/張.webp",
-    "hun": "베풀"
+    "hun": "베풀",
+    "label": "베풀 - 장"
   },
   {
     "char": "腸",
@@ -7261,7 +8168,8 @@
     "meaning": "창자장",
     "level": "4",
     "image": "assets/hanja/4/腸.webp",
-    "hun": "창자"
+    "hun": "창자",
+    "label": "창자 - 장"
   },
   {
     "char": "裝",
@@ -7269,7 +8177,8 @@
     "meaning": "꾸밀장",
     "level": "4",
     "image": "assets/hanja/4/裝.webp",
-    "hun": "꾸밀"
+    "hun": "꾸밀",
+    "label": "꾸밀 - 장"
   },
   {
     "char": "底",
@@ -7277,7 +8186,8 @@
     "meaning": "밑저",
     "level": "4",
     "image": "assets/hanja/4/底.webp",
-    "hun": "밑"
+    "hun": "밑",
+    "label": "밑 - 저"
   },
   {
     "char": "積",
@@ -7285,7 +8195,8 @@
     "meaning": "쌓을적",
     "level": "4",
     "image": "assets/hanja/4/積.webp",
-    "hun": "쌓을"
+    "hun": "쌓을",
+    "label": "쌓을 - 적"
   },
   {
     "char": "籍",
@@ -7293,7 +8204,8 @@
     "meaning": "문서적",
     "level": "4",
     "image": "assets/hanja/4/籍.webp",
-    "hun": "문서"
+    "hun": "문서",
+    "label": "문서 - 적"
   },
   {
     "char": "績",
@@ -7301,7 +8213,8 @@
     "meaning": "길쌈할/공적적",
     "level": "4",
     "image": "assets/hanja/4/績.webp",
-    "hun": "길쌈할/공적"
+    "hun": "길쌈할/공적",
+    "label": "길쌈할 / 공적 - 적"
   },
   {
     "char": "賊",
@@ -7309,7 +8222,8 @@
     "meaning": "도둑적",
     "level": "4",
     "image": "assets/hanja/4/賊.webp",
-    "hun": "도둑"
+    "hun": "도둑",
+    "label": "도둑 - 적"
   },
   {
     "char": "適",
@@ -7317,7 +8231,8 @@
     "meaning": "맞을적",
     "level": "4",
     "image": "assets/hanja/4/適.webp",
-    "hun": "맞을"
+    "hun": "맞을",
+    "label": "맞을 - 적"
   },
   {
     "char": "專",
@@ -7325,7 +8240,8 @@
     "meaning": "오로지전",
     "level": "4",
     "image": "assets/hanja/4/專.webp",
-    "hun": "오로지"
+    "hun": "오로지",
+    "label": "오로지 - 전"
   },
   {
     "char": "轉",
@@ -7333,7 +8249,8 @@
     "meaning": "구를전",
     "level": "4",
     "image": "assets/hanja/4/轉.webp",
-    "hun": "구를"
+    "hun": "구를",
+    "label": "구를 - 전"
   },
   {
     "char": "錢",
@@ -7341,7 +8258,8 @@
     "meaning": "돈전",
     "level": "4",
     "image": "assets/hanja/4/錢.webp",
-    "hun": "돈"
+    "hun": "돈",
+    "label": "돈 - 전"
   },
   {
     "char": "折",
@@ -7349,7 +8267,8 @@
     "meaning": "꺾을절",
     "level": "4",
     "image": "assets/hanja/4/折.webp",
-    "hun": "꺾을"
+    "hun": "꺾을",
+    "label": "꺾을 - 절"
   },
   {
     "char": "占",
@@ -7357,7 +8276,8 @@
     "meaning": "점거할/점칠점",
     "level": "4",
     "image": "assets/hanja/4/占.webp",
-    "hun": "점거할/점칠"
+    "hun": "점거할/점칠",
+    "label": "점거할 / 점칠 - 점"
   },
   {
     "char": "點",
@@ -7365,7 +8285,8 @@
     "meaning": "점점",
     "level": "4",
     "image": "assets/hanja/4/點.webp",
-    "hun": "점"
+    "hun": "점",
+    "label": "점 - 점"
   },
   {
     "char": "丁",
@@ -7373,7 +8294,8 @@
     "meaning": "넷째천간/고무래정",
     "level": "4",
     "image": "assets/hanja/4/丁.webp",
-    "hun": "넷째천간/고무래"
+    "hun": "넷째천간/고무래",
+    "label": "넷째천간 / 고무래 - 정"
   },
   {
     "char": "整",
@@ -7381,7 +8303,8 @@
     "meaning": "가지런할정",
     "level": "4",
     "image": "assets/hanja/4/整.webp",
-    "hun": "가지런할"
+    "hun": "가지런할",
+    "label": "가지런할 - 정"
   },
   {
     "char": "靜",
@@ -7389,7 +8312,8 @@
     "meaning": "고요할정",
     "level": "4",
     "image": "assets/hanja/4/靜.webp",
-    "hun": "고요할"
+    "hun": "고요할",
+    "label": "고요할 - 정"
   },
   {
     "char": "帝",
@@ -7397,7 +8321,8 @@
     "meaning": "임금제",
     "level": "4",
     "image": "assets/hanja/4/帝.webp",
-    "hun": "임금"
+    "hun": "임금",
+    "label": "임금 - 제"
   },
   {
     "char": "條",
@@ -7405,7 +8330,8 @@
     "meaning": "가지조",
     "level": "4",
     "image": "assets/hanja/4/條.webp",
-    "hun": "가지"
+    "hun": "가지",
+    "label": "가지 - 조"
   },
   {
     "char": "潮",
@@ -7413,7 +8339,8 @@
     "meaning": "밀물조",
     "level": "4",
     "image": "assets/hanja/4/潮.webp",
-    "hun": "밀물"
+    "hun": "밀물",
+    "label": "밀물 - 조"
   },
   {
     "char": "組",
@@ -7421,7 +8348,8 @@
     "meaning": "짤조",
     "level": "4",
     "image": "assets/hanja/4/組.webp",
-    "hun": "짤"
+    "hun": "짤",
+    "label": "짤 - 조"
   },
   {
     "char": "存",
@@ -7429,7 +8357,8 @@
     "meaning": "있을존",
     "level": "4",
     "image": "assets/hanja/4/存.webp",
-    "hun": "있을"
+    "hun": "있을",
+    "label": "있을 - 존"
   },
   {
     "char": "從",
@@ -7437,7 +8366,8 @@
     "meaning": "좇을종",
     "level": "4",
     "image": "assets/hanja/4/從.webp",
-    "hun": "좇을"
+    "hun": "좇을",
+    "label": "좇을 - 종"
   },
   {
     "char": "鍾",
@@ -7445,7 +8375,8 @@
     "meaning": "쇠북종",
     "level": "4",
     "image": "assets/hanja/4/鍾.webp",
-    "hun": "쇠북"
+    "hun": "쇠북",
+    "label": "쇠북 - 종"
   },
   {
     "char": "座",
@@ -7453,7 +8384,8 @@
     "meaning": "자리좌",
     "level": "4",
     "image": "assets/hanja/4/座.webp",
-    "hun": "자리"
+    "hun": "자리",
+    "label": "자리 - 좌"
   },
   {
     "char": "周",
@@ -7461,7 +8393,8 @@
     "meaning": "두루주",
     "level": "4",
     "image": "assets/hanja/4/周.webp",
-    "hun": "두루"
+    "hun": "두루",
+    "label": "두루 - 주"
   },
   {
     "char": "朱",
@@ -7469,7 +8402,8 @@
     "meaning": "붉을주",
     "level": "4",
     "image": "assets/hanja/4/朱.webp",
-    "hun": "붉을"
+    "hun": "붉을",
+    "label": "붉을 - 주"
   },
   {
     "char": "酒",
@@ -7477,7 +8411,8 @@
     "meaning": "술주",
     "level": "4",
     "image": "assets/hanja/4/酒.webp",
-    "hun": "술"
+    "hun": "술",
+    "label": "술 - 주"
   },
   {
     "char": "證",
@@ -7485,7 +8420,8 @@
     "meaning": "증명할증",
     "level": "4",
     "image": "assets/hanja/4/證.webp",
-    "hun": "증명할"
+    "hun": "증명할",
+    "label": "증명할 - 증"
   },
   {
     "char": "持",
@@ -7493,7 +8429,8 @@
     "meaning": "가질지",
     "level": "4",
     "image": "assets/hanja/4/持.webp",
-    "hun": "가질"
+    "hun": "가질",
+    "label": "가질 - 지"
   },
   {
     "char": "智",
@@ -7501,7 +8438,8 @@
     "meaning": "지혜지",
     "level": "4",
     "image": "assets/hanja/4/智.webp",
-    "hun": "지혜"
+    "hun": "지혜",
+    "label": "지혜 - 지"
   },
   {
     "char": "誌",
@@ -7509,7 +8447,8 @@
     "meaning": "기록할지",
     "level": "4",
     "image": "assets/hanja/4/誌.webp",
-    "hun": "기록할"
+    "hun": "기록할",
+    "label": "기록할 - 지"
   },
   {
     "char": "織",
@@ -7517,7 +8456,8 @@
     "meaning": "짤직",
     "level": "4",
     "image": "assets/hanja/4/織.webp",
-    "hun": "짤"
+    "hun": "짤",
+    "label": "짤 - 직"
   },
   {
     "char": "珍",
@@ -7525,7 +8465,8 @@
     "meaning": "보배진",
     "level": "4",
     "image": "assets/hanja/4/珍.webp",
-    "hun": "보배"
+    "hun": "보배",
+    "label": "보배 - 진"
   },
   {
     "char": "盡",
@@ -7533,7 +8474,8 @@
     "meaning": "다할진",
     "level": "4",
     "image": "assets/hanja/4/盡.webp",
-    "hun": "다할"
+    "hun": "다할",
+    "label": "다할 - 진"
   },
   {
     "char": "陣",
@@ -7541,7 +8483,8 @@
     "meaning": "진칠진",
     "level": "4",
     "image": "assets/hanja/4/陣.webp",
-    "hun": "진칠"
+    "hun": "진칠",
+    "label": "진칠 - 진"
   },
   {
     "char": "差",
@@ -7549,7 +8492,8 @@
     "meaning": "다를차,어긋날치",
     "level": "4",
     "image": "assets/hanja/4/差.webp",
-    "hun": "다를"
+    "hun": "다를",
+    "label": "다를 - 차 / 어긋날 - 치"
   },
   {
     "char": "讚",
@@ -7557,7 +8501,8 @@
     "meaning": "기릴찬",
     "level": "4",
     "image": "assets/hanja/4/讚.webp",
-    "hun": "기릴"
+    "hun": "기릴",
+    "label": "기릴 - 찬"
   },
   {
     "char": "採",
@@ -7565,7 +8510,8 @@
     "meaning": "캘채",
     "level": "4",
     "image": "assets/hanja/4/採.webp",
-    "hun": "캘"
+    "hun": "캘",
+    "label": "캘 - 채"
   },
   {
     "char": "冊",
@@ -7573,7 +8519,8 @@
     "meaning": "책책",
     "level": "4",
     "image": "assets/hanja/4/冊.webp",
-    "hun": "책"
+    "hun": "책",
+    "label": "책 - 책"
   },
   {
     "char": "泉",
@@ -7581,7 +8528,8 @@
     "meaning": "샘천",
     "level": "4",
     "image": "assets/hanja/4/泉.webp",
-    "hun": "샘"
+    "hun": "샘",
+    "label": "샘 - 천"
   },
   {
     "char": "廳",
@@ -7589,7 +8537,8 @@
     "meaning": "관청청",
     "level": "4",
     "image": "assets/hanja/4/廳.webp",
-    "hun": "관청"
+    "hun": "관청",
+    "label": "관청 - 청"
   },
   {
     "char": "聽",
@@ -7597,7 +8546,8 @@
     "meaning": "들을청",
     "level": "4",
     "image": "assets/hanja/4/聽.webp",
-    "hun": "들을"
+    "hun": "들을",
+    "label": "들을 - 청"
   },
   {
     "char": "招",
@@ -7605,7 +8555,8 @@
     "meaning": "부를초",
     "level": "4",
     "image": "assets/hanja/4/招.webp",
-    "hun": "부를"
+    "hun": "부를",
+    "label": "부를 - 초"
   },
   {
     "char": "推",
@@ -7613,7 +8564,8 @@
     "meaning": "밀추/퇴",
     "level": "4",
     "image": "assets/hanja/4/推.webp",
-    "hun": "밀추"
+    "hun": "밀추",
+    "label": "밀 - 추 / 퇴"
   },
   {
     "char": "縮",
@@ -7621,7 +8573,8 @@
     "meaning": "줄일축",
     "level": "4",
     "image": "assets/hanja/4/縮.webp",
-    "hun": "줄일"
+    "hun": "줄일",
+    "label": "줄일 - 축"
   },
   {
     "char": "就",
@@ -7629,7 +8582,8 @@
     "meaning": "나아갈취",
     "level": "4",
     "image": "assets/hanja/4/就.webp",
-    "hun": "나아갈"
+    "hun": "나아갈",
+    "label": "나아갈 - 취"
   },
   {
     "char": "趣",
@@ -7637,7 +8591,8 @@
     "meaning": "뜻취",
     "level": "4",
     "image": "assets/hanja/4/趣.webp",
-    "hun": "뜻"
+    "hun": "뜻",
+    "label": "뜻 - 취"
   },
   {
     "char": "層",
@@ -7645,7 +8600,8 @@
     "meaning": "층층",
     "level": "4",
     "image": "assets/hanja/4/層.webp",
-    "hun": "층"
+    "hun": "층",
+    "label": "층 - 층"
   },
   {
     "char": "寢",
@@ -7653,7 +8609,8 @@
     "meaning": "잘침",
     "level": "4",
     "image": "assets/hanja/4/寢.webp",
-    "hun": "잘"
+    "hun": "잘",
+    "label": "잘 - 침"
   },
   {
     "char": "針",
@@ -7661,7 +8618,8 @@
     "meaning": "바늘침",
     "level": "4",
     "image": "assets/hanja/4/針.webp",
-    "hun": "바늘"
+    "hun": "바늘",
+    "label": "바늘 - 침"
   },
   {
     "char": "稱",
@@ -7669,7 +8627,8 @@
     "meaning": "일컬을칭",
     "level": "4",
     "image": "assets/hanja/4/稱.webp",
-    "hun": "일컬을"
+    "hun": "일컬을",
+    "label": "일컬을 - 칭"
   },
   {
     "char": "彈",
@@ -7677,7 +8636,8 @@
     "meaning": "탄알탄",
     "level": "4",
     "image": "assets/hanja/4/彈.webp",
-    "hun": "탄알"
+    "hun": "탄알",
+    "label": "탄알 - 탄"
   },
   {
     "char": "歎",
@@ -7685,7 +8645,8 @@
     "meaning": "탄식할탄",
     "level": "4",
     "image": "assets/hanja/4/歎.webp",
-    "hun": "탄식할"
+    "hun": "탄식할",
+    "label": "탄식할 - 탄"
   },
   {
     "char": "脫",
@@ -7693,7 +8654,8 @@
     "meaning": "벗을탈",
     "level": "4",
     "image": "assets/hanja/4/脫.webp",
-    "hun": "벗을"
+    "hun": "벗을",
+    "label": "벗을 - 탈"
   },
   {
     "char": "探",
@@ -7701,7 +8663,8 @@
     "meaning": "찾을탐",
     "level": "4",
     "image": "assets/hanja/4/探.webp",
-    "hun": "찾을"
+    "hun": "찾을",
+    "label": "찾을 - 탐"
   },
   {
     "char": "擇",
@@ -7709,7 +8672,8 @@
     "meaning": "가릴택",
     "level": "4",
     "image": "assets/hanja/4/擇.webp",
-    "hun": "가릴"
+    "hun": "가릴",
+    "label": "가릴 - 택"
   },
   {
     "char": "討",
@@ -7717,7 +8681,8 @@
     "meaning": "칠토",
     "level": "4",
     "image": "assets/hanja/4/討.webp",
-    "hun": "칠"
+    "hun": "칠",
+    "label": "칠 - 토"
   },
   {
     "char": "痛",
@@ -7725,7 +8690,8 @@
     "meaning": "아플통",
     "level": "4",
     "image": "assets/hanja/4/痛.webp",
-    "hun": "아플"
+    "hun": "아플",
+    "label": "아플 - 통"
   },
   {
     "char": "投",
@@ -7733,7 +8699,8 @@
     "meaning": "던질투",
     "level": "4",
     "image": "assets/hanja/4/投.webp",
-    "hun": "던질"
+    "hun": "던질",
+    "label": "던질 - 투"
   },
   {
     "char": "鬪",
@@ -7741,7 +8708,8 @@
     "meaning": "싸울투",
     "level": "4",
     "image": "assets/hanja/4/鬪.webp",
-    "hun": "싸울"
+    "hun": "싸울",
+    "label": "싸울 - 투"
   },
   {
     "char": "派",
@@ -7749,7 +8717,8 @@
     "meaning": "갈래파",
     "level": "4",
     "image": "assets/hanja/4/派.webp",
-    "hun": "갈래"
+    "hun": "갈래",
+    "label": "갈래 - 파"
   },
   {
     "char": "判",
@@ -7757,7 +8726,8 @@
     "meaning": "판단할판",
     "level": "4",
     "image": "assets/hanja/4/判.webp",
-    "hun": "판단할"
+    "hun": "판단할",
+    "label": "판단할 - 판"
   },
   {
     "char": "篇",
@@ -7765,7 +8735,8 @@
     "meaning": "책편",
     "level": "4",
     "image": "assets/hanja/4/篇.webp",
-    "hun": "책"
+    "hun": "책",
+    "label": "책 - 편"
   },
   {
     "char": "評",
@@ -7773,7 +8744,8 @@
     "meaning": "평할평",
     "level": "4",
     "image": "assets/hanja/4/評.webp",
-    "hun": "평할"
+    "hun": "평할",
+    "label": "평할 - 평"
   },
   {
     "char": "閉",
@@ -7781,7 +8753,8 @@
     "meaning": "닫을폐",
     "level": "4",
     "image": "assets/hanja/4/閉.webp",
-    "hun": "닫을"
+    "hun": "닫을",
+    "label": "닫을 - 폐"
   },
   {
     "char": "胞",
@@ -7789,7 +8762,8 @@
     "meaning": "세포/여드름포",
     "level": "4",
     "image": "assets/hanja/4/胞.webp",
-    "hun": "세포/여드름"
+    "hun": "세포/여드름",
+    "label": "세포 / 여드름 - 포"
   },
   {
     "char": "爆",
@@ -7797,7 +8771,8 @@
     "meaning": "터질폭",
     "level": "4",
     "image": "assets/hanja/4/爆.webp",
-    "hun": "터질"
+    "hun": "터질",
+    "label": "터질 - 폭"
   },
   {
     "char": "標",
@@ -7805,7 +8780,8 @@
     "meaning": "표할표",
     "level": "4",
     "image": "assets/hanja/4/標.webp",
-    "hun": "표할"
+    "hun": "표할",
+    "label": "표할 - 표"
   },
   {
     "char": "疲",
@@ -7813,7 +8789,8 @@
     "meaning": "피곤할피",
     "level": "4",
     "image": "assets/hanja/4/疲.webp",
-    "hun": "피곤할"
+    "hun": "피곤할",
+    "label": "피곤할 - 피"
   },
   {
     "char": "避",
@@ -7821,7 +8798,8 @@
     "meaning": "피할피",
     "level": "4",
     "image": "assets/hanja/4/避.webp",
-    "hun": "피할"
+    "hun": "피할",
+    "label": "피할 - 피"
   },
   {
     "char": "恨",
@@ -7829,7 +8807,8 @@
     "meaning": "한한",
     "level": "4",
     "image": "assets/hanja/4/恨.webp",
-    "hun": "한"
+    "hun": "한",
+    "label": "한 - 한"
   },
   {
     "char": "閑",
@@ -7837,7 +8816,8 @@
     "meaning": "한가할한",
     "level": "4",
     "image": "assets/hanja/4/閑.webp",
-    "hun": "한가할"
+    "hun": "한가할",
+    "label": "한가할 - 한"
   },
   {
     "char": "抗",
@@ -7845,7 +8825,8 @@
     "meaning": "막을항",
     "level": "4",
     "image": "assets/hanja/4/抗.webp",
-    "hun": "막을"
+    "hun": "막을",
+    "label": "막을 - 항"
   },
   {
     "char": "核",
@@ -7853,7 +8834,8 @@
     "meaning": "씨핵",
     "level": "4",
     "image": "assets/hanja/4/核.webp",
-    "hun": "씨"
+    "hun": "씨",
+    "label": "씨 - 핵"
   },
   {
     "char": "憲",
@@ -7861,7 +8843,8 @@
     "meaning": "법헌",
     "level": "4",
     "image": "assets/hanja/4/憲.webp",
-    "hun": "법"
+    "hun": "법",
+    "label": "법 - 헌"
   },
   {
     "char": "險",
@@ -7869,7 +8852,8 @@
     "meaning": "험할험",
     "level": "4",
     "image": "assets/hanja/4/險.webp",
-    "hun": "험할"
+    "hun": "험할",
+    "label": "험할 - 험"
   },
   {
     "char": "革",
@@ -7877,7 +8861,8 @@
     "meaning": "가죽/고칠혁",
     "level": "4",
     "image": "assets/hanja/4/革.webp",
-    "hun": "가죽/고칠"
+    "hun": "가죽/고칠",
+    "label": "가죽 / 고칠 - 혁"
   },
   {
     "char": "顯",
@@ -7885,7 +8870,8 @@
     "meaning": "나타날현",
     "level": "4",
     "image": "assets/hanja/4/顯.webp",
-    "hun": "나타날"
+    "hun": "나타날",
+    "label": "나타날 - 현"
   },
   {
     "char": "刑",
@@ -7893,7 +8879,8 @@
     "meaning": "형벌형",
     "level": "4",
     "image": "assets/hanja/4/刑.webp",
-    "hun": "형벌"
+    "hun": "형벌",
+    "label": "형벌 - 형"
   },
   {
     "char": "或",
@@ -7901,7 +8888,8 @@
     "meaning": "혹시혹",
     "level": "4",
     "image": "assets/hanja/4/或.webp",
-    "hun": "혹시"
+    "hun": "혹시",
+    "label": "혹시 - 혹"
   },
   {
     "char": "婚",
@@ -7909,7 +8897,8 @@
     "meaning": "혼인할혼",
     "level": "4",
     "image": "assets/hanja/4/婚.webp",
-    "hun": "혼인할"
+    "hun": "혼인할",
+    "label": "혼인할 - 혼"
   },
   {
     "char": "混",
@@ -7917,7 +8906,8 @@
     "meaning": "섞일혼",
     "level": "4",
     "image": "assets/hanja/4/混.webp",
-    "hun": "섞일"
+    "hun": "섞일",
+    "label": "섞일 - 혼"
   },
   {
     "char": "紅",
@@ -7925,7 +8915,8 @@
     "meaning": "붉을홍",
     "level": "4",
     "image": "assets/hanja/4/紅.webp",
-    "hun": "붉을"
+    "hun": "붉을",
+    "label": "붉을 - 홍"
   },
   {
     "char": "華",
@@ -7933,7 +8924,8 @@
     "meaning": "빛날화",
     "level": "4",
     "image": "assets/hanja/4/華.webp",
-    "hun": "빛날"
+    "hun": "빛날",
+    "label": "빛날 - 화"
   },
   {
     "char": "歡",
@@ -7941,7 +8933,8 @@
     "meaning": "기쁠환",
     "level": "4",
     "image": "assets/hanja/4/歡.webp",
-    "hun": "기쁠"
+    "hun": "기쁠",
+    "label": "기쁠 - 환"
   },
   {
     "char": "環",
@@ -7949,7 +8942,8 @@
     "meaning": "고리환",
     "level": "4",
     "image": "assets/hanja/4/環.webp",
-    "hun": "고리"
+    "hun": "고리",
+    "label": "고리 - 환"
   },
   {
     "char": "況",
@@ -7957,7 +8951,8 @@
     "meaning": "하물며/상황황",
     "level": "4",
     "image": "assets/hanja/4/況.webp",
-    "hun": "하물며/상황"
+    "hun": "하물며/상황",
+    "label": "하물며 / 상황 - 황"
   },
   {
     "char": "灰",
@@ -7965,7 +8960,8 @@
     "meaning": "재회",
     "level": "4",
     "image": "assets/hanja/4/灰.webp",
-    "hun": "재"
+    "hun": "재",
+    "label": "재 - 회"
   },
   {
     "char": "候",
@@ -7973,7 +8969,8 @@
     "meaning": "기후후",
     "level": "4",
     "image": "assets/hanja/4/候.webp",
-    "hun": "기후"
+    "hun": "기후",
+    "label": "기후 - 후"
   },
   {
     "char": "厚",
@@ -7981,7 +8978,8 @@
     "meaning": "두터울후",
     "level": "4",
     "image": "assets/hanja/4/厚.webp",
-    "hun": "두터울"
+    "hun": "두터울",
+    "label": "두터울 - 후"
   },
   {
     "char": "揮",
@@ -7989,7 +8987,8 @@
     "meaning": "휘두를휘",
     "level": "4",
     "image": "assets/hanja/4/揮.webp",
-    "hun": "휘두를"
+    "hun": "휘두를",
+    "label": "휘두를 - 휘"
   },
   {
     "char": "喜",
@@ -7997,6 +8996,7 @@
     "meaning": "기쁠희",
     "level": "4",
     "image": "assets/hanja/4/喜.webp",
-    "hun": "기쁠"
+    "hun": "기쁠",
+    "label": "기쁠 - 희"
   }
 ]

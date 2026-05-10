@@ -113,7 +113,7 @@ const Hanja = (() => {
       btn.style.background = '';
       btn.innerHTML = `
         <span class="hanja-choice-label">${labels[i]}</span>
-        <span class="hanja-choice-text">${c.hun} - ${c.yum}</span>
+        <span class="hanja-choice-text">${c.label || (c.hun + ' - ' + c.yum)}</span>
         <span class="hanja-choice-mark" aria-hidden="true">✓</span>
       `;
       btn.addEventListener('click', () => onChoiceClick(btn, c, q, choicesEl));
