@@ -312,6 +312,80 @@ button { font-family: inherit; }
   font-size: 16px;
 }
 
+/* ── 정답 후 예문(쓰임) 패널 ── */
+.hanja-examples {
+  max-width: 320px;
+  margin: 18px auto 0;
+  padding-top: 14px;
+  border-top: 1.5px dashed var(--border);
+  animation: hanja-ex-fade 0.35s ease both;
+}
+@keyframes hanja-ex-fade {
+  from { opacity: 0; transform: translateY(5px); }
+  to   { opacity: 1; transform: none; }
+}
+.hanja-ex-head {
+  text-align: center;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-sub);
+  margin-bottom: 10px;
+}
+.hanja-ex-head .ex-char {
+  color: var(--correct);
+  font-weight: 900;
+  font-size: 15px;
+}
+.hanja-ex-item {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+  padding: 8px 13px;
+  margin-bottom: 7px;
+  background: #F7F9FA;
+  border-radius: 10px;
+  font-size: 14.5px;
+  color: #3A3F47;
+}
+.hanja-ex-item .ex-term { font-weight: 800; color: #2B2F36; white-space: nowrap; }
+.hanja-ex-item .ex-reading { letter-spacing: -0.2px; }
+.hanja-ex-item .ex-hanja { color: #9AA0A8; font-weight: 700; }
+.hanja-ex-item .ex-hanja .ex-key { color: #FF6B6B; }
+.hanja-ex-item .ex-colloc { color: #2B2F36; font-weight: 800; }
+.hanja-ex-item .ex-gloss { color: #565C64; font-weight: 600; }
+.hanja-ex-item .ex-gloss::before { content: "·"; color: #C2C8CF; margin-right: 5px; }
+
+.hanja-next {
+  display: block;
+  margin: 16px auto 0;
+  padding: 9px 28px;
+  border: none;
+  border-radius: 999px;
+  background: var(--correct);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 800;
+  font-family: inherit;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(0, 201, 167, 0.28);
+  transition: transform 0.12s, box-shadow 0.15s, background 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.hanja-next:focus { outline: none; }
+.hanja-next:focus-visible { outline: 2px solid #00C9A7; outline-offset: 3px; }
+@media (hover: hover) and (pointer: fine) {
+  .hanja-next:hover { background: #00b89a; box-shadow: 0 4px 14px rgba(0, 201, 167, 0.34); }
+}
+.hanja-next:active { transform: translateY(1px); }
+
+@media (max-width: 600px) {
+  .hanja-examples { margin-top: 12px; padding-top: 10px; }
+  .hanja-ex-head { margin-bottom: 7px; font-size: 12.5px; }
+  .hanja-ex-item { font-size: 13.5px; padding: 6px 11px; margin-bottom: 5px; }
+  .hanja-next { font-size: 14px; padding: 7px 22px; margin-top: 10px; }
+}
+
 /* ──────────────────────────── */
 /* 구구단 탭 — 원본 디자인/색감 유지        */
 /* ──────────────────────────── */
@@ -395,10 +469,13 @@ button { font-family: inherit; }
 /* ── 모바일 ── */
 @media (max-width: 600px) {
   body { font-size: 17px; }
-  .app-header { padding: 8px 16px; min-height: 40px; }
-  .tab-item { font-size: 16px; padding: 12px 10px; }
-  .view { padding: 12px 12px 80px; }
-  .hanja-image-wrap { width: 250px; }
+  .app-header { padding: 6px 16px; min-height: 34px; }
+  .tab-item { font-size: 16px; padding: 10px 10px; }
+  .view { padding: 8px 12px 20px; }
+  .hanja-stage { padding-top: 0; }
+  .hanja-image-wrap { margin-bottom: 10px; }
+  .hanja-choices { gap: 5px; }
+  .hanja-choice { padding: 7px 13px; }
   .multiplication-view .mult-quiz { font-size: 32px; }
   .multiplication-view .mult-answers h2 { font-size: 30px; }
 }

@@ -6,3 +6,4 @@ Thumbs.db
 *.log
 _*.html
 _*.js
+.gen/

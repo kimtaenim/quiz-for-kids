@@ -19,8 +19,6 @@ document.querySelectorAll('.tab-item').forEach(btn => {
 // ── 한자 무한 퀴즈 ──
 const Hanja = (() => {
   const FADE_MS = 300;
-  const NEXT_DELAY_CORRECT = 600;
-  const NEXT_DELAY_WRONG = 1200;
 
   const stage = document.getElementById('hanja-stage');
   const correctEl = document.getElementById('hanja-correct');
@@ -138,8 +136,6 @@ const Hanja = (() => {
       btn.classList.add('correct');
       allBtns.forEach(b => { if (b !== btn) b.classList.add('dim'); });
       correctCount += 1;
-      updateScore();
-      scheduleAdvance(NEXT_DELAY_CORRECT);
     } else {
       btn.classList.add('wrong');
       allBtns.forEach(b => {
@@ -147,16 +143,66 @@ const Hanja = (() => {
         else if (b !== btn) b.classList.add('dim');
       });
       wrongCount += 1;
-      updateScore();
-      scheduleAdvance(NEXT_DELAY_WRONG);
     }
+    updateScore();
+
+    // 정답 한자의 쓰임(예문)을 보여주고, 아이가 다 읽으면 다음으로
+    revealExamples(correct);
   }
 
-  function scheduleAdvance(delay) {
-    setTimeout(() => {
-      stage.classList.add('fading');
-      setTimeout(renderQuestion, FADE_MS);
-    }, delay);
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => (
+      { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
+    ));
+  }
+
+  // word 안의 대상 한자(targetChar)를 코랄로 강조
+  function highlightChar(word, targetChar) {
+    return Array.from(String(word)).map(ch =>
+      ch === targetChar
+        ? `<span class="ex-key">${escapeHtml(ch)}</span>`
+        : escapeHtml(ch)
+    ).join('');
+  }
+
+  function revealExamples(correct) {
+    const examples = Array.isArray(correct.examples) ? correct.examples.slice(0, 2) : [];
+
+    const panel = document.createElement('div');
+    panel.className = 'hanja-examples';
+
+    if (examples.length) {
+      const head = document.createElement('div');
+      head.className = 'hanja-ex-head';
+      head.innerHTML = `${escapeHtml(correct.meaning)}<span class="ex-char">(${escapeHtml(correct.char)})</span>의 쓰임`;
+      panel.appendChild(head);
+
+      examples.forEach(e => {
+        const item = document.createElement('div');
+        item.className = 'hanja-ex-item';
+        const colloc = e.colloc ? ` <span class="ex-colloc">${escapeHtml(e.colloc)}</span>` : '';
+        item.innerHTML =
+          `<span class="ex-term"><span class="ex-reading">${escapeHtml(e.reading || '')}</span>` +
+          `<span class="ex-hanja">(${highlightChar(e.word || '', correct.char)})</span>${colloc}</span>` +
+          `<span class="ex-gloss">${escapeHtml(e.gloss || '')}</span>`;
+        panel.appendChild(item);
+      });
+    }
+
+    const nextBtn = document.createElement('button');
+    nextBtn.type = 'button';
+    nextBtn.className = 'hanja-next';
+    nextBtn.textContent = '다음 ▶';
+    nextBtn.addEventListener('click', advance);
+    panel.appendChild(nextBtn);
+
+    stage.appendChild(panel);
+    requestAnimationFrame(() => nextBtn.focus());
+  }
+
+  function advance() {
+    stage.classList.add('fading');
+    setTimeout(renderQuestion, FADE_MS);
   }
 
   function restart() {
